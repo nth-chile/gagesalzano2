@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<nav class='post-nav'>
+<a class='post-nav__home' href='/'>
+	<svg width="10" height="10" viewBox="0 0 10 10"><path d="M4.64 0L0 3.48v6.495h3.132V5.567h3.015v4.408H9.28V3.48z" fill="#FFF" fill-rule="evenodd"/></svg>
+	<h4 class='desktop'>Go back home</h4>
+</a>
+<h4 class='page-title'>{{ page.title }}</h4>
+
+{% if page.previous != nil %}
+	{% assign prev = page.previous.url | absolute_url %}
+	{% assign fill-prev = '#FFF' %}
+{% else %}
+	{% assign prev = absolute_url %}
+	{% assign clickable-prev = 'unclickable' %}
+	{% assign fill-prev = 'rgb(103, 96, 96)' %}
+{% endif %}
+
+{% if page.next != nil %}
+	{% assign next = page.next.url | absolute_url %}
+	{% assign fill-next = '#FFF' %}
+{% else %}
+	{% assign next = absolute_url %}
+	{% assign clickable-next = 'unclickable' %}
+	{% assign fill-next = 'rgb(103, 96, 96)' %}
+{% endif %}
+
+<a class='prev {{ clickable-next }}' href='{{ next }}'>
+	<svg width="10" height="10" viewBox="0 0 10 10"><path d="M0 4.9l4.9 4.9.868-.868L2.357 5.52H9.8V4.28H2.357L5.768.868 4.9.001z" fill="{{ fill-next }}" fill-rule="evenodd"/></svg>
+</a>
+<a class='next {{ clickable-prev }}' href='{{ prev }}'>
+	<svg width="10" height="10" viewBox="0 0 10 10"><path d="M9.8 4.9L4.9 9.8l-.868-.868L7.443 5.52H0V4.28h7.443L4.032.868 4.9.001z" fill="{{ fill-prev }}" fill-rule="evenodd"/></svg>
+</a>
+</nav>
+<!-- <div class='loading'><img src='{{ '/assets/images/loading.gif' | absolute_url }}'/></div> -->
+<article class='slick'>{{ content }}</article>
+<div class='desktop'>
+	<a href='/'>
+		<svg class='prev-blue' width="11" height="11" viewBox="0 0 11 11"><path d="M0 5.5L5.5 11l.975-.976-3.83-3.829H11V4.803H2.646L6.475.973 5.5 0z" fill="#005BF2" fill-rule="evenodd"/></svg>
+		go back home
+	</a>
+	{% include footer.html %}
+</div>

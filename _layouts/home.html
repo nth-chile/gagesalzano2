@@ -1,0 +1,62 @@
+---
+layout: default
+---
+<div class='home-wrap'>
+	<header>
+		<div class='id'>
+			{{ site.id.avatar }}
+			<h4 class='desktop'><b>{{ site.id.title }}</b></h4>
+			<h4 class='desktop subtitle'>{{ site.id.subtitle }}</h4>
+		</div>
+		<div class='quote-wrap'>
+		{% if site.quotes %}
+			{% for quote in site.quotes %}
+				<span><a class='desktop quote quote__quote'
+				{% if quote.href %}
+					href='{{quote.href}}' target='_blank' 
+				{% else %}
+					href='#'
+				{% endif %}
+				>{{quote.quote}}</a></span>
+				<h4 class='desktop quote quote__source'>&mdash; {{quote.source}}</h4>
+			{% endfor %}			
+		{% endif %}
+		</div>
+		
+
+		<div class='desktop hire-status'><div class='dot'></div><h4>Available for hire</h4></div>
+	</header>
+	{% capture about %}{% include about.md %}{% endcapture %}
+
+	<div class='about mobile'>{{ about | markdownify }}</div>
+
+	<div class='grid'>
+	{% if site.posts %}
+		{% for post in site.posts %}
+			{% if post.title != 'about' %}
+		<div class='no-masonry grid__item'>
+			<a href='{{ post.url | absolute_url }}'>
+				<h4
+					{% if post.dark_title %}
+						style='color: rgb(77, 69, 69)'
+					{% endif %}
+				>{{ post.title | escape }}</h4>				
+				{% if post.featured_image %}
+				<img src='{{ post.featured_image | absolute_url }}'
+					{% if post.style %}
+						style='{{ post.style }}'
+					{% endif %}
+				/>
+					{% else %}
+				<img src='{{ '/assets/images/posts/default.png' | absolute_url }}'/>
+				{% endif %}
+			</a>
+		</div>
+			{% endif %}
+		{% endfor %}
+	{% endif %}
+	</div>
+
+	<div class='about desktop'>{{ about | markdownify }}</div>
+	{% include footer.html %}
+</div>

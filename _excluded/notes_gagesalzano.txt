@@ -1,0 +1,25 @@
+Social hover as brand colors:
+Email: #4D4545
+Dribbble: #ea4c89
+Instagram: #ef4859
+Twitter: #1DA1F2
+Normal link hovers: #5A1FEB
+
+write script to put featured image up.
+<% if (post.featured_image){ %>
+    <img src="<%- post.featured_image %>">
+<% } %>
+
+LATER
+avatar
+font stack?
+<?php echo date('Y'); ?>
+<%- date(Date.now(), 'YYYY/M/D') %>
+404
+robots
+check links (email too)
+
+GUIDE
+
+You will be writing posts in Markdown files. You can use HTML in Markdown files. Block-level tags must be surrounded by blank newlines, and not indented. Markdown syntax will not work inside of HTML tags. If you upload two images in a row of the same size, they will be stacked in mobile. If not of same size, they will be inline. If you upload more than two images in a row, and they can be divided equally into rows, they will be in rows. Build your own srcsets, and write your own captions. Give featured image a class. Decide which parts of the post should be "slides" and wrap them in divs.
+If you want the mobile images to be different, make two versions of the slide, with classes "desktop" and "mobile"

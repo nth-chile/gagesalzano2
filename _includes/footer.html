@@ -1,0 +1,21 @@
+<footer>
+	{% if site.social_media_links %}
+		{%	for i in site.social_media_links %}
+				<a class='{{ i.class }}' href='{{ i.href | absolute_url }}'>{{ i.svg }}</a>
+		{% endfor %}
+	{% endif %}
+	
+	<div class='mobile hire-status'><div class='dot'></div><p>Available for hire</p></div>
+
+	{% if site.byline %}
+		{% for i in site.byline %}
+		<h4 class='desktop'>{{ i }}</h4>
+		{% endfor %}
+	{% endif %}
+
+	<div class='copyright'>
+		<h4 class='desktop'>&copy; 2017</h4>
+		<p class='mobile'>Copyright 2017</p>
+		<p class='mobile'>I'm not sure why you would, but if you steal anything I will shame you in front of my small handful of followers on social media.</p>
+	</div>
+</footer>
