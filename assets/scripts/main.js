@@ -47,23 +47,34 @@ $(document).ready(function(){
 		}
 		if (layoutShouldChange) {
 			if (layout == 'mini') {
-				$grid.masonry('destroy');
-				$grid.html('');
-				gridItemContents.forEach(function(item) {
-					$grid.append(
-						$(
-							$('<div>').attr('class', 'no-masonry grid__item')
-						).html(item)
-					)
-				});
+				if ($('.home-wrap').length > 0) {
+					$grid.masonry('destroy');
+					$grid.html('');
+					gridItemContents.forEach(function(item) {
+						$grid.append(
+							$(
+								$('<div>').attr('class', 'no-masonry grid__item')
+							).html(item)
+						)
+					});
+				} else if ( $('.slick').length > 0 ) doSlick();
 			} else if (layout == 'full') {
-				buildGrid();
-				if($('.tooltip').length == 0) createTooltips();
+				if($('.home-wrap').length > 0) {
+					buildGrid();
+					if($('.tooltip').length == 0) createTooltips();
+				} else if ($('.slick').length > 0 ) {
+					//setColumnHeight();
+					setColumnItemHeight();
+					setRowItemWidths();
+				}
 			}
 		}
 	}
 
 	}());
+
+	//give article a target='_blank'
+	$('article.slick a').attr('target', '_blank');
 
 
 //** MEDIA QUERIES (ON LOAD) **//	
@@ -74,15 +85,25 @@ $(document).ready(function(){
 		if ( $('.slick').length > 0 ) doSlick();	
 	} else if (window.matchMedia("(min-width: 501px)").matches) {
 		var layout = 'full';
-		buildGrid();
-		if($('.tooltip').length == 0) createTooltips();
+		if($('.home-wrap').length > 0) {
+			buildGrid();
+			if($('.tooltip').length == 0) createTooltips();
+		} else if ($('.slick').length > 0 ) {
+			//setColumnHeight();
+			setRowItemWidths();
+			setColumnItemHeight();
+		}
 	}
 
 
 
 //** FUNCTION DEFINITIONS **//
 
-
+	function applyHover() {
+		[].slice.call(document.querySelectorAll('.grid__item a')).forEach(function(stackEl) {
+			new VegaFx(stackEl);
+		});
+	}
 	function buildGrid() {
 		$grid.html('');
 		$grid.masonry(masonryOptions);
@@ -91,6 +112,8 @@ $(document).ready(function(){
 				.masonry('appended', item)
 				.masonry();
 		});
+		$grid.on('layoutComplete', setTileZIndex);
+		applyHover();
 	}
 	function createTooltips() {
 		//tooltip(type, target, image, caption, captionBgColor);
@@ -106,6 +129,11 @@ $(document).ready(function(){
 			'<b>Stealth Gaming</b>, 2000<br />Project with friends back in the day',
 			'Project with friends back in the day',
 			'rgb(66, 90, 131)'
+		);
+		tooltip_img(
+			'#clickingaway',
+			'assets/images/tooltips/clickingaway.png',
+			'Clicking away, every day.<br />Photo by <a href="https://www.behance.net/joshuaslisd3b0" target="_blank">Josh</a>.'
 		);
 		tooltip_text(
 			'#work-experience',
@@ -198,6 +226,82 @@ $(document).ready(function(){
 		document.body.appendChild(div);
 		showOnHover(div, target);
 	}
+	// function setColumnHeight() {
+	// 	$('.column').each(function() {
+	// 		$(this).outerHeight(
+	// 			'100%'//$(this).parent().height() + 'px'
+	// 		)
+	// 	})
+	// }
+	function setColumnItemHeight() {
+		$('.column').children().each(function() {
+			$(this).outerHeight(
+				100 / $(this).parent().children().length + '%'
+			)
+		})
+	}
+	function setTileZIndex() {
+		var $tiles = $('.grid__item__wrap');
+		var coords = [];
+		//var z = 9999;
+		$tiles.each(function(index) {
+			var topLeft = $(this).offset();
+			var obj = {
+				bottom: topLeft.top + $(this).height(),
+				left: topLeft.left,
+				top: topLeft.top,
+				right: topLeft.left + $(this).width(),
+				$this: $(this),
+				z: 9999
+			};
+			coords.push(obj);
+		});
+		coords.forEach(function(a) {
+			coords.forEach(function(b) {
+				if (a.bottom < b.top)
+					b.z += 4;
+				if (a.left > b.right)
+					b.z += 1;
+			})
+		});
+		
+		coords.forEach(function(elt) {
+			elt.$this.css('z-index', elt.z);
+		});
+	}
+	function setRowItemWidths() {
+		var maxWidth = $(window).width() - 230;
+		$('.row').each(function() {
+			var total = 0;
+			var imagesInRow = $(this).find('img').length;
+			$(this).find('img').one('load', function() {
+				if($(this).closest('.column').length > 0) {
+					$(this).height(400 / $(this).closest('.column').children().length);
+				} else
+					$(this).height(400);
+
+				if ($(this).parent().is('div:first-child') || $(this).closest('.column').length == 0)
+					total += $(this).width() + 6;
+				
+				imagesInRow--;
+				if (imagesInRow == 0) {
+					$(this).closest('.row').find('img').each(function() {
+						var px = $(this).width() / (total / maxWidth);
+						var percent = (px / $(this).closest('.row').width()) * 100 + '%';
+						$(this).css('width', '100%');
+						if ($(this).closest('.column').length > 0)
+							$(this).closest('.column').css('width', percent);
+						else
+							$(this).parent().css('width', percent);
+						$(this).css('height', 'auto');
+					})
+				}
+			})
+			.each(function() {
+			  if(this.complete) $(this).trigger('load');
+			});
+		});
+	};
 	function showOnHover(elt, target) {
 		$('body').on('mouseenter', target, function(e) {
 			var x = e.clientX;

@@ -1,5 +1,6 @@
 $font-stack: 'GT-America-Standard-Regular', "Helvetica Neue", Helvetica, Arial, sans-serif;
-$link-color: rgb(20, 64, 230);
+$link-color: rgb(0, 91, 242);
+$link-color-white: rgb(239, 239, 239);
 $link-hover-color: rgb(90, 31, 235);
 $post-nav-color: rgb(77, 69, 69);
 @font-face {
@@ -15,6 +16,13 @@ $post-nav-color: rgb(77, 69, 69);
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
+}
+@mixin inline-flex() {
+  display: -webkit-inline-box;
+  display: -moz-inline-flex;
+  display: -ms-inline-flexbox;
+  display: -webkit-inline-flex;
+  display: inline-flex;
 }
 // defaults: flex-grow: 0; flex-shrink: 1; flex-basis: auto;
 @mixin flex($values) {
@@ -44,14 +52,14 @@ $post-nav-color: rgb(77, 69, 69);
 
 body {
 	font-family: $font-stack;
-	font-size: 16px;
-	line-height: 24px;
+	font-size: 18px;
+	line-height: 26px;
 	text-align: center;
 }
 a {
 	color: $link-color;
-	&:hover {color: $link-hover-color;}
 	&:visited {color: $link-color;}
+	&:hover {color: $link-hover-color;}
 }
 article {
 	margin-top: 56px;
@@ -61,25 +69,37 @@ footer {
 		color: $post-nav-color;
 		font-weight: normal;
 	}
-	a, a:visited {
-		color: $post-nav-color;
-		font-weight: bold;
+	a {
+		color: black;
+		font-weight: bold;		
+		&:visited {color: black;}
+		&:hover {color: rgb(162, 157, 157);}
+	}
+}
+article figcaption,
+footer {
+	a {
+		color: black;
+		font-weight: bold;		
+		&:visited {color: black;}
+		&:hover {color: rgb(162, 157, 157);}
 	}
 }
 h4 {
 	color: white;
-	font-size: 9px;
-	line-height: 14px;
+	font-size: 14px;
+	line-height: 22px;
+	letter-spacing: 0.005em;
 }
 h5 {
 	color: $post-nav-color;
-	font-size: 6px;
-	line-height: 16px;
+	font-size: 9px;
+	line-height: 14px;
 }
 header {
 	@include flexbox();
 	@include justify-content(space-between);
-	margin-top: 46px;
+	margin-top: 76px;
 	white-space: nowrap;
 	h4, p {
 		color: $post-nav-color;
@@ -91,6 +111,14 @@ header {
 		* {
 			display: inline-block;
 		}
+		a {
+			color: $post-nav-color;
+			text-decoration: none;
+			&:visited {color: $post-nav-color;}
+			&:hover {
+				text-decoration: underline;
+			}
+		}
 	}
 	.hire-status h4, .subtitle {
 		font-weight: normal;
@@ -99,7 +127,7 @@ header {
 		text-align: left;
 	}
 	.id {
-		h4 {padding-left: 22.7px;}
+		h4 {padding-left: 48px;}
 		svg {
 			float: left;
 			margin-top: 6px;
@@ -139,7 +167,7 @@ header {
 }
 
 p {
-	max-width: 20rem;
+	max-width: 28rem;
 	margin: .9em auto;
 }
 .about p,
@@ -155,6 +183,7 @@ figure {
 }
 .grid {
 	min-height: 23.5vw;
+	position: relative;
 }
 .grid__item {
 	h4 {
@@ -236,11 +265,19 @@ figure {
 			width: 9.8px;
 		}
 	}
+	.page-title {
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
 	.post-nav__home {
 		box-sizing: border-box;
 		padding: 0 21px;
 		h4 {
-			margin-left: 6.7px;
+				margin-left: 6.7px;
+				visibility: hidden;
+			}
+		&:hover h4 {
+			visibility: visible;
 		}
 		svg {
 			height: 20.4px;
@@ -249,15 +286,11 @@ figure {
 			width: 19px;
 		}
 	}
-	.unclickable {
-		cursor: default;
-		pointer-events: none;
-	}
 }
 
 @media all and (max-width: 500px) {
 	.home-wrap {
-		padding: 0 30px;
+		padding: 0 10px;
 	}
 	.desktop { display: none !important }
 	article p {
@@ -270,15 +303,17 @@ figure {
 			opacity: .25;
 		}
 	}
+	.emoji {
+		vertical-align: middle;
+		width: 3rem;
+	}
 	figcaption {
 		font-size: 15px;
 		line-height: 22px;
 	}
-	header {
-		svg {
-			height: 24.1px;
-			width: 25.1px;
-		}
+	header svg {
+		height: 34px;
+		width: 34px;
 	}
 	html {
 		height: 100vh;
@@ -300,8 +335,7 @@ figure {
 	}
 	.post-nav {
 		.page-title {
-			margin-left: 9px;
-			overflow: hidden;
+			margin: 0 9px;
 			text-align: left;
 		}
 		.post-nav__home {
@@ -359,6 +393,9 @@ figure {
 		line-height: 26px;
 		height: 100%;
 		width: 100%;
+		a {
+			color: $link-color-white;
+		}
 		.slide__content {
 			@include flexbox();
 			@include align-items(center);
@@ -380,6 +417,10 @@ figure {
 }
 @media all and (min-width: 501px) {
 	.mobile {display: none;}
+	a.go-home {
+		display: block;
+		margin: 80px 0;
+	}
 	.about span {
 		color: $link-color;
 		cursor: pointer;
@@ -387,8 +428,8 @@ figure {
 		&:hover {color: $link-hover-color;}
 	}
 	figcaption {
-		font-size: 9px;
-		line-height: 14px;
+		font-size: 14px;
+		line-height: 22px;
 	}
 	.grid {
 	  margin: 4rem auto 9rem 3.28vw;
@@ -400,24 +441,84 @@ figure {
 	  padding: 3px;
 	}
 	.grid__item {
-	  box-sizing: border-box;
-	  overflow:hidden;
-	  height: 100%;
-	  width: 100%;
+		position: relative;
+		perspective: 800px;
+		-webkit-perspective: 800px;
+		-moz-perspective: 800px;
+		perspective-origin: 0% 150%;
+		-webkit-perspective-origin: 0% 150%;
+		-moz-perspective-origin: 0% 150%;
+		height: 100%;
+		width: 100%;
+	a {
+		transform-style: preserve-3d;
+		-webkit-transform-style: preserve-3d;
+		-moz-transform-style: preserve-3d;
+		// &:hover,
+		// &:focus {
+		// outline: none;
+		// }
+	  }
 	  img {
 	  	min-height: 100%;
-		min-width: 100%;
+		min-width: 101%;
 	  }
 	}
 	header {
 		padding: 0 35px;
 		svg {
-			height: 14.1px;
-			width: 14.7px;
+			//height: 29px;
+			//width: 24px;
+			height: 34px;
+			width: 34px;
 		}
 	}
 	.quote {
 		display: none;
+	}
+	.stack {
+		position: relative;
+		width: 100%;
+		height: 100%;
+		transform-style: preserve-3d;
+		-webkit-transform-style: preserve-3d;
+		-moz-transform-style: preserve-3d;
+	}
+
+	.stack__deco {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		transform-origin: 50% 100%;
+		-webkit-transform-origin: 50% 100%;
+		-moz-transform-origin: 50% 100%;
+		&:hover {
+			box-shadow: 0 2px 15px -5px gray;
+		}
+		&:nth-child(1) {opacity: .4}
+		&:nth-child(2) {opacity: .4}
+		&:nth-child(3) {opacity: .6}
+		&:nth-child(4) {opacity: .8}
+	}
+	.stack__figure {
+		position: relative;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		overflow: hidden;
+		width: 100%;
+		height: 100%;
+		transform-origin: 50% 100%;
+		-webkit-transform-origin: 50% 100%;
+		-moz-transform-origin: 50% 100%;
+	}
+
+	.stack__img {
+		position: relative;
+		display: block;
+		flex: none;
 	}
 	.tooltip {
 		box-shadow: 0px 0px 25px 0px rgba(77, 69, 69, .25);
@@ -429,10 +530,14 @@ figure {
 		}
 	}
 	.tooltip-img, .tooltip-img-box {
-		a, a:visited {
-			border-bottom: 1px solid white;
-			color: white;
+		a {
+			border-bottom: 1px solid $link-color-white;
+			color: $link-color-white;
 			text-decoration: none;
+			&:visited {color: $link-color-white;}
+			&:hover {
+				color: $link-color-white;
+			}
 		}
 	}
 	.tooltip-img {
@@ -470,15 +575,27 @@ figure {
 	//*** POST PAGE ***//
 	article {
 		img {
-			border: 3px solid white;
-			margin: 0 auto;
+			margin: 0 auto -4px auto;
 			width: calc(100% - 230px);
 		}
+		.column > div,
+		.row > div:not(.column) {
+			padding: 3px;
+		}
+		.column img,
+		.row img {
+			border: none;
+		}
+		.column img {
+			margin-bottom: -3px;
+		}
 		.column {
-			display: inline-block;
 			height: 100%;
-			img {
-				display: block;
+			@include flexbox();
+			@include flex(column);
+			div {
+				height: 0;
+				//overflow: hidden;
 			}
 		}
 		.full-width {
@@ -486,9 +603,18 @@ figure {
 			border-top: none;
 			width: 100%;
 		}
-		.row > * {
-			height: 100%;
+		.row {
+			margin: 0 auto;
 			white-space: nowrap;
+			width: calc(100% - 230px);
+			img {
+				width: auto;
+			}
+		}
+		.row > div {
+			display: inline-block;
+			&:first-child {padding-left:0}
+			&:last-child {padding-right:0}
 		}
 	}
 }

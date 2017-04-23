@@ -9,21 +9,29 @@
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href='{{ '/assets/css/normalize.css' | absolute_url }}'/>
-	<link rel="stylesheet" type="text/css" href='{{ '/assets/css/style.css' | absolute_url }}'/>
-	<link rel="stylesheet" type="text/css" href='{{ '/assets/slick/slick.css' | absolute_url }}'/>
+	<link rel="apple-touch-icon" sizes="180x180" href='{{ '/assets/apple-touch-icon.png' | prepend: site.url }}'>
+	<link rel="icon" type="image/png" href='{{ '/assets/favicon-32x32.png' | prepend: site.url }}' sizes="32x32">
+	<link rel="icon" type="image/png" href='{{ '/assets/favicon-16x16.png' | prepend: site.url }}' sizes="16x16">
+	<link rel="manifest" href='{{ '/assets/manifest.json' | prepend: site.url }}'>
+	<link rel="mask-icon" href='{{ '/assets/safari-pinned-tab.svg' | prepend: site.url }}' color="#5daeea">
+	<meta name="theme-color" content="#ffffff">
+	<link rel="stylesheet" type="text/css" href='{{ '/assets/css/normalize.css' | prepend: site.url }}'/>
+	<link rel="stylesheet" type="text/css" href='{{ '/assets/css/style.css' | prepend: site.url }}'/>
+	<link rel="stylesheet" type="text/css" href='{{ '/assets/slick/slick.css' | prepend: site.url }}'/>
 </head>
 
 
 <body>
 	<main>{{ content }}</main>
 	
-	<script type="text/javascript" src='{{ '/assets/scripts/jquery-1.11.0.min.js' | absolute_url }}'></script>
-	<script type="text/javascript" src='{{ '/assets/scripts/jquery-migrate-1.2.1.min.js' | absolute_url }}'></script>
-	<script type="text/javascript" src='{{ '/assets/scripts/modernizr-custom.js' | absolute_url }}'></script>
-	<script type="text/javascript" src='{{ '/assets/slick/slick.min.js' | absolute_url }}'></script>
-	<script type="text/javascript" src='{{ '/assets/scripts/masonry.pkgd.min.js' | absolute_url }}'></script>
-	<script type="text/javascript" src='{{ '/assets/scripts/GRID_DATA.js' | absolute_url }}'></script>
-	<script type="text/javascript" src='{{ '/assets/scripts/main.js' | absolute_url }}'></script>
+	<script type="text/javascript" src='{{ '/assets/scripts/jquery-1.11.0.min.js' | prepend: site.url }}'></script>
+	<script type="text/javascript" src='{{ '/assets/scripts/jquery-migrate-1.2.1.min.js' | prepend: site.url }}'></script>
+	<script type="text/javascript" src='{{ '/assets/scripts/modernizr-custom.js' | prepend: site.url }}'></script>
+	<script type="text/javascript" src='{{ '/assets/slick/slick.min.js' | prepend: site.url }}'></script>
+	<script type="text/javascript" src='{{ '/assets/scripts/masonry.pkgd.min.js' | prepend: site.url }}'></script>
+	<script type="text/javascript" src='{{ '/assets/scripts/GRID_DATA.js' | prepend: site.url }}'></script>
+	<script type="text/javascript" src='{{ '/assets/scripts/anime.min.js' | prepend: site.url }}'></script>
+	<script type="text/javascript" src='{{ '/assets/scripts/hover.js' | prepend: site.url }}'></script>
+	<script type="text/javascript" src='{{ '/assets/scripts/main.js' | prepend: site.url }}'></script>
 </body>
 </html>

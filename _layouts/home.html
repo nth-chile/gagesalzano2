@@ -23,33 +23,48 @@ layout: default
 		{% endif %}
 		</div>
 		
-
-		<div class='desktop hire-status'><div class='dot'></div><h4>Available for hire</h4></div>
+		{% if site.available != true %}
+			{% assign visibility = "style='visibility:hidden'" %}
+		{% endif %}
+		<div class='desktop hire-status' {{visibility}}><div class='dot'></div><h4><a href='mailto:{{site.email}}' target='_blank'>Available for hire</a></h4></div>
 	</header>
 	{% capture about %}{% include about.md %}{% endcapture %}
 
 	<div class='about mobile'>{{ about | markdownify }}</div>
 
-	<div class='grid'>
+	<div class='grid grid--effect-vega'>
 	{% if site.posts %}
 		{% for post in site.posts %}
+			{% if post.stack_color %}
+				{% assign bg_color = post.stack_color %}
+			{% else %}
+				{% assign bg_color = 'rgb(162, 157, 157)' %}
+			{% endif %}
 			{% if post.title != 'about' %}
 		<div class='no-masonry grid__item'>
-			<a href='{{ post.url | absolute_url }}'>
-				<h4
-					{% if post.dark_title %}
-						style='color: rgb(77, 69, 69)'
-					{% endif %}
-				>{{ post.title | escape }}</h4>				
-				{% if post.featured_image %}
-				<img src='{{ post.featured_image | absolute_url }}'
-					{% if post.style %}
-						style='{{ post.style }}'
-					{% endif %}
-				/>
-					{% else %}
-				<img src='{{ '/assets/images/posts/default.png' | absolute_url }}'/>
-				{% endif %}
+			<a href='{{ post.url | prepend: site.url }}' >
+				<div class='stack'>
+					<div class="stack__deco" style="background-color:{{ bg_color }}" ></div>
+					<div class="stack__deco" style="background-color:{{ bg_color }}" ></div>
+					<div class="stack__deco" style="background-color:{{ bg_color }}" ></div>
+					<div class="stack__deco" style="background-color:{{ bg_color }}" ></div>
+					<div class='stack__figure'>
+						<h4
+							{% if post.dark_title %}
+								style='color: rgb(77, 69, 69)'
+							{% endif %}
+						>{{ post.title | escape }}</h4>				
+						{% if post.featured_image %}
+						<img class='stack__img' src='{{ post.featured_image | prepend: site.url }}'
+							{% if post.style %}
+								style='{{ post.style }}'
+							{% endif %}
+						/>
+							{% else %}
+						<img class='stack__img' src='{{ '/assets/images/posts/default.png' | prepend: site.url }}'/>
+						{% endif %}
+					</div>
+				</div>
 			</a>
 		</div>
 			{% endif %}

@@ -1,7 +1,7 @@
 <footer>
 	{% if site.social_media_links %}
 		{%	for i in site.social_media_links %}
-				<a class='{{ i.class }}' href='{{ i.href | absolute_url }}'>{{ i.svg }}</a>
+				<a class='{{ i.class }}' href='{{ i.href }}' target='_blank'>{{ i.svg }}</a>
 		{% endfor %}
 	{% endif %}
 	
@@ -14,8 +14,8 @@
 	{% endif %}
 
 	<div class='copyright'>
-		<h4 class='desktop'>&copy; 2017</h4>
-		<p class='mobile'>Copyright 2017</p>
+		<h4 class='desktop'>&copy; <script type="text/javascript">var d = new Date(); document.write(d.getFullYear())</script></h4>
+		<p class='mobile'>Copyright <script type="text/javascript">var d = new Date(); document.write(d.getFullYear())</script></p>
 		<p class='mobile'>I'm not sure why you would, but if you steal anything I will shame you in front of my small handful of followers on social media.</p>
 	</div>
 </footer>
