@@ -7,15 +7,21 @@ style: width:100%
 stack_color: rgb(252,182,55)
 ---
 {% assign slide = site.data.slide %}
-{{slide['start']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1.png' srcset='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1.png 1024w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1@3x.png 3072w'></div>
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1.png' srcset='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1.png 1024w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1@3x.png 3072w'></div>
+
+<p class='bg'>Power2Switch em<u>powers</u> people to find more affordable energy prices.</p>
 
 {{slide['end']}}
 
-{{slide['start']}}
 
-Power2Switch empowers(powers is underlined) people to find more affordable energy prices.
+{{slide['startdesktop']}}
+
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1.png' srcset='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1.png 1024w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1@3x.png 3072w'></div>
+
+Power2Switch em<u>powers</u> people to find more affordable energy prices.
 
 {{slide['end']}}
 

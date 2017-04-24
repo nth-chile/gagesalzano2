@@ -6,7 +6,15 @@ style: height:100%
 stack_color: rgb(224,174,90)
 ---
 {% assign slide = site.data.slide %}
-{{slide['start']}}
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1.png 1024w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1@3x.png 3072w'></div>
+
+<p class='bg'>Sometimes, you get super lucky and get to work on branding for a town.</p>
+
+{{slide['end']}}
+
+{{slide['startdesktop']}}
 
 <div><img class='full-width' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1.png 1024w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1@3x.png 3072w'></div>
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div class='loading'><img src='{{ '/assets/images/loading.gif' | prepend: site.url }}' height='120' width='120'/></div>
 <div class='home-wrap'>
 	<header>
 		<div class='id'>
@@ -75,3 +76,5 @@ layout: default
 	<div class='about desktop'>{{ about | markdownify }}</div>
 	{% include footer.html %}
 </div>
+<script type="text/javascript" src='{{ '/assets/scripts/anime.min.js' | prepend: site.url }}'></script>
+<script type="text/javascript" src='{{ '/assets/scripts/hover.js' | prepend: site.url }}'></script>

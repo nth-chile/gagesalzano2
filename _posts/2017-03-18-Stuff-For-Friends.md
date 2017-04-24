@@ -36,9 +36,9 @@ Then I got to drink a bunch of real ones and make a fool of myself on the dance 
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1.png 554w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1@2x.png 1108w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1@3x.png 1662w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1.png 554w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1@2x.png 1108w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1@3x.png 1662w'></div>
 
-Katie had the best gift idea for her boyfriend: make his dream brewery come to life.
+<p class='bg'>Katie had the best gift idea for her boyfriend: make his dream brewery come to life.</p>
 
 {{slide['end']}}
 
@@ -50,13 +50,13 @@ We made a brand, came up with beer names and drew the damn brewery all based on 
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w'></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w'></div>
 
 {{slide['end']}}
 

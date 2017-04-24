@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-22T23:24:07-07:00</updated><id>http://localhost:4000/</id><title type="html">Gage Salzano</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">826CHI 2014 Annual Report — Print/Web</title><link href="http://localhost:4000/2017/03/18/826CHI-2014.html" rel="alternate" type="text/html" title="826CHI 2014 Annual Report — Print/Web" /><published>2017-03-18T14:48:57-07:00</published><updated>2017-03-18T14:48:57-07:00</updated><id>http://localhost:4000/2017/03/18/826CHI-2014</id><content type="html" xml:base="http://localhost:4000/2017/03/18/826CHI-2014.html">&lt;div class=&quot;slide&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-23T20:19:36-07:00</updated><id>http://localhost:4000/</id><title type="html">Gage Salzano</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">826CHI 2014 Annual Report — Print/Web</title><link href="http://localhost:4000/2017/03/18/826CHI-2014.html" rel="alternate" type="text/html" title="826CHI 2014 Annual Report — Print/Web" /><published>2017-03-18T14:48:57-07:00</published><updated>2017-03-18T14:48:57-07:00</updated><id>http://localhost:4000/2017/03/18/826CHI-2014</id><content type="html" xml:base="http://localhost:4000/2017/03/18/826CHI-2014.html">&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1.png 1024w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1@2x.png 2048w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1.png 1024w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1@2x.png 2048w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
@@ -15,7 +23,17 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2015-1.gif&quot; /&gt;&lt;/div&gt;
+
+    &lt;p&gt;We felt the newspaper format was unique and hopefully encouraged more people to give it a second look when sorting through their mail.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2.png 615w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2@2x.png 1230w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2@3x.png 1845w&quot; /&gt;&lt;/div&gt;
@@ -28,24 +46,11 @@
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;!--- &lt;div&gt;&lt;img src='http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-3.png' srcset='http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-3.png 394w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-3@2x.png 788w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-3@3x.png 1182w'&gt;&lt;/div&gt; 
-
-The gif below replaces the above .png
---&gt;
-
-    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2015-1.gif&quot; /&gt;&lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;slide mobile&quot;&gt;
-  &lt;div class=&quot;slide__content&quot;&gt;
-
     &lt;figure&gt;
 
-&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4.png 234w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4@2x.png 468w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4@3x.png 702w&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4.png 234w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4@2x.png 468w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
-&lt;figcaption&gt;Check out the &lt;a href=&quot;https://www.newspaperclub.com/&quot;&gt;Newspaper Club&lt;/a&gt; if you were looking to print something on a budget in smaller runs. Great service.&lt;/figcaption&gt;
+&lt;figcaption class=&quot;bg&quot;&gt;Check out the &lt;a href=&quot;https://www.newspaperclub.com/&quot;&gt;Newspaper Club&lt;/a&gt; if you were looking to print something on a budget in smaller runs. Great service.&lt;/figcaption&gt;
 
 &lt;/figure&gt;
 
@@ -95,7 +100,17 @@ The gif below replaces the above .png
     &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5.png 554w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5@2x.png 1108w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5@3x.png 1662w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">826CHI 2017 — Screenprint</title><link href="http://localhost:4000/2017/03/18/826CHI-2017.html" rel="alternate" type="text/html" title="826CHI 2017 — Screenprint" /><published>2017-03-18T14:39:01-07:00</published><updated>2017-03-18T14:39:01-07:00</updated><id>http://localhost:4000/2017/03/18/826CHI-2017</id><content type="html" xml:base="http://localhost:4000/2017/03/18/826CHI-2017.html">&lt;div class=&quot;slide&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">826CHI 2017 — Screenprint</title><link href="http://localhost:4000/2017/03/18/826CHI-2017.html" rel="alternate" type="text/html" title="826CHI 2017 — Screenprint" /><published>2017-03-18T14:39:01-07:00</published><updated>2017-03-18T14:39:01-07:00</updated><id>http://localhost:4000/2017/03/18/826CHI-2017</id><content type="html" xml:base="http://localhost:4000/2017/03/18/826CHI-2017.html">&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-3.png 235w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-3@2x.png 470w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-3@3x.png 705w&quot; /&gt;&lt;/div&gt;
+
+    &lt;p class=&quot;bg&quot;&gt;For its second year, &lt;a href=&quot;http://826CHI.org/&quot;&gt;826CHI&lt;/a&gt; held a fundraiser organized by my friend &lt;a href=&quot;http://tinybold.com/&quot;&gt;Alison&lt;/a&gt;. It's a poster sale with art inspired by student writing.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-1.png 1024w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-1@2x.png 2048w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
@@ -103,7 +118,7 @@ The gif below replaces the above .png
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;p&gt;For its second year, &lt;a href=&quot;http://826CHI.org/&quot;&gt;826CHI&lt;/a&gt; held a fundraiser organized by my friend &lt;a href=&quot;http://tinybold.com/&quot;&gt;Alison&lt;/a&gt;. It’s a poster sale with art inspired by student writing.&lt;/p&gt;
@@ -111,7 +126,17 @@ The gif below replaces the above .png
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-2.png 394w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-2@2x.png 788w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-2@3x.png 1182w&quot; /&gt;&lt;/div&gt;
+
+    &lt;p&gt;This print was inspired by marriage advice written by a 5th grader that is just as good as anything you could get from a guy that would take your money to lay on a couch in a loft somewhere downtown.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div class=&quot;row&quot;&gt;
@@ -127,7 +152,15 @@ The gif below replaces the above .png
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4.png 663w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4@2x.png 1326w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4@3x.png 1989w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4.png 663w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4@2x.png 1326w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4@3x.png 1989w&quot; /&gt;&lt;/div&gt;
@@ -168,9 +201,9 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1.png 554w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1@2x.png 1108w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1@3x.png 1662w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1.png 554w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1@2x.png 1108w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1@3x.png 1662w&quot; /&gt;&lt;/div&gt;
 
-    &lt;p&gt;Katie had the best gift idea for her boyfriend: make his dream brewery come to life.&lt;/p&gt;
+    &lt;p class=&quot;bg&quot;&gt;Katie had the best gift idea for her boyfriend: make his dream brewery come to life.&lt;/p&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -186,7 +219,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -194,7 +227,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -366,7 +399,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-6.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-6.png 234w, http://localhost:4000/assets/images/posts/Google_Engage/engage-6@2x.png 468w, http://localhost:4000/assets/images/posts/Google_Engage/engage-6@3x.png 702w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; style=&quot;height:120vh;top:-110px&quot; src=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-6.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-6.png 234w, http://localhost:4000/assets/images/posts/Google_Engage/engage-6@2x.png 468w, http://localhost:4000/assets/images/posts/Google_Engage/engage-6@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -385,7 +418,15 @@ The gif below replaces above .png
     &lt;p&gt;The parts of the logo could be used to construct icons, layouts and other brand elements.&lt;/p&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">YouTube Let it Out — Marketing</title><link href="http://localhost:4000/2017/03/18/LetitOut.html" rel="alternate" type="text/html" title="YouTube Let it Out — Marketing" /><published>2017-03-18T13:55:49-07:00</published><updated>2017-03-18T13:55:49-07:00</updated><id>http://localhost:4000/2017/03/18/LetitOut</id><content type="html" xml:base="http://localhost:4000/2017/03/18/LetitOut.html">&lt;div class=&quot;slide&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">YouTube Let it Out — Marketing</title><link href="http://localhost:4000/2017/03/18/LetitOut.html" rel="alternate" type="text/html" title="YouTube Let it Out — Marketing" /><published>2017-03-18T13:55:49-07:00</published><updated>2017-03-18T13:55:49-07:00</updated><id>http://localhost:4000/2017/03/18/LetitOut</id><content type="html" xml:base="http://localhost:4000/2017/03/18/LetitOut.html">&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1.png 1024w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1@2x.png 2048w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1.png 1024w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1@2x.png 2048w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
@@ -412,7 +453,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3.png 394w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3@2x.png 788w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3@3x.png 1182w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3.png 394w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3@2x.png 788w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3@3x.png 1182w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -420,7 +461,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4.png 394w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4@2x.png 788w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4@3x.png 1182w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4.png 394w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4@2x.png 788w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4@3x.png 1182w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -439,7 +480,15 @@ The gif below replaces above .png
 &lt;/div&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Glassdoor — Branding</title><link href="http://localhost:4000/2017/03/18/Glass_Ceiling.html" rel="alternate" type="text/html" title="Glassdoor — Branding" /><published>2017-03-18T13:44:49-07:00</published><updated>2017-03-18T13:44:49-07:00</updated><id>http://localhost:4000/2017/03/18/Glass_Ceiling</id><content type="html" xml:base="http://localhost:4000/2017/03/18/Glass_Ceiling.html">&lt;div class=&quot;slide&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Glassdoor — Branding</title><link href="http://localhost:4000/2017/03/18/Glass_Ceiling.html" rel="alternate" type="text/html" title="Glassdoor — Branding" /><published>2017-03-18T13:44:49-07:00</published><updated>2017-03-18T13:44:49-07:00</updated><id>http://localhost:4000/2017/03/18/Glass_Ceiling</id><content type="html" xml:base="http://localhost:4000/2017/03/18/Glass_Ceiling.html">&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1.png 1024w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1@2x.png 2048w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1.png 1024w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1@2x.png 2048w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
@@ -455,7 +504,17 @@ The gif below replaces above .png
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2.png 794w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2@2x.png 1588w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2@3x.png 2382w&quot; /&gt;&lt;/div&gt;
+
+    &lt;p class=&quot;bg&quot;&gt;The monogram was created to symbolize taking the next step in your career.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2.png 794w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2@2x.png 1588w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2@3x.png 2382w&quot; /&gt;&lt;/div&gt;
@@ -567,7 +626,17 @@ The gif below replaces above .png
 &lt;/figure&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">“Who Wants Love?” 2016 — Screenprint</title><link href="http://localhost:4000/2017/03/18/826CHI-2016.html" rel="alternate" type="text/html" title="&quot;Who Wants Love?&quot; 2016 — Screenprint" /><published>2017-03-18T13:11:31-07:00</published><updated>2017-03-18T13:11:31-07:00</updated><id>http://localhost:4000/2017/03/18/826CHI-2016</id><content type="html" xml:base="http://localhost:4000/2017/03/18/826CHI-2016.html">&lt;div class=&quot;slide&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">“Who Wants Love?” 2016 — Screenprint</title><link href="http://localhost:4000/2017/03/18/826CHI-2016.html" rel="alternate" type="text/html" title="&quot;Who Wants Love?&quot; 2016 — Screenprint" /><published>2017-03-18T13:11:31-07:00</published><updated>2017-03-18T13:11:31-07:00</updated><id>http://localhost:4000/2017/03/18/826CHI-2016</id><content type="html" xml:base="http://localhost:4000/2017/03/18/826CHI-2016.html">&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-2.png 394w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-2@2x.png 788w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-2@3x.png 1182w&quot; /&gt;&lt;/div&gt;
+
+    &lt;p class=&quot;bg&quot;&gt;My friend &lt;a href=&quot;http://tinybold.com/&quot;&gt;Alison&lt;/a&gt; holds a poster exhibit every year with &lt;a href=&quot;http://826CHI.org/&quot;&gt;826CHI&lt;/a&gt; showcasing posters inspired by student writing.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1.png 1024w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1@2x.png 2048w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
@@ -575,7 +644,17 @@ The gif below replaces above .png
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-3.png 234w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-3@2x.png 468w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
+
+    &lt;p class=&quot;bg&quot;&gt;The concept of a pony with a green mustache wearing a wizard costume was inspiration enough &amp;hellip; I just drew the thing.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;p&gt;My friend &lt;a href=&quot;http://tinybold.com/&quot;&gt;Alison&lt;/a&gt; holds a poster exhibit every year with &lt;a href=&quot;http://826CHI.org/&quot;&gt;826CHI&lt;/a&gt; showcasing posters inspired by student writing.&lt;/p&gt;
@@ -585,7 +664,21 @@ The gif below replaces above .png
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;figure&gt;
+
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1.png 1024w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1@2x.png 2048w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+
+&lt;figcaption&gt;Supposedly Peter Sagal owns this print. I can't confirm that but the peeps at 826 told me that, so I'm running with it.&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;figure&gt;
@@ -611,7 +704,33 @@ The gif below replaces above .png
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1.png 634w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1@2x.png 1268w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1@3x.png 1902w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-2.png 314w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-2@2x.png 628w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-2@3x.png 942w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-3.png 314w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-3@2x.png 628w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-3@3x.png 942w&quot; /&gt;&lt;/div&gt;
+
+    &lt;p class=&quot;bg&quot;&gt;The rotation in the &quot;a&quot; was meant to symbolize the constant syncing of data required to power the service.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1.png 634w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1@2x.png 1268w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1@3x.png 1902w&quot; /&gt;&lt;/div&gt;
@@ -629,7 +748,25 @@ The gif below replaces above .png
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-1.png 314w, http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-1@2x.png 628w, http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-1@3x.png 942w&quot; /&gt;&lt;/div&gt;
+
+    &lt;p class=&quot;bg&quot;&gt;Sometimes the logo designs itself. The &quot;O&quot; and &quot;C&quot; in the name OnCorps are overlaid to symbolize a donut chart.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-2.png 154w, http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-2@2x.png 308w, http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-2@3x.png 462w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div class=&quot;row&quot;&gt;
@@ -655,7 +792,25 @@ The gif below replaces above .png
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-2.png 554w, http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-2@2x.png 1108w, http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-2@3x.png 1662w&quot; /&gt;&lt;/div&gt;
+
+    &lt;p class=&quot;bg&quot;&gt;For a money-management app, this mark combines two visual metaphors. One is a coin being dropped into a piggy bank, and the other is a sunrise to symbolize a new financial start.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-1.png 234w, http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-1@2x.png 468w, http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-1@3x.png 702w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div class=&quot;row&quot;&gt;
@@ -671,7 +826,25 @@ The gif below replaces above .png
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-1.png 474w, http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-1@2x.png 948w, http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-1@3x.png 1422w&quot; /&gt;&lt;/div&gt;
+
+    &lt;p class=&quot;bg&quot;&gt;This was for a parking app &amp;hellip; Get it?&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-2.png 315w, http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-2@2x.png 630w, http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-2@3x.png 945w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div class=&quot;row&quot;&gt;
@@ -687,7 +860,35 @@ The gif below replaces above .png
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1.png 794w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1@2x.png 1588w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1@3x.png 2382w&quot; /&gt;&lt;/div&gt;
+
+    &lt;p class=&quot;bg&quot;&gt;My friend Tony runs a company in my hometown that tests electronics on things like military-grade helicopters and electric cars. I just cleaned up their logo.&lt;/p&gt;
+
+    &lt;p class=&quot;bg&quot;&gt;¯\\\_(ツ)\_/¯&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-2.png 555w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-2@2x.png 1110w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-2@3x.png 1665w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; style=&quot;height:120vh&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-3.png 234w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-3@2x.png 468w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1.png 794w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1@2x.png 1588w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1@3x.png 2382w&quot; /&gt;&lt;/div&gt;
@@ -705,18 +906,22 @@ The gif below replaces above .png
     &lt;p&gt;¯\_(ツ)_/¯&lt;/p&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Power2Switch — Branding</title><link href="http://localhost:4000/2017/03/18/Power2Switch.html" rel="alternate" type="text/html" title="Power2Switch — Branding" /><published>2017-03-18T11:18:15-07:00</published><updated>2017-03-18T11:18:15-07:00</updated><id>http://localhost:4000/2017/03/18/Power2Switch</id><content type="html" xml:base="http://localhost:4000/2017/03/18/Power2Switch.html">&lt;div class=&quot;slide&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Power2Switch — Branding</title><link href="http://localhost:4000/2017/03/18/Power2Switch.html" rel="alternate" type="text/html" title="Power2Switch — Branding" /><published>2017-03-18T11:18:15-07:00</published><updated>2017-03-18T11:18:15-07:00</updated><id>http://localhost:4000/2017/03/18/Power2Switch</id><content type="html" xml:base="http://localhost:4000/2017/03/18/Power2Switch.html">&lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1.png 1024w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1@2x.png 2048w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1.png 1024w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1@2x.png 2048w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+
+    &lt;p class=&quot;bg&quot;&gt;Power2Switch em&lt;u&gt;powers&lt;/u&gt; people to find more affordable energy prices.&lt;/p&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;desktop-slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;p&gt;Power2Switch empowers(powers is underlined) people to find more affordable energy prices.&lt;/p&gt;
+    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1.png 1024w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1@2x.png 2048w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+
+    &lt;p&gt;Power2Switch em&lt;u&gt;powers&lt;/u&gt; people to find more affordable energy prices.&lt;/p&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;

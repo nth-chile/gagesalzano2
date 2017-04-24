@@ -12,7 +12,7 @@ $(document).ready(function(){
 
 	var masonryOptions = {
 			itemSelector: '.grid__item__wrap',
-			columnWidth: 1,
+			//columnWidth: 1,
 			originTop: false
 		};
 
@@ -57,7 +57,10 @@ $(document).ready(function(){
 							).html(item)
 						)
 					});
-				} else if ( $('.slick').length > 0 ) doSlick();
+				} else if ( $('.slick').length > 0 ) {
+					doSlick();
+					centerFullHeightClass();
+				}
 			} else if (layout == 'full') {
 				if($('.home-wrap').length > 0) {
 					buildGrid();
@@ -68,6 +71,7 @@ $(document).ready(function(){
 					setRowItemWidths();
 				}
 			}
+			removeLoadScreen();
 		}
 	}
 
@@ -82,7 +86,10 @@ $(document).ready(function(){
 
 	if (window.matchMedia("(max-width: 500px)").matches) {
 		var layout = 'mini';
-		if ( $('.slick').length > 0 ) doSlick();	
+		if ( $('.slick').length > 0 ) {
+			doSlick();
+			centerFullHeightClass();
+		}
 	} else if (window.matchMedia("(min-width: 501px)").matches) {
 		var layout = 'full';
 		if($('.home-wrap').length > 0) {
@@ -94,6 +101,7 @@ $(document).ready(function(){
 			setColumnItemHeight();
 		}
 	}
+	removeLoadScreen();
 
 
 
@@ -114,6 +122,15 @@ $(document).ready(function(){
 		});
 		$grid.on('layoutComplete', setTileZIndex);
 		applyHover();
+	}
+	function centerFullHeightClass() {
+		$('.full-height').load(function() {
+			var leftValue = 0 - ($(this).width() / 2 - $(window).width() / 2);
+			console.log('width: ', $(this).width() / 2,
+						'window: ', $(window).width() / 2,
+						leftValue);
+			$(this).css('left', leftValue);
+		});
 	}
 	function createTooltips() {
 		//tooltip(type, target, image, caption, captionBgColor);
@@ -181,6 +198,11 @@ $(document).ready(function(){
 		$('body').css('overflow', 'hidden');
 		$('.slick-track').height($(window).height() - 56);
 		$('.slick-dots').find('button').text('');
+	}
+	function removeLoadScreen(){
+		$('.loading').remove();
+		$('html, body').css('overflow', 'visible');
+		$('html, body').css('height', 'auto');
 	}
 	function tooltip_img(target, image, caption, alt) {
 		var div = document.createElement('div');

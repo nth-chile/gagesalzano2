@@ -7,7 +7,14 @@ style: height:100%;margin-left:-3px
 stack_color: rgb(57,181,74)
 ---
 {% assign slide = site.data.slide %}
-{{slide['start']}}
+
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-1.png' srcset='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-1.png 1024w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-1@2x.png 2048w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-1@3x.png 3072w'></div>
+
+{{slide['end']}}
+
+{{slide['startdesktop']}}
 
 <div><img class='full-width' src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-1.png' srcset='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-1.png 1024w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-1@2x.png 2048w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-1@3x.png 3072w'></div>
 
@@ -19,7 +26,15 @@ Glass Ceiling was an online editorial concept to help encourage and promote adva
 
 {{slide['end']}}
 
-{{slide['start']}}
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2.png' srcset='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2.png 794w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2@2x.png 1588w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2@3x.png 2382w'></div>
+
+<p class='bg'>The monogram was created to symbolize taking the next step in your career.</p>
+
+{{slide['end']}}
+
+{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2.png' srcset='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2.png 794w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2@2x.png 1588w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2@3x.png 2382w'></div>
 
