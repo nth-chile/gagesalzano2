@@ -2,11 +2,19 @@
   font-family: 'GT-America-Standard-Regular';
   src: url(../fonts/GT-America/GT-America-Standard-Regular.eot?) format("eot"), url(../fonts/GT-America/GT-America-Standard-Regular.woff) format("woff"), url(../fonts/GT-America/GT-America-Standard-Regular.ttf) format("truetype");
   font-weight: normal; }
+html {
+  background-color: black; }
+
 body {
+  background-color: white;
+  color: #3c3535;
   font-family: "GT-America-Standard-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 26px;
   text-align: center; }
+
+main {
+  height: 100%; }
 
 a {
   color: #005bf2; }
@@ -15,8 +23,24 @@ a {
   a:hover {
     color: #5a1feb; }
 
+a.go-home {
+  display: block;
+  margin: 80px 0; }
+
 article {
   margin-top: 56px; }
+
+.bold {
+  font-weight: bold; }
+
+.error-404-wrap {
+  height: 100%; }
+  .error-404-wrap img {
+    max-width: 100%; }
+
+.error-404-wrap,
+.home-wrap {
+  padding-bottom: 20px; }
 
 footer h4 {
   color: #4d4545;
@@ -59,12 +83,14 @@ header {
   display: flex;
   -webkit-justify-content: space-between;
   justify-content: space-between;
-  margin-top: 76px;
+  padding-top: 76px;
   white-space: nowrap; }
   header h4, header p {
     color: #4d4545;
     margin: 0;
     max-width: none; }
+  header p {
+    padding: 0; }
   header .hire-status {
     white-space: nowrap; }
     header .hire-status * {
@@ -112,12 +138,15 @@ header {
 
 p {
   max-width: 28rem;
-  margin: .9em auto; }
+  margin: 0 auto;
+  padding: .9em 0; }
 
 .about p,
 article p,
-.mobile.hire-status p {
-  margin: 3.5rem auto; }
+.mobile.hire-status p,
+.error-404-wrap p {
+  margin: 0 auto;
+  padding: 3.5rem 0; }
 
 .emoji {
   width: 1rem; }
@@ -231,8 +260,9 @@ figure {
       width: 19px; }
 
 @media all and (max-width: 500px) {
-  .home-wrap {
-    padding: 0 10px; }
+  .home-wrap,
+  .error-404-wrap {
+    padding: 0 10px 20px; }
 
   .desktop {
     display: none !important; }
@@ -262,7 +292,7 @@ figure {
     width: 34px; }
 
   html {
-    height: 100vh; }
+    height: 100%; }
 
   .id {
     margin: 0 auto; }
@@ -361,16 +391,15 @@ figure {
   .tooltip, .quote-wrap {
     display: none; } }
 @media all and (min-width: 501px) {
-  html, body {
-    overflow: hidden;
+  html {
+    height: 100%;
+    overflow: auto; }
+
+  body {
     height: 100%; }
 
   .mobile {
     display: none; }
-
-  a.go-home {
-    display: block;
-    margin: 80px 0; }
 
   .about span {
     color: #005bf2;
@@ -416,7 +445,7 @@ figure {
       box-shadow: 8px -5px 25px 0px rgba(77, 69, 69, 0.05); }
 
   header {
-    padding: 0 35px; }
+    padding: 76px 35px 0; }
     header svg {
       height: 34px;
       width: 34px; }
@@ -478,6 +507,8 @@ figure {
     left: -9999px; }
     .tooltip h4 {
       font-weight: normal; }
+    .tooltip img {
+      margin-bottom: -6px; }
 
   .tooltip-img a, .tooltip-img-box a {
     border-bottom: 1px solid #efefef;
@@ -499,8 +530,6 @@ figure {
     text-align: left; }
     .tooltip-img-box figcaption {
       padding: .8rem; }
-    .tooltip-img-box img {
-      margin-bottom: -6px; }
 
   .tooltip-text {
     background-color: #f2fcea;

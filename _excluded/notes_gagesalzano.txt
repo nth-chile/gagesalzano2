@@ -1,25 +1,67 @@
-Social hover as brand colors:
-Email: #4D4545
-Dribbble: #ea4c89
-Instagram: #ef4859
-Twitter: #1DA1F2
-Normal link hovers: #5A1FEB
+- that one paragraph width bug on slides where it wont go 100% width
+- .bgs overlap each other
+- home link shows github 404
 
-write script to put featured image up.
-<% if (post.featured_image){ %>
-    <img src="<%- post.featured_image %>">
-<% } %>
+
+
+if I scroll down, as usual the address/tab bar scrolls up. And as it does, it fires resize events. 
+
+SLIDE HEIGHT ISSUE
+- last engage pic not full on my phone
+- 2015 last slide not full
+
+CENTERFULLHEIGHTS() ISSUE
+- i got the glass ceiling images to be off-center
+- pwer2swtch slide1
+- saugatuck slide 1
+- orderup slide 3 get small after flippy
+
+LAYOUT CHANGES
+- p margins collapse against images
+- bluebox slides
+- do gusto
+- who wants love text first slide hard to read, second slide not full and text too wide
+- assorted slides not all configd prop
 
 LATER
-avatar
-font stack?
-<?php echo date('Y'); ?>
-<%- date(Date.now(), 'YYYY/M/D') %>
-404
-robots
-check links (email too)
+- some full pics not as crisp as they could be
+- glass ceiling third slide = example of not smooth gradient
+
+
+EMAIL
+- on my phone, big, quote is super wrapped
+- arin not centered
+
+youtube third slide chop stack full bleed
+
+GUSTO
+gage could make new first img to full bleed it
+then maybe throw on the p from the second slide
+third full, throw on p from fourth
+gage could make new fifth img to full bleed it
+img from 7th bring to fith
+full bleed 8th (p), except move second img to new slide and full bleed it
+full bleed last
+
+- 404
+- i think at a few specific widths the grid items get rearranged
 
 GUIDE
 
-You will be writing posts in Markdown files. You can use HTML in Markdown files. Block-level tags must be surrounded by blank newlines, and not indented. Markdown syntax will not work inside of HTML tags. If you upload two images in a row of the same size, they will be stacked in mobile. If not of same size, they will be inline. If you upload more than two images in a row, and they can be divided equally into rows, they will be in rows. Build your own srcsets, and write your own captions. Give featured image a class. Decide which parts of the post should be "slides" and wrap them in divs.
-If you want the mobile images to be different, make two versions of the slide, with classes "desktop" and "mobile"
+You will be writing posts in Markdown files. You can use HTML in Markdown files. Block-level tags must be surrounded by blank newlines, and not indented. Markdown syntax will not work inside of HTML tags. If you upload two images in a row of the same size, they will be stacked in mobile. If not of same size, they will be inline. If you upload more than two images in a row, and they can be divided equally into rows, they will be in rows. Build your own srcsets, and write your own captions. Give featured image a class.
+If you want the mobile images/order to be different, make two versions of the slide, with classes "desktop" and "mobile"
+row <!-- --> to avoid whitespace
+
+CHANGES
+
+main.js
+ document height changed 100vh to 100%
+ added alerts in fullheights()
+ did unslick
+ window.scrollTo(0,1); to load 'mini' and resize 'mini'
+    seems to sometimes work, except it doesnt hide the url bar.
+
+
+commented alerts
+added window.onload
+added scrolleddto alert

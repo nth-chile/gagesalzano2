@@ -1,4 +1,5 @@
 $font-stack: 'GT-America-Standard-Regular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-color: rgb(60, 53, 53);
 $link-color: rgb(0, 91, 242);
 $link-color-white: rgb(239, 239, 239);
 $link-hover-color: rgb(90, 31, 235);
@@ -49,20 +50,42 @@ $post-nav-color: rgb(77, 69, 69);
 	-webkit-justify-content: $values;
 	justify-content: $values;
 }
-
+html {
+	background-color: black;
+}
 body {
+	background-color: white;
+	color: $font-color;
 	font-family: $font-stack;
 	font-size: 18px;
 	line-height: 26px;
 	text-align: center;
+}
+main {
+	height: 100%;
 }
 a {
 	color: $link-color;
 	&:visited {color: $link-color;}
 	&:hover {color: $link-hover-color;}
 }
+a.go-home {
+	display: block;
+	margin: 80px 0;
+}
 article {
 	margin-top: 56px;
+}
+.bold {font-weight:bold;}
+.error-404-wrap {
+	height: 100%;
+	img {
+		max-width: 100%;
+	}
+}
+.error-404-wrap,
+.home-wrap {
+	padding-bottom: 20px;
 }
 footer {
 	h4 {
@@ -99,13 +122,14 @@ h5 {
 header {
 	@include flexbox();
 	@include justify-content(space-between);
-	margin-top: 76px;
+	padding-top: 76px;
 	white-space: nowrap;
 	h4, p {
 		color: $post-nav-color;
 		margin: 0;
 		max-width: none;
 	}
+	p {padding: 0;}
 	.hire-status {
 		white-space: nowrap;
 		* {
@@ -168,12 +192,15 @@ header {
 
 p {
 	max-width: 28rem;
-	margin: .9em auto;
+	margin: 0 auto;
+	padding: .9em 0;
 }
 .about p,
 article p,
-.mobile.hire-status p {
-	margin: 3.5rem auto;
+.mobile.hire-status p,
+.error-404-wrap p {
+	margin: 0 auto;
+	padding: 3.5rem 0;
 }
 .emoji {
 	width: 1rem;
@@ -304,8 +331,9 @@ figure {
 }
 
 @media all and (max-width: 500px) {
-	.home-wrap {
-		padding: 0 10px;
+	.home-wrap,
+	.error-404-wrap {
+		padding: 0 10px 20px;
 	}
 	.desktop { display: none !important }
 	article {
@@ -334,7 +362,7 @@ figure {
 		width: 34px;
 	}
 	html {
-		height: 100vh;
+		height: 100%;
 	}
 	.id {
 		margin: 0 auto;
@@ -442,15 +470,15 @@ figure {
 	}
 }
 @media all and (min-width: 501px) {
-	html, body {
-		overflow: hidden;
+	html {
+		height: 100%;
+		overflow: auto;
+	}
+	body {
+		//overflow: hidden;
 		height: 100%;
 	}
 	.mobile {display: none;}
-	a.go-home {
-		display: block;
-		margin: 80px 0;
-	}
 	.about span {
 		color: $link-color;
 		cursor: pointer;
@@ -503,7 +531,7 @@ figure {
 		}
 	}
 	header {
-		padding: 0 35px;
+		padding: 76px 35px 0;
 		svg {
 			//height: 29px;
 			//width: 24px;
@@ -567,6 +595,9 @@ figure {
 		h4 {
 			font-weight: normal;
 		}
+		img {
+			margin-bottom: -6px;
+		}
 	}
 	.tooltip-img, .tooltip-img-box {
 		a {
@@ -592,9 +623,6 @@ figure {
 		text-align: left;
 		figcaption {
 			padding: .8rem;
-		}
-		img {
-			margin-bottom: -6px;
 		}
 	}
 	.tooltip-text {
