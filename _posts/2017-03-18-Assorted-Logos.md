@@ -28,7 +28,7 @@ Here's a collection of some brand identities I've worked on through the years.
 
 <div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-3.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-3.png 314w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-3@2x.png 628w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-3@3x.png 942w'></div>
 
-<p class='bg'>The rotation in the "a" was meant to symbolize the constant syncing of data required to power the service.</p>
+<p>The rotation in the "a" was meant to symbolize the constant syncing of data required to power the service.</p>
 
 {{slide['end']}}
 
@@ -52,7 +52,7 @@ The rotation in the "a" was meant to symbolize the constant syncing of data requ
 
 <div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1.png 314w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1@2x.png 628w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1@3x.png 942w'></div>
 
-<p class='bg'>Sometimes the logo designs itself. The "O" and "C" in the name OnCorps are overlaid to symbolize a donut chart.</p>
+<p>Sometimes the logo designs itself. The "O" and "C" in the name OnCorps are overlaid to symbolize a donut chart.</p>
 
 {{slide['end']}}
 
@@ -86,7 +86,7 @@ We drew probably 1,000 trees before landing on this guy. Made for a real estate 
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2.png 554w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2@2x.png 1108w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2@3x.png 1662w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2.png 554w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2@2x.png 1108w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2@3x.png 1662w'></div>
 
 <p class='bg'>For a money-management app, this mark combines two visual metaphors. One is a coin being dropped into a piggy bank, and the other is a sunrise to symbolize a new financial start.</p>
 
@@ -114,7 +114,7 @@ For a money-management app, this mark combines two visual metaphors. One is a co
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-1.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-1.png 474w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-1@2x.png 948w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-1@3x.png 1422w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-1.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-1.png 474w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-1@2x.png 948w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-1@3x.png 1422w'></div>
 
 <p class='bg'>This was for a parking app &hellip; Get it?</p>
 
@@ -144,9 +144,9 @@ This was for a parking app &hellip; Get it?
 
 <div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1.png 794w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1@2x.png 1588w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1@3x.png 2382w'></div>
 
-<p class='bg'>My friend Tony runs a company in my hometown that tests electronics on things like military-grade helicopters and electric cars. I just cleaned up their logo.</p>
+My friend Tony runs a company in my hometown that tests electronics on things like military-grade helicopters and electric cars. I just cleaned up their logo.
 
-<p class='bg'>¯\\\_(ツ)\_/¯</p>
+¯\\\_(ツ)\_/¯
 
 {{slide['end']}}
 

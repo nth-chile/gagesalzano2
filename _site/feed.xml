@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="https://snack-time.github.io/gagesalzano2/feed.xml" rel="self" type="application/atom+xml" /><link href="https://snack-time.github.io/gagesalzano2/" rel="alternate" type="text/html" /><updated>2017-04-27T21:27:50-07:00</updated><id>https://snack-time.github.io/gagesalzano2/</id><title type="html">Gage Salzano</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">826CHI 2014 Annual Report — Print/Web</title><link href="https://snack-time.github.io/gagesalzano2/2017/03/18/826CHI-2014.html" rel="alternate" type="text/html" title="826CHI 2014 Annual Report — Print/Web" /><published>2017-03-18T14:48:57-07:00</published><updated>2017-03-18T14:48:57-07:00</updated><id>https://snack-time.github.io/gagesalzano2/2017/03/18/826CHI-2014</id><content type="html" xml:base="https://snack-time.github.io/gagesalzano2/2017/03/18/826CHI-2014.html">&lt;div class=&quot;slide mobile&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-29T16:23:36-07:00</updated><id>http://localhost:4000/</id><title type="html">Gage Salzano</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">826CHI 2014 Annual Report — Print/Web</title><link href="http://localhost:4000/2017/03/18/826CHI-2014.html" rel="alternate" type="text/html" title="826CHI 2014 Annual Report — Print/Web" /><published>2017-03-18T14:48:57-07:00</published><updated>2017-03-18T14:48:57-07:00</updated><id>http://localhost:4000/2017/03/18/826CHI-2014</id><content type="html" xml:base="http://localhost:4000/2017/03/18/826CHI-2014.html">&lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-1.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-1@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1.png 1024w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1@2x.png 2048w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -10,7 +10,7 @@
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-1.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-1@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1.png 1024w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1@2x.png 2048w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -26,7 +26,7 @@
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2015-1.gif&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2015-1.gif&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;We felt the newspaper format was unique and hopefully encouraged more people to give it a second look when sorting through their mail.&lt;/p&gt;
 
@@ -36,7 +36,7 @@
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-2.png 615w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-2@2x.png 1230w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-2@3x.png 1845w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2.png 615w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2@2x.png 1230w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2@3x.png 1845w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;We felt the newspaper format was unique and hopefully encouraged more people to give it a second look when sorting through their mail.&lt;/p&gt;
 
@@ -48,7 +48,7 @@
 
     &lt;figure&gt;
 
-&lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-4.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-4.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-4@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-4@3x.png 702w&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4.png 234w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4@2x.png 468w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
 &lt;figcaption class=&quot;bg&quot;&gt;Check out the &lt;a href=&quot;https://www.newspaperclub.com/&quot;&gt;Newspaper Club&lt;/a&gt; if you were looking to print something on a budget in smaller runs. Great service.&lt;/figcaption&gt;
 
@@ -62,16 +62,16 @@
 
     &lt;figure&gt;
 
-&lt;!--- &lt;div&gt;&lt;img src='https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-3.png' srcset='https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-3.png 394w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-3@2x.png 788w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-3@3x.png 1182w'&gt;&lt;/div&gt;
+&lt;!--- &lt;div&gt;&lt;img src='http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-3.png' srcset='http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-3.png 394w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-3@2x.png 788w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-3@3x.png 1182w'&gt;&lt;/div&gt;
 
 The gif below replaces the above .png
 --&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2015-1.gif&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2015-1.gif&quot; /&gt;&lt;/div&gt;&lt;!--
 
---&gt;&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-4.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-4.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-4@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-4@3x.png 702w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4.png 234w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4@2x.png 468w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -85,7 +85,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-5.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-5.png 554w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-5@2x.png 1108w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-5@3x.png 1662w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5.png 554w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5@2x.png 1108w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5@3x.png 1662w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;I designed and (jank-ily) &lt;a href=&quot;http://826chi.org/2014/&quot;&gt;built a website&lt;/a&gt; to accompany the piece for sharing the content on social media, email campaigns and things of that nature throughout the following year.&lt;/p&gt;
 
@@ -97,13 +97,13 @@ The gif below replaces the above .png
 
     &lt;p&gt;I designed and (jank-ily) &lt;a href=&quot;http://826chi.org/2014/&quot;&gt;built a website&lt;/a&gt; to accompany the piece for sharing the content on social media, email campaigns and things of that nature throughout the following year.&lt;/p&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-5.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-5.png 554w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-5@2x.png 1108w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2014/826-2014-5@3x.png 1662w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5.png 554w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5@2x.png 1108w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5@3x.png 1662w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">826CHI 2017 — Screenprint</title><link href="https://snack-time.github.io/gagesalzano2/2017/03/18/826CHI-2017.html" rel="alternate" type="text/html" title="826CHI 2017 — Screenprint" /><published>2017-03-18T14:39:01-07:00</published><updated>2017-03-18T14:39:01-07:00</updated><id>https://snack-time.github.io/gagesalzano2/2017/03/18/826CHI-2017</id><content type="html" xml:base="https://snack-time.github.io/gagesalzano2/2017/03/18/826CHI-2017.html">&lt;div class=&quot;slide mobile&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">826CHI 2017 — Screenprint</title><link href="http://localhost:4000/2017/03/18/826CHI-2017.html" rel="alternate" type="text/html" title="826CHI 2017 — Screenprint" /><published>2017-03-18T14:39:01-07:00</published><updated>2017-03-18T14:39:01-07:00</updated><id>http://localhost:4000/2017/03/18/826CHI-2017</id><content type="html" xml:base="http://localhost:4000/2017/03/18/826CHI-2017.html">&lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-3.png 235w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-3@2x.png 470w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-3@3x.png 705w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-3.png 235w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-3@2x.png 470w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-3@3x.png 705w&quot; /&gt;&lt;/div&gt;
 
     &lt;p class=&quot;bg&quot;&gt;For its second year, &lt;a href=&quot;http://826CHI.org/&quot;&gt;826CHI&lt;/a&gt; held a fundraiser organized by my friend &lt;a href=&quot;http://tinybold.com/&quot;&gt;Alison&lt;/a&gt;. It's a poster sale with art inspired by student writing.&lt;/p&gt;
 
@@ -113,7 +113,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-1.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-1@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-1.png 1024w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-1@2x.png 2048w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -129,7 +129,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-2.png 394w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-2@2x.png 788w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-2@3x.png 1182w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-2.png 394w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-2@2x.png 788w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-2@3x.png 1182w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;This print was inspired by marriage advice written by a 5th grader that is just as good as anything you could get from a guy that would take your money to lay on a couch in a loft somewhere downtown.&lt;/p&gt;
 
@@ -141,9 +141,9 @@ The gif below replaces the above .png
 
     &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-2.png 394w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-2@2x.png 788w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-2@3x.png 1182w&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-2.png 394w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-2@2x.png 788w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-2@3x.png 1182w&quot; /&gt;&lt;/div&gt;&lt;!--
 
---&gt;&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-3.png 235w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-3@2x.png 470w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-3@3x.png 705w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-3.png 235w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-3@2x.png 470w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-3@3x.png 705w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -155,7 +155,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-4.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-4.png 663w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-4@2x.png 1326w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-4@3x.png 1989w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4.png 663w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4@2x.png 1326w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4@3x.png 1989w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -163,10 +163,10 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-4.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-4.png 663w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-4@2x.png 1326w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2017/whowantslove-2016-4@3x.png 1989w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4.png 663w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4@2x.png 1326w, http://localhost:4000/assets/images/posts/826CHI_2017/whowantslove-2016-4@3x.png 1989w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Stuff For Friends</title><link href="https://snack-time.github.io/gagesalzano2/2017/03/18/Stuff-For-Friends.html" rel="alternate" type="text/html" title="Stuff For Friends" /><published>2017-03-18T14:25:04-07:00</published><updated>2017-03-18T14:25:04-07:00</updated><id>https://snack-time.github.io/gagesalzano2/2017/03/18/Stuff-For-Friends</id><content type="html" xml:base="https://snack-time.github.io/gagesalzano2/2017/03/18/Stuff-For-Friends.html">&lt;div class=&quot;slide&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Stuff For Friends</title><link href="http://localhost:4000/2017/03/18/Stuff-For-Friends.html" rel="alternate" type="text/html" title="Stuff For Friends" /><published>2017-03-18T14:25:04-07:00</published><updated>2017-03-18T14:25:04-07:00</updated><id>http://localhost:4000/2017/03/18/Stuff-For-Friends</id><content type="html" xml:base="http://localhost:4000/2017/03/18/Stuff-For-Friends.html">&lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;p&gt;Some of the most fun you have as a designer is doing things for buds. You know what the client likes (if not you’re a terrible friend, jk) and they come up with really fun creative briefs.&lt;/p&gt;
@@ -177,7 +177,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/heypal.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/heypal.png 796w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/heypal@2x.png 1592w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/heypal@3x.png 2388w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/heypal.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/heypal.png 796w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/heypal@2x.png 1592w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/heypal@3x.png 2388w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;This was a shirt and tote bag design that was created for my girlfriend because she says it a lot.&lt;/p&gt;
 
@@ -189,7 +189,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/cocktails.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/cocktails.png 474w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/cocktails@2x.png 948w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/cocktails@3x.png 1422w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/cocktails.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/cocktails.png 474w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/cocktails@2x.png 948w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/cocktails@3x.png 1422w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;I got to draw some cocktails for Amy &amp;amp; Ben’s awesome wedding.&lt;/p&gt;
 
@@ -201,7 +201,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-1.png 554w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-1@2x.png 1108w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-1@3x.png 1662w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1.png 554w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1@2x.png 1108w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1@3x.png 1662w&quot; /&gt;&lt;/div&gt;
 
     &lt;p class=&quot;bg&quot;&gt;Katie had the best gift idea for her boyfriend: make his dream brewery come to life.&lt;/p&gt;
 
@@ -219,7 +219,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -227,7 +227,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -237,13 +237,13 @@ The gif below replaces the above .png
 
     &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-1.png 554w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-1@2x.png 1108w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-1@3x.png 1662w&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1.png 554w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1@2x.png 1108w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-1@3x.png 1662w&quot; /&gt;&lt;/div&gt;&lt;!--
 
 --&gt;&lt;div class=&quot;column&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -259,7 +259,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-4.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-4.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-4@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-4@3x.png 2382w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-4.png 794w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-4@2x.png 1588w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-4@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;The screenprint was drawn at the exact location as he described it, even the taco truck in front is something he mentioned that would be awesome.&lt;/p&gt;
 
@@ -269,7 +269,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-5.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-5.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/elevated-5@2x.png 1588w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-5.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-5.png 794w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-5@2x.png 1588w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;This is a shirt we made with the logo of the 606 Kolsch. I never got to taste the beer but I wear this shirt almost everyday.&lt;/p&gt;
 
@@ -287,7 +287,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/natalie.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/natalie.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/natalie@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/natalie@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/natalie.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/natalie.png 1024w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/natalie@2x.png 2048w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/natalie@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;So what do you do when someone asks you for a business card? Take forever and design an entire brand system. (Sorry about that, Natalie.)&lt;/p&gt;
 
@@ -297,7 +297,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/natalie.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/natalie.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/natalie@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/natalie@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/natalie.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/natalie.png 1024w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/natalie@2x.png 2048w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/natalie@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;My friend Natalie sought a business card for her antique dealing business.&lt;/p&gt;
 
@@ -309,12 +309,12 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/caseymonica.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/caseymonica.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/caseymonica@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Stuff_For_Friends/caseymonica@3x.png 2382w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/caseymonica.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/caseymonica.png 794w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/caseymonica@2x.png 1588w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/caseymonica@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;Casey &amp;amp; Monica are two awesome people that got married in a movie theatre built in 1903. It felt appropriate that their wedding invites were made to feel “letterpress-y”.&lt;/p&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Google Engage — Branding</title><link href="https://snack-time.github.io/gagesalzano2/2017/03/18/Google-Engage.html" rel="alternate" type="text/html" title="Google Engage — Branding" /><published>2017-03-18T14:01:35-07:00</published><updated>2017-03-18T14:01:35-07:00</updated><id>https://snack-time.github.io/gagesalzano2/2017/03/18/Google-Engage</id><content type="html" xml:base="https://snack-time.github.io/gagesalzano2/2017/03/18/Google-Engage.html">&lt;div class=&quot;slide mobile&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Google Engage — Branding</title><link href="http://localhost:4000/2017/03/18/Google-Engage.html" rel="alternate" type="text/html" title="Google Engage — Branding" /><published>2017-03-18T14:01:35-07:00</published><updated>2017-03-18T14:01:35-07:00</updated><id>http://localhost:4000/2017/03/18/Google-Engage</id><content type="html" xml:base="http://localhost:4000/2017/03/18/Google-Engage.html">&lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;p&gt;Google Engage is a partnership created by … Google, for agencies working in search marketing that use their products.&lt;/p&gt;
@@ -325,7 +325,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-1.gif&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-1.gif&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;This concept symbolized building blocks, inspired by the theory that “The whole is greater than the sum of its parts.”&lt;/p&gt;
 
@@ -337,15 +337,15 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-1.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-1@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-1.png 1024w, http://localhost:4000/assets/images/posts/Google_Engage/engage-1@2x.png 2048w, http://localhost:4000/assets/images/posts/Google_Engage/engage-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;Google Engage is a partnership created by … Google for agencies working in search marketing that use their products.&lt;/p&gt;
 
     &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-2.png 314w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-2@2x.png 628w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-2@3x.png 942w&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-2.png 314w, http://localhost:4000/assets/images/posts/Google_Engage/engage-2@2x.png 628w, http://localhost:4000/assets/images/posts/Google_Engage/engage-2@3x.png 942w&quot; /&gt;&lt;/div&gt;&lt;!--
 
---&gt;&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-3.png 474w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-3@2x.png 948w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-3@3x.png 1422w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-3.png 474w, http://localhost:4000/assets/images/posts/Google_Engage/engage-3@2x.png 948w, http://localhost:4000/assets/images/posts/Google_Engage/engage-3@3x.png 1422w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -369,7 +369,7 @@ The gif below replaces the above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-5.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-5.png 554w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-5@2x.png 1108w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-5@3x.png 1662w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-5.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-5.png 554w, http://localhost:4000/assets/images/posts/Google_Engage/engage-5@2x.png 1108w, http://localhost:4000/assets/images/posts/Google_Engage/engage-5@3x.png 1662w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;The parts of the logo could be used to construct icons, layouts and other brand elements.&lt;/p&gt;
 
@@ -381,13 +381,13 @@ The gif below replaces the above .png
 
     &lt;!---
 
-&lt;div&gt;&lt;img src='https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-4.png' srcset='https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-4.png 634w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-4@2x.png 1268w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-4@3x.png 1902w'&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src='http://localhost:4000/assets/images/posts/Google_Engage/engage-4.png' srcset='http://localhost:4000/assets/images/posts/Google_Engage/engage-4.png 634w, http://localhost:4000/assets/images/posts/Google_Engage/engage-4@2x.png 1268w, http://localhost:4000/assets/images/posts/Google_Engage/engage-4@3x.png 1902w'&gt;&lt;/div&gt;
 
 The gif below replaces above .png
 
 --&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-1.gif&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-1.gif&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;It’s tough in these situations where the parent company has such a well-established brand to come up with something that feels distinct, but still belongs.&lt;/p&gt;
 
@@ -399,7 +399,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; style=&quot;height:120vh;top:-110px&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-6.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-6.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-6@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-6@3x.png 702w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-6.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-6.png 234w, http://localhost:4000/assets/images/posts/Google_Engage/engage-6@2x.png 468w, http://localhost:4000/assets/images/posts/Google_Engage/engage-6@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -409,19 +409,19 @@ The gif below replaces above .png
 
     &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-5.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-5.png 554w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-5@2x.png 1108w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-5@3x.png 1662w&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-5.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-5.png 554w, http://localhost:4000/assets/images/posts/Google_Engage/engage-5@2x.png 1108w, http://localhost:4000/assets/images/posts/Google_Engage/engage-5@3x.png 1662w&quot; /&gt;&lt;/div&gt;&lt;!--
 
---&gt;&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-6.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-6.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-6@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Google_Engage/engage-6@3x.png 702w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-6.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Google_Engage/engage-6.png 234w, http://localhost:4000/assets/images/posts/Google_Engage/engage-6@2x.png 468w, http://localhost:4000/assets/images/posts/Google_Engage/engage-6@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
     &lt;p&gt;The parts of the logo could be used to construct icons, layouts and other brand elements.&lt;/p&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">YouTube Let it Out — Marketing</title><link href="https://snack-time.github.io/gagesalzano2/2017/03/18/LetitOut.html" rel="alternate" type="text/html" title="YouTube Let it Out — Marketing" /><published>2017-03-18T13:55:49-07:00</published><updated>2017-03-18T13:55:49-07:00</updated><id>https://snack-time.github.io/gagesalzano2/2017/03/18/LetitOut</id><content type="html" xml:base="https://snack-time.github.io/gagesalzano2/2017/03/18/LetitOut.html">&lt;div class=&quot;slide mobile&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">YouTube Let it Out — Marketing</title><link href="http://localhost:4000/2017/03/18/LetitOut.html" rel="alternate" type="text/html" title="YouTube Let it Out — Marketing" /><published>2017-03-18T13:55:49-07:00</published><updated>2017-03-18T13:55:49-07:00</updated><id>http://localhost:4000/2017/03/18/LetitOut</id><content type="html" xml:base="http://localhost:4000/2017/03/18/LetitOut.html">&lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-1.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-1@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1.png 1024w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1@2x.png 2048w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -429,7 +429,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-1.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-1@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1.png 1024w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1@2x.png 2048w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -445,7 +445,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-2.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-2@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-2@3x.png 2382w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-2.png 794w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-2@2x.png 1588w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-2@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -453,7 +453,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-3.png 394w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-3@2x.png 788w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-3@3x.png 1182w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3.png 394w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3@2x.png 788w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3@3x.png 1182w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -461,7 +461,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-4.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-4.png 394w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-4@2x.png 788w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-4@3x.png 1182w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4.png 394w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4@2x.png 788w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4@3x.png 1182w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -469,21 +469,21 @@ The gif below replaces above .png
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-2.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-2@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-2@3x.png 2382w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-2.png 794w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-2@2x.png 1588w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-2@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
     &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-3.png 394w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-3@2x.png 788w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-3@3x.png 1182w&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3.png 394w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3@2x.png 788w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-3@3x.png 1182w&quot; /&gt;&lt;/div&gt;&lt;!--
 
---&gt;&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-4.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-4.png 394w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-4@2x.png 788w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Let_it_Out/tentpole-4@3x.png 1182w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4.png 394w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4@2x.png 788w, http://localhost:4000/assets/images/posts/Let_it_Out/tentpole-4@3x.png 1182w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Glassdoor — Branding</title><link href="https://snack-time.github.io/gagesalzano2/2017/03/18/Glass_Ceiling.html" rel="alternate" type="text/html" title="Glassdoor — Branding" /><published>2017-03-18T13:44:49-07:00</published><updated>2017-03-18T13:44:49-07:00</updated><id>https://snack-time.github.io/gagesalzano2/2017/03/18/Glass_Ceiling</id><content type="html" xml:base="https://snack-time.github.io/gagesalzano2/2017/03/18/Glass_Ceiling.html">&lt;div class=&quot;slide mobile&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Glassdoor — Branding</title><link href="http://localhost:4000/2017/03/18/Glass_Ceiling.html" rel="alternate" type="text/html" title="Glassdoor — Branding" /><published>2017-03-18T13:44:49-07:00</published><updated>2017-03-18T13:44:49-07:00</updated><id>http://localhost:4000/2017/03/18/Glass_Ceiling</id><content type="html" xml:base="http://localhost:4000/2017/03/18/Glass_Ceiling.html">&lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-1.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-1@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1.png 1024w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1@2x.png 2048w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -491,7 +491,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-1.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-1@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1.png 1024w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1@2x.png 2048w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -507,7 +507,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-2.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-2@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-2@3x.png 2382w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2.png 794w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2@2x.png 1588w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
     &lt;p class=&quot;bg&quot;&gt;The monogram was created to symbolize taking the next step in your career.&lt;/p&gt;
 
@@ -517,7 +517,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-2.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-2@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-2@3x.png 2382w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2.png 794w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2@2x.png 1588w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-2@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;The monogram was created to symbolize taking the next step in your career.&lt;/p&gt;
 
@@ -527,21 +527,15 @@ The gif below replaces above .png
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-3.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-3@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-3@3x.png 2382w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-3.png 794w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-3@2x.png 1588w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-3@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-4.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-4.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-4@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/GlassCeiling/glassceiling-4@3x.png 2382w&quot; /&gt;&lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Gusto — Branding</title><link href="https://snack-time.github.io/gagesalzano2/2017/03/18/Gusto.html" rel="alternate" type="text/html" title="Gusto — Branding" /><published>2017-03-18T13:26:52-07:00</published><updated>2017-03-18T13:26:52-07:00</updated><id>https://snack-time.github.io/gagesalzano2/2017/03/18/Gusto</id><content type="html" xml:base="https://snack-time.github.io/gagesalzano2/2017/03/18/Gusto.html">&lt;div class=&quot;slide&quot;&gt;
-  &lt;div class=&quot;slide__content&quot;&gt;
-
-    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-1.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-1@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-4.png 794w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-4@2x.png 1588w, http://localhost:4000/assets/images/posts/GlassCeiling/glassceiling-4@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;slide&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Gusto — Branding</title><link href="http://localhost:4000/2017/03/18/Gusto.html" rel="alternate" type="text/html" title="Gusto — Branding" /><published>2017-03-18T13:26:52-07:00</published><updated>2017-03-18T13:26:52-07:00</updated><id>http://localhost:4000/2017/03/18/Gusto</id><content type="html" xml:base="http://localhost:4000/2017/03/18/Gusto.html">&lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-1.png 1024w, http://localhost:4000/assets/images/posts/Gusto/gusto-1@2x.png 2048w, http://localhost:4000/assets/images/posts/Gusto/gusto-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;Gusto needed some ideas to help push an internal rebranding effort.&lt;/p&gt;
 
@@ -551,13 +545,15 @@ The gif below replaces above .png
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-2.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-2@2x.png 1588w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-2.png 794w, http://localhost:4000/assets/images/posts/Gusto/gusto-2@2x.png 1588w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-3.png 794w, http://localhost:4000/assets/images/posts/Gusto/gusto-3@2x.png 1588w, http://localhost:4000/assets/images/posts/Gusto/gusto-3@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;We only had a couple days, so we employed a “shotgun” approach to generate as many concepts as we could.&lt;/p&gt;
 
@@ -567,13 +563,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-3.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-3@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-3@3x.png 2382w&quot; /&gt;&lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;slide&quot;&gt;
-  &lt;div class=&quot;slide__content&quot;&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-4.png 794w, http://localhost:4000/assets/images/posts/Gusto/gusto-4@2x.png 1588w, http://localhost:4000/assets/images/posts/Gusto/gusto-4@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;One of my favorite ideas of the bunch was based on the “moments of Gusto” in the workplace.&lt;/p&gt;
 
@@ -583,8 +573,6 @@ The gif below replaces above .png
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-4.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-4.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-4@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-4@3x.png 2382w&quot; /&gt;&lt;/div&gt;
-
     &lt;p&gt;Keyword is MY favorite idea, not always the client’s.&lt;/p&gt;
 
     &lt;p&gt;:)&lt;/p&gt;
@@ -592,14 +580,30 @@ The gif below replaces above .png
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-5.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-5.png 314w, http://localhost:4000/assets/images/posts/Gusto/gusto-5@2x.png 628w, http://localhost:4000/assets/images/posts/Gusto/gusto-5@3x.png 942w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-6.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-6.png 314w, http://localhost:4000/assets/images/posts/Gusto/gusto-6@2x.png 628w, http://localhost:4000/assets/images/posts/Gusto/gusto-6@3x.png 942w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-5.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-5.png 314w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-5@2x.png 628w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-5@3x.png 942w&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-5.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-5.png 314w, http://localhost:4000/assets/images/posts/Gusto/gusto-5@2x.png 628w, http://localhost:4000/assets/images/posts/Gusto/gusto-5@3x.png 942w&quot; /&gt;&lt;/div&gt;&lt;!--
 
---&gt;&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-6.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-6.png 314w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-6@2x.png 628w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-6@3x.png 942w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-6.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-6.png 314w, http://localhost:4000/assets/images/posts/Gusto/gusto-6@2x.png 628w, http://localhost:4000/assets/images/posts/Gusto/gusto-6@3x.png 942w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -608,16 +612,46 @@ The gif below replaces above .png
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;slide&quot;&gt;
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;p&gt;We used organic linework throughout these concepts in order to feel energetic and stand out in an industry where everyone’s using sleek lines and geometric forms.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;figure&gt;
+
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-7.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-7.png 474w, http://localhost:4000/assets/images/posts/Gusto/gusto-7@2x.png 948w, http://localhost:4000/assets/images/posts/Gusto/gusto-7@3x.png 1422w&quot; /&gt;&lt;/div&gt;
+
+&lt;figcaption&gt;Sorry to anyone who really knows how to read sign language, this was just a mock-up and I have no idea what it says.&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-8.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-8.png 154w, http://localhost:4000/assets/images/posts/Gusto/gusto-8@2x.png 308w, http://localhost:4000/assets/images/posts/Gusto/gusto-8@3x.png 462w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;figure&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-7.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-7.png 474w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-7@2x.png 948w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-7@3x.png 1422w&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-7.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-7.png 474w, http://localhost:4000/assets/images/posts/Gusto/gusto-7@2x.png 948w, http://localhost:4000/assets/images/posts/Gusto/gusto-7@3x.png 1422w&quot; /&gt;&lt;/div&gt;&lt;!--
 
---&gt;&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-8.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-8.png 154w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-8@2x.png 308w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Gusto/gusto-8@3x.png 462w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-8.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Gusto/gusto-8.png 154w, http://localhost:4000/assets/images/posts/Gusto/gusto-8@2x.png 308w, http://localhost:4000/assets/images/posts/Gusto/gusto-8@3x.png 462w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -626,10 +660,10 @@ The gif below replaces above .png
 &lt;/figure&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">“Who Wants Love?” 2016 — Screenprint</title><link href="https://snack-time.github.io/gagesalzano2/2017/03/18/826CHI-2016.html" rel="alternate" type="text/html" title="&quot;Who Wants Love?&quot; 2016 — Screenprint" /><published>2017-03-18T13:11:31-07:00</published><updated>2017-03-18T13:11:31-07:00</updated><id>https://snack-time.github.io/gagesalzano2/2017/03/18/826CHI-2016</id><content type="html" xml:base="https://snack-time.github.io/gagesalzano2/2017/03/18/826CHI-2016.html">&lt;div class=&quot;slide mobile&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">“Who Wants Love?” 2016 — Screenprint</title><link href="http://localhost:4000/2017/03/18/826CHI-2016.html" rel="alternate" type="text/html" title="&quot;Who Wants Love?&quot; 2016 — Screenprint" /><published>2017-03-18T13:11:31-07:00</published><updated>2017-03-18T13:11:31-07:00</updated><id>http://localhost:4000/2017/03/18/826CHI-2016</id><content type="html" xml:base="http://localhost:4000/2017/03/18/826CHI-2016.html">&lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-2.png 394w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-2@2x.png 788w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-2@3x.png 1182w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-2.png 394w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-2@2x.png 788w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-2@3x.png 1182w&quot; /&gt;&lt;/div&gt;
 
     &lt;p class=&quot;bg&quot;&gt;My friend &lt;a href=&quot;http://tinybold.com/&quot;&gt;Alison&lt;/a&gt; holds a poster exhibit every year with &lt;a href=&quot;http://826CHI.org/&quot;&gt;826CHI&lt;/a&gt; showcasing posters inspired by student writing.&lt;/p&gt;
 
@@ -639,7 +673,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-1.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-1@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1.png 1024w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1@2x.png 2048w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -647,7 +681,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-3.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-3@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-3.png 234w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-3@2x.png 468w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
     &lt;p class=&quot;bg&quot;&gt;The concept of a pony with a green mustache wearing a wizard costume was inspiration enough &amp;hellip; I just drew the thing.&lt;/p&gt;
 
@@ -669,7 +703,7 @@ The gif below replaces above .png
 
     &lt;figure&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-1.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-1@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1.png 1024w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1@2x.png 2048w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
 &lt;figcaption&gt;Supposedly Peter Sagal owns this print. I can't confirm that but the peeps at 826 told me that, so I'm running with it.&lt;/figcaption&gt;
 
@@ -685,9 +719,9 @@ The gif below replaces above .png
 
 &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-2.png 394w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-2@2x.png 788w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-2@3x.png 1182w&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-2.png 394w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-2@2x.png 788w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-2@3x.png 1182w&quot; /&gt;&lt;/div&gt;&lt;!--
 
---&gt;&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-3.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-3@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/826CHI_2016/whowantslove-2015-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-3.png 234w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-3@2x.png 468w, http://localhost:4000/assets/images/posts/826CHI_2016/whowantslove-2015-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -696,7 +730,7 @@ The gif below replaces above .png
 &lt;/figure&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Assorted Logos</title><link href="https://snack-time.github.io/gagesalzano2/2017/03/18/Assorted-Logos.html" rel="alternate" type="text/html" title="Assorted Logos" /><published>2017-03-18T13:10:14-07:00</published><updated>2017-03-18T13:10:14-07:00</updated><id>https://snack-time.github.io/gagesalzano2/2017/03/18/Assorted-Logos</id><content type="html" xml:base="https://snack-time.github.io/gagesalzano2/2017/03/18/Assorted-Logos.html">&lt;div class=&quot;slide&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Assorted Logos</title><link href="http://localhost:4000/2017/03/18/Assorted-Logos.html" rel="alternate" type="text/html" title="Assorted Logos" /><published>2017-03-18T13:10:14-07:00</published><updated>2017-03-18T13:10:14-07:00</updated><id>http://localhost:4000/2017/03/18/Assorted-Logos</id><content type="html" xml:base="http://localhost:4000/2017/03/18/Assorted-Logos.html">&lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
     &lt;p&gt;Here’s a collection of some brand identities I’ve worked on through the years.&lt;/p&gt;
@@ -707,7 +741,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-1.png 634w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-1@2x.png 1268w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-1@3x.png 1902w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1.png 634w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1@2x.png 1268w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1@3x.png 1902w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -715,7 +749,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-2.png 314w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-2@2x.png 628w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-2@3x.png 942w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-2.png 314w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-2@2x.png 628w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-2@3x.png 942w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -723,9 +757,9 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-3.png 314w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-3@2x.png 628w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-3@3x.png 942w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-3.png 314w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-3@2x.png 628w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-3@3x.png 942w&quot; /&gt;&lt;/div&gt;
 
-    &lt;p class=&quot;bg&quot;&gt;The rotation in the &quot;a&quot; was meant to symbolize the constant syncing of data required to power the service.&lt;/p&gt;
+    &lt;p&gt;The rotation in the &quot;a&quot; was meant to symbolize the constant syncing of data required to power the service.&lt;/p&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -733,13 +767,13 @@ The gif below replaces above .png
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-1.png 634w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-1@2x.png 1268w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-1@3x.png 1902w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1.png 634w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1@2x.png 1268w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-1@3x.png 1902w&quot; /&gt;&lt;/div&gt;
 
     &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-2.png 314w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-2@2x.png 628w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-2@3x.png 942w&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-2.png 314w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-2@2x.png 628w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-2@3x.png 942w&quot; /&gt;&lt;/div&gt;&lt;!--
 
---&gt;&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-3.png 314w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-3@2x.png 628w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/arin-3@3x.png 942w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/arin-3.png 314w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-3@2x.png 628w, http://localhost:4000/assets/images/posts/Assorted_Logos/arin-3@3x.png 942w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -751,9 +785,9 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-1.png 314w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-1@2x.png 628w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-1@3x.png 942w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-1.png 314w, http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-1@2x.png 628w, http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-1@3x.png 942w&quot; /&gt;&lt;/div&gt;
 
-    &lt;p class=&quot;bg&quot;&gt;Sometimes the logo designs itself. The &quot;O&quot; and &quot;C&quot; in the name OnCorps are overlaid to symbolize a donut chart.&lt;/p&gt;
+    &lt;p&gt;Sometimes the logo designs itself. The &quot;O&quot; and &quot;C&quot; in the name OnCorps are overlaid to symbolize a donut chart.&lt;/p&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -761,7 +795,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-2.png 154w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-2@2x.png 308w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-2@3x.png 462w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-2.png 154w, http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-2@2x.png 308w, http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-2@3x.png 462w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -771,9 +805,9 @@ The gif below replaces above .png
 
     &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-1.png 314w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-1@2x.png 628w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-1@3x.png 942w&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-1.png 314w, http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-1@2x.png 628w, http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-1@3x.png 942w&quot; /&gt;&lt;/div&gt;&lt;!--
 
---&gt;&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-2.png 154w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-2@2x.png 308w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/oncorps-2@3x.png 462w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-2.png 154w, http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-2@2x.png 308w, http://localhost:4000/assets/images/posts/Assorted_Logos/oncorps-2@3x.png 462w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -785,7 +819,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/acre-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/acre-1.png 782w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/acre-1@2x.png 1564w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/acre-1@3x.png 2346w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/acre-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/acre-1.png 782w, http://localhost:4000/assets/images/posts/Assorted_Logos/acre-1@2x.png 1564w, http://localhost:4000/assets/images/posts/Assorted_Logos/acre-1@3x.png 2346w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;We drew probably 1,000 trees before landing on this guy. Made for a real estate application to symbolize the network.&lt;/p&gt;
 
@@ -795,7 +829,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-2.png 554w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-2@2x.png 1108w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-2@3x.png 1662w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-2.png 554w, http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-2@2x.png 1108w, http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-2@3x.png 1662w&quot; /&gt;&lt;/div&gt;
 
     &lt;p class=&quot;bg&quot;&gt;For a money-management app, this mark combines two visual metaphors. One is a coin being dropped into a piggy bank, and the other is a sunrise to symbolize a new financial start.&lt;/p&gt;
 
@@ -805,7 +839,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-1.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-1@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-1@3x.png 702w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-1.png 234w, http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-1@2x.png 468w, http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-1@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -815,9 +849,9 @@ The gif below replaces above .png
 
     &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-1.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-1@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-1@3x.png 702w&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-1.png 234w, http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-1@2x.png 468w, http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-1@3x.png 702w&quot; /&gt;&lt;/div&gt;&lt;!--
 
---&gt;&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-2.png 554w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-2@2x.png 1108w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/fundwell-2@3x.png 1662w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-2.png 554w, http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-2@2x.png 1108w, http://localhost:4000/assets/images/posts/Assorted_Logos/fundwell-2@3x.png 1662w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -829,7 +863,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-1.png 474w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-1@2x.png 948w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-1@3x.png 1422w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-1.png 474w, http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-1@2x.png 948w, http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-1@3x.png 1422w&quot; /&gt;&lt;/div&gt;
 
     &lt;p class=&quot;bg&quot;&gt;This was for a parking app &amp;hellip; Get it?&lt;/p&gt;
 
@@ -839,7 +873,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-2.png 315w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-2@2x.png 630w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-2@3x.png 945w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-2.png 315w, http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-2@2x.png 630w, http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-2@3x.png 945w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -849,9 +883,9 @@ The gif below replaces above .png
 
     &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-1.png 474w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-1@2x.png 948w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-1@3x.png 1422w&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-1.png 474w, http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-1@2x.png 948w, http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-1@3x.png 1422w&quot; /&gt;&lt;/div&gt;&lt;!--
 
---&gt;&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-2.png 315w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-2@2x.png 630w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/pinspot-2@3x.png 945w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-2.png 315w, http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-2@2x.png 630w, http://localhost:4000/assets/images/posts/Assorted_Logos/pinspot-2@3x.png 945w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -863,19 +897,11 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-1.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-1@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-1@3x.png 2382w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1.png 794w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1@2x.png 1588w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
-    &lt;p class=&quot;bg&quot;&gt;My friend Tony runs a company in my hometown that tests electronics on things like military-grade helicopters and electric cars. I just cleaned up their logo.&lt;/p&gt;
+    &lt;p&gt;My friend Tony runs a company in my hometown that tests electronics on things like military-grade helicopters and electric cars. I just cleaned up their logo.&lt;/p&gt;
 
-    &lt;p class=&quot;bg&quot;&gt;¯\\\_(ツ)\_/¯&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;slide mobile&quot;&gt;
-  &lt;div class=&quot;slide__content&quot;&gt;
-
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-2.png 555w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-2@2x.png 1110w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-2@3x.png 1665w&quot; /&gt;&lt;/div&gt;
+    &lt;p&gt;¯\_(ツ)_/¯&lt;/p&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -883,7 +909,15 @@ The gif below replaces above .png
 &lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; style=&quot;height:120vh&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-3.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-3@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-2.png 555w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-2@2x.png 1110w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-2@3x.png 1665w&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;slide mobile&quot;&gt;
+  &lt;div class=&quot;slide__content&quot;&gt;
+
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; style=&quot;height:120vh&quot; src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-3.png 234w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-3@2x.png 468w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -891,13 +925,13 @@ The gif below replaces above .png
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-1.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-1@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-1@3x.png 2382w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1.png 794w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1@2x.png 1588w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-1@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
     &lt;div class=&quot;row&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-2.png 555w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-2@2x.png 1110w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-2@3x.png 1665w&quot; /&gt;&lt;/div&gt;&lt;!--
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-2.png 555w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-2@2x.png 1110w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-2@3x.png 1665w&quot; /&gt;&lt;/div&gt;&lt;!--
 
---&gt;&lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-3.png 234w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-3@2x.png 468w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Assorted_Logos/keystone-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-3.png 234w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-3@2x.png 468w, http://localhost:4000/assets/images/posts/Assorted_Logos/keystone-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -906,10 +940,10 @@ The gif below replaces above .png
     &lt;p&gt;¯\_(ツ)_/¯&lt;/p&gt;
 
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Power2Switch — Branding</title><link href="https://snack-time.github.io/gagesalzano2/2017/03/18/Power2Switch.html" rel="alternate" type="text/html" title="Power2Switch — Branding" /><published>2017-03-18T11:18:15-07:00</published><updated>2017-03-18T11:18:15-07:00</updated><id>https://snack-time.github.io/gagesalzano2/2017/03/18/Power2Switch</id><content type="html" xml:base="https://snack-time.github.io/gagesalzano2/2017/03/18/Power2Switch.html">&lt;div class=&quot;slide mobile&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Power2Switch — Branding</title><link href="http://localhost:4000/2017/03/18/Power2Switch.html" rel="alternate" type="text/html" title="Power2Switch — Branding" /><published>2017-03-18T11:18:15-07:00</published><updated>2017-03-18T11:18:15-07:00</updated><id>http://localhost:4000/2017/03/18/Power2Switch</id><content type="html" xml:base="http://localhost:4000/2017/03/18/Power2Switch.html">&lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-1.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-1@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-height&quot; src=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1.png 1024w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1@2x.png 2048w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
     &lt;p class=&quot;bg&quot;&gt;Power2Switch em&lt;u&gt;powers&lt;/u&gt; people to find more affordable energy prices.&lt;/p&gt;
 
@@ -919,7 +953,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide desktop&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-1.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-1.png 1024w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-1@2x.png 2048w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img class=&quot;full-width&quot; src=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1.png 1024w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1@2x.png 2048w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-1@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;Power2Switch em&lt;u&gt;powers&lt;/u&gt; people to find more affordable energy prices.&lt;/p&gt;
 
@@ -929,7 +963,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-2.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-2.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-2@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-2@3x.png 2382w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-2.png 794w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-2@2x.png 1588w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-2@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;The concept was focused on playing with the relationship between light and dark.&lt;/p&gt;
 
@@ -939,7 +973,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-3.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-3.png 637w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-3@2x.png 1274w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-3@3x.png 1911w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-3.png 637w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-3@2x.png 1274w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-3@3x.png 1911w&quot; /&gt;&lt;/div&gt;
 
     &lt;p&gt;The color palette was literally inspired by light, and that was paired with industrial revolution-esque iconography to animate collateral.&lt;/p&gt;
 
@@ -949,7 +983,7 @@ The gif below replaces above .png
 &lt;div class=&quot;slide&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
-    &lt;div&gt;&lt;img src=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-4.png&quot; srcset=&quot;https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-4.png 794w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-4@2x.png 1588w, https://snack-time.github.io/gagesalzano2/assets/images/posts/Power2Switch/power-2-switch-4@3x.png 2382w&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-4.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-4.png 794w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-4@2x.png 1588w, http://localhost:4000/assets/images/posts/Power2Switch/power-2-switch-4@3x.png 2382w&quot; /&gt;&lt;/div&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>

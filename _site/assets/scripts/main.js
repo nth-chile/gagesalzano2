@@ -60,8 +60,7 @@ $(document).ready(function(){
 						)
 					});
 				} else if ( $('.slick').length > 0 ) {
-					window.scrollTo(0,50);
-					alert('scrolled to "0,50"');
+					$('.row div').width('100%');
 					doSlick();
 					centerFullHeightClass();
 				}
@@ -71,6 +70,7 @@ $(document).ready(function(){
 					if($('.tooltip').length == 0) createTooltips();
 				} else if ($('.slick').length > 0 ) {
 					$('.slick').slick('slickUnfilter');
+					$('html').css('position', 'static');
 					if(!rowsSet) {
 						setColumnItemHeight();
 						setRowItemWidths();
@@ -92,8 +92,7 @@ $(document).ready(function(){
 	if (window.matchMedia("(max-width: 500px)").matches) {
 		var layout = 'mini';
 		if ( $('.slick').length > 0 ) {
-			window.scrollTo(0,50);
-			alert('scrolled to "0,50"');
+			$('.row div').width('100%');
 			doSlick();
 			centerFullHeightClass();
 		}
@@ -130,15 +129,31 @@ $(document).ready(function(){
 		applyHover();
 	}
 	function centerFullHeightClass() {
-		$('.full-height').load(function() {
-			var leftValue = 0 - ($(this).width() / 2 - $(window).width() / 2);
-			// alert(
-			// 	leftValue,
-			// 	$(this).width(),
-			// 	$(window).width()
-			// 	);
-			$(this).css('left', leftValue);
-		});
+		$('.full-height').one('load', function() {
+			var imgRatio = (
+				($(this).height() * $('.slick').width()) /
+				($(this).width() * $('.slick').height())
+			);
+			var articleRatio = (
+				($('.slick').height() * $(this).width()) /
+				($('.slick').width() * $(this).height())
+			);
+			if (imgRatio < articleRatio) {
+				var leftValue = 0 - ($(this).width() / 2 - $(window).width() / 2);
+				$(this).css('left', leftValue);
+			} else {
+				$(this).css({
+					'width': '100%',
+					'height': 'auto',
+					'left': '0'					
+				});
+				var topValue = 0 - ($(this).height() / 2 - $(window).height() / 2);
+				$(this).css('top', topValue);
+			}
+		})
+		.each(function() {
+			if(this.complete) $(this).trigger('load');
+		});;
 	}
 	function createTooltips() {
 		//tooltip(type, target, image, caption, captionBgColor);
@@ -203,8 +218,12 @@ $(document).ready(function(){
 			slide: '.slide'
 		});
 		$('.slick').slick('slickFilter', ':not(.desktop)');
-		$(document).height('100%');
-		//$(document).height('100vh');
+		$('html').css({'position': 'absolute',
+						'top': '0',
+						'right': '0',
+						'bottom': '0',
+						'left': '0'
+		});
 		$('body').css('overflow', 'hidden');
 		$('.slick-track').height($(window).height() - 56);
 		$('.slick-dots').find('button').text('');

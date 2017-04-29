@@ -2,8 +2,9 @@
 layout: default
 ---
 
+<div class='loading'><img src='{{ '/assets/images/loading.gif' | prepend: site.url }}' height='120' width='120'/></div>
 <nav class='post-nav'>
-<a class='post-nav__home' href='/'>
+<a class='post-nav__home' href='{{site.url}}'>
 	<svg width="10" height="10" viewBox="0 0 10 10"><path d="M4.64 0L0 3.48v6.495h3.132V5.567h3.015v4.408H9.28V3.48z" fill="#FFF" fill-rule="evenodd"/></svg>
 	<h4 class='desktop'>Go back home</h4>
 </a>
@@ -31,7 +32,7 @@ layout: default
 <!-- <div class='loading'><img src='{{ '/assets/images/loading.gif' | prepend: site.url }}'/></div> -->
 <article class='slick'>{{ content }}</article>
 <div class='desktop'>
-	<a class='go-home' href='/'>
+	<a class='go-home' href='{{site.url}}'>
 		<svg class='prev-blue' width="11" height="11" viewBox="0 0 11 11"><path d="M0 5.5L5.5 11l.975-.976-3.83-3.829H11V4.803H2.646L6.475.973 5.5 0z" fill="#005BF2" fill-rule="evenodd"/></svg>
 		go back home
 	</a>

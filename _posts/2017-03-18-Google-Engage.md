@@ -81,7 +81,7 @@ That's why the color was such an important part. It tied the whole room together
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' style='height:120vh;top:-110px' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-6.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-6.png 234w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6@2x.png 468w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6@3x.png 702w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-6.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-6.png 234w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6@2x.png 468w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6@3x.png 702w'></div>
 
 {{slide['end']}}
 
