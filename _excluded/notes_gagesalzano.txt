@@ -1,19 +1,12 @@
-- home link shows github 404
-	added site.url
-- 404
 - i think at a few specific widths the grid items get rearranged
-
-LAYOUT CHANGES
-- p margins collapse against images. no they just double when two ps next 2 ech other bc top &bot are same
+- scale up the mail (h and w attributes already changed. stroke problem)
+- See MiddleSizes.png I wonder if we go full edge-to-edge images in this size? just by adding styling to a certain viewport width.
+- there's an extra link on about
+- are there any .column issues?
 
 LATER
 - some full pics not as crisp as they could be
 - glass ceiling third slide = example of not smooth gradient
-
-EMAIL
-- on my phone, big, quote is super wrapped. hide?
-- arin not centered
-- chop stack full bleed those bastards
 
 ****GUIDE****
 

@@ -60,7 +60,7 @@ $(document).ready(function(){
 						)
 					});
 				} else if ( $('.slick').length > 0 ) {
-					$('.row div').width('100%');
+					//$('.row div').width('100%');
 					doSlick();
 					centerFullHeightClass();
 				}
@@ -84,6 +84,11 @@ $(document).ready(function(){
 
 	//give article a target='_blank'
 	$('article.slick a').attr('target', '_blank');
+	//if a 'div' comes after a '.slick p', give 'article p' bottom padding
+	$('.slick p').each( function(index, elt) {
+		if ($(elt).next('div').length !== 0)
+			$(elt).css('padding-bottom', '5rem');
+	});
 
 
 //** MEDIA QUERIES (ON LOAD) **//	
@@ -92,7 +97,7 @@ $(document).ready(function(){
 	if (window.matchMedia("(max-width: 500px)").matches) {
 		var layout = 'mini';
 		if ( $('.slick').length > 0 ) {
-			$('.row div').width('100%');
+			//$('.row div').width('100%');
 			doSlick();
 			centerFullHeightClass();
 		}
@@ -177,8 +182,15 @@ $(document).ready(function(){
 		);
 		tooltip_text(
 			'#work-experience',
-			'WORK EXPERIENCE:',
-			'<ul><li>— <b>Current</b> Freelance</li><li>— <b>Nelson Cash</b> Sr. Designer, 6 years</li><li>— <b>Doejo</b> Sr. Designer, 1 year</li><li>— <b>Smith Brothers Advertising</b> Designer, 1 year</li><li>— <b>Mind Over Media</b> Designer, 1 year</li></ul>'
+			'<b>WORK EXPERIENCE:</b>',
+			'<ul><li>— <b>Current:</b> Independent</li><li>— <b>Nelson Cash:</b> Sr. Designer, 6 years</li><li>— <b>Doejo:</b> Sr. Designer, 1 year</li><li>— <b>Smith Brothers Advertising:</b> Designer, 1 year</li><li>— <b>Mind Over Media:</b> Designer, 1 year</li></ul>'
+		);
+		tooltip_img_box(
+			'#edinboro',
+			'assets/images/tooltips/edinboro.png',
+			'<b>EDUCATION:<br />Edinboro University of Pennsylvania</b><br />BFA, Applied Media Arts — Graphic Design',
+			'Edinboro University of Pennsylvania',
+			'rgb(66, 90, 131)'
 		);
 	}
 	function displayRandomQuote() {
@@ -268,12 +280,12 @@ $(document).ready(function(){
 	function tooltip_text(target, title, text) {
 		var div = document.createElement('div');
 		div.className = 'tooltip tooltip-text';
-		var h5 = document.createElement('h5');
-		var h4 = document.createElement('h4');
-		h5.innerHTML = title;
-		h4.innerHTML = text;
-		div.appendChild(h5);
-		div.appendChild(h4);
+		var titleElt = document.createElement('h4');
+		var textElt = document.createElement('h4');
+		titleElt.innerHTML = title;
+		textElt.innerHTML = text;
+		div.appendChild(titleElt);
+		div.appendChild(textElt);
 		document.body.appendChild(div);
 		showOnHover(div, target);
 	}
@@ -320,24 +332,27 @@ $(document).ready(function(){
 			var total = 0;
 			var imagesInRow = $(this).find('img').length;
 			$(this).find('img').one('load', function() {
+				//set heights of each image to 400
 				if($(this).closest('.column').length > 0) {
 					$(this).height(400 / $(this).closest('.column').children().length);
 				} else
 					$(this).height(400);
-
+				//add up widths of images except for ones not first child of column
 				if ($(this).parent().is('div:first-child') || $(this).closest('.column').length == 0)
-					total += $(this).width() + 6;
-				
+					total += $(this).width(); //+ 6
+				//after last image is loaded ...
 				imagesInRow--;
 				if (imagesInRow == 0) {
 					$(this).closest('.row').find('img').each(function() {
 						var px = $(this).width() / (total / maxWidth);
 						var percent = (px / $(this).closest('.row').width()) * 100 + '%';
 						$(this).css('width', '100%');
-						if ($(this).closest('.column').length > 0)
+						if ($(this).closest('.column').length > 0) {
 							$(this).closest('.column').css('width', percent);
-						else
+						}
+						else {
 							$(this).parent().css('width', percent);
+						}
 						$(this).css('height', 'auto');
 					})
 				}
@@ -349,11 +364,21 @@ $(document).ready(function(){
 	};
 	function showOnHover(elt, target) {
 		$('body').on('mouseenter', target, function(e) {
-			var x = e.clientX;
-			var y = e.clientY + document.body.scrollTop;
+			var x;
+			var y;
+			if(e.pageX || e.pageY) {
+				x = e.pageX;
+				y = e.pageY;
+			}
+			else if (e.clientX || e.clientY) {
+				x = e.clientX + document.body.scrollLeft
+					+ document.documentElement.scrollLeft;
+				y = e.clientY + document.body.scrollTop
+					+ document.documentElement.scrollTop;
+			}
 			var paddingBottom = parseInt($(elt).css('padding-bottom').slice(0, -2));
 			var paddingTop = parseInt($(elt).css('padding-top').slice(0, -2));
-			elt.style.top = y - ($(elt).height() + 20) - (paddingBottom + paddingTop) + 'px';
+			elt.style.top = y - ($(elt).height() / 2 - 10 ) - (paddingBottom + paddingTop) + 'px';
 			elt.style.left = x - $(elt).width() / 2 + 'px';
 		});
 		$('body').on('mouseleave', target, function(e) {

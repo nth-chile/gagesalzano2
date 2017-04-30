@@ -68,9 +68,9 @@ We made a brand, came up with beer names and drew the damn brewery all based on 
 
 --><div class='column'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w'></div><!--
 
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w'></div>
 
 </div>
 
@@ -108,7 +108,7 @@ My friend Natalie sought a business card for her antique dealing business.
 
 <div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie.png 1024w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@2x.png 2048w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@3x.png 3072w'></div>
 
-So what do you do when someone asks you for a business card? Take forever and design an entire brand system. (Sorry about that, Natalie.)
+So what do you do when someone asks you for a business card? Take forever and design an entire brand system. (Sorry about that, Natalie)
 
 {{slide['end']}}
 

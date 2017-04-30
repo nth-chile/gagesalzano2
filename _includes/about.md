@@ -4,6 +4,6 @@ I'm a graphic web designer or whatever you want to call it. I help people create
 
 I have been lucky enough to have been <span id='work-experience'>employed at some cool agencies and studios through the years</span>. I had the opportunity to work directly with a range of clients and learned a ton of things about what it takes to get projects done.
 
-I got obsessed with this stuff <span id='stealth-gaming'>when I was in grade school</span>, but didn't realize there was an occupation called "Graphic Design" <span>until I went to college</span>.
+I got obsessed with this stuff <span id='stealth-gaming'>when I was in grade school</span>, but didn't realize there was an occupation called "Graphic Design" <span id='edinboro'>until I went to college</span>.
 
-I could make a living doing this stuff? Not in my wildest dream.
+I could make a living doing this stuff? <br> Not in my wildest dream.

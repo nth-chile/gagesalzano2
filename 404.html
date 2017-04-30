@@ -13,21 +13,6 @@ title: 404 Error
 			<svg class='prev-blue' width="11" height="11" viewBox="0 0 11 11"><path d="M0 5.5L5.5 11l.975-.976-3.83-3.829H11V4.803H2.646L6.475.973 5.5 0z" fill="#005BF2" fill-rule="evenodd"/></svg>
 			go back home
 		</a>
-	<footer>
-		{% if site.social_media_links %}
-			{%	for i in site.social_media_links %}
-					<a class='{{ i.class }}' href='{{ i.href }}' target='_blank'>{{ i.svg }}</a>
-			{% endfor %}
-		{% endif %}
-
-		{% if site.byline %}
-			{% for i in site.byline %}
-			<h4>{{ i }}</h4>
-			{% endfor %}
-		{% endif %}
-		<div class='copyright'>
-			<h4>&copy; <script type="text/javascript">var d = new Date(); document.write(d.getFullYear())</script></h4>
-		</div>
-	</footer>
+	{% include footer.html %}
 	</div>
 </div>

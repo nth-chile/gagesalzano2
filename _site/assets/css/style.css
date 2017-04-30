@@ -2,15 +2,12 @@
   font-family: 'GT-America-Standard-Regular';
   src: url(../fonts/GT-America/GT-America-Standard-Regular.eot?) format("eot"), url(../fonts/GT-America/GT-America-Standard-Regular.woff) format("woff"), url(../fonts/GT-America/GT-America-Standard-Regular.ttf) format("truetype");
   font-weight: normal; }
-html {
-  background-color: black; }
-
 body {
   background-color: white;
   color: #3c3535;
   font-family: "GT-America-Standard-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
-  line-height: 26px;
+  line-height: 30px;
   text-align: center; }
 
 main {
@@ -146,7 +143,11 @@ article p,
 .mobile.hire-status p,
 .error-404-wrap p {
   margin: 0 auto;
-  padding: 3.5rem 0; }
+  padding: 5rem 0 0; }
+
+.about p:last-child,
+article p:last-child {
+  padding-bottom: 5rem; }
 
 .emoji {
   width: 1rem; }
@@ -159,6 +160,7 @@ figure {
   position: relative; }
 
 .grid__item h4 {
+  font-weight: normal;
   margin: 11px 15px;
   position: absolute;
   text-align: left;
@@ -181,7 +183,7 @@ figure {
     vertical-align: middle; }
 
 .icon.mail:hover path {
-  fill: #4D4545; }
+  fill: #a29d9d; }
 
 .icon.dribbble:hover path {
   fill: #EA4C89; }
@@ -267,10 +269,17 @@ figure {
   .desktop {
     display: none !important; }
 
+  .about p {
+    padding-top: 2.5rem; }
+    .about p:last-child {
+      padding-bottom: 2.5rem; }
+
   article {
     background-color: black; }
 
   article p {
+    font-size: 16px;
+    line-height: normal;
     margin: 0 auto;
     padding: .7rem 0; }
 
@@ -281,7 +290,7 @@ figure {
 
   .emoji {
     vertical-align: middle;
-    width: 3rem; }
+    width: 1.9rem; }
 
   figcaption {
     font-size: 15px;
@@ -317,7 +326,7 @@ figure {
   .slick-dots {
     bottom: 25px;
     margin: 0 auto;
-    padding: 25px 0;
+    padding: 12.5px 0;
     position: absolute;
     text-align: center;
     list-style: none;
@@ -330,12 +339,12 @@ figure {
         background: transparent;
         border: 2px solid white;
         border-radius: 20px;
-        height: 9px;
+        height: 7px;
         outline: none;
         overflow: hidden;
         padding: 0;
         color: transparent;
-        width: 9px; }
+        width: 7px; }
         .slick-dots li button:hover, .slick-dots li button:focus {
           outline: none; }
       .slick-dots li:first-of-type {
@@ -350,6 +359,8 @@ figure {
     line-height: 26px;
     height: 100%;
     width: 100%; }
+    .slide:focus {
+      outline: none; }
     .slide a,
     .slide figcaption a,
     .slide figcaption a:visited {
@@ -368,7 +379,7 @@ figure {
       justify-content: center;
       box-sizing: border-box;
       overflow: hidden;
-      padding: 35px 22px 70px;
+      padding: 17.5px 11px 35px;
       position: relative;
       height: 100%;
       width: 100%; }
@@ -383,11 +394,13 @@ figure {
       .slide .slide__content .bg {
         background: -webkit-linear-gradient(transparent, rgba(2, 0, 0, 0.5));
         background: linear-gradient(transparent, rgba(2, 0, 0, 0.5));
+        box-sizing: border-box;
         position: absolute;
         bottom: 0;
         left: 0;
-        padding: 190px 0 95px 0;
-        text-shadow: 1px 1px black; }
+        padding: 190px 11px 95px;
+        text-shadow: 1px 1px black;
+        width: 100%; }
       .slide .slide__content:focus {
         outline: none; }
 
@@ -479,10 +492,8 @@ figure {
     .stack__deco:nth-child(1) {
       opacity: .4; }
     .stack__deco:nth-child(2) {
-      opacity: .4; }
-    .stack__deco:nth-child(3) {
       opacity: .6; }
-    .stack__deco:nth-child(4) {
+    .stack__deco:nth-child(3) {
       opacity: .8; }
 
   .stack__figure {
@@ -507,12 +518,15 @@ figure {
   .tooltip {
     box-shadow: 0px 0px 25px 0px rgba(77, 69, 69, 0.25);
     box-sizing: border-box;
+    max-width: 300px;
     position: absolute;
-    left: -9999px; }
+    left: -9999px;
+    z-index: 9999999; }
     .tooltip h4 {
       font-weight: normal; }
     .tooltip img {
-      margin-bottom: -6px; }
+      margin-bottom: -8px;
+      max-width: 300px; }
 
   .tooltip-img a, .tooltip-img-box a {
     border-bottom: 1px solid #efefef;
@@ -524,7 +538,7 @@ figure {
       color: #efefef; }
 
   .tooltip-img figcaption {
-    bottom: 35px;
+    bottom: 1rem;
     color: white;
     position: absolute;
     width: 100%; }

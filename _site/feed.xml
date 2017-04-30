@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-29T16:23:36-07:00</updated><id>http://localhost:4000/</id><title type="html">Gage Salzano</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-30T17:07:05-07:00</updated><id>http://localhost:4000/</id><title type="html">Gage Salzano — Portfolio</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">826CHI 2014 Annual Report — Print/Web</title><link href="http://localhost:4000/2017/03/18/826CHI-2014.html" rel="alternate" type="text/html" title="826CHI 2014 Annual Report — Print/Web" /><published>2017-03-18T14:48:57-07:00</published><updated>2017-03-18T14:48:57-07:00</updated><id>http://localhost:4000/2017/03/18/826CHI-2014</id><content type="html" xml:base="http://localhost:4000/2017/03/18/826CHI-2014.html">&lt;div class=&quot;slide mobile&quot;&gt;
   &lt;div class=&quot;slide__content&quot;&gt;
 
@@ -241,9 +241,9 @@ The gif below replaces the above .png
 
 --&gt;&lt;div class=&quot;column&quot;&gt;
 
-&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w&quot; /&gt;&lt;/div&gt;&lt;!--
 
-&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
+--&gt;&lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w&quot; /&gt;&lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -289,7 +289,7 @@ The gif below replaces the above .png
 
     &lt;div&gt;&lt;img src=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/natalie.png&quot; srcset=&quot;http://localhost:4000/assets/images/posts/Stuff_For_Friends/natalie.png 1024w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/natalie@2x.png 2048w, http://localhost:4000/assets/images/posts/Stuff_For_Friends/natalie@3x.png 3072w&quot; /&gt;&lt;/div&gt;
 
-    &lt;p&gt;So what do you do when someone asks you for a business card? Take forever and design an entire brand system. (Sorry about that, Natalie.)&lt;/p&gt;
+    &lt;p&gt;So what do you do when someone asks you for a business card? Take forever and design an entire brand system. (Sorry about that, Natalie)&lt;/p&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
