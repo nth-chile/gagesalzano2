@@ -55,7 +55,7 @@ That's why the color was such an important part. It tied the whole room together
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-5.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-5.png 554w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5@2x.png 1108w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5@3x.png 1662w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile.png 375w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile@3x.png 1125w'></div>
 
 The parts of the logo could be used to construct icons, layouts and other brand elements.
 
@@ -81,7 +81,7 @@ That's why the color was such an important part. It tied the whole room together
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-6.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-6.png 234w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6@2x.png 468w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6@3x.png 702w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile.png 375w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 

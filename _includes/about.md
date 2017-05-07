@@ -1,4 +1,4 @@
-<img src='{{ '/assets/images/waving_hand_sign.svg' | prepend: site.url }}' alt='Waving hand sign' class='emoji'> <span id='me'>Hi, my name is Gage Salzano.</span>
+<img src='{{ '/assets/images/man_raising_hand.png' | prepend: site.url }}' alt='Wave emoji' class='emoji'> <span id='me'>Hi, my name is Gage Salzano.</span>
 
 I'm a graphic web designer or whatever you want to call it. I help people create brands for new companies and initiatives, conceptualize marketing campaigns, visualize and illustrate things and design websites. My goal is to <span id='clickingaway'>always provide the best quality stuff I can for a fair price</span>.
 

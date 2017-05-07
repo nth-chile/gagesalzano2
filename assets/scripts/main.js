@@ -40,10 +40,10 @@ $(document).ready(function(){
 
 	function actualResizeHandler() {
 		var layoutShouldChange = false;
-		if (window.matchMedia("(max-width: 500px)").matches && layout == 'full') {
+		if (window.matchMedia("(max-width: 479px)").matches && layout == 'full') {
 			layout = 'mini';
 			layoutShouldChange = true;
-		} else if (window.matchMedia("(min-width: 501px)").matches && layout == 'mini') {
+		} else if (window.matchMedia("(min-width: 480px)").matches && layout == 'mini') {
 			layout = 'full';
 			layoutShouldChange = true;
 		}
@@ -94,14 +94,14 @@ $(document).ready(function(){
 //** MEDIA QUERIES (ON LOAD) **//	
 
 
-	if (window.matchMedia("(max-width: 500px)").matches) {
+	if (window.matchMedia("(max-width: 479px)").matches) {
 		var layout = 'mini';
 		if ( $('.slick').length > 0 ) {
 			//$('.row div').width('100%');
 			doSlick();
 			centerFullHeightClass();
 		}
-	} else if (window.matchMedia("(min-width: 501px)").matches) {
+	} else if (window.matchMedia("(min-width: 480px)").matches) {
 		var layout = 'full';
 		if($('.home-wrap').length > 0) {
 			buildGrid();
@@ -117,11 +117,6 @@ $(document).ready(function(){
 
 //** FUNCTION DEFINITIONS **//
 
-	function applyHover() {
-		[].slice.call(document.querySelectorAll('.grid__item a')).forEach(function(stackEl) {
-			new VegaFx(stackEl);
-		});
-	}
 	function buildGrid() {
 		$grid.html('');
 		$grid.masonry(masonryOptions);
@@ -131,7 +126,6 @@ $(document).ready(function(){
 				.masonry();
 		});
 		$grid.on('layoutComplete', setTileZIndex);
-		applyHover();
 	}
 	function centerFullHeightClass() {
 		$('.full-height').one('load', function() {
@@ -152,7 +146,8 @@ $(document).ready(function(){
 					'height': 'auto',
 					'left': '0'					
 				});
-				var topValue = 0 - ($(this).height() / 2 - $(window).height() / 2);
+				var topValue = $(this).height() / 2 - $(window).height() / 2;
+				if (topValue > 0) topValue = 0 - topValue;
 				$(this).css('top', topValue);
 			}
 		})
@@ -164,11 +159,11 @@ $(document).ready(function(){
 		//tooltip(type, target, image, caption, captionBgColor);
 		tooltip_img(
 			'#me',
-			'assets/images/tooltips/me.png',
+			'assets/images/tooltips/me.jpg',
 			'This is a picture of me my friend <a href="http://www.ismellpaper.com/" target="_blank">Liz</a> took.',
 			'Me'
 		);
-		tooltip_img_box(
+		tooltip_img_boxBottom(
 			'#stealth-gaming',
 			'assets/images/tooltips/stealthgaming.png',
 			'<b>Stealth Gaming</b>, 2000<br />Project with friends back in the day',
@@ -185,12 +180,12 @@ $(document).ready(function(){
 			'<b>WORK EXPERIENCE:</b>',
 			'<ul><li>— <b>Current:</b> Independent</li><li>— <b>Nelson Cash:</b> Sr. Designer, 6 years</li><li>— <b>Doejo:</b> Sr. Designer, 1 year</li><li>— <b>Smith Brothers Advertising:</b> Designer, 1 year</li><li>— <b>Mind Over Media:</b> Designer, 1 year</li></ul>'
 		);
-		tooltip_img_box(
+		tooltip_img_boxRight(
 			'#edinboro',
 			'assets/images/tooltips/edinboro.png',
-			'<b>EDUCATION:<br />Edinboro University of Pennsylvania</b><br />BFA, Applied Media Arts — Graphic Design',
+			'<div style="color:rgb(162, 157, 157);padding-bottom:.5rem"><b>EDUCATION:<br />— Edinboro Univ. of PA</b><br /><span style="padding-left:15px">BFA, 2008</span></div>This picture sums up what it was like to walk on campus most of the year. I experienced lake-effect snowstorms, amazing friendships and lots of late nights at the studio.',
 			'Edinboro University of Pennsylvania',
-			'rgb(66, 90, 131)'
+			'rgb(46, 43, 43)'
 		);
 	}
 	function displayRandomQuote() {
@@ -201,13 +196,13 @@ $(document).ready(function(){
   		var index = Math.floor(Math.random() * (counter));
   		var $p = $($('a.quote__quote')[index]);
 
-  		var $startQuote = $('<p>&ldquo;</p>')
-  		$startQuote.addClass('desktop quotation-mark')
-  					  .css('display', 'inline-block');
+  		var $startQuote = $('<span>&ldquo;</span>')
+  		$startQuote.addClass('desktop quotation-mark quote__quote')
+  					  .css('display', 'inline');
   		
-  		var $endQuote = $('<p>&rdquo;</p>')
-  		$endQuote.addClass('desktop quotation-mark')
-  					  .css('display', 'inline-block');
+  		var $endQuote = $('<span>&rdquo;</span>')
+  		$endQuote.addClass('desktop quotation-mark quote__quote')
+  					  .css('display', 'inline');
   		
   		$p.css('display', 'inline');
   		$p.before($startQuote);
@@ -261,9 +256,9 @@ $(document).ready(function(){
 		showOnHover(div, target);
 		
 	}
-	function tooltip_img_box(target, image, caption, alt, captionBgColor) {
+	function tooltip_img_boxBottom(target, image, caption, alt, captionBgColor) {
 		var div = document.createElement('div');
-		div.className = 'tooltip tooltip-img-box';
+		div.className = 'tooltip tooltip-img-box--bottom';
 		var fig = document.createElement('figure');
 		var img = document.createElement('img');
 		img.src = image;
@@ -275,6 +270,28 @@ $(document).ready(function(){
 		fig.appendChild(cptn);
 		div.appendChild(fig);
 		document.body.appendChild(div);
+		showOnHover(div, target);
+	}
+	function tooltip_img_boxRight(target, image, caption, alt, captionBgColor) {
+		var div = document.createElement('div');
+		div.className = 'tooltip tooltip-img-box--right';
+		var fig = document.createElement('figure');
+		var img = document.createElement('img');
+		img.src = image;
+		if (arguments.length = 5) img.alt = alt;
+		var cptn = document.createElement('figcaption');
+		cptn.style.backgroundColor = captionBgColor;
+		cptn.innerHTML = caption;
+		fig.appendChild(img);
+		fig.appendChild(cptn);
+		div.appendChild(fig);
+		document.body.appendChild(div);
+		$(img).load(function() {
+			$(fig).height($(img).height());
+		})
+		.each(function() {
+		  if(this.complete) $(this).trigger('load');
+		});
 		showOnHover(div, target);
 	}
 	function tooltip_text(target, title, text) {
@@ -327,7 +344,7 @@ $(document).ready(function(){
 	}
 	function setRowItemWidths() {
 		rowsSet = true;
-		var maxWidth = $(window).width() - 230;
+		var maxWidth = $(window).width();
 		$('.row').each(function() {
 			var total = 0;
 			var imagesInRow = $(this).find('img').length;
@@ -339,13 +356,14 @@ $(document).ready(function(){
 					$(this).height(400);
 				//add up widths of images except for ones not first child of column
 				if ($(this).parent().is('div:first-child') || $(this).closest('.column').length == 0)
-					total += $(this).width(); //+ 6
+					total += $(this).width() + 6;
 				//after last image is loaded ...
 				imagesInRow--;
 				if (imagesInRow == 0) {
 					$(this).closest('.row').find('img').each(function() {
-						var px = $(this).width() / (total / maxWidth);
-						var percent = (px / $(this).closest('.row').width()) * 100 + '%';
+						//var px = $(this).width() / (total / maxWidth);
+						//var percent = (px / $(this).closest('.row').width()) * 100 + '%';
+						var percent = $(this).width() / total * 100 + '%';
 						$(this).css('width', '100%');
 						if ($(this).closest('.column').length > 0) {
 							$(this).closest('.column').css('width', percent);
@@ -378,8 +396,16 @@ $(document).ready(function(){
 			}
 			var paddingBottom = parseInt($(elt).css('padding-bottom').slice(0, -2));
 			var paddingTop = parseInt($(elt).css('padding-top').slice(0, -2));
-			elt.style.top = y - ($(elt).height() / 2 - 10 ) - (paddingBottom + paddingTop) + 'px';
-			elt.style.left = x - $(elt).width() / 2 + 'px';
+			elt.style.top = y - ($(elt).height() + 20 ) - (paddingBottom + paddingTop) + 'px';
+			if ( x - $(elt).width() / 2 < 0 )
+				elt.style.left = 0;
+			else if ( x + $(elt).width() / 2 > $(window).width() ) {
+				console.log ($(window).width(), $(elt).width());
+				elt.style.left = $(window).width() - $(elt).width() + 'px';
+			}
+			else
+				elt.style.left = x - $(elt).width() / 2 + 'px';
+			
 		});
 		$('body').on('mouseleave', target, function(e) {
 			setTimeout(function(){

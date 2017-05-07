@@ -1,11 +1,12 @@
 <footer>
+
+	<div class='mobile hire-status'><div class='dot'></div><h4>Available for hire</h4></div>
+
 	{% if site.social_media_links %}
 		{%	for i in site.social_media_links %}
 				<a class='{{ i.class }}' href='{{ i.href }}' target='_blank'>{{ i.svg }}</a>
 		{% endfor %}
 	{% endif %}
-	
-	<div class='mobile hire-status'><div class='dot'></div><p>Available for hire</p></div>
 
 	{% if site.byline %}
 		{% for i in site.byline %}

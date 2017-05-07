@@ -37,7 +37,7 @@ layout: default
 
 	<div class='about mobile'>{{ about | markdownify }}</div>
 
-	<div class='grid grid--effect-vega'>
+	<div class='grid'>
 	{% if site.posts %}
 		{% for post in site.posts %}
 			{% if post.stack_color %}
@@ -47,29 +47,22 @@ layout: default
 			{% endif %}
 			{% if post.title != 'about' %}
 		<div class='no-masonry grid__item'>
-			<a href='{{ post.url | prepend: site.url }}' >
-				<div class='stack'>
-					<div class="stack__deco" style="background-color:{{ bg_color }}" ></div>
-					<div class="stack__deco" style="background-color:{{ bg_color }}" ></div>
-					<div class="stack__deco" style="background-color:{{ bg_color }}" ></div>
-					<div class='stack__figure'>
-						<h4
-							{% if post.dark_title %}
-								style='color: rgb(77, 69, 69);text-shadow: 0 0 2px rgba(239, 239, 239, .2)'
-							{% else %}
-								style='text-shadow: 0 0 2px rgba(60, 53, 53, .3)'
-							{% endif %}
-						>{{ post.title | escape }}</h4>				
-						{% if post.featured_image %}
-						<img class='stack__img' src='{{ post.featured_image | prepend: site.url }}'
-							{% if post.style %}
-								style='{{ post.style }}'
-							{% endif %}
-						/>
-							{% else %}
-						<img class='stack__img' src='{{ '/assets/images/posts/default.png' | prepend: site.url }}'/>
+			<a href='{{ post.url | prepend: site.url }}' style='background-color: {{bg_color}}'>
+				<div>
+					<h4
+						{% if post.dark_title %}
+							style='color: rgb(77, 69, 69)'
 						{% endif %}
-					</div>
+					>{{ post.title | escape }}</h4>				
+					{% if post.featured_image %}
+					<img src='{{ post.featured_image | prepend: site.url }}'
+						{% if post.style %}
+							style='{{ post.style }}'
+						{% endif %}
+					/>
+						{% else %}
+					<img src='{{ '/assets/images/posts/default.png' | prepend: site.url }}'/>
+					{% endif %}
 				</div>
 			</a>
 		</div>
@@ -81,5 +74,3 @@ layout: default
 	<div class='about desktop'>{{ about | markdownify }}</div>
 	{% include footer.html %}
 </div>
-<script type="text/javascript" src='{{ '/assets/scripts/anime.min.js' | prepend: site.url }}'></script>
-<script type="text/javascript" src='{{ '/assets/scripts/hover.js' | prepend: site.url }}'></script>

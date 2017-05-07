@@ -57,14 +57,14 @@
 			translateZ: [
 				{
 					value: function(target, index) {
-						return index*4 + 4;
+						return index*2 + 2;
 					},
 					duration: 200,
 					easing: [0.42,0,1,1]
 				},
 				{ 
 					value: function(target, index) {
-						return index*10 + 10;
+						return index*5 + 5;
 					},
 					duration: 700,
 					easing: [0.2,1,0.3,1]
@@ -76,7 +76,7 @@
 			targets: this.DOM.img,
 			duration: 900,
 			easing: [0.2,1,0.3,1],
-			scale: 1.02
+			scale: 1.001
 		});
 
 	};
@@ -89,7 +89,7 @@
 			translateZ: [
 				{ 
 					value: function(target, index) {
-						return index * 10 + 10 - 4;
+						return index * 5 + 5 - 2;
 					},
 					duration: 200 ,
 					easing: [0.42,0,1,1]
