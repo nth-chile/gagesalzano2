@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-//** VARIABLES **//
+//** GLOBALS **//
 
 	var rowsSet = false;
 
@@ -14,7 +14,6 @@ $(document).ready(function(){
 
 	var masonryOptions = {
 			itemSelector: '.grid__item__wrap',
-			//columnWidth: 1,
 			originTop: false
 		};
 
@@ -35,22 +34,29 @@ $(document).ready(function(){
 //** DO STUFF **//
 
 	displayRandomQuote();
+
 	//resize throttler
 	(function() {window.addEventListener("resize", resizeThrottler, false);var resizeTimeout;function resizeThrottler() {if ( !resizeTimeout ) {resizeTimeout = setTimeout(function() {resizeTimeout = null;actualResizeHandler();}, 66);}}
-
+	
 	function actualResizeHandler() {
 		var layoutShouldChange = false;
-		if (window.matchMedia("(max-width: 479px)").matches && layout == 'full') {
+		if (window.matchMedia("(max-width: 479.9px)").matches && layout != 'mini') {
 			layout = 'mini';
 			layoutShouldChange = true;
-		} else if (window.matchMedia("(min-width: 480px)").matches && layout == 'mini') {
+		} else if (window.matchMedia("(min-width: 480px) and (max-width: 699px)").matches && layout != 'medium') {
+			layout = 'medium';
+			layoutShouldChange = true;
+		} else if (window.matchMedia("(min-width: 700px)").matches && layout != 'full') {
 			layout = 'full';
 			layoutShouldChange = true;
 		}
 		if (layoutShouldChange) {
 			if (layout == 'mini') {
-				if ($('.home-wrap').length > 0) {
-					$grid.masonry('destroy');
+				if ($('.home-wrap').length > 0) { //if home page
+					if($grid.hasClass('masonry--initialized')) {
+						$grid.masonry('destroy');
+						$grid.removeClass('masonry--initialized');
+					}
 					$grid.html('');
 					gridItemContents.forEach(function(item) {
 						$grid.append(
@@ -59,22 +65,27 @@ $(document).ready(function(){
 							).html(item)
 						)
 					});
-				} else if ( $('.slick').length > 0 ) {
-					//$('.row div').width('100%');
+				} else if ( $('.slick').length > 0 ) { //if article page
 					doSlick();
 					centerFullHeightClass();
 				}
-			} else if (layout == 'full') {
+			} else if (layout == 'medium') {
 				if($('.home-wrap').length > 0) {
-					buildGrid();
+					buildTinyGrid();
 					if($('.tooltip').length == 0) createTooltips();
 				} else if ($('.slick').length > 0 ) {
 					$('.slick').slick('slickUnfilter');
 					$('html').css('position', 'static');
-					if(!rowsSet) {
+					if(!rowsSet) { //if these functions haven't been called
 						setColumnItemHeight();
 						setRowItemWidths();
 					}
+				}
+			}
+			else if (layout == 'full') {
+				if ($('.home-wrap').length > 0) {
+					buildGrid();
+					if($('.tooltip').length == 0) createTooltips();
 				}
 			}
 			removeLoadScreen();
@@ -82,33 +93,40 @@ $(document).ready(function(){
 	}
 	}());
 
-	//give article a target='_blank'
 	$('article.slick a').attr('target', '_blank');
-	//if a 'div' comes after a '.slick p', give 'article p' bottom padding
+	//if a 'div' comes after an 'article p', give the paragraph bottom padding
 	$('.slick p').each( function(index, elt) {
-		if ($(elt).next('div').length !== 0)
+		if ($(elt).next('div').length !== 0 || $(elt).next('figure').length !== 0)
 			$(elt).css('padding-bottom', '5rem');
 	});
 
+//** MEDIA QUERIES (ON PAGE LOAD) **//	
 
-//** MEDIA QUERIES (ON LOAD) **//	
 
-
-	if (window.matchMedia("(max-width: 479px)").matches) {
+	if (window.matchMedia("(max-width: 479.9px)").matches) {
 		var layout = 'mini';
 		if ( $('.slick').length > 0 ) {
-			//$('.row div').width('100%');
 			doSlick();
 			centerFullHeightClass();
 		}
-	} else if (window.matchMedia("(min-width: 480px)").matches) {
-		var layout = 'full';
+	} else if (window.matchMedia("(min-width: 480px) and (max-width: 699px)").matches) {
+		var layout = 'medium';
 		if($('.home-wrap').length > 0) {
-			buildGrid();
+			buildTinyGrid();
 			if($('.tooltip').length == 0) createTooltips();
 		} else if ($('.slick').length > 0 ) {
 			setRowItemWidths();
 			setColumnItemHeight();
+		}
+	}
+	else if (window.matchMedia("(min-width: 700px)").matches) {
+		var layout = 'full';
+		if($('.home-wrap').length > 0) {
+			buildGrid();
+			if($('.tooltip').length == 0) createTooltips();
+		}  else if ($('.slick').length > 0 ) {
+			setColumnItemHeight();
+			setRowItemWidths();
 		}
 	}
 	removeLoadScreen();
@@ -118,6 +136,12 @@ $(document).ready(function(){
 //** FUNCTION DEFINITIONS **//
 
 	function buildGrid() {
+		if(!$grid.hasClass('masonry--initialized'))
+			$grid.addClass('masonry--initialized');
+		else {
+			$grid.masonry('destroy');
+			$grid.removeClass('masonry--initialized');
+		}
 		$grid.html('');
 		$grid.masonry(masonryOptions);
 		msnryItems.forEach(function(item) {
@@ -127,6 +151,50 @@ $(document).ready(function(){
 		});
 		$grid.on('layoutComplete', setTileZIndex);
 	}
+	function buildTinyGrid() {
+		if($grid.hasClass('masonry--initialized')) {
+			$grid.removeClass('masonry--initialized');
+			$grid.masonry('destroy');
+		}
+		$grid.html('');
+		var phase = 1;
+		var widths = [];
+		//repeat a pattern: give first two grid items 50% width, give the next three 33.33% width
+		//first, build an array of width values
+		for (i = 0 ; i <= gridItemContents.length; i++) {
+			if ( phase == 1 | phase == 2 )
+				widths.push('50%');
+			else
+				widths.push('33.333333333333%');
+			phase < 5 ? phase++ : phase = 1;
+		}
+		//assign those width values and append to a wrapper
+		gridItemContents.forEach(function(item, index) {
+			var $wrap = $($('<div>').attr('class', 'grid__item__wrap'))
+				.css({
+					'width': widths[index],
+					'height': '30vw'
+				})
+				.append(
+					$('<div>')
+					.addClass('grid__item')
+					.append(item)
+				);
+			
+			$grid.append($wrap)
+		});
+		setTileZIndex();
+		//if the image aspect ratio is wider than that of grid tile, assign class to prevent stretch-to-fit
+		var $img = $('.grid__item__wrap').find('img');
+		$img.one('load', function() {
+			if($(this).height() / $(this).width() < $(this).closest('.grid__item__wrap').height() / $(this).closest('.grid__item__wrap').width())
+				if($(this).hasClass('stretchfix') == false) $(this).addClass('stretchfix');
+		})
+		.each(function() {
+			if(this.complete) $(this).trigger('load');
+		});
+	}
+	//on mobile 'slide' view, make article images with class of 'full-height' fill screen
 	function centerFullHeightClass() {
 		$('.full-height').one('load', function() {
 			var imgRatio = (
@@ -166,18 +234,18 @@ $(document).ready(function(){
 		tooltip_img_boxBottom(
 			'#stealth-gaming',
 			'assets/images/tooltips/stealthgaming.png',
-			'<b>Stealth Gaming</b>, 2000<br />Project with friends back in the day',
+			'This is the only decent screenshot from the Wayback Machine that I could grab of one of THE MANY schemes me and friends in high school dreamed up, this time a video game review site called “Stealth Gaming.” I was usually the graphics guy because I wasn’t nearly as smart as everyone else, and this is the type of stuff I would come up with. 😂',
 			'Project with friends back in the day',
 			'rgb(66, 90, 131)'
 		);
 		tooltip_img(
 			'#clickingaway',
 			'assets/images/tooltips/clickingaway.png',
-			'Clicking away, every day.<br />Photo by <a href="https://www.behance.net/joshuaslisd3b0" target="_blank">Josh</a>.'
+			'Clicking away, every day.<br />Photo by <a href="https://dribbble.com/joshliston" target="_blank">Josh</a>.'
 		);
 		tooltip_text(
 			'#work-experience',
-			'<b>WORK EXPERIENCE:</b>',
+			'<b>Work Experience:</b>',
 			'<ul><li>— <b>Current:</b> Independent</li><li>— <b>Nelson Cash:</b> Sr. Designer, 6 years</li><li>— <b>Doejo:</b> Sr. Designer, 1 year</li><li>— <b>Smith Brothers Advertising:</b> Designer, 1 year</li><li>— <b>Mind Over Media:</b> Designer, 1 year</li></ul>'
 		);
 		tooltip_img_boxRight(
@@ -238,7 +306,10 @@ $(document).ready(function(){
 	function removeLoadScreen(){
 		$('.loading').remove();
 		$('html, body').css('overflow', 'visible');
-		$('html, body').css('height', 'auto');
+		if (document.getElementsByClassName('home-wrap').length > 0)
+			$('html, body').css('height', '100%');
+		else
+			$('html, body').css('height', 'auto');
 	}
 	function tooltip_img(target, image, caption, alt) {
 		var div = document.createElement('div');
@@ -270,6 +341,12 @@ $(document).ready(function(){
 		fig.appendChild(cptn);
 		div.appendChild(fig);
 		document.body.appendChild(div);
+		$(img).load(function() {
+			$(fig).width($(img).width());
+		})
+		.each(function() {
+		  if(this.complete) $(this).trigger('load');
+		});
 		showOnHover(div, target);
 	}
 	function tooltip_img_boxRight(target, image, caption, alt, captionBgColor) {
@@ -288,6 +365,7 @@ $(document).ready(function(){
 		document.body.appendChild(div);
 		$(img).load(function() {
 			$(fig).height($(img).height());
+			$(cptn).width($(img).width());
 		})
 		.each(function() {
 		  if(this.complete) $(this).trigger('load');
@@ -306,6 +384,7 @@ $(document).ready(function(){
 		document.body.appendChild(div);
 		showOnHover(div, target);
 	}
+	//for article pages, divs in a 'div.column' are equal height
 	function setColumnItemHeight() {
 		$('.column').children().each(function() {
 			$(this).outerHeight(
@@ -313,10 +392,10 @@ $(document).ready(function(){
 			)
 		})
 	}
+	//so that hovered grid items overlap properly when they grow
 	function setTileZIndex() {
 		var $tiles = $('.grid__item__wrap');
 		var coords = [];
-		//var z = 9999;
 		$tiles.each(function(index) {
 			var topLeft = $(this).offset();
 			var obj = {
@@ -342,24 +421,24 @@ $(document).ready(function(){
 			elt.$this.css('z-index', elt.z);
 		});
 	}
+	//this function needs help! there must be a better way to size images in a '.row' so their edges are flush
 	function setRowItemWidths() {
-		rowsSet = true;
+		rowsSet = true; //set global to declare that this function has been called!
 		var maxWidth = $(window).width();
 		$('.row').each(function() {
-			var total = 0;
+			var total = 0; //the sum of image widths when they have all been set to an equal height
 			var imagesInRow = $(this).find('img').length;
 			$(this).find('img').one('load', function() {
-				//set heights of each image to 400
+				//give each image the same height, say 400px ... only to compare them!
 				if($(this).closest('.column').length > 0) {
 					$(this).height(400 / $(this).closest('.column').children().length);
 				} else
 					$(this).height(400);
-				//add up widths of images except for ones not first child of column
+				//total the widths of images except for ones not first child of column, since those shuoldn't make the row wider
 				if ($(this).parent().is('div:first-child') || $(this).closest('.column').length == 0)
 					total += $(this).width() + 6;
-				//after last image is loaded ...
 				imagesInRow--;
-				if (imagesInRow == 0) {
+				if (imagesInRow == 0) { //after last image is loaded ...
 					$(this).closest('.row').find('img').each(function() {
 						//var px = $(this).width() / (total / maxWidth);
 						//var percent = (px / $(this).closest('.row').width()) * 100 + '%';
@@ -380,6 +459,7 @@ $(document).ready(function(){
 			});
 		});
 	};
+	// show tooltips at mouse position
 	function showOnHover(elt, target) {
 		$('body').on('mouseenter', target, function(e) {
 			var x;
@@ -400,7 +480,6 @@ $(document).ready(function(){
 			if ( x - $(elt).width() / 2 < 0 )
 				elt.style.left = 0;
 			else if ( x + $(elt).width() / 2 > $(window).width() ) {
-				console.log ($(window).width(), $(elt).width());
 				elt.style.left = $(window).width() - $(elt).width() + 'px';
 			}
 			else

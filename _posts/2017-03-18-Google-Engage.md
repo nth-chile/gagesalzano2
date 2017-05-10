@@ -27,15 +27,15 @@ Thanks for that one, <a href='http://www.goodreads.com/quotes/20103-the-whole-is
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.png 1024w, {{ site.url }}/assets/images/posts/Google_Engage/engage-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Google_Engage/engage-1@3x.png 3072w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.png 1024w, {{ site.url }}/assets/images/posts/Google_Engage/engage-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Google_Engage/engage-1@3x.png 3072w'></div>
 
 Google Engage is a partnership created by &hellip; Google for agencies working in search marketing that use their products.
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-2.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-2.png 314w, {{ site.url }}/assets/images/posts/Google_Engage/engage-2@2x.png 628w, {{ site.url }}/assets/images/posts/Google_Engage/engage-2@3x.png 942w'></div><!--
+<div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-2.png 314w, {{ site.url }}/assets/images/posts/Google_Engage/engage-2@2x.png 628w, {{ site.url }}/assets/images/posts/Google_Engage/engage-2@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-3.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-3.png 474w, {{ site.url }}/assets/images/posts/Google_Engage/engage-3@2x.png 948w, {{ site.url }}/assets/images/posts/Google_Engage/engage-3@3x.png 1422w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-3.png 474w, {{ site.url }}/assets/images/posts/Google_Engage/engage-3@2x.png 948w, {{ site.url }}/assets/images/posts/Google_Engage/engage-3@3x.png 1422w'></div>
 
 </div>
 
@@ -89,9 +89,9 @@ That's why the color was such an important part. It tied the whole room together
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-5.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-5.png 554w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5@2x.png 1108w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5@3x.png 1662w'></div><!--
+<div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-5.png 554w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5@2x.png 1108w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5@3x.png 1662w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-6.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-6.png 234w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6@2x.png 468w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6@3x.png 702w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-6@2x.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-6.png 234w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6@2x.png 468w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6@3x.png 702w'></div>
 
 </div>
 

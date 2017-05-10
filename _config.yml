@@ -28,7 +28,7 @@ id:
   subtitle: Graphic Designer, 1986–?
 
 byline:
-- Code by <a href='#' target='_blank'>Jared</a>, my brother.
+- Code by <a href='mailto:jaredsalzano@gmail.com' target='_blank'>Jared</a>, my brother.
 - Photos of work by <a href='#' target='_blank'>Shannon</a>, my girlfriend.
 
 social_media_links:
@@ -49,13 +49,24 @@ quotes:
 - quote: You're only given a little spark of madness. You mustn't lose it.
   source: Robin Williams, 1978
   href: https://www.youtube.com/watch?v=aTRtH1uJh0g
-- quote: This is a sample quote to test the random selection.
-  source: Second Guy, 1922
-- quote: This is the third sample quote. Looks like the randomness is working.
-  source: Third Guy, 1933
-- quote: This is the fourth sample quote. Now I'm sure the randomness is working. This one let's make long to test what it looks like when it wraps.
-  source: Fourth Guy, 1944
-
+- quote: If you work really hard, and you're kind, amazing things will happen.
+  source: Conan O'Brien, 2010
+  href: https://www.youtube.com/watch?v=jr_X4w8FdGk
+- quote: I'm a big believer in winging it.
+  source: Anthony Bourdain
+  href: https://www.inc.com/kevin-daum/30-quotes-from-anthony-bourdain-on-making-your-life-a-fulfilling-adventure.html
+- quote: Don't forget to swing hard, in case you hit the ball.
+  source: Woodie Held
+  href: http://www.tradingcarddb.com/Images/Cards/Baseball/47/47–178Fr.jpg
+- quote: Never trust a computer you can't throw out a window.
+  source: Steve Wozniak
+  href: http://www.foundersatwork.com/uploads/6/5/9/4/65942/1279424.jpg
+- quote: You might be on “B” Squad, But you're the “B” Squad leader.
+  source: Steve Zissou, The Life Aquatic
+  href: https://www.youtube.com/watch?v=ZOdn3D4xfs4
+- quote: ...don’t give much thought to where “there” is. Whatever comes, just don’t stop.
+  source: Phil Knight, Shoe Dog
+  href: https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike/dp/1501135910
 
 # Build settings
 highlighter: rouge

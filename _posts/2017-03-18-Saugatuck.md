@@ -16,7 +16,7 @@ stack_color: rgb(224,174,90)
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1.png 1024w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1@3x.png 3072w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1@3x.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1.png 1024w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1@3x.png 3072w'></div>
 
 Sometimes, you get super lucky and get to work on branding for a town.
 
@@ -50,11 +50,11 @@ The river motif winds throughout collateral and forms different imagery.
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2-copy.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2-copy.png 794w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2-copy@2x.png 1588w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2-copy@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2-copy@2x.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2-copy.png 794w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2-copy@2x.png 1588w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2-copy@3x.png 2382w'></div>
 
 The Kalamazoo River(link) separates Saugatuck from its adjacent city, Douglas. The logo needed to be able to be used by both towns, so the river became a natural (literally) anchor for this concept.
 
-<div><img src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2.png 794w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2@2x.png 1588w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2.png 794w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2@2x.png 1588w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2@3x.png 2382w'></div>
 
 The type interacts with the river and can be used in many ways.
 
@@ -68,7 +68,7 @@ The type interacts with the river and can be used in many ways.
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-3.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-3.png 794w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-3@2x.png 1588w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-3@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-3.png 794w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-3@2x.png 1588w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-3@3x.png 2382w'></div>
 
 The river motif winds throughout collateral and forms different imagery.
 
@@ -86,10 +86,18 @@ The river motif winds throughout collateral and forms different imagery.
 
 {{slide['end']}}
 
+{{slide['startmobile']}}
+
+Designed with <a href='http://sarahgless.com/'>Sarah Gless</a>.
+
+{{slide['end']}}
+
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4.png 794w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4@2x.png 1588w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4@2x.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4.png 794w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4@2x.png 1588w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4@3x.png 2382w'></div>
 
-<div><img src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-5.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-5.png 794w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-5@2x.png 1588w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-5@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-5.png 794w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-5@2x.png 1588w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-5@3x.png 2382w'></div>
+
+Designed with <a href='http://sarahgless.com/'>Sarah Gless</a>.
 
 {{slide['end']}}

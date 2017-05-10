@@ -1,6 +1,11 @@
 <footer>
 
-	<div class='mobile hire-status'><div class='dot'></div><h4>Available for hire</h4></div>
+
+
+	{% if site.available != true %}
+		{% assign visibility = "style='visibility:hidden'" %}
+	{% endif %}
+	<div class='hire-status' {{visibility}}><div class='dot'></div><h4><a href='mailto:{{site.email}}' target='_blank'>Available for hire</a></h4></div>
 
 	{% if site.social_media_links %}
 		{%	for i in site.social_media_links %}

@@ -16,7 +16,7 @@ Some of the most fun you have as a designer is doing things for buds. You know w
 
 {{slide['start']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal.png 796w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal@2x.png 1592w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal@3x.png 2388w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal.png 796w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal@2x.png 1592w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal@3x.png 2388w'></div>
 
 This was a shirt and tote bag design that was created for my girlfriend because she says it a lot.
 
@@ -34,7 +34,7 @@ If people had taglines, this would be Shannon's.
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails.png 474w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails@2x.png 948w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails@3x.png 1422w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails@3x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails.png 474w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails@2x.png 948w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails@3x.png 1422w'></div>
 
 I got to draw some cocktails for Amy &amp; Ben's awesome wedding.
 
@@ -72,13 +72,13 @@ We made a brand, came up with beer names and drew the damn brewery all based on 
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1.png 554w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1@2x.png 1108w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1@3x.png 1662w'></div><!--
+<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1.png 554w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1@2x.png 1108w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1@3x.png 1662w'></div><!--
 
 --><div class='column'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w'></div><!--
+<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2.png 234w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2@2x.png 468w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2@3x.png 702w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3.png 234w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3@2x.png 468w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3@3x.png 702w'></div>
 
 </div>
 
@@ -92,7 +92,7 @@ We made a brand, came up with beer names and drew the damn brewery all based on 
 
 {{slide['start']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4.png 794w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4@2x.png 1588w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4.png 794w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4@2x.png 1588w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4@3x.png 2382w'></div>
 
 The screenprint was drawn at the exact location as he described it, even the taco truck in front is something he mentioned that would be awesome.
 
@@ -100,7 +100,7 @@ The screenprint was drawn at the exact location as he described it, even the tac
 
 {{slide['start']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5.png 794w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5@2x.png 1588w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5.png 794w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5@2x.png 1588w'></div>
 
 This is a shirt we made with the logo of the 606 Kolsch. I never got to taste the beer but I wear this shirt almost everyday.
 
@@ -122,7 +122,7 @@ So what do you do when someone asks you for a business card? Take forever and de
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie.png 1024w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@2x.png 2048w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@3x.png 3072w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie.png 1024w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@2x.png 2048w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@3x.png 3072w'></div>
 
 My friend Natalie sought a business card for her antique dealing business.
 
@@ -132,7 +132,7 @@ So what do you do when someone asks you for a business card? Take forever and de
 
 {{slide['start']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica.png 794w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@2x.png 1588w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica.png 794w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@2x.png 1588w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@3x.png 2382w'></div>
 
 Casey &amp; Monica are two awesome people that got married in a movie theatre built in 1903. It felt appropriate that their wedding invites were made to feel "letterpress-y".
 

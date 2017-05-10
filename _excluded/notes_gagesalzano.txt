@@ -1,35 +1,4 @@
-- i think at a few specific widths the grid items get rearranged
 - are there any .column issues?
+- load images only on media query?
 
-update mobile images and some desktop. do desktop first
-
-LATER
-- some full pics not as crisp as they could be
-- glass ceiling third slide = example of not smooth gradient
-- iphone 4 landscape still loads mobile
-- Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-- are the soc med SVGs even linked to?
-
-EMAIL
-
-Adding a new grid style:
-I’m wondering if we should add a new media queries for the grid around 700px-ish range where we bump the cols all down to two? Trying to avoid this super-smashed grid at certain sizes…see example attached Grid700px.png.
-
-I noticed a weird centering issue. 
-See attached CenteringIssue.png
-
-I think it would be fixed if you removed the right and left margin, I kind of like the grid expanding the width of the screen anyway.
-
-you want glassdoor link at front and not the extra p at end?
-
-cant download third bluebox-mobile image
-and the other one downloaded without arrow
-cant download last glassdoor image
-2015 gif or new img?
-
-make sure you didnt forget to select the src= when changing to '-mobile'
-glassdoor first slide for some reason mobile is set to fullwidth
-you added a whole new slide just to give three new sizes of the same image
-gusto as example of why you may be creating excessive divs ... but no clones so who cares. except some of these sdktop divs hvw ull heigth etc.visaversa still who cares i think
+- I own hosting at Bluehost, is it possible to transfer your code to that, and then I can pull it on my local machine for future updating? I can provide FTP access.

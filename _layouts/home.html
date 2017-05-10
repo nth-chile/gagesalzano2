@@ -2,9 +2,6 @@
 layout: default
 ---
 
-<!-- weinre script -->
-	<script src="http://10.0.0.7:8080/target/target-script-min.js#anonymous"></script>
-
 <div class='loading'><img src='{{ '/assets/images/loading.gif' | prepend: site.url }}' height='120' width='120'/></div>
 <div class='home-wrap'>
 	<header>
@@ -28,10 +25,6 @@ layout: default
 		{% endif %}
 		</div>
 		
-		{% if site.available != true %}
-			{% assign visibility = "style='visibility:hidden'" %}
-		{% endif %}
-		<div class='desktop hire-status' {{visibility}}><div class='dot'></div><h4><a href='mailto:{{site.email}}' target='_blank'>Available for hire</a></h4></div>
 	</header>
 	{% capture about %}{% include about.md %}{% endcapture %}
 

@@ -5,9 +5,9 @@ em {
 form, .ui-wrap, header, .notes {
   background-color: rgba(0, 0, 0, 0.2);
   box-sizing: border-box;
-  margin: 1rem 11.34vw 1rem 3.28vw;
+  margin: 1rem auto;
   padding: 5px 1rem;
-  width: 85.5vw; }
+  width: 95.76vw; }
 
 header {
   background-color: transparent;
@@ -15,9 +15,9 @@ header {
 
 .grid {
   background-color: rgba(0, 0, 0, 0.2);
-  margin: 1rem 11.34vw 1rem 3.28vw;
+  margin: 1rem auto;
   min-height: 23.5vw;
-  width: 85.5vw; }
+  width: 95.76vw; }
 
 .grid__item__wrap {
   box-sizing: border-box;
