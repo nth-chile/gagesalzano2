@@ -1,4 +1,0 @@
-- are there any .column issues?
-- load images only on media query?
-
-- I own hosting at Bluehost, is it possible to transfer your code to that, and then I can pull it on my local machine for future updating? I can provide FTP access.
