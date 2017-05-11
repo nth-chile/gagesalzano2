@@ -9,7 +9,7 @@
 - **dark_title:** if you want the post title to be dark on the homepage, just add `dark_title: true`. If not, just leave it out
 
 ## Posts
-- New posts are written in the "_posts" folder. Filename syntax is important, so just make sure they match the others.
+- You will be writing new posts in Markdown files and saving them to the "_posts" folder. Filename syntax is important, so just make sure they match the others.
 - You can use HTML in Markdown files, and the Gage.com framework depends on it! A few rules for using HTML in Markdown:
     - Markdown syntax will not work inside of an HTML block.
     - Block element tags must not be indented, and must be surrounded by blank lines.
@@ -19,15 +19,16 @@
 ## Images
 
 - All images should be wrapped with `<div>` tags. Beacuse of this, you have to use the HTML syntax to include an image.
-- An HTML `<img>` attribute, `srcset`, can be used to offer multiple image sizes for the browser to choose from when loading the page. Each image source is separated by a comma. Just write the image path, then its width value in pixels. Example: `image.png 375w, image@2x.png 750`. Notice the "w" instead of a "px". This is not necessary, but I used them since Zeplin gave three sizes of each image, and I figured as a design portfolio we'd want the best images possible. Still, define `src` for default, since old browsers don't support `srcset`.
+- The HTML `<img>` attribute, `srcset`, can be used to offer multiple image sizes for the browser to choose from when loading the page. Each image source is separated by a comma. Just write the image path, then its width value in pixels. Example: `image.png 375w, image@2x.png 750w`. Notice the "w" instead of a "px". Still define `src` for default, since old browsers don't support `srcset`.
 
 ## Classes
-- **full-height:** only effects mini view. It will make the image full screen, Twitter Moments style.
-- **full-width:** only effects Big view and makes images full-width.
+- **img.full-height:** only effects mini view. It will make the image full screen, Twitter Moments style.
+- **img.full-width:** only effects Big view and makes images full-width.
 - If you try to use both `.full-height` and `.full-width` on the same image, something very strange and bad happens.
-- **bg:** give this class to any paragraph that exists in the same slide as a `.full-height` image. It adds the gradient background and some other style rules.
-- **row:** For Big view, if you want to put multiple images in a row, wrap images (which themselves are wrapped in `<div>` tags as usual) in a `<div class='row'>`.
-- **column:** On "Stuff For Friends", you can see a `.column` inside of a `.row`. no need to use `.column` outside of a `.row`.
+- **p.bg:** give this class to any paragraph that exists in the same slide as a `.full-height` image. It adds the gradient background and some other style rules.
+- **p.bg-dark:** `bg` variant that renders dark text without a gradient background
+- **div.row:** For Big view, if you want to put multiple images in a row, wrap images (which themselves are wrapped in `<div>` tags as usual) in a `<div class='row'>`.
+- **div.column:** On "Stuff For Friends", you can see a `.column` inside of a `.row`. no need to use `.column` outside of a `.row`.
 - See how I put the `<!-- -->` between images that are in a row. This eliminates white-space between the elements
 
 ## `<figure>` and `<figcaption>`
@@ -39,4 +40,4 @@ The visibility of your hire status is controlled by the `available` setting in "
 
 ## Yep!
 
-If you're having trouble, just ask! I'll update this guide so it's all here and not scattered throughout your Gmail archive.
+If you're having trouble, just ask. I'll update this guide so it's all here and not scattered throughout your Gmail archive.

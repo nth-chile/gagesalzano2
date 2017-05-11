@@ -4,7 +4,6 @@ dark_title: true
 date: 2017-03-18 21:25:04
 featured_image: /assets/images/posts/Stuff_For_Friends/heypal-thumb.png
 style: height:100%
-stack_color: rgb(194,47,72)
 ---
 {% assign slide = site.data.slide %}
 
@@ -46,7 +45,7 @@ Then I got to drink a bunch of real ones and make a fool of myself on the dance 
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile@3x.png 1125w'></div>
 
-<p class='bg'>Katie had the best gift idea for her boyfriend: make his dream brewery come to life.</p>
+<p class='bg-dark'>Katie had the best gift idea for her boyfriend: make his dream brewery come to life.</p>
 
 {{slide['end']}}
 

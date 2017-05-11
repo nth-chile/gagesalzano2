@@ -68,6 +68,33 @@ $(document).ready(function(){
 				} else if ( $('.slick').length > 0 ) { //if article page
 					doSlick();
 					centerFullHeightClass();
+					//make slide markers dark for certain slides
+					// var darkSlideIndexes = [];
+					// $('.slick .slide').each( function(index) {
+					// 	if ($(this).find('.bg-dark').length > 0) {
+					// 		darkSlideIndexes.push(index);
+					// 	}
+					// });
+					// addEventListener('mousedown', function() {
+					// 	console.log(
+					// 		$('.slick-active')[0].id,
+					// 		$('.slick-dots li').eq(3)[0].id
+					// 		);
+					// 	if($('.slick-active')[0].id == $('.slick-dots li').eq(3)[0].id) {
+					// 		console.log('hey');
+					// 	}
+					// });
+					
+
+						// var dotClasses = [];
+						// var $lis = $($('.slick-dots').find('li'));
+						// $lis.each(function() {
+						// 	dotClasses.push(this.className);
+						// });
+						// console.log(dotClasses);
+						
+						// $('.bg-dark').closest($('.slick')).css('border-color', 'rgb(56, 52, 52)');
+	
 				}
 			} else if (layout == 'medium') {
 				if($('.home-wrap').length > 0) {
@@ -257,11 +284,8 @@ $(document).ready(function(){
 		);
 	}
 	function displayRandomQuote() {
-		var counter = 0;
-		$('p.quote').each(function() {
-			counter++;
-		});
-  		var index = Math.floor(Math.random() * (counter));
+		var max = $('a.quote__quote').length;
+  		var index = Math.floor(Math.random() * max);
   		var $p = $($('a.quote__quote')[index]);
 
   		var $startQuote = $('<span>&ldquo;</span>')

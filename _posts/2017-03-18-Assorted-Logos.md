@@ -2,8 +2,7 @@
 title: Assorted Logos
 date: 2017-03-18 20:10:14
 featured_image: /assets/images/posts/Assorted_Logos/assortedlogos-thumb.png
-style: width:135%;margin-left:-2.8vw
-stack_color: rgb(77,69,69)
+style: width:100%;margin-left:-2px;margin-top:-7px
 ---
 {% assign slide = site.data.slide %}
 {{slide['start']}}
@@ -74,7 +73,7 @@ Sometimes the logo designs itself. The "O" and "C" in the name OnCorps are overl
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile@3x.png 1125w'></div>
 
-<p class='bg'>We drew probably 1,000 trees before landing on this guy. Made for a real estate application to symbolize the network.</p>
+<p class='bg-dark'>We drew probably 1,000 trees before landing on this guy. Made for a real estate application to symbolize the network.</p>
 
 {{slide['end']}}
 
@@ -90,13 +89,7 @@ We drew probably 1,000 trees before landing on this guy. Made for a real estate 
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile@3x.png 1125w'></div>
 
-<p class='bg'>For a money-management app, this mark combines two visual metaphors. One is a coin being dropped into a piggy bank, and the other is a sunrise to symbolize a new financial start.</p>
-
-{{slide['end']}}
-
-{{slide['startmobile']}}
-
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-1.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-1.png 234w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-1@2x.png 468w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-1@3x.png 702w'></div>
+<p class='bg-dark'>For a money-management app, this mark combines two visual metaphors. One is a coin being dropped into a piggy bank, and the other is a sunrise to symbolize a new financial start.</p>
 
 {{slide['end']}}
 
@@ -118,7 +111,7 @@ For a money-management app, this mark combines two visual metaphors. One is a co
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-1.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-1.png 474w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-1@2x.png 948w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-1@3x.png 1422w'></div>
 
-<p class='bg'>This was for a parking app &hellip; Get it?</p>
+<p class='bg-dark'>This was for a parking app &hellip; Get it?</p>
 
 {{slide['end']}}
 
@@ -154,10 +147,6 @@ This was for a parking app &hellip; Get it?
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1-mobile@3x.png 1125w'></div>
 
-<p class='bg'>My friend Tony runs a company in my hometown that tests electronics on things like military-grade helicopters and electric cars. I just cleaned up their logo.</p>
-
-¯\\\_(ツ)\_/¯
-
 {{slide['end']}}
 
 {{slide['startmobile']}}
@@ -169,6 +158,10 @@ This was for a parking app &hellip; Get it?
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile@3x.png 1125w'></div>
+
+<p class='bg'>My friend Tony runs a company in my hometown that tests electronics on things like military-grade helicopters and electric cars. I just cleaned up their logo.</p>
+
+¯\\\_(ツ)\_/¯
 
 {{slide['end']}}
 

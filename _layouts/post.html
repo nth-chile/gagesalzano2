@@ -13,13 +13,13 @@ layout: default
 {% if page.previous != nil %}
 	{% assign prev = page.previous.url | prepend: site.url %}
 {% else %}
-	{% assign prev = site.posts.first.url %}
+	{% assign prev = site.posts.first.url | prepend: site.url %}
 {% endif %}
 
 {% if page.next != nil %}
 	{% assign next = page.next.url | prepend: site.url %}
 {% else %}
-	{% assign next = site.posts.last.url %}
+	{% assign next = site.posts.last.url | prepend: site.url %}
 {% endif %}
 
 <a class='prev' href='{{ next }}'>

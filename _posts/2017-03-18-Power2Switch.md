@@ -4,7 +4,6 @@ dark_title: true
 date: 2017-03-18 18:18:15
 featured_image: /assets/images/posts/Power2Switch/power-2-switch-thumb.png
 style: width:100%
-stack_color: rgb(252,182,55)
 ---
 {% assign slide = site.data.slide %}
 

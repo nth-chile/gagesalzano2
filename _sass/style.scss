@@ -1,6 +1,6 @@
 $font-stack: 'GT-America-Standard-Regular', "Helvetica Neue", Helvetica, Arial, sans-serif;
 $link-color: rgb(0, 91, 242);
-$link-color-white: rgb(239, 239, 239);
+$link-color-white: white;
 $link-hover-color: rgb(90, 31, 235);
 $real-post-nav-color: rgb(77, 69, 69);
 $post-nav-color: rgb(56, 52, 52);
@@ -150,7 +150,6 @@ header {
 .quote-wrap {
 	color: rgb(60, 53, 53);
 	padding: 0 0 0 35px;
-	text-align: right;
 	white-space: normal;
 	span {
 		font-weight: bold;
@@ -196,6 +195,7 @@ article p,
 article p:last-child {
 	padding-bottom: 5rem;
 }
+.slick p:first-child {padding-bottom:.7rem;}
 .emoji {
 	width: 1.2rem;
 }
@@ -233,7 +233,7 @@ figure {
 	.dot {
 		background-color: rgb(126, 211, 33);
 		border-radius: 10px;
-		margin: 8px;
+		margin: 8px 8px 8px -8px;
 		height: 8px;
 		width: 8px;
 		vertical-align: middle;
@@ -365,6 +365,8 @@ figure {
 	figcaption {
 		font-size: 13px;
 		line-height: 18px;
+		&:not(.bg) {opacity: .5;}
+
 	}
 	header svg {
 		height: 34px;
@@ -401,6 +403,7 @@ figure {
 		bottom: 15px;
 		margin: 0 auto;
 		//padding: 25px 0;
+		opacity: .5;
 		padding: 12.5px 0;
 		position: absolute;
 		text-align: center;
@@ -469,8 +472,10 @@ figure {
 				top:0px;
 			}
 			.bg {
-				background: -webkit-linear-gradient(transparent, rgba(2, 0, 0, .03) 10%, rgba(2, 0, 0, .5));
-				background: linear-gradient(transparent, rgba(2, 0, 0, .03) 10%,  rgba(2, 0, 0, .5));
+				//background: -webkit-linear-gradient(transparent, rgba(2, 0, 0, .03) 10%, rgba(2, 0, 0, .5));
+				//background: linear-gradient(transparent, rgba(2, 0, 0, .03) 10%,  rgba(2, 0, 0, .5));
+				background: -webkit-linear-gradient(transparent, rgba(1, 0, 0, 0.09) 10%, rgba(2, 0, 0, 0.7));
+				background: linear-gradient(transparent, rgba(1, 0, 0, 0.09) 10%, rgba(2, 0, 0, 0.7));
 				box-sizing: border-box;
 				position: absolute;
 				bottom: 0;
@@ -478,6 +483,20 @@ figure {
 				//padding: 190px 11px 95px;
 				padding: 55px 11px;
 				width: 100%;
+			}
+			.bg-dark {
+				box-sizing: border-box;
+				color: $post-nav-color;
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				opacity: 1;
+				//padding: 190px 11px 95px;
+				padding: 55px 11px;
+				width: 100%;
+				a, a:visited {
+					color: $post-nav-color;
+				}
 			}
 			&:focus {
 				outline: none;
@@ -560,9 +579,9 @@ figure {
 				height: 100%;
 				width: 100%;
 				&:hover {
-					transform: translateZ(15px);
-					-webkit-transform: translateZ(15px);
-					-ms-transform: translateZ(15px);
+					transform: translateZ(8px);
+					-webkit-transform: translateZ(8px);
+					-ms-transform: translateZ(8px);
 					img {
 						transform: scale(1.03);
 						-webkit-transform: scale(1.03);
