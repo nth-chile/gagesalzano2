@@ -44,13 +44,13 @@ The new mark added more symmetry to solve layout issues and helped push the over
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-9-mobile.png' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-9-mobile.png 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-9-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-9-mobile@3x.png 1125w'></div>
 
-<p class='bg-dark'>The doorframe symbol becomes two brackets when expanded, which works as a visual device used to frame photography and messaging.</p>
-
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-10-mobile.png' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-10-mobile.png 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-10-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-10-mobile@3x.png 1125w'></div>
+
+<p class='bg'>The doorframe symbol becomes two brackets when expanded, which works as a visual device used to frame photography and messaging.</p>
 
 {{slide['end']}}
 

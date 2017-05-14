@@ -129,9 +129,17 @@ So what do you do when someone asks you for a business card? Take forever and de
 
 {{slide['end']}}
 
-{{slide['start']}}
+{{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica.png 794w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@2x.png 1588w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@3x.png 2382w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica-mobile@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica-mobile.png 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica-mobile@3x.png 1125w'></div>
+
+<p class='bg'>Casey &amp; Monica are two awesome people that got married in a movie theatre built in 1903. It felt appropriate that their wedding invites were made to feel "letterpress-y".</p>
+
+{{slide['end']}}
+
+{{slide['startdesktop']}}
+
+<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica.png 795w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@2x.png 1590w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@3x.png 2385w'></div>
 
 Casey &amp; Monica are two awesome people that got married in a movie theatre built in 1903. It felt appropriate that their wedding invites were made to feel "letterpress-y".
 

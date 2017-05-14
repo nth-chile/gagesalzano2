@@ -4,7 +4,7 @@
   font-weight: normal; }
 body {
   background-color: white;
-  color: #383434;
+  color: #4d4545;
   font-family: "GT-America-Standard-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 30px;
@@ -44,7 +44,7 @@ article {
   padding-bottom: 20px; }
 
 footer h4 {
-  color: #383434;
+  color: #4d4545;
   font-weight: normal; }
 
 article figcaption a,
@@ -65,7 +65,7 @@ h4 {
   letter-spacing: 0.005em; }
 
 h5 {
-  color: #383434;
+  color: #4d4545;
   font-size: 9px;
   line-height: 14px; }
 
@@ -80,7 +80,7 @@ header {
   padding: 76px 0 40px 0;
   white-space: nowrap; }
   header h4, header p {
-    color: #383434;
+    color: #4d4545;
     margin: 0;
     max-width: none; }
   header p {
@@ -107,11 +107,11 @@ header {
     .quote-wrap span .quotation-mark {
       vertical-align: top; }
     .quote-wrap span .quote__quote {
-      color: #383434;
+      color: #4d4545;
       text-decoration: none;
       white-space: normal; }
   .quote-wrap:hover .quote__quote {
-    border-bottom: 1.5px solid #383434; }
+    border-bottom: 1.5px solid #4d4545; }
   .quote-wrap:hover .quote__source.chosen {
     cursor: default;
     opacity: 1; }
@@ -159,13 +159,13 @@ figure {
   z-index: 99999; }
 
 .hire-status a {
-  color: #383434;
+  color: #4d4545;
   text-decoration: none;
   font-weight: normal; }
   .hire-status a:visited {
-    color: #383434; }
+    color: #4d4545; }
   .hire-status a:hover {
-    color: #383434;
+    color: #4d4545;
     text-decoration: underline; }
 .hire-status .dot, .hire-status h4 {
   display: inline-block; }
@@ -208,7 +208,7 @@ figure {
     z-index: 1000001; }
 
 .post-nav {
-  background-color: #4d4545;
+  background-color: #383434;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -352,6 +352,11 @@ figure {
     .slick-dots .slick-active button {
       background-color: white; }
 
+  .slick-dots--dark li button {
+    border-color: #4d4545; }
+  .slick-dots--dark .slick-active button {
+    background-color: #4d4545; }
+
   .slide {
     background-color: black;
     color: white;
@@ -402,7 +407,7 @@ figure {
         width: 100%; }
       .slide .slide__content .bg-dark {
         box-sizing: border-box;
-        color: #383434;
+        color: #4d4545;
         position: absolute;
         bottom: 0;
         left: 0;
@@ -410,7 +415,7 @@ figure {
         padding: 55px 11px;
         width: 100%; }
         .slide .slide__content .bg-dark a, .slide .slide__content .bg-dark a:visited {
-          color: #383434; }
+          color: #4d4545; }
       .slide .slide__content:focus {
         outline: none; }
 
@@ -586,7 +591,7 @@ figure {
     padding: 1rem 1.5rem 1rem 1rem;
     text-align: left; }
     .tooltip-text * {
-      color: #383434;
+      color: #4d4545;
       margin: 0; }
     .tooltip-text ul {
       list-style: none;

@@ -31,6 +31,9 @@ $(document).ready(function(){
 			);
 		}());
 
+	//each time slick is re-initialized, $('.slide.slick-active').attr('aria-describedby').slice(-2) increases by ten -_-
+	var slickFix = -10;
+
 //** DO STUFF **//
 
 	displayRandomQuote();
@@ -66,35 +69,10 @@ $(document).ready(function(){
 						)
 					});
 				} else if ( $('.slick').length > 0 ) { //if article page
+					slickFix += 10;
 					doSlick();
 					centerFullHeightClass();
-					//make slide markers dark for certain slides
-					// var darkSlideIndexes = [];
-					// $('.slick .slide').each( function(index) {
-					// 	if ($(this).find('.bg-dark').length > 0) {
-					// 		darkSlideIndexes.push(index);
-					// 	}
-					// });
-					// addEventListener('mousedown', function() {
-					// 	console.log(
-					// 		$('.slick-active')[0].id,
-					// 		$('.slick-dots li').eq(3)[0].id
-					// 		);
-					// 	if($('.slick-active')[0].id == $('.slick-dots li').eq(3)[0].id) {
-					// 		console.log('hey');
-					// 	}
-					// });
-					
-
-						// var dotClasses = [];
-						// var $lis = $($('.slick-dots').find('li'));
-						// $lis.each(function() {
-						// 	dotClasses.push(this.className);
-						// });
-						// console.log(dotClasses);
-						
-						// $('.bg-dark').closest($('.slick')).css('border-color', 'rgb(56, 52, 52)');
-	
+					darkDots();
 				}
 			} else if (layout == 'medium') {
 				if($('.home-wrap').length > 0) {
@@ -135,6 +113,8 @@ $(document).ready(function(){
 		if ( $('.slick').length > 0 ) {
 			doSlick();
 			centerFullHeightClass();
+			slickFix += 10;
+			darkDots();
 		}
 	} else if (window.matchMedia("(min-width: 480px) and (max-width: 699px)").matches) {
 		var layout = 'medium';
@@ -241,7 +221,7 @@ $(document).ready(function(){
 					'height': 'auto',
 					'left': '0'					
 				});
-				var topValue = $(this).height() / 2 - $(window).height() / 2;
+				var topValue = $(this).height() / 2 - ($(window).height() - $('.post-nav').height()) / 2;
 				if (topValue > 0) topValue = 0 - topValue;
 				$(this).css('top', topValue);
 			}
@@ -282,6 +262,33 @@ $(document).ready(function(){
 			'Edinboro University of Pennsylvania',
 			'rgb(46, 43, 43)'
 		);
+	}
+	function darkDots(disconnect) {
+			var darkSlideIndexes = [];
+			$('.slick .slide').each( function(index) {
+				if ($(this).find('.bg-dark').length > 0) {
+					darkSlideIndexes.push(index) //< 9 ? '0' + index : index);
+				}
+			});
+			var target = document.querySelector('.slick-track');
+			var observer = new MutationObserver(function(mutations, instance) {
+				var slideNumber = $('.slide.slick-active').attr('aria-describedby');
+				if ( slideNumber != undefined && darkSlideIndexes.includes(slideNumber.slice(-2) - slickFix) ) {
+					if (!$('.slick-dots').hasClass('slick-dots--dark'))
+						$('.slick-dots').addClass('slick-dots--dark');
+				}
+				else {
+					if ( $('.slick-dots').hasClass('slick-dots--dark') )
+						$('.slick-dots').removeClass('slick-dots--dark');
+				}
+				console.log(
+					'darkSlideIndexes', darkSlideIndexes,
+					'slideNumber', slideNumber.slice(-2) - slickFix,
+					'hasClass', $('.slick-dots').hasClass('slick-dots--dark')
+				);
+			});
+			var config = {attributes: true}
+			observer.observe(target, config);
 	}
 	function displayRandomQuote() {
 		var max = $('a.quote__quote').length;
