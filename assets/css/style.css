@@ -652,7 +652,7 @@ figure {
 
   .quote-wrap {
     display: none; } }
-@media all and (min-width: 480px) and (max-width: 699px) {
+@media all and (min-width: 480px) and (max-width: 799.9px) {
   .grid {
     width: 94vw; }
     .grid img {
@@ -665,7 +665,7 @@ figure {
 
   .grid__item__wrap {
     position: relative; } }
-@media all and (min-width: 700px) {
+@media all and (min-width: 800px) {
   article img, article .row {
     width: calc(100% - 230px); } }
 

@@ -46,10 +46,14 @@ $(document).ready(function(){
 		if (window.matchMedia("(max-width: 479.9px)").matches && layout != 'mini') {
 			layout = 'mini';
 			layoutShouldChange = true;
-		} else if (window.matchMedia("(min-width: 480px) and (max-width: 699px)").matches && layout != 'medium') {
-			layout = 'medium';
+		} 
+		else if (window.matchMedia("(min-width: 480px) and (max-width: 599.9px)").matches && layout != 'medium--1') {
+			layout = 'medium--1';
 			layoutShouldChange = true;
-		} else if (window.matchMedia("(min-width: 700px)").matches && layout != 'full') {
+		} else if (window.matchMedia("(min-width: 600px) and (max-width: 799.9px)").matches && layout != 'medium--2') {
+			layout = 'medium--2';
+			layoutShouldChange = true;
+		} else if (window.matchMedia("(min-width: 800px)").matches && layout != 'full') {
 			layout = 'full';
 			layoutShouldChange = true;
 		}
@@ -74,7 +78,7 @@ $(document).ready(function(){
 					centerFullHeightClass();
 					darkDots();
 				}
-			} else if (layout == 'medium') {
+			} else if (layout == 'medium--1' || layout == 'medium--2') {
 				if($('.home-wrap').length > 0) {
 					buildTinyGrid();
 					if($('.tooltip').length == 0) createTooltips();
@@ -116,7 +120,7 @@ $(document).ready(function(){
 			slickFix += 10;
 			darkDots();
 		}
-	} else if (window.matchMedia("(min-width: 480px) and (max-width: 699px)").matches) {
+	} else if (window.matchMedia("(min-width: 480px) and (max-width: 799.9px)").matches) {
 		var layout = 'medium';
 		if($('.home-wrap').length > 0) {
 			buildTinyGrid();
@@ -126,7 +130,7 @@ $(document).ready(function(){
 			setColumnItemHeight();
 		}
 	}
-	else if (window.matchMedia("(min-width: 700px)").matches) {
+	else if (window.matchMedia("(min-width: 800px)").matches) {
 		var layout = 'full';
 		if($('.home-wrap').length > 0) {
 			buildGrid();
@@ -168,12 +172,18 @@ $(document).ready(function(){
 		var widths = [];
 		//repeat a pattern: give first two grid items 50% width, give the next three 33.33% width
 		//first, build an array of width values
-		for (i = 0 ; i <= gridItemContents.length; i++) {
-			if ( phase == 1 | phase == 2 )
+		if (!window.matchMedia("(max-width: 600px)").matches) {
+			for (i = 0 ; i <= gridItemContents.length; i++) {
+				if ( phase == 1 | phase == 2 )
+					widths.push('50%');
+				else
+					widths.push('33.333333333333%');
+				phase < 5 ? phase++ : phase = 1;
+			}
+		}
+		else {
+			for (i = 0 ; i <= gridItemContents.length; i++)
 				widths.push('50%');
-			else
-				widths.push('33.333333333333%');
-			phase < 5 ? phase++ : phase = 1;
 		}
 		//assign those width values and append to a wrapper
 		gridItemContents.forEach(function(item, index) {
@@ -281,11 +291,6 @@ $(document).ready(function(){
 					if ( $('.slick-dots').hasClass('slick-dots--dark') )
 						$('.slick-dots').removeClass('slick-dots--dark');
 				}
-				console.log(
-					'darkSlideIndexes', darkSlideIndexes,
-					'slideNumber', slideNumber.slice(-2) - slickFix,
-					'hasClass', $('.slick-dots').hasClass('slick-dots--dark')
-				);
 			});
 			var config = {attributes: true}
 			observer.observe(target, config);
