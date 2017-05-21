@@ -89,18 +89,19 @@ header {
     font-weight: normal; }
   header .id {
     text-align: left; }
-  header .id {
-    padding-top: 5px; }
-    header .id h4 {
-      padding-left: 48px; }
-    header .id svg {
-      float: left;
-      margin-top: 6px; }
+  header .id h4 {
+    padding-left: 48px; }
+  header .id svg {
+    float: left;
+    margin-top: 6px; }
 
 .quote-wrap {
+  position: absolute;
+  width: 100%;
+  left: 0;
   color: #3c3535;
-  padding: 0 0 0 35px;
-  white-space: normal; }
+  white-space: normal;
+  padding-top: 6px; }
   .quote-wrap span {
     font-weight: bold;
     white-space: nowrap; }
@@ -446,7 +447,7 @@ figure {
 
   .grid {
     min-height: 23.5vw;
-    margin: 0 auto;
+    margin: 60px auto;
     width: 95.76vw; }
     .grid::after {
       content: " ";
@@ -638,6 +639,19 @@ figure {
       padding-left: 0; }
     article .row > div:last-child {
       padding-right: 0; } }
+@media (max-width: 1224px) {
+  header h4 {
+    display: none; } }
+@media (max-width: 900px) {
+  .quote-wrap {
+    width: 76%;
+    padding: 6px 12% 0; } }
+@media (max-width: 600px) {
+  .id {
+    margin: 0 auto; }
+
+  .quote-wrap {
+    display: none; } }
 @media all and (min-width: 480px) and (max-width: 699px) {
   .grid {
     width: 94vw; }

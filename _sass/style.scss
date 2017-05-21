@@ -105,7 +105,7 @@ article figcaption,
 footer {
 	a {
 		color: black;
-		font-weight: bold;		
+		font-weight: bold;
 		&:visited {color: black;}
 		&:hover {color: rgb(162, 157, 157);}
 	}
@@ -139,7 +139,6 @@ header {
 		text-align: left;
 	}
 	.id {
-		padding-top: 5px;
 		h4 {padding-left: 48px;}
 		svg {
 			float: left;
@@ -148,9 +147,12 @@ header {
 	}
 }
 .quote-wrap {
+	position: absolute;
+	width: 100%;
+	left: 0;
 	color: rgb(60, 53, 53);
-	padding: 0 0 0 35px;
 	white-space: normal;
+	padding-top: 6px;
 	span {
 		font-weight: bold;
 		white-space: nowrap;
@@ -535,12 +537,12 @@ figure {
 	  //margin: 4rem auto 9rem 3.28vw;
 	  min-height: 23.5vw;
 	  //width: 85.5vw;
-	  margin: 0 auto;
+	  margin: 60px auto;
 	  width: 95.76vw;
 	  &::after {
 	  	content: " ";
-   		display: block; 
-   		height: 0; 
+   		display: block;
+   		height: 0;
    		clear: both;
 	  }
 	}
@@ -742,6 +744,27 @@ figure {
 			&:first-child {padding-left:0}
 			&:last-child {padding-right:0}
 		}
+	}
+}
+
+@media (max-width: 1224px) {
+	header h4 {
+		display: none;
+	}
+}
+
+@media (max-width: 900px) {
+	.quote-wrap {
+		width: 76%;
+		padding: 6px 12% 0;
+	}
+}
+@media (max-width: 600px) {
+	.id {
+		margin: 0 auto;
+	}
+	.quote-wrap {
+		display: none;
 	}
 }
 @media all and (min-width: 480px) and (max-width: 699px) {
