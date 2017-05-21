@@ -4,6 +4,7 @@ dark_title: true
 date: 2017-03-18 21:01:35
 featured_image: /assets/images/posts/Google_Engage/engage-thumb.png
 style: width:100%
+stack_color: white
 ---
 
 {% assign slide = site.data.slide %}

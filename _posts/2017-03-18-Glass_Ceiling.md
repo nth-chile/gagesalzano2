@@ -3,6 +3,7 @@ title: Glass Ceiling — Branding
 date: 2017-03-18 20:44:49
 featured_image: /assets/images/posts/GlassCeiling/glassceiling-thumb.png
 style: height:100%;margin-left:-3px
+stack_color: white
 ---
 {% assign slide = site.data.slide %}
 

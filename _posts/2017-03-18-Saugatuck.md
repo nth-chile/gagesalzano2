@@ -3,6 +3,7 @@ title: Saugatuck — Branding
 date: 2017-03-18 17:22:35
 featured_image: /assets/images/posts/Saugatuck/saugatuck-thumb.png
 style: height:100%
+stack_color: white
 ---
 {% assign slide = site.data.slide %}
 {{slide['startmobile']}}

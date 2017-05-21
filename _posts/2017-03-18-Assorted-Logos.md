@@ -3,6 +3,7 @@ title: Assorted Logos
 date: 2017-03-18 20:10:14
 featured_image: /assets/images/posts/Assorted_Logos/assortedlogos-thumb.png
 style: width:100%;margin-left:-2px;margin-top:-7px
+stack_color: white
 ---
 {% assign slide = site.data.slide %}
 {{slide['start']}}

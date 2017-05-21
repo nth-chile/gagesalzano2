@@ -4,6 +4,7 @@ dark_title: true
 date: 2017-03-18 21:25:04
 featured_image: /assets/images/posts/Stuff_For_Friends/heypal-thumb.png
 style: height:100%
+stack_color: white
 ---
 {% assign slide = site.data.slide %}
 
