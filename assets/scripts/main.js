@@ -343,7 +343,7 @@ $(document).ready(function(){
 		$('.slick-dots').find('button').text('');
 	}
 	function removeLoadScreen(){
-		$('.loading').remove();
+		$('#loading').remove();
 		$('html, body').css('overflow', 'visible');
 		if (document.getElementsByClassName('home-wrap').length > 0)
 			$('html, body').css('height', '100%');

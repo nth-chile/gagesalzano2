@@ -202,18 +202,13 @@ figure {
 .icon.instagram:hover path {
   fill: #EF4859; }
 
-.loading {
-  background-color: black;
+#loading {
+  background-color: #383434;
   height: 100%;
   position: absolute;
   top: 0;
   width: 100%;
   z-index: 1000000; }
-  .loading img {
-    position: absolute;
-    top: 40%;
-    left: calc(50% - 60px);
-    z-index: 1000001; }
 
 .post-nav {
   background-color: #383434;
