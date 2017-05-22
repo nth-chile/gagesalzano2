@@ -49,11 +49,17 @@ $(document).ready(function(){
 		} 
 		else if (window.matchMedia("(min-width: 480px) and (max-width: 599.9px)").matches && layout != 'medium--1') {
 			layout = 'medium--1';
+<<<<<<< HEAD
 			layoutShouldChange = true;
 		} else if (window.matchMedia("(min-width: 600px) and (max-width: 699.9px)").matches && layout != 'medium--2') {
 			layout = 'medium--2';
+=======
+>>>>>>> 98c68f489451763985a6a865d11ed5b0cc453280
 			layoutShouldChange = true;
-		} else if (window.matchMedia("(min-width: 700px)").matches && layout != 'full') {
+		} else if (window.matchMedia("(min-width: 600px) and (max-width: 799.9px)").matches && layout != 'medium--2') {
+			layout = 'medium--2';
+			layoutShouldChange = true;
+		} else if (window.matchMedia("(min-width: 800px)").matches && layout != 'full') {
 			layout = 'full';
 			layoutShouldChange = true;
 		}
@@ -120,7 +126,11 @@ $(document).ready(function(){
 			slickFix += 10;
 			darkDots();
 		}
+<<<<<<< HEAD
 	} else if (window.matchMedia("(min-width: 480px) and (max-width: 699.9px)").matches) {
+=======
+	} else if (window.matchMedia("(min-width: 480px) and (max-width: 799.9px)").matches) {
+>>>>>>> 98c68f489451763985a6a865d11ed5b0cc453280
 		var layout = 'medium';
 		if($('.home-wrap').length > 0) {
 			buildTinyGrid();
@@ -130,7 +140,7 @@ $(document).ready(function(){
 			setColumnItemHeight();
 		}
 	}
-	else if (window.matchMedia("(min-width: 700px)").matches) {
+	else if (window.matchMedia("(min-width: 800px)").matches) {
 		var layout = 'full';
 		if($('.home-wrap').length > 0) {
 			buildGrid();
