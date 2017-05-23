@@ -234,6 +234,7 @@ figure {
     font-size: 13px;
     margin: 0; }
   .post-nav .page-title {
+    padding-right: 70px;
     line-height: 50px;
     -webkit-box-flex: 1;
     -moz-box-flex: 1;
@@ -319,6 +320,7 @@ figure {
       width: 100%; }
 
   .post-nav .page-title {
+    padding-right: 0px;
     margin: 0 9px;
     text-align: left; }
   .post-nav .post-nav__home {

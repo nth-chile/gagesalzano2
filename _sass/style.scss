@@ -313,6 +313,7 @@ figure {
 		margin: 0;
 	}
 	.page-title {
+		padding-right: 70px;
 		line-height: 50px;
 		@include flex(1);
 	}
@@ -405,6 +406,7 @@ figure {
 	}
 	.post-nav {
 		.page-title {
+			padding-right: 0px;
 			margin: 0 9px;
 			text-align: left;
 		}
