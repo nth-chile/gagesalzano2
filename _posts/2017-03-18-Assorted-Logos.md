@@ -186,7 +186,7 @@ My friend Tony runs a company in my hometown that tests electronics on things li
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile@3x.jpg 1125w'></div>
 
 <p class='bg'>A logo for an online educational platform.</p>
 
@@ -197,7 +197,7 @@ My friend Tony runs a company in my hometown that tests electronics on things li
 {{slide['startdesktop']}}
 
 
-<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1.png 794w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1@2x.png 1588w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1.jpg 794w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1@2x.jpg 1588w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1@3x.jpg 2382w'></div>
 
 A logo for an online educational platform.
 
@@ -207,7 +207,7 @@ A logo for an online educational platform.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile@3x.jpg 1125w'></div>
 
 <p class='bg'>Concept for a campaign at Grove City University.</p>
 
@@ -217,7 +217,7 @@ A logo for an online educational platform.
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1.png 794w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@2x.png 1588w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1.jpg 794w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@2x.jpg 1588w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@3x.jpg 2382w'></div>
 
 
 Concept for a campaign at Grove City University.
@@ -229,7 +229,7 @@ Concept for a campaign at Grove City University.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1-mobile@3x.jpg 1125w'></div>
 
 <p class='bg'>A proposed branding re-haul for The Pittsburgh Parks Convervancy was inspired by nature and the city living together.</p>
 
@@ -240,14 +240,14 @@ Concept for a campaign at Grove City University.
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1.png 634w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1@2x.png 1268w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1@3x.png 1902w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1.jpg 634w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1@2x.jpg 1268w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1@3x.jpg 1902w'></div>
 
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-2.png 314w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-2@2x.png 628w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-2@3x.png 942w'></div><!--
+<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-2@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-2.jpg 314w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-2@2x.jpg 628w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-2@3x.jpg 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-3.png 314w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-3@2x.png 628w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-3@3x.png 942w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-3@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-3.jpg 314w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-3@2x.jpg 628w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-3@3x.jpg 942w'></div>
 
 </div>
 
@@ -261,7 +261,7 @@ A proposed branding re-haul for The Pittsburgh Parks Convervancy was inspired by
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile@3x.jpg 1125w'></div>
 
 <p class='bg'>Surgicorps International provides free surgical and medical care to people in need in developing countries. They bring smiles to tons of people everyday, so why not the logo too?</p>
 
@@ -276,9 +276,9 @@ A proposed branding re-haul for The Pittsburgh Parks Convervancy was inspired by
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1.png 476w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1@2x.png 952w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1@3x.png 1428w'></div><!--
+<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1.jpg 476w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1@2x.jpg 952w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1@3x.jpg 1428w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-3.png 394w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-3@2x.png 788w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-3@3x.png 1182w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-3@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-3.jpg 394w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-3@2x.jpg 788w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-3@3x.jpg 1182w'></div>
 
 </div>
 
