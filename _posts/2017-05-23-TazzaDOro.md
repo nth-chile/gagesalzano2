@@ -60,9 +60,9 @@ I showed them a range of ideas: a hand-illustarted signature, a bad Italian Art 
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3.jpg 394w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3@2x.jpg 788w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3@3x.jpg 1182w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3.jpg 394w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3@2x.jpg 788w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3@3x.jpg 1182w'></div><!--
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4.jpg 394w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4@2x.jpg 788w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4@3x.jpg 1182w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4.jpg 394w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4@2x.jpg 788w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4@3x.jpg 1182w'></div>
 
 </div>
 
@@ -86,11 +86,11 @@ I showed them a range of ideas: a hand-illustarted signature, a bad Italian Art 
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7.jpg 258w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7@2x.jpg 516w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7@3x.jpg 774w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7.jpg 258w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7@2x.jpg 516w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7@3x.jpg 774w'></div><!--
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8.jpg 258w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8@2x.jpg 516w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8@3x.jpg 774w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8.jpg 258w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8@2x.jpg 516w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8@3x.jpg 774w'></div><!--
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9.jpg 258w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9@2x.jpg 516w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9@3x.jpg 774w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9.jpg 258w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9@2x.jpg 516w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9@3x.jpg 774w'></div>
 
 </div>
 

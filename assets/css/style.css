@@ -37,6 +37,8 @@ a.go-home:hover {
 
 article {
   margin-top: 56px; }
+  article img {
+    margin-bottom: -4px; }
 
 .bold {
   font-weight: bold; }
