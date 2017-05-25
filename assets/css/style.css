@@ -203,7 +203,7 @@ figure {
   fill: #EF4859; }
 
 #loading {
-  background-color: #383434;
+  background-color: #fff;
   height: 100%;
   position: absolute;
   top: 0;
