@@ -1,6 +1,6 @@
 ---
 title: Tazza D'Oro — Branding
-date: 2017-03-18 21:48:57
+date: 2017-03-18 20:55:49
 featured_image: /assets/images/posts/TazzaDOro/tazzadoro-thumb.png
 style: height:110%
 stack_color: white
@@ -9,13 +9,13 @@ stack_color: white
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile.png 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile@3x.png 1125w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile@3x.jpg 1125w'></div>
 
 {{slide['end']}}
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1@2x.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1.png 1024w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1@2x.png 2048w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1@3x.png 3072w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1@2x.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1.jpg 1024w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1@2x.jpg 2048w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1@3x.jpg 3072w'></div>
 
 {{slide['end']}}
 
@@ -35,14 +35,14 @@ stack_color: white
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile.png 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile@3x.jpg 1125w'></div>
 
 
 {{slide['end']}}
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2.png 794w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2@2x.png 1558w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2.jpg 794w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2@2x.jpg 1558w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2@3x.jpg 2382w'></div>
 
 
 I showed them a range of ideas: a hand-illustarted signature, a bad Italian Art Deco-ey one and one inspired by cafe signage of the early 20th century that I ended up making an entire typeface for I got so into it.
@@ -51,7 +51,7 @@ I showed them a range of ideas: a hand-illustarted signature, a bad Italian Art 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile.png 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile@3x.jpg 1125w'></div>
 
 
 {{slide['end']}}
@@ -60,9 +60,9 @@ I showed them a range of ideas: a hand-illustarted signature, a bad Italian Art 
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3.png 394w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3@2x.png 788w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3@3x.png 1182w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3.jpg 394w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3@2x.jpg 788w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3@3x.jpg 1182w'></div>
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4.png 394w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4@2x.png 788w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4@3x.png 1182w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4.jpg 394w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4@2x.jpg 788w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4@3x.jpg 1182w'></div>
 
 </div>
 
@@ -79,18 +79,18 @@ I showed them a range of ideas: a hand-illustarted signature, a bad Italian Art 
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5.png 794w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5@2x.png 1558w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5.jpg 794w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5@2x.jpg 1558w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5@3x.jpg 2382w'></div>
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6.png 794w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6@2x.png 1558w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6.jpg 794w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6@2x.jpg 1558w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6@3x.jpg 2382w'></div>
 
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7.png 258w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7@2x.png 516w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7@3x.png 774w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7.jpg 258w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7@2x.jpg 516w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7@3x.jpg 774w'></div>
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8.png 258w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8@2x.png 516w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8@3x.png 774w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8.jpg 258w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8@2x.jpg 516w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8@3x.jpg 774w'></div>
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9.png 258w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9@2x.png 516w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9@3x.png 774w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9.jpg 258w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9@2x.jpg 516w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-9@3x.jpg 774w'></div>
 
 </div>
 
@@ -100,7 +100,7 @@ Thanks to <a href='http://www.fullstopinteractive.com/'>Jay & Nate</a> for the a
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4-mobile.png 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4-mobile@3x.jpg 1125w'></div>
 
 {{slide['end']}}
 
@@ -114,19 +114,19 @@ We agreed the hand drawn type was most appropriate, but liked the cafe signage t
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile.png 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile@3x.jpg 1125w'></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile.png 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile@3x.jpg 1125w'></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7-mobile.png' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7-mobile.png 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7-mobile@3x.jpg 1125w'></div>
 
 {{slide['end']}}
 
