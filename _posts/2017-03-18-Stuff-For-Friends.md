@@ -26,7 +26,7 @@ If people had taglines, this would be Shannon's.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile.png 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile@3x.jpg 1125w'></div>
 
 <p class='bg'>I got to draw some cocktails for Amy &amp; Ben's awesome wedding. Then I got to drink a bunch of real ones and make a fool of myself on the dance floor.</p>
 
@@ -44,7 +44,7 @@ Then I got to drink a bunch of real ones and make a fool of myself on the dance 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile@3x.jpg 1125w'></div>
 
 <p class='bg-dark'>Katie had the best gift idea for her boyfriend: make his dream brewery come to life.</p>
 
@@ -58,13 +58,13 @@ We made a brand, came up with beer names and drew the damn brewery all based on 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2-mobile@3x.jpg 1125w'></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-3-mobile@3x.jpg 1125w'></div>
 
 {{slide['end']}}
 

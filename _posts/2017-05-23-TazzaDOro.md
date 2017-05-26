@@ -9,7 +9,7 @@ stack_color: white
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile@3x.jpg 1125w'></div>
 
 {{slide['end']}}
 
@@ -65,6 +65,8 @@ I showed them a range of ideas: a hand-illustarted signature, a bad Italian Art 
 --><div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4.jpg 394w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4@2x.jpg 788w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4@3x.jpg 1182w'></div>
 
 </div>
+
+<figcaption>This is the typeface I designed for one of the concepts. Someday, I might make it into a real font.</figcaption>
 
 We agreed the hand drawn type was most appropriate, but liked the cafe signage thought. So I refined it a bunch and tied the two ideas together.
 

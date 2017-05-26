@@ -278,7 +278,7 @@ A proposed branding re-haul for The Pittsburgh Parks Convervancy was inspired by
 
 <div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1.jpg 476w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1@2x.jpg 952w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1@3x.jpg 1428w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-3@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-3.jpg 394w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-3@2x.jpg 788w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-3@3x.jpg 1182w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-2@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-2.jpg 394w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-2@2x.jpg 788w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-2@3x.jpg 1182w'></div>
 
 </div>
 

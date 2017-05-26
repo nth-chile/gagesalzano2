@@ -296,7 +296,8 @@ figure {
 
   figcaption {
     font-size: 13px;
-    line-height: 18px; }
+    line-height: 18px;
+    color: #fff; }
     figcaption:not(.bg) {
       opacity: .5; }
 
@@ -404,8 +405,8 @@ figure {
         position: absolute;
         top: 0px; }
       .slide .slide__content .bg {
-        background: -webkit-linear-gradient(transparent, rgba(1, 0, 0, 0.09) 10%, rgba(2, 0, 0, 0.7));
-        background: linear-gradient(transparent, rgba(1, 0, 0, 0.09) 10%, rgba(2, 0, 0, 0.7));
+        background: -webkit-linear-gradient(transparent, rgba(1, 0, 0, 0) 10%, rgba(2, 0, 0, 0.5));
+        background: linear-gradient(transparent, rgba(1, 0, 0, 0) 10%, rgba(2, 0, 0, 0.5));
         box-sizing: border-box;
         position: absolute;
         bottom: 0;
