@@ -13,13 +13,13 @@ Here's a collection of some brand identities I've worked on through the years.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-1-mobile@3x.jpg 1125w'></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-2-mobile@3x.jpg 1125w'></div>
 
 <p class='bg'>The rotation in the "a" was meant to symbolize the constant syncing of data required to power the service.</p>
 
@@ -43,7 +43,7 @@ The rotation in the "a" was meant to symbolize the constant syncing of data requ
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile@3x.jpg 1125w'></div>
 
 <p class='bg'>Sometimes the logo designs itself. The "O" and "C" in the name OnCorps are overlaid to symbolize a donut chart.</p>
 
@@ -51,7 +51,7 @@ The rotation in the "a" was meant to symbolize the constant syncing of data requ
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-2-mobile@3x.jpg 1125w'></div>
 
 {{slide['end']}}
 
@@ -71,7 +71,7 @@ Sometimes the logo designs itself. The "O" and "C" in the name OnCorps are overl
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile@3x.jpg 1125w'></div>
 
 <p class='bg-dark'>We drew probably 1,000 trees before landing on this guy. Made for a real estate application to symbolize the network.</p>
 
@@ -87,7 +87,7 @@ We drew probably 1,000 trees before landing on this guy. Made for a real estate 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile@3x.jpg 1125w'></div>
 
 <p class='bg-dark'>For a money-management app, this mark combines two visual metaphors. One is a coin being dropped into a piggy bank, and the other is a sunrise to symbolize a new financial start.</p>
 
@@ -123,7 +123,7 @@ For a money-management app, this mark combines two visual metaphors. One is a co
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile@3x.jpg 1125w'></div>
 
 {{slide['end']}}
 
