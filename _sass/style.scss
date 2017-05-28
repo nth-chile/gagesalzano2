@@ -112,9 +112,14 @@ footer {
 }
 figcaption {
 	color: rgb(148, 143, 143);
+	a {
+		color: rgb(148, 143, 143);
+		font-weight: bold;
+		&:visited {color: rgb(148, 143, 143);}
+		&:hover {color: black;}
+	}
 
 }
-article figcaption,
 footer {
 	a {
 		color: black;
@@ -599,6 +604,8 @@ figure {
 					transform: translateZ(8px);
 					-webkit-transform: translateZ(8px);
 					-ms-transform: translateZ(8px);
+					box-shadow: 0px 0px 25px 0px rgba(77, 69, 69, .25);
+
 					img {
 						transform: scale(1.03);
 						-webkit-transform: scale(1.03);

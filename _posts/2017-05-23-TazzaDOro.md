@@ -22,13 +22,13 @@ stack_color: white
 {{slide['startmobile']}}
 
 
-<a href='http://www.tazzadoro.net/'>Tazza D'oro Cafe & Espresso Bar</a> is located in  the Highland Park neighborhood in Pittsburgh. My friend’s Jay & Nate were approached to redesign their website and asked for me to come up with a few ideas for their branding.
+<a href='http://www.tazzadoro.net/'>Tazza D'oro</a> is located in  the Highland Park neighborhood in Pittsburgh. My friends <a href='http://www.fullstopinteractive.com/'>Jay & Nate</a> were approached to redesign their website and asked for me to come up with a few ideas for their branding.
 
 {{slide['end']}}
 
 {{slide['startdesktop']}}
 
-<a href='http://www.tazzadoro.net/'>Tazza D'oro Cafe & Espresso Bar</a> is located in  the Highland Park neighborhood in Pittsburgh. My friend’s <a href='http://www.fullstopinteractive.com/'>Jay & Nate</a> were approached to redesign their website and asked for me to come up with a few ideas for their branding.
+<a href='http://www.tazzadoro.net/'>Tazza D'oro</a> is located in  the Highland Park neighborhood in Pittsburgh. My friends <a href='http://www.fullstopinteractive.com/'>Jay & Nate</a> were approached to redesign their website and asked for me to come up with a few ideas for their branding.
 
 
 {{slide['end']}}
@@ -45,7 +45,7 @@ stack_color: white
 <div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2.jpg 794w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2@2x.jpg 1558w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2@3x.jpg 2382w'></div>
 
 
-I showed them a range of ideas: a hand-illustarted signature, a bad Italian Art Deco-ey one and one inspired by cafe signage of the early 20th century that I ended up making an entire typeface for I got so into it.
+I showed them a range of ideas: a hand-lettered signature, a bad Italian Art Deco-ey one and one inspired by cafe signage of the early 20th century (that I ended up making an entire typeface for I got so into it).
 
 {{slide['end']}}
 
@@ -68,15 +68,15 @@ I showed them a range of ideas: a hand-illustarted signature, a bad Italian Art 
 
 </div>
 
-<figcaption>This is the typeface I designed for one of the concepts. Someday, I might make it into a real font.</figcaption>
+<figcaption>This is the typeface I designed for one of the concepts. Someday, I might make it into a real font...</figcaption>
 
-We agreed the hand drawn type was most appropriate, but liked the cafe signage thought. So I refined it a bunch and tied the two ideas together.
+We agreed the hand drawn type was most appropriate, but liked the idea behind the cafe signage one. So I refined it a bunch and tied the two ideas together.
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-I showed them a range of ideas: a hand-illustarted signature, a bad Italian Art Deco-ey one and one inspired by cafe signage of the early 20th century that I ended up making an entire typeface for I got so into it.
+I showed them a range of ideas: a hand-lettered signature, a bad Italian Art Deco-ey one and one inspired by cafe signage of the early 20th century (that I ended up making an entire typeface for I got so into it).
 
 {{slide['end']}}
 
@@ -111,7 +111,8 @@ Thanks to <a href='http://www.fullstopinteractive.com/'>Jay & Nate</a> for the a
 
 {{slide['startmobile']}}
 
-We agreed the hand drawn type was most appropriate, but liked the cafe signage thought. So I refined it a bunch and tied the two ideas together.
+We agreed the hand drawn type was most appropriate, but liked the idea behind the cafe signage one. So I refined it a bunch and tied the two ideas together.
+
 
 {{slide['end']}}
 

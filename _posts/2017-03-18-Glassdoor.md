@@ -21,7 +21,7 @@ stack_color: white
 
 {{slide['start']}}
 
-In an effort to make the logo feel more current and scalable, I worked on a small team that helped Glassdoor redefine their visual brand.
+I worked on a small team that helped Glassdoor rethink their visual brand.
 
 {{slide['end']}}
 
@@ -29,7 +29,7 @@ In an effort to make the logo feel more current and scalable, I worked on a smal
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile@3x.jpg 1125w'></div>
 
-<p class='bg-dark'>The new mark added more symmetry to solve layout issues and helped push the overall doorframe concept further.</p>
+<p class='bg-dark'>We added more symmetry to solve layout issues and made the symbolism to a doorframe more obvious.</p>
 
 {{slide['end']}}
 
@@ -37,7 +37,7 @@ In an effort to make the logo feel more current and scalable, I worked on a smal
 
 <div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-2.png 615w, {{ site.url }}/assets/images/posts/Glassdoor/gd-2@2x.png 1230w, {{ site.url }}/assets/images/posts/Glassdoor/gd-2@3x.png 1845w'></div>
 
-The new mark added more symmetry to solve layout issues and helped push the overall doorframe concept further.
+We added more symmetry to solve layout issues and made the symbolism to a doorframe more obvious.
 
 {{slide['end']}}
 
@@ -53,7 +53,7 @@ The new mark added more symmetry to solve layout issues and helped push the over
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'>The doorframe symbol becomes two brackets when expanded, which works as a visual device used to frame photography and messaging.</p>
+<p class='bg'>The doorframe symbol expands as two brackets to become a visual tool used to frame photography and messaging.</p>
 
 {{slide['end']}}
 
@@ -61,7 +61,7 @@ The new mark added more symmetry to solve layout issues and helped push the over
 
 <div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-9@2x.png' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-9.png 794w, {{ site.url }}/assets/images/posts/Glassdoor/gd-9@2x.png 1588w, {{ site.url }}/assets/images/posts/Glassdoor/gd-9@3x.png 2382w'></div>
 
-The doorframe symbol becomes two brackets when expanded, which works as a visual device used to frame photography and messaging.
+The doorframe symbol expands as two brackets to become a visual tool used to frame photography and messaging.
 
 {{slide['end']}}
 

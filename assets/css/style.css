@@ -58,15 +58,19 @@ footer h4 {
 
 figcaption {
   color: #948f8f; }
+  figcaption a {
+    color: #948f8f;
+    font-weight: bold; }
+    figcaption a:visited {
+      color: #948f8f; }
+    figcaption a:hover {
+      color: black; }
 
-article figcaption a,
 footer a {
   color: black;
   font-weight: bold; }
-  article figcaption a:visited,
   footer a:visited {
     color: black; }
-  article figcaption a:hover,
   footer a:hover {
     color: #005bf2; }
 
@@ -505,7 +509,8 @@ figure {
         .grid__item a div:hover {
           transform: translateZ(8px);
           -webkit-transform: translateZ(8px);
-          -ms-transform: translateZ(8px); }
+          -ms-transform: translateZ(8px);
+          box-shadow: 0px 0px 25px 0px rgba(77, 69, 69, 0.25); }
           .grid__item a div:hover img {
             transform: scale(1.03);
             -webkit-transform: scale(1.03);

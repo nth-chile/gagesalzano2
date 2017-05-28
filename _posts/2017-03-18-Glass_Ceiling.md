@@ -21,7 +21,7 @@ stack_color: white
 
 {{slide['start']}}
 
-Glass Ceiling was an online editorial concept to help encourage and promote advancement for women in the workplace.
+Glass Ceiling is resource for women determined to succeed in business.
 
 {{slide['end']}}
 

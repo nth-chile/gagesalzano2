@@ -5,11 +5,11 @@ $(document).ready(function(){
 	var rowsSet = false;
 
 	var $grid = $('.grid');
-	
+
 	var gridItemContents = $('.no-masonry.grid__item').map(function(i) {
 			return $($($(this)[0]).html());
 		});
-	
+
 	gridItemContents = gridItemContents.toArray();
 
 	var masonryOptions = {
@@ -21,7 +21,7 @@ $(document).ready(function(){
 			var counter = gridItemContents.length - 1;
 			return (
 				GRID_DATA.map(function(item, i) {
-					var $block = $(item); 
+					var $block = $(item);
 					if ($($block.children()[0]).hasClass('ghost') == false && counter >= 0 ) {
 						$($block.children()[0]).append(gridItemContents[counter]);
 						counter--;
@@ -40,13 +40,13 @@ $(document).ready(function(){
 
 	//resize throttler
 	(function() {window.addEventListener("resize", resizeThrottler, false);var resizeTimeout;function resizeThrottler() {if ( !resizeTimeout ) {resizeTimeout = setTimeout(function() {resizeTimeout = null;actualResizeHandler();}, 66);}}
-	
+
 	function actualResizeHandler() {
 		var layoutShouldChange = false;
 		if (window.matchMedia("(max-width: 479.9px)").matches && layout != 'mini') {
 			layout = 'mini';
 			layoutShouldChange = true;
-		} 
+		}
 		else if (window.matchMedia("(min-width: 480px) and (max-width: 599.9px)").matches && layout != 'medium--1') {
 			layout = 'medium--1';
 			layoutShouldChange = true;
@@ -112,7 +112,7 @@ $(document).ready(function(){
 			$(elt).css('padding-bottom', '5rem');
 	});
 
-//** MEDIA QUERIES (ON PAGE LOAD) **//	
+//** MEDIA QUERIES (ON PAGE LOAD) **//
 
 
 	if (window.matchMedia("(max-width: 479.9px)").matches) {
@@ -200,7 +200,7 @@ $(document).ready(function(){
 					.addClass('grid__item')
 					.append(item)
 				);
-			
+
 			$grid.append($wrap)
 		});
 		setTileZIndex();
@@ -232,7 +232,7 @@ $(document).ready(function(){
 				$(this).css({
 					'width': '100%',
 					'height': 'auto',
-					'left': '0'					
+					'left': '0'
 				});
 				var topValue = $(this).height() / 2 - ($(window).height() - $('.post-nav').height()) / 2;
 				if (topValue > 0) topValue = 0 - topValue;
@@ -248,13 +248,13 @@ $(document).ready(function(){
 		tooltip_img(
 			'#me',
 			'assets/images/tooltips/me.jpg',
-			'This is a picture of me my friend <a href="http://www.ismellpaper.com/" target="_blank">Liz</a> took.',
+			'Photo by <a href="https://www.instagram.com/smmonson/">Shannon</a>',
 			'Me'
 		);
 		tooltip_img_boxBottom(
 			'#stealth-gaming',
 			'assets/images/tooltips/stealthgaming.png',
-			'This is the only decent screenshot from the Wayback Machine that I could grab of one of THE MANY schemes me and friends in high school dreamed up, this time a video game review site called “Stealth Gaming.” I was usually the graphics guy because I wasn’t nearly as smart as everyone else, and this is the type of stuff I would come up with. 😂',
+			'This is the only decent screenshot from the Wayback Machine that I could grab of one of THE MANY schemes me and friends in high school dreamed up. I was usually the graphics guy because I wasn’t nearly as smart as everyone else, and this is the type of stuff I would come up with. 😂',
 			'Project with friends back in the day',
 			'rgb(66, 90, 131)'
 		);
@@ -306,11 +306,11 @@ $(document).ready(function(){
   		var $startQuote = $('<span>&ldquo;</span>')
   		$startQuote.addClass('desktop quotation-mark quote__quote')
   					  .css('display', 'inline');
-  		
+
   		var $endQuote = $('<span>&rdquo;</span>')
   		$endQuote.addClass('desktop quotation-mark quote__quote')
   					  .css('display', 'inline');
-  		
+
   		$p.css('display', 'inline');
   		$p.before($startQuote);
   		$p.after($endQuote);
@@ -364,7 +364,7 @@ $(document).ready(function(){
 		div.appendChild(fig);
 		document.body.appendChild(div);
 		showOnHover(div, target);
-		
+
 	}
 	function tooltip_img_boxBottom(target, image, caption, alt, captionBgColor) {
 		var div = document.createElement('div');
@@ -455,7 +455,7 @@ $(document).ready(function(){
 					b.z += 1;
 			})
 		});
-		
+
 		coords.forEach(function(elt) {
 			elt.$this.css('z-index', elt.z);
 		});
@@ -523,7 +523,7 @@ $(document).ready(function(){
 			}
 			else
 				elt.style.left = x - $(elt).width() / 2 + 'px';
-			
+
 		});
 		$('body').on('mouseleave', target, function(e) {
 			setTimeout(function(){
@@ -536,6 +536,6 @@ $(document).ready(function(){
 				}
 			}, 150);
 		});
-		
+
 	}
 });

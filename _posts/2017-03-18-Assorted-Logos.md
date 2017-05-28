@@ -45,7 +45,7 @@ The rotation in the "a" was meant to symbolize the constant syncing of data requ
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'>Sometimes the logo designs itself. The "O" and "C" in the name OnCorps are overlaid to symbolize a donut chart.</p>
+<p class='bg'>Sometimes the logo designs itself. The "O" and "C" in the name are overlaid to symbolize a donut chart for this data analysis company.</p>
 
 {{slide['end']}}
 
@@ -65,7 +65,7 @@ The rotation in the "a" was meant to symbolize the constant syncing of data requ
 
 </div>
 
-Sometimes the logo designs itself. The "O" and "C" in the name OnCorps are overlaid to symbolize a donut chart.
+Sometimes the logo designs itself. The "O" and "C" in the name are overlaid to symbolize a donut chart for this data analysis company
 
 {{slide['end']}}
 
@@ -165,9 +165,8 @@ This was for a parking app &hellip; Get it?
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile@3x.png 1125w'></div>
 
-<p class='bg'>My friend Tony runs a company in my hometown that tests electronics on things like military-grade helicopters and electric cars. I just cleaned up their logo.</p>
+<p class='bg'>My friend Tony runs a company in my hometown that tests electronics on things like military-grade helicopters and electric cars. I just cleaned up their logo. ¯\\\_(ツ)\_/¯</p>
 
-¯\\\_(ツ)\_/¯
 
 {{slide['end']}}
 
@@ -228,37 +227,6 @@ A logo for an online educational platform.
 
 Concept for a campaign at Grove City University.
 
-
-
-{{slide['end']}}
-
-
-{{slide['startmobile']}}
-
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1-mobile@3x.jpg 1125w'></div>
-
-<p class='bg'>A proposed branding re-haul for The Pittsburgh Parks Convervancy was inspired by nature and the city living together.</p>
-
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
-<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1.jpg 634w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1@2x.jpg 1268w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-1@3x.jpg 1902w'></div>
-
-
-<div class='row'>
-
-<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-2@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-2.jpg 314w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-2@2x.jpg 628w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-2@3x.jpg 942w'></div><!--
-
---><div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-3@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/ppc-3.jpg 314w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-3@2x.jpg 628w, {{ site.url }}/assets/images/posts/Assorted_Logos/ppc-3@3x.jpg 942w'></div>
-
-</div>
-
-
-A proposed branding re-haul for The Pittsburgh Parks Convervancy was inspired by nature and the city living together.
 
 
 {{slide['end']}}

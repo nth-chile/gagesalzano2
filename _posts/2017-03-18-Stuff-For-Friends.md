@@ -10,7 +10,7 @@ stack_color: white
 
 {{slide['start']}}
 
-The most fun you can have as a designer is doing things for buds. You know what the client likes and they come up with really fun creative briefs.
+The most fun you can have as a designer is working for friends. You know what the client likes and they come up with really fun creative briefs.
 
 
 {{slide['end']}}
@@ -36,7 +36,7 @@ This was a shirt and tote that I made for my girlfriend. It's like her catchphra
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'>I draw some cocktails for Amy &amp; Ben's awesome wedding. Then I got to drink a bunch of real ones and make a fool of myself on the dance floor.</p>
+<p class='bg'>I drew some cocktails for Amy &amp; Ben's awesome wedding. Then I got to drink a bunch of real ones and make a fool of myself on the dance floor.</p>
 
 {{slide['end']}}
 
@@ -44,7 +44,7 @@ This was a shirt and tote that I made for my girlfriend. It's like her catchphra
 
 <div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails@3x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails.png 474w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails@2x.png 948w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails@3x.png 1422w'></div>
 
-I draw some cocktails for Amy &amp; Ben's awesome wedding.
+I drew some cocktails for Amy &amp; Ben's awesome wedding.
 
 Then I got to drink a bunch of real ones and make a fool of myself on the dance floor.
 
@@ -54,13 +54,13 @@ Then I got to drink a bunch of real ones and make a fool of myself on the dance 
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-1-mobile@3x.jpg 1125w'></div>
 
-<p class='bg-dark'>Katie had the best gift idea for her boyfriend: make his dream brewery come to life.</p>
+<p class='bg-dark'>I helped Katie make Ryan's dream brewery come to life.</p>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-We made a brand, came up with beer names and drew the damn brewery all based on things she remembered him saying when talking about it. The logos for the beer flavors were inspired by <a href='https://www.google.com/search?q=railway+company+seals&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj1qvbejOPSAhVX6GMKHYoKCosQ_AUICigD&biw=1016&bih=631#tbm=isch&q=railroad+company+logos&*'>railway company seals</a> since the location he wanted to build it was next to an old train line that was <a href='https://en.wikipedia.org/wiki/Bloomingdale_Line'>converted to a public space</a>.
+We made a brand, came up with beer names and drew the  brewery all based on things he talked to her about. The logos for the beer flavors were inspired by <a href='https://www.google.com/search?q=railway+company+seals&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj1qvbejOPSAhVX6GMKHYoKCosQ_AUICigD&biw=1016&bih=631#tbm=isch&q=railroad+company+logos&*'>railway company seals</a> since the location he wanted to build it was next to an old train line that was <a href='https://en.wikipedia.org/wiki/Bloomingdale_Line'>converted to a public space</a>.
 
 {{slide['end']}}
 
@@ -95,9 +95,10 @@ We made a brand, came up with beer names and drew the damn brewery all based on 
 
 </div>
 
-Katie had the best gift idea for her boyfriend: make his dream brewery come to life.
 
-We made a brand, came up with beer names and drew the damn brewery all based on things she remembered him saying when talking about it. The logos for the beer flavors was inspired by <a href='https://www.google.com/search?q=railway+company+seals&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj1qvbejOPSAhVX6GMKHYoKCosQ_AUICigD&biw=1016&bih=631#tbm=isch&q=railroad+company+logos&*'>railway company seals</a> since the location he wanted to build it was next to an old train line that was <a href='https://en.wikipedia.org/wiki/Bloomingdale_Line'>converted to a public space</a>.
+I helped Katie make Ryan's dream brewery come to life.
+
+We made a brand, came up with beer names and drew the  brewery all based on things he talked to her about. The logos for the beer flavors were inspired by <a href='https://www.google.com/search?q=railway+company+seals&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj1qvbejOPSAhVX6GMKHYoKCosQ_AUICigD&biw=1016&bih=631#tbm=isch&q=railroad+company+logos&*'>railway company seals</a> since the location he wanted to build it was next to an old train line that was <a href='https://en.wikipedia.org/wiki/Bloomingdale_Line'>converted to a public space</a>.
 
 {{slide['end']}}
 
@@ -105,29 +106,38 @@ We made a brand, came up with beer names and drew the damn brewery all based on 
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4-mobile@3x.jpg 1125w'></div>
 
-<p class="bg">The screenprint was drawn at the exact location as he described it, even the taco truck in front is something he mentioned that would be awesome.</p>
+<p class="bg"> </p>
 
 {{slide['end']}}
 
 {{slide['startdesktop']}}
 
+
 <div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4.png 794w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4@2x.png 1588w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4@3x.png 2382w'></div>
 
-The screenprint was drawn at the exact location as he described it, even the taco truck in front is something he mentioned that would be awesome.
-
-{{slide['end']}}
-
-{{slide['start']}}
-
-<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5.png 794w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5@2x.png 1588w'></div>
-
-This is a shirt we made with the logo of the 606 Kolsch. I never got to taste the beer but I wear this shirt almost everyday.
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-My friend Natalie sought a business card for her antique dealing business.
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5.png 794w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5@2x.png 1588w'></div>
+
+<p class='bg'>This is a shirt we made with the logo of the 606 Kolsch, I still wear it and people always ask about the brewery.</p>
+
+{{slide['end']}}
+
+
+{{slide['startdesktop']}}
+
+<div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5.png 794w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-5@2x.png 1588w'></div>
+
+This is a shirt we made with the logo of the 606 Kolsch, I still wear it and people always ask about the brewery.
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<a href='http://www.curleysantiques.com/'>Natalie is an appraiser/historian/collector</a> and needed a business card. So I took forever and designed an entire brand system. (Sorry about that Natalie)
 
 {{slide['end']}}
 
@@ -135,7 +145,6 @@ My friend Natalie sought a business card for her antique dealing business.
 
 <div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie.png 1024w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@2x.png 2048w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@3x.png 3072w'></div>
 
-So what do you do when someone asks you for a business card? Take forever and design an entire brand system. (Sorry about that, Natalie)
 
 {{slide['end']}}
 
@@ -143,9 +152,7 @@ So what do you do when someone asks you for a business card? Take forever and de
 
 <div><img class='full-width' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie.png 1024w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@2x.png 2048w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@3x.png 3072w'></div>
 
-My friend Natalie sought a business card for her antique dealing business.
-
-So what do you do when someone asks you for a business card? Take forever and design an entire brand system. (Sorry about that Natalie)
+<a href='http://www.curleysantiques.com/'>Natalie is an appraiser/historian/collector</a> and needed a business card. So I took forever and designed an entire brand system. (Sorry about that Natalie)
 
 {{slide['end']}}
 
@@ -153,7 +160,7 @@ So what do you do when someone asks you for a business card? Take forever and de
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica-mobile@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica-mobile.png 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica-mobile@3x.png 1125w'></div>
 
-<p class='bg'>Casey &amp; Monica are two awesome people that got married in a movie theatre built in 1903. It felt appropriate that their wedding invites were made to feel "letterpress-y".</p>
+<p class='bg'>Casey &amp; Monica got married in a movie theatre built in 1903. It felt appropriate that their wedding invites were made to feel like an old playbill.</p>
 
 {{slide['end']}}
 
@@ -161,6 +168,6 @@ So what do you do when someone asks you for a business card? Take forever and de
 
 <div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica.png 795w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@2x.png 1590w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica@3x.png 2385w'></div>
 
-Casey &amp; Monica are two awesome people that got married in a movie theatre built in 1903. It felt appropriate that their wedding invites were made to feel "letterpress-y".
+Casey &amp; Monica got married in a movie theatre built in 1903. It felt appropriate that their wedding invites were made to feel like an old playbill.
 
 {{slide['end']}}

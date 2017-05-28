@@ -11,7 +11,7 @@ stack_color: white
 
 {{slide['startmobile']}}
 
-Google Engage is a partnership created by &hellip; Google, for agencies working in search marketing that use their products.
+Google Engage was a partnership created by&hellip;Google, for agencies working in search marketing that use their products.
 
 {{slide['end']}}
 
@@ -19,9 +19,7 @@ Google Engage is a partnership created by &hellip; Google, for agencies working 
 
 <div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.gif'></div>
 
-This concept symbolized building blocks, inspired by the theory that "The whole is greater than the sum of its parts."
-
-Thanks for that one, <a href='http://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts'>Aristotle</a>.
+This concept symbolized the community as building blocks, inspired by "The whole is greater than the sum of its parts." (Thanks <a href='http://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts'>Aristotle</a>)
 
 {{slide['end']}}
 
@@ -29,7 +27,7 @@ Thanks for that one, <a href='http://www.goodreads.com/quotes/20103-the-whole-is
 
 <div><img class='full-width' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.png 1024w, {{ site.url }}/assets/images/posts/Google_Engage/engage-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Google_Engage/engage-1@3x.png 3072w'></div>
 
-Google Engage is a partnership created by &hellip; Google for agencies working in search marketing that use their products.
+Google Engage was a partnership created by&hellip;Google for agencies working in search marketing that use their products.
 
 <div class='row'>
 
@@ -39,17 +37,15 @@ Google Engage is a partnership created by &hellip; Google for agencies working i
 
 </div>
 
-This concept symbolized building blocks, inspired by the theory that "The whole is greater than the sum of its parts."
-
-Thanks for that one, <a href='http://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts'>Aristotle</a>.
+This concept symbolized the community as building blocks, inspired by "The whole is greater than the sum of its parts." (Thanks <a href='http://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts'>Aristotle</a>)
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-It's tough in these situations where the parent company has such a well-established brand to come up with something that feels distinct, but still belongs.
+It's tough sometimes working with an already well-established brand to come up with something that feels distinct, but still belongs.
 
-That's why the color was such an important part. It tied the whole room together.
+That's why the color was such an important part.
 
 {{slide['end']}}
 
@@ -65,7 +61,7 @@ That's why the color was such an important part. It tied the whole room together
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile@3x.jpg 1125w'></div>
 
-<p class='bg-dark'>The parts of the logo could be used to construct icons, layouts and other brand elements.</p>
+<p class='bg-dark'>The parts of the logo could be used to construct icons and inspire page compositions.</p>
 
 {{slide['end']}}
 
@@ -81,9 +77,9 @@ The gif below replaces above .png
 
 <div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.gif'></div>
 
-It's tough in these situations where the parent company has such a well-established brand to come up with something that feels distinct, but still belongs.
+It's tough sometimes working with an already well-established brand to come up with something that feels distinct, but still belongs.
 
-That's why the color was such an important part. It tied the whole room together.
+That's why the color was such an important part.
 
 {{slide['end']}}
 
@@ -106,6 +102,6 @@ That's why the color was such an important part. It tied the whole room together
 
 </div>
 
-The parts of the logo could be used to construct icons, layouts and other brand elements.
+The parts of the logo could be used to construct icons and inspire page compositions.
 
 {{slide['end']}}
