@@ -117,14 +117,10 @@ header {
   .quote-wrap span {
     font-weight: bold;
     white-space: nowrap; }
-    .quote-wrap span .quotation-mark {
-      vertical-align: top; }
     .quote-wrap span .quote__quote {
       color: #4d4545;
       text-decoration: none;
       white-space: normal; }
-  .quote-wrap:hover .quote__quote {
-    border-bottom: 1.5px solid #4d4545; }
   .quote-wrap:hover .quote__source.chosen {
     cursor: default;
     opacity: 1; }
@@ -146,8 +142,7 @@ article p,
   margin: 0 auto;
   padding: 5rem 0 0; }
 
-.about p:last-child,
-article p:last-child {
+.about p:last-child, div.slide__content p:last-child {
   padding-bottom: 5rem; }
 
 .emoji {
@@ -287,7 +282,10 @@ figure {
     font-size: 16px;
     line-height: 22px;
     margin: 0 auto;
-    padding: .7rem 0; }
+    padding: .7rem 40px; }
+
+  div.slide__content p:last-child {
+    padding-bottom: 0px; }
 
   .copyright {
     margin-bottom: 3.5rem; }
@@ -411,7 +409,7 @@ figure {
         position: absolute;
         bottom: 0;
         left: 0;
-        padding: 55px 11px;
+        padding: 55px 40px;
         width: 100%; }
       .slide .slide__content .bg-dark {
         box-sizing: border-box;

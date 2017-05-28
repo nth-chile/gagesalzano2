@@ -2,7 +2,7 @@
 title: Assorted Logos
 date: 2017-03-18 20:10:14
 featured_image: /assets/images/posts/Assorted_Logos/assortedlogos-thumb.jpg
-style: width:100%;margin-top:-7px
+style: height:100%;width:auto;
 ---
 {% assign slide = site.data.slide %}
 {{slide['start']}}
@@ -125,6 +125,9 @@ For a money-management app, this mark combines two visual metaphors. One is a co
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile@3x.jpg 1125w'></div>
 
+<p class='bg-dark'></p>
+
+
 {{slide['end']}}
 
 {{slide['startdesktop']}}
@@ -146,6 +149,9 @@ This was for a parking app &hellip; Get it?
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1-mobile@3x.png 1125w'></div>
+
+<p class='bg-dark'></p>
+
 
 {{slide['end']}}
 

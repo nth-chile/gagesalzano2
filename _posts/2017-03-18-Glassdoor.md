@@ -27,7 +27,7 @@ In an effort to make the logo feel more current and scalable, I worked on a smal
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile@3x.jpg 1125w'></div>
 
 <p class='bg-dark'>The new mark added more symmetry to solve layout issues and helped push the overall doorframe concept further.</p>
 
@@ -43,13 +43,15 @@ The new mark added more symmetry to solve layout issues and helped push the over
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-9-mobile.png' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-9-mobile.png 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-9-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-9-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-3-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-3-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-3-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-3-mobile@3x.jpg 1125w'></div>
+
+<p class='bg-dark'></p>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-10-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-10-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-10-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-10-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile@3x.jpg 1125w'></div>
 
 <p class='bg'>The doorframe symbol becomes two brackets when expanded, which works as a visual device used to frame photography and messaging.</p>
 
@@ -65,13 +67,13 @@ The doorframe symbol becomes two brackets when expanded, which works as a visual
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-3-mobile@3x.png 1125w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile@3x.jpg 1125w'></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile.png 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile@3x.png 1125w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-6-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-6-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-6-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-6-mobile@3x.jpg 1125w'></div>
 
 
 {{slide['end']}}
@@ -92,7 +94,7 @@ The doorframe symbol becomes two brackets when expanded, which works as a visual
 
 <figure>
 
-<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile.png 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile@3x.png 1125w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-7-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-7-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-7-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-7-mobile@3x.jpg 1125w'></div>
 
 <figcaption>Everybody loves T-shirts.</figcaption>
 

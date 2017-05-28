@@ -16,11 +16,11 @@
 title: Gage Salzano — Portfolio
 email: me@gagesalzano.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a graphic web designer, or whatever you want to call it. I help people create brands for new companies and initiatives, conceptualize marketing campaigns, visualize and illustrate things and design websites. My goal is to always provide the best quality stuff I can for a fair price.
+  I'm a graphic & web designer, or whatever you want to call it. I help people create brands for new companies and initiatives, conceptualize marketing campaigns, visualize and illustrate things and design websites. My goal is to always provide the best quality stuff I can for a fair price.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://snack-time.github.io/gagesalzano2"
 
-available: true
+available: false
 
 id:
   avatar: <svg width="15" height="15" viewBox="0 0 15 15"><path d="M13.916 4.637v-.005h-.03l-.292 1.454a.83.83 0 0 1-.014.067v.003a.846.846 0 0 1-.088.219l-.003.004a.857.857 0 0 1-.214.244L11.9 8.193v.006l-.583 1.615V8.596A2.268 2.268 0 0 0 9.199 6.43l-1.865.703-1.866-.703A2.268 2.268 0 0 0 3.35 8.596v1.218l-.583-1.615v-.006l-1.375-1.57a.856.856 0 0 1-.214-.244l-.003-.004a.844.844 0 0 1-.087-.219l-.001-.003a.806.806 0 0 1-.014-.067L.782 4.632H.75v.005a.585.585 0 0 0-.516.58v.926c0 .089.014.145.03.205l.026.097.047.165.915 3.291L4.85 14.08h4.967l3.597-4.179.915-3.291.047-.165.026-.097a.698.698 0 0 0 .03-.205v-.926c0-.3-.226-.546-.516-.58zM9.96 9.469l-.433 1.769h-.697c-.4 0-.733-.29-.8-.672v-1.21H6.638v1.21a.811.811 0 0 1-.799.672h-.697l-.433-1.769c-.09-.336-.16-.64-.16-.763 0-.448.364-.812.812-.812h3.947c.448 0 .811.364.811.812 0 .123-.07.427-.16.763zm3.56-8.886A1.31 1.31 0 0 0 12.429 0H9.104a1.31 1.31 0 0 0-1.09.583h-1.36A1.31 1.31 0 0 0 5.562 0H2.239a1.31 1.31 0 0 0-1.09.583H0V1.72h.927l.003.846C.977 4.166 2.288 5.11 3.9 5.11c1.643 0 2.975-.99 2.975-2.633v-.37c0-.253.204-.458.457-.459h.003c.253 0 .457.206.457.459v.37c0 1.643 1.332 2.633 2.974 2.633 1.613 0 2.925-.943 2.971-2.544l.003-.846h.927V.583H13.52zm-7.412.734v.701c-.002.03-.004.059-.004.089v.37c0 1.286-1.106 1.861-2.202 1.861-.628 0-1.191-.177-1.586-.498-.39-.318-.597-.753-.614-1.293l-.002-.68v-.556V1.3c0-.29.234-.525.524-.525V.773l.016-.001h3.344v.002c.29 0 .524.235.524.525v.018zm6.86-.006v.556l-.001.68c-.017.54-.223.975-.614 1.293-.395.321-.958.498-1.586.498-1.096 0-2.202-.575-2.202-1.86v-.371c0-.03-.002-.06-.004-.089v-.701-.018c0-.29.235-.525.524-.525V.773l.02-.001H12.444v.002c.29 0 .524.235.524.525v.012z" fill="#4D4545" fill-rule="evenodd"/></svg>

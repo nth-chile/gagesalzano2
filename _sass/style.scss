@@ -169,9 +169,6 @@ header {
 	span {
 		font-weight: bold;
 		white-space: nowrap;
-		.quotation-mark {
-			vertical-align: top;
-		}
 		.quote__quote {
 			color: $post-nav-color;
 			text-decoration: none;
@@ -179,9 +176,6 @@ header {
 		}
 	}
 	&:hover {
-		.quote__quote {
-			border-bottom: 1.5px solid $post-nav-color;
-		}
 		.quote__source.chosen {
 			cursor: default;
 			opacity: 1;
@@ -206,8 +200,7 @@ article p,
 	margin: 0 auto;
 	padding: 5rem 0 0;
 }
-.about p:last-child,
-article p:last-child {
+.about p:last-child, div.slide__content p:last-child {
 	padding-bottom: 5rem;
 }
 .emoji {
@@ -369,7 +362,10 @@ figure {
 		font-size: 16px;
 		line-height: 22px;
 		margin: 0 auto;
-		padding: .7rem 0;
+		padding: .7rem 40px;
+	}
+	div.slide__content p:last-child {
+		padding-bottom: 0px;
 	}
 	.copyright	{
 		margin-bottom: 3.5rem;
@@ -502,7 +498,7 @@ figure {
 				bottom: 0;
 				left: 0;
 				//padding: 190px 11px 95px;
-				padding: 55px 11px;
+				padding: 55px 40px;
 				width: 100%;
 			}
 			.bg-dark {

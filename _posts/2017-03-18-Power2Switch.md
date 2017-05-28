@@ -29,7 +29,9 @@ Power2Switch em<u>powers</u> people to find more affordable energy prices.
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-2-mobile@3x.png 1125w'></div>
 
-The concept was focused on playing with the relationship between light and dark.
+<p class='bg-dark'></p>
+
+
 
 {{slide['end']}}
 

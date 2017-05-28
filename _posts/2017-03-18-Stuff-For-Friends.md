@@ -10,17 +10,25 @@ stack_color: white
 
 {{slide['start']}}
 
-Some of the most fun you have as a designer is doing things for buds. You know what the client likes (if not you're a terrible friend, jk) and they come up with really fun creative briefs.
+The most fun you can have as a designer is doing things for buds. You know what the client likes and they come up with really fun creative briefs.
+
 
 {{slide['end']}}
 
-{{slide['start']}}
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal-mobile@3x.jpg 1125w'></div>
+
+<p class='bg'>This was a shirt and tote that I made for my girlfriend. It's like her catchphrase.</p>
+
+
+{{slide['end']}}
+
+{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal.png 796w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal@2x.png 1592w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal@3x.png 2388w'></div>
 
-This was a shirt and tote bag design that was created for my girlfriend because she says it a lot.
-
-If people had taglines, this would be Shannon's.
+This was a shirt and tote that I made for my girlfriend. It's like her catchphrase.
 
 {{slide['end']}}
 
@@ -28,7 +36,7 @@ If people had taglines, this would be Shannon's.
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'>I got to draw some cocktails for Amy &amp; Ben's awesome wedding. Then I got to drink a bunch of real ones and make a fool of myself on the dance floor.</p>
+<p class='bg'>I draw some cocktails for Amy &amp; Ben's awesome wedding. Then I got to drink a bunch of real ones and make a fool of myself on the dance floor.</p>
 
 {{slide['end']}}
 
@@ -36,7 +44,7 @@ If people had taglines, this would be Shannon's.
 
 <div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails@3x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails.png 474w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails@2x.png 948w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/cocktails@3x.png 1422w'></div>
 
-I got to draw some cocktails for Amy &amp; Ben's awesome wedding.
+I draw some cocktails for Amy &amp; Ben's awesome wedding.
 
 Then I got to drink a bunch of real ones and make a fool of myself on the dance floor.
 
@@ -59,6 +67,9 @@ We made a brand, came up with beer names and drew the damn brewery all based on 
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-2-mobile@3x.jpg 1125w'></div>
+
+<p class='bg-dark'> </p>
+
 
 {{slide['end']}}
 
@@ -90,7 +101,15 @@ We made a brand, came up with beer names and drew the damn brewery all based on 
 
 {{slide['end']}}
 
-{{slide['start']}}
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4-mobile@3x.jpg 1125w'></div>
+
+<p class="bg">The screenprint was drawn at the exact location as he described it, even the taco truck in front is something he mentioned that would be awesome.</p>
+
+{{slide['end']}}
+
+{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4.png 794w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4@2x.png 1588w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4@3x.png 2382w'></div>
 

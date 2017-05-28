@@ -51,6 +51,8 @@ The monogram was created to symbolize taking the next step in your career.
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-4-mobile.png 375w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-4-mobile@3x.png 1125w'></div>
 
+<p class='bg-dark'></p>
+
 {{slide['end']}}
 
 {{slide['startdesktop']}}

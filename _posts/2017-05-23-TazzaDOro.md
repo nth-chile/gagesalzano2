@@ -1,8 +1,8 @@
 ---
 title: Tazza D'Oro — Branding
 date: 2017-03-18 20:55:49
-featured_image: /assets/images/posts/TazzaDOro/tazzadoro-thumb.png
-style: height:110%
+featured_image: /assets/images/posts/TazzaDOro/tazzadoro-thumb.jpg
+style: height:100%
 stack_color: white
 ---
 {% assign slide = site.data.slide %}
@@ -52,6 +52,8 @@ I showed them a range of ideas: a hand-illustarted signature, a bad Italian Art 
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile@3x.jpg 1125w'></div>
+
+<p class='bg-dark'></p>
 
 
 {{slide['end']}}
@@ -118,11 +120,17 @@ We agreed the hand drawn type was most appropriate, but liked the cafe signage t
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile@3x.jpg 1125w'></div>
 
+<p class='bg-dark'></p>
+
+
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile@3x.jpg 1125w'></div>
+
+<p class='bg-dark'></p>
+
 
 {{slide['end']}}
 

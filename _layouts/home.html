@@ -42,16 +42,16 @@ layout: default
 			{% for quote in site.quotes %}
 				<span><a class='desktop quote quote__quote'
 				{% if quote.href %}
-					href='{{quote.href}}' target='_blank' 
+					href='{{quote.href}}' target='_blank'
 				{% else %}
 					href='#'
 				{% endif %}
 				>{{quote.quote}}</a></span>
-				<h4 class='desktop quote quote__source'>&mdash; {{quote.source}}</h4>
-			{% endfor %}			
+				<h4 class='desktop quote quote__source'>{{quote.source}}</h4>
+			{% endfor %}
 		{% endif %}
 		</div>
-		
+
 	</header>
 	{% capture about %}{% include about.md %}{% endcapture %}
 
@@ -73,7 +73,7 @@ layout: default
 						{% if post.dark_title %}
 							style='color: rgb(77, 69, 69)'
 						{% endif %}
-					>{{ post.title | escape }}</h4>				
+					>{{ post.title | escape }}</h4>
 					{% if post.featured_image %}
 					<img src='{{ post.featured_image | prepend: site.url }}'
 						{% if post.style %}
