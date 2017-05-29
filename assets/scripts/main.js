@@ -303,17 +303,17 @@ $(document).ready(function(){
   		var index = Math.floor(Math.random() * max);
   		var $p = $($('a.quote__quote')[index]);
 
-  		var $startQuote = $('<span>&ldquo;</span>')
-  		$startQuote.addClass('desktop quotation-mark quote__quote')
-  					  .css('display', 'inline');
+  		// var $startQuote = $('<span>&ldquo;</span>')
+  		// $startQuote.addClass('desktop quotation-mark quote__quote')
+  		// 			  .css('display', 'inline');
 
-  		var $endQuote = $('<span>&rdquo;</span>')
-  		$endQuote.addClass('desktop quotation-mark quote__quote')
-  					  .css('display', 'inline');
+  		// var $endQuote = $('<span>&rdquo;</span>')
+  		// $endQuote.addClass('desktop quotation-mark quote__quote')
+  		// 			  .css('display', 'inline');
 
   		$p.css('display', 'inline');
-  		$p.before($startQuote);
-  		$p.after($endQuote);
+  		// $p.before($startQuote);
+  		// $p.after($endQuote);
   		$($('h4.quote__source')[index]).addClass('chosen')
   									   .css('display', 'block');
 	}
@@ -359,6 +359,7 @@ $(document).ready(function(){
 		if (arguments.length = 4) img.alt = alt;
 		var cptn = document.createElement('figcaption');
 		cptn.innerHTML = caption;
+		cptn.className = 'tooltip__figcaption';
 		fig.appendChild(img);
 		fig.appendChild(cptn);
 		div.appendChild(fig);

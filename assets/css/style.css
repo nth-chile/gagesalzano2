@@ -56,14 +56,24 @@ footer h4 {
   color: #4d4545;
   font-weight: normal; }
 
-figcaption {
+figcaption:not(.tooltip__figcaption) {
   color: #948f8f; }
-  figcaption a {
+  figcaption:not(.tooltip__figcaption) a {
     color: #948f8f;
     font-weight: bold; }
-    figcaption a:visited {
+    figcaption:not(.tooltip__figcaption) a:visited {
       color: #948f8f; }
-    figcaption a:hover {
+    figcaption:not(.tooltip__figcaption) a:hover, figcaption:not(.tooltip__figcaption) a:focus {
+      color: black; }
+
+.tooltip__figcaption {
+  color: #fff; }
+  .tooltip__figcaption a {
+    color: #fff;
+    font-weight: bold; }
+    .tooltip__figcaption a:visited {
+      color: #fff; }
+    .tooltip__figcaption a:hover, .tooltip__figcaption a:focus {
       color: black; }
 
 footer a {
@@ -506,12 +516,12 @@ figure {
         overflow: hidden;
         height: 100%;
         width: 100%; }
-        .grid__item a div:hover {
+        .grid__item a div:hover, .grid__item a div:focus {
           transform: translateZ(8px);
           -webkit-transform: translateZ(8px);
           -ms-transform: translateZ(8px);
           box-shadow: 0px 0px 25px 0px rgba(77, 69, 69, 0.25); }
-          .grid__item a div:hover img {
+          .grid__item a div:hover img, .grid__item a div:focus img {
             transform: scale(1.03);
             -webkit-transform: scale(1.03);
             -ms-transform: scale(1.03); }
@@ -677,6 +687,11 @@ figure {
     position: relative; } }
 @media all and (min-width: 800px) {
   article img, article .row {
-    width: calc(100% - 230px); } }
+    width: calc(100% - 230px); }
+
+  .grid__item__wrap h4 {
+    visibility: hidden; }
+  .grid__item__wrap:hover h4, .grid__item__wrap:focus h4 {
+    visibility: visible; } }
 
 /*# sourceMappingURL=style.css.map */

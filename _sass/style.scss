@@ -110,15 +110,23 @@ footer {
 		font-weight: normal;
 	}
 }
-figcaption {
+figcaption:not(.tooltip__figcaption) {
 	color: rgb(148, 143, 143);
 	a {
 		color: rgb(148, 143, 143);
 		font-weight: bold;
 		&:visited {color: rgb(148, 143, 143);}
-		&:hover {color: black;}
+		&:hover, &:focus {color: black;}
 	}
-
+}
+.tooltip__figcaption {
+	color: #fff;
+	a {
+		color: #fff;
+		font-weight: bold;
+		&:visited {color: #fff;}
+		&:hover, &:focus {color: black;}
+	}
 }
 footer {
 	a {
@@ -600,7 +608,8 @@ figure {
 				overflow: hidden;
 				height: 100%;
 				width: 100%;
-				&:hover {
+				&:hover,
+				&:focus {
 					transform: translateZ(8px);
 					-webkit-transform: translateZ(8px);
 					-ms-transform: translateZ(8px);
@@ -806,6 +815,15 @@ figure {
 	article {
 		img, .row {
 			width: calc(100% - 230px);
+		}
+	}
+	.grid__item__wrap {
+		h4 {
+			visibility: hidden;
+		}
+		&:hover h4,
+		&:focus h4 {
+			visibility: visible;
 		}
 	}
 }
