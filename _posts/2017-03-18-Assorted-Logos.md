@@ -27,7 +27,7 @@ Here's a collection of some brand identities I've worked on through the years.
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-1.png 634w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-1@2x.png 1268w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-1@3x.png 1902w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-1@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-1.jpg 634w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-1@2x.jpg 1268w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-1@3x.jpg 1902w'></div>
 
 <div class='row'>
 
