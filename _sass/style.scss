@@ -98,6 +98,7 @@ article {
 	height: 100%;
 	img {
 		max-width: 100%;
+		margin-top: 80px;
 	}
 }
 .error-404-wrap,
@@ -110,30 +111,22 @@ footer {
 		font-weight: normal;
 	}
 }
-figcaption:not(.tooltip__figcaption) {
+figcaption {
 	color: rgb(148, 143, 143);
-	a {
-		color: rgb(148, 143, 143);
-		font-weight: bold;
-		&:visited {color: rgb(148, 143, 143);}
-		&:hover, &:focus {color: black;}
-	}
 }
-.tooltip__figcaption {
+figcaption a, footer a {
+	color: $post-nav-color;
+	font-weight: bold;
+	&:visited {color: $post-nav-color;}
+	&:hover, &:focus {color: black;}
+}
+.tooltip figcaption {
 	color: #fff;
 	a {
 		color: #fff;
 		font-weight: bold;
 		&:visited {color: #fff;}
-		&:hover, &:focus {color: black;}
-	}
-}
-footer {
-	a {
-		color: black;
-		font-weight: bold;
-		&:visited {color: black;}
-		&:hover {color: $link-hover-color;}
+		&:hover, &:focus {color: #fff;}
 	}
 }
 h4 {

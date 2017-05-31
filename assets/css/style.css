@@ -46,7 +46,8 @@ article {
 .error-404-wrap {
   height: 100%; }
   .error-404-wrap img {
-    max-width: 100%; }
+    max-width: 100%;
+    margin-top: 80px; }
 
 .error-404-wrap,
 .home-wrap {
@@ -56,33 +57,26 @@ footer h4 {
   color: #4d4545;
   font-weight: normal; }
 
-figcaption:not(.tooltip__figcaption) {
+figcaption {
   color: #948f8f; }
-  figcaption:not(.tooltip__figcaption) a {
-    color: #948f8f;
-    font-weight: bold; }
-    figcaption:not(.tooltip__figcaption) a:visited {
-      color: #948f8f; }
-    figcaption:not(.tooltip__figcaption) a:hover, figcaption:not(.tooltip__figcaption) a:focus {
-      color: black; }
 
-.tooltip__figcaption {
+figcaption a, footer a {
+  color: #4d4545;
+  font-weight: bold; }
+  figcaption a:visited, footer a:visited {
+    color: #4d4545; }
+  figcaption a:hover, figcaption a:focus, footer a:hover, footer a:focus {
+    color: black; }
+
+.tooltip figcaption {
   color: #fff; }
-  .tooltip__figcaption a {
+  .tooltip figcaption a {
     color: #fff;
     font-weight: bold; }
-    .tooltip__figcaption a:visited {
+    .tooltip figcaption a:visited {
       color: #fff; }
-    .tooltip__figcaption a:hover, .tooltip__figcaption a:focus {
-      color: black; }
-
-footer a {
-  color: black;
-  font-weight: bold; }
-  footer a:visited {
-    color: black; }
-  footer a:hover {
-    color: #005bf2; }
+    .tooltip figcaption a:hover, .tooltip figcaption a:focus {
+      color: #fff; }
 
 h4 {
   color: white;

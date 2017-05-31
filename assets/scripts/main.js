@@ -254,7 +254,7 @@ $(document).ready(function(){
 		tooltip_img_boxBottom(
 			'#stealth-gaming',
 			'assets/images/tooltips/stealthgaming.png',
-			'This is the only decent screenshot from the Wayback Machine that I could grab of one of THE MANY schemes me and friends in high school dreamed up. I was usually the graphics guy because I wasn’t nearly as smart as everyone else, and this is the type of stuff I would come up with. 😂',
+			'This is the only decent screenshot from the Wayback Machine that I could grab of one the many schemes me and friends in high school dreamed up. I was usually the graphics guy because I wasn’t nearly as smart as everyone else, and this is the type of stuff I would come up with... 😂',
 			'Project with friends back in the day',
 			'rgb(66, 90, 131)'
 		);

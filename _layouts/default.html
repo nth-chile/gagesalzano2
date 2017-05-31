@@ -11,6 +11,24 @@
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content=“design, graphic design, branding, brand identity, web design, website design, app design, chicago design, chicago designer, chicago web designer, chicago graphic designer “/>
+    <meta name="robots" content="follow, all" />
+    <meta name="language" content="en" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="revisit-after" content="20 days" />
+
+    <meta property=“og:title” content=“Gage Salzano – Graphic Designer”>
+    <meta property=“og:description” content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <meta property=“og:url” content=“http://www.gagesalzano.com”>
+    <meta property=“og:image” content="http://www.gagesalzano.com/assets/images/meta.png">
+
+    <meta name=“twitter:card” content=“summary”>
+    <meta name=“twitter:site” content=“@gagesalzano”>
+    <meta name=“twitter:title” content=“Gage Salzano – Graphic Designer”>
+    <meta name=“twitter:description” content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <meta name=twitter:image content="http://www.gagesalzano.com/assets/images/meta.png">
+    <meta name=twitter:url content=“http://www.gagesalzano.com”>
+
 	<link rel="apple-touch-icon" sizes="180x180" href='{{ '/assets/apple-touch-icon.png' | prepend: site.url }}'>
 	<link rel="icon" type="image/png" href='{{ '/assets/favicon-32x32.png' | prepend: site.url }}' sizes="32x32">
 	<link rel="icon" type="image/png" href='{{ '/assets/favicon-16x16.png' | prepend: site.url }}' sizes="16x16">
@@ -25,7 +43,7 @@
 
 <body>
 	<main>{{ content }}</main>
-	
+
 	<script type="text/javascript" src='{{ '/assets/scripts/jquery-1.11.0.min.js' | prepend: site.url }}'></script>
 	<script type="text/javascript" src='{{ '/assets/scripts/jquery-migrate-1.2.1.min.js' | prepend: site.url }}'></script>
 	<script type="text/javascript" src='{{ '/assets/slick/slick.min.js' | prepend: site.url }}'></script>
