@@ -479,7 +479,6 @@ figure {
 			@include justify-content(center);
 			box-sizing: border-box;
 			overflow: hidden;
-			//padding: 35px 22px 70px;
 			padding: 17.5px 11px 35px;
 			position: relative;
 			height: 100%;
@@ -494,29 +493,22 @@ figure {
 				position: absolute;
 				top:0px;
 			}
-			.bg {
-				//background: -webkit-linear-gradient(transparent, rgba(2, 0, 0, .03) 10%, rgba(2, 0, 0, .5));
-				//background: linear-gradient(transparent, rgba(2, 0, 0, .03) 10%,  rgba(2, 0, 0, .5));
-				background: -webkit-linear-gradient(transparent, rgba(1, 0, 0, 0) 10%, rgba(2, 0, 0, 0.5));
-				background: linear-gradient(transparent, rgba(1, 0, 0, 0) 10%, rgba(2, 0, 0, 0.5));
+			.bg, .bg-dark {
 				box-sizing: border-box;
 				position: absolute;
 				bottom: 0;
 				left: 0;
-				//padding: 190px 11px 95px;
 				padding: 55px 40px;
+				max-width: 100%;
 				width: 100%;
 			}
+			.bg {
+				background: -webkit-linear-gradient(transparent, rgba(1, 0, 0, 0) 10%, rgba(2, 0, 0, 0.5));
+				background: linear-gradient(transparent, rgba(1, 0, 0, 0) 10%, rgba(2, 0, 0, 0.5));
+			}
 			.bg-dark {
-				box-sizing: border-box;
 				color: $post-nav-color;
-				position: absolute;
-				bottom: 0;
-				left: 0;
 				opacity: 1;
-				//padding: 190px 11px 95px;
-				padding: 55px 11px;
-				width: 100%;
 				a, a:visited {
 					color: $post-nav-color;
 				}

@@ -325,7 +325,7 @@ $(document).ready(function(){
 			mobileFirst: true,
 			responsive: [
 				{
-					breakpoint: 500,
+					breakpoint: 479.9,
 					settings: 'unslick'
 				}
 			],
@@ -377,6 +377,7 @@ $(document).ready(function(){
 		var cptn = document.createElement('figcaption');
 		cptn.style.backgroundColor = captionBgColor;
 		cptn.innerHTML = caption;
+		cptn.className = 'tooltip__figcaption';
 		fig.appendChild(img);
 		fig.appendChild(cptn);
 		div.appendChild(fig);
@@ -399,6 +400,7 @@ $(document).ready(function(){
 		var cptn = document.createElement('figcaption');
 		cptn.style.backgroundColor = captionBgColor;
 		cptn.innerHTML = caption;
+		cptn.className = 'tooltip__figcaption';
 		fig.appendChild(img);
 		fig.appendChild(cptn);
 		div.appendChild(fig);
