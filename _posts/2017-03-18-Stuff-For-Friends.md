@@ -106,7 +106,7 @@ We made a brand, came up with beer names and drew the  brewery all based on thin
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/elevated-4-mobile@3x.jpg 1125w'></div>
 
-<p class="bg"> </p>
+<p class="bg-dark"></p>
 
 {{slide['end']}}
 
