@@ -214,7 +214,7 @@ A logo for an online educational platform.
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'>Concept for a campaign at Grove City University.</p>
+<p class='bg'>Concept for a campaign at <a href='http://www.gcc.edu'>Grove City University</a>.</p>
 
 
 {{slide['end']}}
@@ -225,7 +225,7 @@ A logo for an online educational platform.
 <div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1.jpg 794w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@2x.jpg 1588w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@3x.jpg 2382w'></div>
 
 
-Concept for a campaign at Grove City University.
+Concept for a campaign at <a href='http://www.gcc.edu'>Grove City University</a>.
 
 
 
@@ -237,7 +237,7 @@ Concept for a campaign at Grove City University.
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'>Surgicorps International provides free surgical and medical care to people in need in developing countries. They bring smiles to tons of people everyday, so why not the logo too?</p>
+<p class='bg'><a href='http://www.surgicorps.org'>Surgicorps International</a> provides free surgical and medical care to people in need in developing countries. They bring smiles to tons of people everyday, so why not the logo too?</p>
 
 
 {{slide['end']}}
@@ -257,7 +257,7 @@ Concept for a campaign at Grove City University.
 </div>
 
 
-Surgicorps International provides free surgical and medical care to people in need in developing countries. They bring smiles to tons of people everyday, so why not the logo too?
+<a href='http://www.surgicorps.org'>Surgicorps International</a> provides free surgical and medical care to people in need in developing countries. They bring smiles to tons of people everyday, so why not the logo too?
 
 
 {{slide['end']}}

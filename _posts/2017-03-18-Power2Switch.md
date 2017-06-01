@@ -12,7 +12,7 @@ stack_color: white
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'><a href='https://power2switch.com/'>Power2Switch</a> helps people to find more affordable energy prices.</p>
+<p class='bg'><a href='http://power2switch.com/'>Power2Switch</a> helps people to find more affordable energy prices.</p>
 
 {{slide['end']}}
 
@@ -21,7 +21,7 @@ stack_color: white
 
 <div><img class='full-width' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1.png 1024w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1@3x.png 3072w'></div>
 
-<a href='https://power2switch.com/'>Power2Switch</a> helps people to find more affordable energy prices.
+<a href='http://power2switch.com/'>Power2Switch</a> helps people to find more affordable energy prices.
 
 {{slide['end']}}
 
