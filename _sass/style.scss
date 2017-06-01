@@ -1,4 +1,4 @@
-$font-stack: 'GT-America-Standard-Regular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-stack: "GT-America-Standard-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $link-color: rgb(56, 52, 52);
 $link-color-white: white;
 $link-hover-color: rgb(0, 91, 242);
@@ -6,10 +6,10 @@ $real-post-nav-color: rgb(56, 52, 52);
 $post-nav-color: rgb(77, 69, 69);
 $text-highlight-color: rgb(247, 226, 127);
 @font-face {
-    font-family: 'GT-America-Standard-Regular';
-    src: url(../fonts/GT-America/GT-America-Standard-Regular.eot?) format('eot'),
-    	url(../fonts/GT-America/GT-America-Standard-Regular.woff) format('woff'),
-    	url(../fonts/GT-America/GT-America-Standard-Regular.ttf) format('truetype');
+    font-family: "GT-America-Standard-Regular";
+    src: url("/assets/fonts/GT-America/GT-America-Standard-Regular.eot") format("eot"),
+    	url("/assets/fonts/GT-America/GT-America-Standard-Regular.woff") format("woff"),
+    	url("/assets/fonts/GT-America/GT-America-Standard-Regular.ttf") format("truetype");
     font-weight: normal;
 }
 @mixin flexbox() {
