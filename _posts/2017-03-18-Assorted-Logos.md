@@ -73,7 +73,7 @@ Sometimes the logo designs itself. The "O" and "C" in the name are overlaid to s
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile@3x.jpg 1125w'></div>
 
-<p class='bg-dark'>We drew probably 1,000 trees before landing on this guy. Made for a real estate application to symbolize the network.</p>
+<p class='bg-dark'>We drew probably 1,000 trees before landing on this guy. Made for a real estate app to symbolize the network.</p>
 
 {{slide['end']}}
 
@@ -193,7 +193,7 @@ My friend Tony runs a company in my hometown that tests electronics on things li
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'>A logo for an online educational platform.</p>
+<p class='bg'>A logo for an online edu platform.</p>
 
 
 {{slide['end']}}
@@ -214,7 +214,7 @@ A logo for an online educational platform.
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'>Concept for a campaign at <a href='http://www.gcc.edu'>Grove City University</a>.</p>
+<p class='bg'>Campaign concept for <a href='http://www.gcc.edu'>Grove City</a>.</p>
 
 
 {{slide['end']}}
@@ -225,7 +225,7 @@ A logo for an online educational platform.
 <div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1.jpg 794w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@2x.jpg 1588w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@3x.jpg 2382w'></div>
 
 
-Concept for a campaign at <a href='http://www.gcc.edu'>Grove City University</a>.
+Campaign concept for <a href='http://www.gcc.edu'>Grove City University</a>.
 
 
 
@@ -237,7 +237,7 @@ Concept for a campaign at <a href='http://www.gcc.edu'>Grove City University</a>
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'><a href='http://www.surgicorps.org'>Surgicorps International</a> provides free surgical and medical care to people in need in developing countries. They bring smiles to tons of people everyday, so why not the logo too?</p>
+<p class='bg'> </p>
 
 
 {{slide['end']}}

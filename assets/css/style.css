@@ -290,7 +290,7 @@ figure {
     font-size: 16px;
     line-height: 22px;
     margin: 0 auto;
-    padding: .7rem 40px; }
+    padding: .7rem 20px; }
 
   div.slide__content p:last-child {
     padding-bottom: 0px; }
@@ -415,7 +415,7 @@ figure {
         position: absolute;
         bottom: 0;
         left: 0;
-        padding: 55px 40px;
+        padding: 55px 20px;
         max-width: 100%;
         width: 100%; }
       .slide .slide__content .bg {

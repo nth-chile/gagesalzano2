@@ -53,7 +53,7 @@ We added more symmetry to solve layout issues and made the symbolism to a doorfr
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'>The doorframe symbol expands as two brackets to become a visual tool used to frame photography and messaging.</p>
+<p class='bg'>The doorframe expands to brackets that frame elements.</p>
 
 {{slide['end']}}
 

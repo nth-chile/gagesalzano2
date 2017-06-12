@@ -29,7 +29,7 @@ Glass Ceiling is resource for women determined to succeed in business.
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'>The monogram was created to symbolize taking the next step in your career.</p>
+<p class='bg'>The monogram symbolized taking the next step in your career.</p>
 
 {{slide['end']}}
 

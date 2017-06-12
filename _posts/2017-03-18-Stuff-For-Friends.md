@@ -19,7 +19,7 @@ The most fun you can have as a designer is working for friends. You know what th
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/heypal-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'>This was a shirt and tote that I made for my girlfriend. It's like her catchphrase.</p>
+<p class='bg-dark'>This was a shirt and tote that I made for my girlfriend. It's like her catchphrase.</p>
 
 
 {{slide['end']}}
@@ -160,7 +160,7 @@ This is a shirt we made with the logo of the 606 Kolsch, I still wear it and peo
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica-mobile@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica-mobile.png 375w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/caseymonica-mobile@3x.png 1125w'></div>
 
-<p class='bg'>Casey &amp; Monica got married in a movie theatre built in 1903. It felt appropriate that their wedding invites were made to feel like an old playbill.</p>
+<p class='bg'>Casey &amp; Monica got married in a theatre built in 1903. So we designed the invite like an old playbill.</p>
 
 {{slide['end']}}
 
