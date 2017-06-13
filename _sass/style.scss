@@ -386,6 +386,30 @@ figure {
 		&:not(.bg) {opacity: .5;}
 
 	}
+	.full-height--centered-y {
+		position: relative;
+  		top: 50%;
+  		transform: translateY(-50%);
+  		display: block;
+  		width: 100%;
+  		height: auto;
+	}
+	.full-height--centered-x {
+		position: relative;
+  		left: 50%;
+  		transform: translateX(-50%);
+  		display: block;
+  		width: auto;
+  		height: 100%;
+	}
+	.full-height__container {
+		position: absolute;
+		overflow: hidden;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+	}
 	header svg {
 		height: 34px;
 		width: 34px;
@@ -485,13 +509,6 @@ figure {
 			width: 100%;
 			img {
 				margin-bottom: 13px;
-				max-width: 100%;
-			}
-			.full-height {
-				height: calc(100vh - 54px);
-				max-width: none;
-				position: absolute;
-				top:0px;
 			}
 			.bg, .bg-dark {
 				box-sizing: border-box;

@@ -78,6 +78,7 @@ $(document).ready(function(){
 				} else if ( $('.slick').length > 0 ) { //if article page
 					slickFix += 10;
 					doSlick();
+					assignFullHeightContainerClass();
 					centerFullHeightClass();
 					darkDots();
 				}
@@ -119,6 +120,7 @@ $(document).ready(function(){
 		var layout = 'mini';
 		if ( $('.slick').length > 0 ) {
 			doSlick();
+			assignFullHeightContainerClass();
 			centerFullHeightClass();
 			slickFix += 10;
 			darkDots();
@@ -226,23 +228,19 @@ $(document).ready(function(){
 				($('.slick').width() * $(this).height())
 			);
 			if (imgRatio < articleRatio) {
-				var leftValue = 0 - ($(this).width() / 2 - $(window).width() / 2);
-				$(this).css('left', leftValue);
+				$(this).addClass('full-height--centered-x')
 			} else {
-				$(this).css({
-					'width': '100%',
-					'height': 'auto',
-					'left': '0'
-				});
-				var topValue = $(this).height() / 2 - ($(window).height() - $('.post-nav').height()) / 2;
-				if (topValue > 0) topValue = 0 - topValue;
-				$(this).css('top', topValue);
+				$(this).addClass('full-height--centered-y')
 			}
 		})
 		.each(function() {
 			if(this.complete) $(this).trigger('load');
-		});;
+		});
 	}
+	function assignFullHeightContainerClass() {
+		$('.full-height').parent('div').addClass('full-height__container');
+	}
+
 	function createTooltips() {
 		//tooltip(type, target, image, caption, captionBgColor);
 		tooltip_img(
