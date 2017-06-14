@@ -339,6 +339,14 @@ $(document).ready(function(){
 		$('body').css('overflow', 'hidden');
 		$('.slick-track').height($(window).height() - 56);
 		$('.slick-dots').find('button').text('');
+
+		$('.slick').on('edge', function(event, slick, direction) {
+			if (direction == 'left')
+				var url = document.querySelector('.next').href;
+			else if (direction == 'right')
+				var url = document.querySelector('.prev').href;
+			window.location.href = url;
+		});
 	}
 	function removeLoadScreen(){
 		$('#loading').remove();
