@@ -17,11 +17,9 @@ Google Engage was a partnership created by&hellip;Google, for agencies working i
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.gif'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.gif' style='width:100vw'></div>
 
-
-  This concept symbolized the community as building blocks, inspired by "The whole is greater than the sum of its parts." (Thanks <a href='http://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts'>Aristotle</a>)
-
+This concept symbolized the community as building blocks, inspired by "The whole is greater than the sum of its parts." (Thanks <a href='http://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts'>Aristotle</a>)
 
 {{slide['end']}}
 
