@@ -21,6 +21,8 @@ Google Engage was a partnership created by&hellip;Google, for agencies working i
 
 This concept symbolized the community as building blocks, inspired by "The whole is greater than the sum of its parts." (Thanks <a href='http://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts'>Aristotle</a>)
 
+Animation by <a href="http://www.joshvanpraag.com/" target="_blank">Josh Van Praag</a>.
+
 {{slide['end']}}
 
 {{slide['startdesktop']}}
@@ -75,7 +77,14 @@ The gif below replaces above .png
 
 -->
 
-<div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.gif'></div>
+<figure>
+  <div>
+    <img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.gif'>
+    <figcaption>Animation by <a href="http://www.joshvanpraag.com/" target="_blank">Josh Van Praag</a>.</figcaption>
+  </div>
+</figure>
+
+
 
 It's tough sometimes working with an already well-established brand to come up with something that feels distinct, but still belongs.
 
