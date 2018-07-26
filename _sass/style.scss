@@ -349,6 +349,10 @@ figure {
 	}
 }
 
+.slide {
+	&:focus {outline:none;}
+}
+
 @media all and (max-width: 479.9px) {
 	.home-wrap,
 	.error-404-wrap {
