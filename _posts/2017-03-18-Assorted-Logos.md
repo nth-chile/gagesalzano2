@@ -214,7 +214,7 @@ A logo for an online educational platform.
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'>Campaign concept for <a href='https://www.gcc.edu'>Grove City</a>.</p>
+<p class='bg'>Campaign concept for <a href='http://gcc.edu'>Grove City</a>.</p>
 
 
 {{slide['end']}}
@@ -225,7 +225,7 @@ A logo for an online educational platform.
 <div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1.jpg 794w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@2x.jpg 1588w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@3x.jpg 2382w'></div>
 
 
-Campaign concept for <a href='https://www.gcc.edu'>Grove City University</a>.
+Campaign concept for <a href='http://gcc.edu'>Grove City University</a>.
 
 
 
