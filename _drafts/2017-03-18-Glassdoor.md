@@ -60,7 +60,7 @@ This is visual proof that I got to work with these awesome people and that I own
 
 <div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-6.png' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-6.png 634w, {{ site.url }}/assets/images/posts/Glassdoor/gd-6@2x.png 1268w, {{ site.url }}/assets/images/posts/Glassdoor/gd-6@3x.png 1902w'></div>
 
-<figcaption>Photo and designed with <a href='http://sarahgless.com/'>Sarah Gless</a></figcaption>
+<figcaption>Photo and designed with <a href='https://sarahgless.com/'>Sarah Gless</a></figcaption>
 
 </figure>
 

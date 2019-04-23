@@ -22,13 +22,13 @@ stack_color: white
 {{slide['startmobile']}}
 
 
-<a href='http://www.tazzadoro.net/'>Tazza D'oro</a> is located in  the Highland Park neighborhood in Pittsburgh. My friends <a href='http://www.fullstopinteractive.com/'>Jay & Nate</a> were approached to redesign their website and asked for me to come up with a few ideas for their branding.
+<a href='https://www.tazzadoro.net/'>Tazza D'oro</a> is located in  the Highland Park neighborhood in Pittsburgh. My friends <a href='https://www.fullstopinteractive.com/'>Jay & Nate</a> were approached to redesign their website and asked for me to come up with a few ideas for their branding.
 
 {{slide['end']}}
 
 {{slide['startdesktop']}}
 
-<a href='http://www.tazzadoro.net/'>Tazza D'oro</a> is located in  the Highland Park neighborhood in Pittsburgh. My friends <a href='http://www.fullstopinteractive.com/'>Jay & Nate</a> were approached to redesign their website and asked for me to come up with a few ideas for their branding.
+<a href='https://www.tazzadoro.net/'>Tazza D'oro</a> is located in  the Highland Park neighborhood in Pittsburgh. My friends <a href='https://www.fullstopinteractive.com/'>Jay & Nate</a> were approached to redesign their website and asked for me to come up with a few ideas for their branding.
 
 
 {{slide['end']}}
@@ -98,7 +98,7 @@ I showed them a range of ideas: a hand-lettered signature, a bad Italian Art Dec
 
 </div>
 
-Thanks to <a href='http://www.fullstopinteractive.com/'>Jay & Nate</a> for the awesome project.
+Thanks to <a href='https://www.fullstopinteractive.com/'>Jay & Nate</a> for the awesome project.
 
 {{slide['end']}}
 
@@ -143,7 +143,7 @@ We agreed the hand drawn type was most appropriate, but liked the idea behind th
 
 {{slide['startmobile']}}
 
-Thanks to <a href='http://www.fullstopinteractive.com/'>Jay & Nate</a> for the awesome project.
+Thanks to <a href='https://www.fullstopinteractive.com/'>Jay & Nate</a> for the awesome project.
 
 {{slide['end']}}
 

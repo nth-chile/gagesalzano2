@@ -101,7 +101,7 @@ The river motif winds throughout collateral.
 
 {{slide['startmobile']}}
 
-Designed with <a href='http://sarahgless.com/'>Sarah Gless</a>.
+Designed with <a href='https://sarahgless.com/'>Sarah Gless</a>.
 
 {{slide['end']}}
 
@@ -111,6 +111,6 @@ Designed with <a href='http://sarahgless.com/'>Sarah Gless</a>.
 
 <div><img src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-6@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-6.jpg 794w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-6@2x.jpg 1588w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-6@3x.jpg 2382w'></div>
 
-Designed with <a href='http://sarahgless.com/'>Sarah Gless</a>.
+Designed with <a href='https://sarahgless.com/'>Sarah Gless</a>.
 
 {{slide['end']}}

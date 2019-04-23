@@ -18,7 +18,7 @@ email: me@gagesalzano.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm a graphic & web designer, or whatever you want to call it. I help people create or update their branding, visualize their message, design their website or app and illustrate things. My goal is to provide the best quality work I can for a fair price.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.gagesalzano.com"
+url: "https://www.gagesalzano.com"
 
 available: false
 
@@ -28,8 +28,8 @@ id:
   subtitle: Graphic Designer, 1986–?
 
 byline:
-- Code by <a href='mailto:jaredsalzano@gmail.com' target='_blank'>Jared</a>, my little brother.
-- Photos of work by <a href='http://www.instagram.com/smmonson' target='_blank'>Shannon</a> my GF.
+- Code by <a href='https://jaredsalzano.com' target='_blank'>Jared</a>, my little brother.
+- Photos of work by <a href='https://www.instagram.com/smmonson' target='_blank'>Shannon</a> my GF.
 
 social_media_links:
 - class: icon mail

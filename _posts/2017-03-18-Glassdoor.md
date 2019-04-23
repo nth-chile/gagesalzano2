@@ -122,7 +122,7 @@ This is visual proof that I got to work with these awesome people and that I own
 
 <div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-6@2x.png' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-6.png 634w, {{ site.url }}/assets/images/posts/Glassdoor/gd-6@2x.png 1268w, {{ site.url }}/assets/images/posts/Glassdoor/gd-6@3x.png 1902w'></div>
 
-<figcaption>Photo by <a href='http://sarahgless.com/'>Sarah</a></figcaption>
+<figcaption>Photo by <a href='https://sarahgless.com/'>Sarah</a></figcaption>
 
 </figure>
 
@@ -132,6 +132,6 @@ This is visual proof that I got to work with these awesome people and that I own
 
 Read more about the process here:<br>[Behind The Scenes of the Glassdoor Brand Refresh](https://www.glassdoor.com/blog/behind-the-scenes-of-the-glassdoor-brand-refresh/)
 
-Designed with <a href='http://sarahgless.com/'>Sarah Gless</a>.
+Designed with <a href='https://sarahgless.com/'>Sarah Gless</a>.
 
 {{slide['end']}}

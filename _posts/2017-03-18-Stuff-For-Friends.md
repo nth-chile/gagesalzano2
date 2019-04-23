@@ -137,7 +137,7 @@ This is a shirt we made with the logo of the 606 Kolsch, I still wear it and peo
 
 {{slide['startmobile']}}
 
-<a href='http://www.curleysantiques.com/'>Natalie is an appraiser/historian/collector</a> and needed a business card. So I took forever and designed an entire brand system. (Sorry about that Natalie)
+<a href='https://www.curleysantiques.com/'>Natalie is an appraiser/historian/collector</a> and needed a business card. So I took forever and designed an entire brand system. (Sorry about that Natalie)
 
 {{slide['end']}}
 
@@ -152,7 +152,7 @@ This is a shirt we made with the logo of the 606 Kolsch, I still wear it and peo
 
 <div><img class='full-width' src='{{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@2x.png' srcset='{{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie.png 1024w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@2x.png 2048w, {{ site.url }}/assets/images/posts/Stuff_For_Friends/natalie@3x.png 3072w'></div>
 
-<a href='http://www.curleysantiques.com/'>Natalie is an appraiser/historian/collector</a> and needed a business card. So I took forever and designed an entire brand system. (Sorry about that Natalie)
+<a href='https://www.curleysantiques.com/'>Natalie is an appraiser/historian/collector</a> and needed a business card. So I took forever and designed an entire brand system. (Sorry about that Natalie)
 
 {{slide['end']}}
 
