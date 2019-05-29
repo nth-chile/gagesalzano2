@@ -90,6 +90,8 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+sass:
+  sass_dir: assets/css
 
 # Defaults
 defaults:

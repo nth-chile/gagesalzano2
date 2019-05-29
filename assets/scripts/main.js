@@ -152,69 +152,69 @@ $(document).ready(function(){
 //** FUNCTION DEFINITIONS **//
 
 	function buildGrid() {
-		if(!$grid.hasClass('masonry--initialized'))
-			$grid.addClass('masonry--initialized');
-		else {
-			$grid.masonry('destroy');
-			$grid.removeClass('masonry--initialized');
-		}
-		$grid.html('');
-		$grid.masonry(masonryOptions);
-		msnryItems.forEach(function(item) {
-			$grid.append(item)
-				.masonry('appended', item)
-				.masonry();
-		});
-		$grid.on('layoutComplete', setTileZIndex);
+		// if(!$grid.hasClass('masonry--initialized'))
+		// 	$grid.addClass('masonry--initialized');
+		// else {
+		// 	$grid.masonry('destroy');
+		// 	$grid.removeClass('masonry--initialized');
+		// }
+		// $grid.html('');
+		// $grid.masonry(masonryOptions);
+		// msnryItems.forEach(function(item) {
+		// 	$grid.append(item)
+		// 		.masonry('appended', item)
+		// 		.masonry();
+		// });
+		// $grid.on('layoutComplete', setTileZIndex);
 	}
 	function buildTinyGrid() {
-		if($grid.hasClass('masonry--initialized')) {
-			$grid.removeClass('masonry--initialized');
-			$grid.masonry('destroy');
-		}
-		$grid.html('');
-		var phase = 1;
-		var widths = [];
-		//repeat a pattern: give first two grid items 50% width, give the next three 33.33% width
-		//first, build an array of width values
-		if (!window.matchMedia("(max-width: 600px)").matches) {
-			for (i = 0 ; i <= gridItemContents.length; i++) {
-				if ( phase == 1 | phase == 2 )
-					widths.push('50%');
-				else
-					widths.push('33.333333333333%');
-				phase < 5 ? phase++ : phase = 1;
-			}
-		}
-		else {
-			for (i = 0 ; i <= gridItemContents.length; i++)
-				widths.push('50%');
-		}
-		//assign those width values and append to a wrapper
-		gridItemContents.forEach(function(item, index) {
-			var $wrap = $($('<div>').attr('class', 'grid__item__wrap'))
-				.css({
-					'width': widths[index],
-					'height': '30vw'
-				})
-				.append(
-					$('<div>')
-					.addClass('grid__item')
-					.append(item)
-				);
+		// if($grid.hasClass('masonry--initialized')) {
+		// 	$grid.removeClass('masonry--initialized');
+		// 	$grid.masonry('destroy');
+		// }
+		// $grid.html('');
+		// var phase = 1;
+		// var widths = [];
+		// //repeat a pattern: give first two grid items 50% width, give the next three 33.33% width
+		// //first, build an array of width values
+		// if (!window.matchMedia("(max-width: 600px)").matches) {
+		// 	for (i = 0 ; i <= gridItemContents.length; i++) {
+		// 		if ( phase == 1 | phase == 2 )
+		// 			widths.push('50%');
+		// 		else
+		// 			widths.push('33.333333333333%');
+		// 		phase < 5 ? phase++ : phase = 1;
+		// 	}
+		// }
+		// else {
+		// 	for (i = 0 ; i <= gridItemContents.length; i++)
+		// 		widths.push('50%');
+		// }
+		// //assign those width values and append to a wrapper
+		// gridItemContents.forEach(function(item, index) {
+		// 	var $wrap = $($('<div>').attr('class', 'grid__item__wrap'))
+		// 		.css({
+		// 			'width': widths[index],
+		// 			'height': '30vw'
+		// 		})
+		// 		.append(
+		// 			$('<div>')
+		// 			.addClass('grid__item')
+		// 			.append(item)
+		// 		);
 
-			$grid.append($wrap)
-		});
-		setTileZIndex();
-		//if the image aspect ratio is wider than that of grid tile, assign class to prevent stretch-to-fit
-		var $img = $('.grid__item__wrap').find('img');
-		$img.one('load', function() {
-			if($(this).height() / $(this).width() < $(this).closest('.grid__item__wrap').height() / $(this).closest('.grid__item__wrap').width())
-				if($(this).hasClass('stretchfix') == false) $(this).addClass('stretchfix');
-		})
-		.each(function() {
-			if(this.complete) $(this).trigger('load');
-		});
+		// 	$grid.append($wrap)
+		// });
+		// setTileZIndex();
+		// //if the image aspect ratio is wider than that of grid tile, assign class to prevent stretch-to-fit
+		// var $img = $('.grid__item__wrap').find('img');
+		// $img.one('load', function() {
+		// 	if($(this).height() / $(this).width() < $(this).closest('.grid__item__wrap').height() / $(this).closest('.grid__item__wrap').width())
+		// 		if($(this).hasClass('stretchfix') == false) $(this).addClass('stretchfix');
+		// })
+		// .each(function() {
+		// 	if(this.complete) $(this).trigger('load');
+		// });
 	}
 	//on mobile 'slide' view, make article images with class of 'full-height' fill screen
 	function centerFullHeightClass() {

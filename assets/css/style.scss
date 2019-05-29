@@ -1,60 +1,9 @@
-$font-stack: "GT-America-Standard-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$link-color: rgb(56, 52, 52);
-$link-color-white: white;
-$link-hover-color: rgb(0, 91, 242);
-$real-post-nav-color: rgb(56, 52, 52);
-$post-nav-color: rgb(77, 69, 69);
-$text-highlight-color: rgb(247, 226, 127);
-@font-face {
-    font-family: "GT-America-Standard-Regular";
-    src: url("../fonts/GT-America/GT-America-Standard-Regular.eot") format("eot"),
-    	url("../fonts/GT-America/GT-America-Standard-Regular.woff") format("woff"),
-    	url("../fonts/GT-America/GT-America-Standard-Regular.ttf") format("truetype");
-    font-weight: normal;
-}
-@mixin flexbox() {
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-}
-@mixin inline-flex() {
-  display: -webkit-inline-box;
-  display: -moz-inline-flex;
-  display: -ms-inline-flexbox;
-  display: -webkit-inline-flex;
-  display: inline-flex;
-}
-// defaults: flex-grow: 0; flex-shrink: 1; flex-basis: auto;
-@mixin flex($values) {
-  -webkit-box-flex: $values;
-  -moz-box-flex:  $values;
-  -webkit-flex:  $values;
-  -ms-flex:  $values;
-  flex:  $values;
-}
-// defaults: flex-direction: row; flex-wrap: nowrap;
-@mixin flex-flow($values) {
-	-webkit-flex-flow: $values;
-	flex-flow: $values;
-}
-@mixin align-items($values) {
-	-webkit-align-items: $values;
-	align-items: $values;
-}
-@mixin align-content($values) {
-	-webkit-align-content: $values;
-	align-content: $values;
-}
-@mixin align-self($values) {
-	-webkit-align-self: $values;
-	align-self: $values;
-}
-@mixin justify-content($values) {
-	-webkit-justify-content: $values;
-	justify-content: $values;
-}
+---
+---
+
+@import "vars";
+@import "home-grid";
+
 body {
 	background-color: white;
 	color: $post-nav-color;
@@ -69,14 +18,17 @@ body {
 		background: $text-highlight-color;
 	}
 }
+
 main {
 	height: 100%;
 }
+
 a {
 	color: $link-color;
 	&:visited {color: $link-color;}
 	&:hover {color: $link-hover-color;}
 }
+
 a.go-home {
 	display: block;
 	margin: 80px 0;
@@ -85,43 +37,53 @@ a.go-home {
 		fill: $post-nav-color;
 	}
 }
+
 a.go-home:hover {
 	color: $post-nav-color;
 	text-decoration: underline;
 }
+
 article {
 	margin-top: 56px;
 	img {margin-bottom:-4px;}
 }
+
 .bold {font-weight:bold;}
+
 .error-404-wrap {
-	height: 100%;
+  height: 100%;
 	img {
 		max-width: 100%;
 		margin-top: 80px;
 	}
 }
+
 .error-404-wrap,
+
 .home-wrap {
 	padding-bottom: 20px;
 }
+
 footer {
 	h4 {
 		color: $post-nav-color;
 		font-weight: normal;
 	}
 }
+
 figcaption {
 	color: rgb(148, 143, 143);
 }
+
 figcaption a, footer a {
 	color: $post-nav-color;
 	font-weight: bold;
 	&:visited {color: $post-nav-color;}
 	&:hover, &:focus {color: black;}
 }
+
 .tooltip figcaption {
-	color: #fff;
+  color: #fff;
 	a {
 		color: #fff;
 		font-weight: bold;
@@ -215,20 +177,7 @@ article p,
 figure {
 	margin: 0;
 }
-.grid {
-	min-height: 23.5vw;
-	position: relative;
-}
-.grid__item {
-	h4 {
-		font-weight: normal;
-		margin: 11px 15px;
-		position: absolute;
-		text-align: left;
-		text-decoration: none;
-		z-index: 99999;
-	}
-}
+
 .hire-status {
 	a {
 		color: $post-nav-color;
@@ -285,12 +234,6 @@ figure {
 	top: 0;
 	width: 100%;
 	z-index: 1000000;
-	// img {
-	// 	position: absolute;
-	// 	top: 40%;
-	// 	left: calc(50% - 60px);
-	// 	z-index: 1000001;
-	// }
 }
 .post-nav {
 	background-color: $real-post-nav-color;
@@ -423,19 +366,8 @@ figure {
 	}
 	.id {
 		margin: 0 auto;
-	}
-	.grid {
-		margin-bottom: 81px;
-	}
-	.grid__item {
-		margin-bottom: 10px;
-		overflow: hidden;
-		width: 100%;
-		img {
-			display: block;
-			width: 100%;
-		}
-	}
+  }
+
 	.post-nav {
 		.page-title {
 			padding-right: 0px;
@@ -563,89 +495,7 @@ figure {
 		font-size: 14px;
 		line-height: 22px;
 	}
-	.grid {
-	  //margin: 4rem auto 9rem 3.28vw;
-	  min-height: 23.5vw;
-	  //width: 85.5vw;
-	  margin: 60px auto;
-	  width: 95.76vw;
-	  &::after {
-	  	content: " ";
-   		display: block;
-   		height: 0;
-   		clear: both;
-	  }
-	}
-	.grid__item__wrap {
-	  box-sizing: border-box;
-	  float: left;
-	  padding: 3px;
-	}
-	.grid__item {
-		position: relative;
-		perspective: 800px;
-		-webkit-perspective: 800px;
-		-moz-perspective: 800px;
-		perspective-origin: 0% 150%;
-		-webkit-perspective-origin: 0% 150%;
-		-moz-perspective-origin: 0% 150%;
-		height: 100%;
-		width: 100%;
-		a {
-			position: relative;
-			@include flexbox();
-			justify-content: center;
-			align-items: center;
-			width: 100%;
-			height: 100%;
-			transform-origin: 50% 100%;
-			-webkit-transform-origin: 50% 100%;
-			-moz-transform-origin: 50% 100%;
-			transform-style: preserve-3d;
-			-webkit-transform-style: preserve-3d;
-			-moz-transform-style: preserve-3d;
-			transition: box-shadow 600ms;
-			-webkit-transition: box-shadow 600ms;
-			perspective: 800px;
-			perspective-origin: 0% 150%;
-			div {
-				transition: transform 400ms;
-				-webkit-transition: transform 400ms;
-				overflow: hidden;
-				height: 100%;
-				width: 100%;
-				&:hover,
-				&:focus {
-					transform: translateZ(8px);
-					-webkit-transform: translateZ(8px);
-					-ms-transform: translateZ(8px);
-					box-shadow: 0px 0px 25px 0px rgba(77, 69, 69, .25);
 
-					img {
-						transform: scale(1.03);
-						-webkit-transform: scale(1.03);
-						-ms-transform: scale(1.03);
-					}
-				}
-			}
-		}
-		h4 {
-		  	left: 0;
-			top: 0;
-		}
-		img {
-	  		position: relative;
-			display: block;
-			flex: none;
-	  		min-height: 100%;
-			min-width: 101%;
-			transition: all 250ms;
-			-webkit-transition: all 250ms;
-		}
-		&:hover a {
-			box-shadow: 8px -5px 25px 0px rgba(77, 69, 69, .05);
-		}
-	}
 	header {
 		//padding: 76px 35px 0;
 		margin: 0 auto;
@@ -801,35 +651,10 @@ figure {
 	}
 }
 
-@media all and (min-width: 480px) and (max-width: 799.9px) {
-	.grid {
-		width: 94vw;
-		img {
-			margin: 0 !important;
-			height: auto !important;
-			&:not(.stretchfix) {
-				width: 100% !important;
-			}
-			&.stretchfix {
-				width: 140% !important;
-			}
-		}
-	}
-	.grid__item__wrap {position:relative;}
-}
 @media all and (min-width: 800px) {
 	article {
 		img, .row {
 			width: calc(100% - 230px);
-		}
-	}
-	.grid__item__wrap {
-		h4 {
-			visibility: hidden;
-		}
-		&:hover h4,
-		&:focus h4 {
-			visibility: visible;
 		}
 	}
 }
