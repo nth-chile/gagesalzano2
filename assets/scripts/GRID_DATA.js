@@ -1,3 +1,1 @@
-var GRID_DATA =["<div class=\"grid__item__wrap\" style=\"height: 8.69vw; width: 17.38vw; position: absolute; left: 0px; bottom: 0px;\"><div class=\"grid__item\"><\/div><\/div>",
-"<div class=\"grid__item__wrap\" style=\"height: 8.69vw; width: 30vw; position: absolute; left: 143px; bottom: 0px;\"><div class=\"grid__item\"><\/div><\/div>",
-"<div class=\"grid__item__wrap\" style=\"height: 8.69vw; width: 26vw; position: absolute; left: 390px; bottom: 0px;\"><div class=\"grid__item\"><\/div><\/div>"]
+var GRID_DATA =[];

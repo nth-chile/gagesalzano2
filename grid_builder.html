@@ -42,7 +42,7 @@
 
 
 		    <!-- *1.12 -->
-		     <label for='select__item-height'>Height:</label>
+		  	<!-- <label for='select__item-height'>Height:</label>
 		    <select id='select__item-height'>
 		      <option value="8.69vw">1</option>
 		      <option value="17.38vw">2</option>
@@ -61,6 +61,28 @@
 		      <option value="43.46vw">5</option>
 		      <option value="52.15vw">6</option>
 		      <option value=".5px">.5px</option>
+				</select> -->
+				
+				<!-- 1 block == ((grid width - 1vw) / 12) -->
+				<label for='select__item-height'>Height:</label>
+		    <select id='select__item-height'>
+		      <option value="7.8vw">1</option>
+		      <option value="15.6vw">2</option>
+		      <option value="23.4vw">3</option>
+		      <option value="31.2vw">4</option>
+		      <option value="39vw">5</option>
+		      <option value="46.8vw">6</option>
+		      <option value=".5px">.5px</option>
+		    </select>
+		    <label for='select__item-width'>Width:</label>
+		    <select id='select__item-width'>
+		      <option value="7.8vw">1</option>
+		      <option value="15.6vw">2</option>
+		      <option value="23.4vw">3</option>
+		      <option value="31.2vw">4</option>
+		      <option value="39vw">5</option>
+		      <option value="46.8vw">6</option>
+		      <option value=".5px">.5px</option>
 		    </select>
 		    <label for='select__item-type'>Type:</label>
 		    <select id='select__item-type'>
@@ -78,7 +100,7 @@
 		</form>
 
 		<div class='notes'>
-			<p>The grid is eleven blocks wide.</p>
+			<p>The grid is twelve blocks wide.</p>
 			<p>Click an item to remove it.</p>
 			<p>Ghost blocks are just props, and won't be visible on the site.</p>
 			<p>Block dimensions may vary slightly because of the way Masonry rounds pixel values (<a href='https://github.com/desandro/masonry/issues/909'>see issue</a>). This can cause items to stack in unexpected ways. For example, imagine that the top-leftmost block is invisibly taller than the block to its right. If you were to prepend a new block, it will appear in the lowest slot that is wide enough for it to fit into, and in some cases this is after the top-leftmost block. Results vary between Firefox and Chrome.</p>
@@ -87,7 +109,8 @@
 
 	<script type="text/javascript" src='assets/scripts/jquery-1.11.0.min.js'></script>
 	<script type="text/javascript" src='assets/scripts/jquery-migrate-1.2.1.min.js'></script>
-	<script type="text/javascript" src='https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js'></script>
+	<!-- <script type="text/javascript" src='https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js'></script> -->
+	<script type="text/javascript" src='assets/scripts/masonry.pkgd.min.js'></script>
 	<script type="text/javascript" src='assets/scripts/GRID_DATA.js'></script>
 	<script type="text/javascript" src='assets/scripts/grid-builder.js'></script>
 </body>
