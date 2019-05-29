@@ -1,3 +1,6 @@
+$colCount: 12;
+$rowCount: 30;
+
 .grid {
 	min-height: 23.5vw;
   position: relative;
@@ -7,9 +10,11 @@
   }
 
   @include min480 {
-	  min-height: 23.5vw;
+    //min-height: 23.5vw;
+    min-height: 95.76vw * $rowCount / $colCount;
 	  margin: 60px auto;
-	  width: 95.76vw;
+    width: 95.76vw;
+    display: grid;
 
     &::after {
 	  	content: " ";
@@ -17,6 +22,11 @@
    		height: 0;
    		clear: both;
 	  }
+  }
+
+  @include min800 {
+    grid-template-columns: repeat($colCount, 1fr);
+    grid-template-rows: repeat($rowCount, 1fr);
   }
 
   @media all and (min-width: 480px) and (max-width: 799.9px) {
@@ -123,6 +133,200 @@
       box-shadow: 8px -5px 25px 0px rgba(77, 69, 69, .05);
     }
   }
+
+  @include min800 {
+    &:nth-child(1) {
+      background: cyan;
+      grid-column-start: $colCount + 2 - 2;
+      grid-column-end: $colCount + 2 - 6;
+      grid-row-start: $rowCount + 2 - 2;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+
+    &:nth-child(2) {
+      background: magenta;
+      grid-column-start: $colCount + 2 - 6;
+      grid-column-end: $colCount + 2 - 10; 
+      grid-row-start: $rowCount + 2 - 1;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+
+    &:nth-child(3) {
+      background: yellow;
+      grid-column-start: $colCount + 2 - 10;
+      grid-column-end: $colCount + 2 - 13; 
+      grid-row-start: $rowCount + 2 - 3;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+
+    &:nth-child(4) {
+      background: black;
+      grid-column-start: $colCount + 2 - 2;
+      grid-column-end: $colCount + 2 - 7; 
+      grid-row-start: $rowCount + 2 - 5;
+      grid-row-end: $rowCount + 2 - 10;
+    }
+
+    &:nth-child(5) {
+      background: cyan;
+      grid-column-start: $colCount + 2 - 7;
+      grid-column-end: $colCount + 2 - 9; 
+      grid-row-start: $rowCount + 2 - 5;
+      grid-row-end: $rowCount + 2 - 7;
+    }
+
+    &:nth-child(6) {
+      background: magenta;
+      grid-column-start: $colCount + 2 - 7;
+      grid-column-end: $colCount + 2 - 11; 
+      grid-row-start: $rowCount + 2 - 7;
+      grid-row-end: $rowCount + 2 - 10;
+    }
+
+    &:nth-child(7) {
+      background: yellow;
+      grid-column-start: $colCount + 2 - 11;
+      grid-column-end: $colCount + 2 - 13; 
+      grid-row-start: $rowCount + 2 - 8;
+      grid-row-end: $rowCount + 2 - 10;
+    }
+
+    &:nth-child(8) {
+      background: black;
+      grid-column-start: $colCount + 2 - 6;
+      grid-column-end: $colCount + 2 - 8; 
+      grid-row-start: $rowCount + 2 - 10;
+      grid-row-end: $rowCount + 2 - 12;
+    }
+
+    &:nth-child(9) {
+      background: cyan;
+      grid-column-start: $colCount + 2 - 8;
+      grid-column-end: $colCount + 2 - 12; 
+      grid-row-start: $rowCount + 2 - 10;
+      grid-row-end: $rowCount + 2 - 14;
+    }
+
+    &:nth-child(10) {
+      background: magenta;
+      grid-column-start: $colCount + 2 - 2;
+      grid-column-end: $colCount + 2 - 5; 
+      grid-row-start: $rowCount + 2 - 12;
+      grid-row-end: $rowCount + 2 - 14;
+    }
+
+    &:nth-child(11) {
+      background: yellow;
+      grid-column-start: $colCount + 2 - 5;
+      grid-column-end: $colCount + 2 - 8; 
+      grid-row-start: $rowCount + 2 - 12;
+      grid-row-end: $rowCount + 2 - 14;
+    }
+
+    &:nth-child(12) {
+      background: black;
+      grid-column-start: $colCount + 2 - 1;
+      grid-column-end: $colCount + 2 - 5; 
+      grid-row-start: $rowCount + 2 - 16;
+      grid-row-end: $rowCount + 2 - 19;
+    }
+
+    &:nth-child(13) {
+      background: cyan;
+      grid-column-start: $colCount + 2 - 5;
+      grid-column-end: $colCount + 2 - 10; 
+      grid-row-start: $rowCount + 2 - 14;
+      grid-row-end: $rowCount + 2 - 19;
+    }
+
+    &:nth-child(14) {
+      background: magenta;
+      grid-column-start: $colCount + 2 - 10;
+      grid-column-end: $colCount + 2 - 13; 
+      grid-row-start: $rowCount + 2 - 16;
+      grid-row-end: $rowCount + 2 - 19;
+    }
+
+    &:nth-child(15) {
+      background: yellow;
+      grid-column-start: $colCount + 2 - 2;
+      grid-column-end: $colCount + 2 - 4; 
+      grid-row-start: $rowCount + 2 - 20;
+      grid-row-end: $rowCount + 2 - 22;
+    }
+
+    &:nth-child(16) {
+      background: black;
+      grid-column-start: $colCount + 2 - 4;
+      grid-column-end: $colCount + 2 - 7; 
+      grid-row-start: $rowCount + 2 - 19;
+      grid-row-end: $rowCount + 2 - 22;
+    }
+
+    &:nth-child(17) {
+      background: black;
+      grid-column-start: $colCount + 2 - 7;
+      grid-column-end: $colCount + 2 - 12; 
+      grid-row-start: $rowCount + 2 - 19;
+      grid-row-end: $rowCount + 2 - 22;
+    }
+
+    &:nth-child(18) {
+      background: cyan;
+      grid-column-start: $colCount + 2 - 1;
+      grid-column-end: $colCount + 2 - 4; 
+      grid-row-start: $rowCount + 2 - 24;
+      grid-row-end: $rowCount + 2 - 27;
+    }
+
+    &:nth-child(19) {
+      background: magenta;
+      grid-column-start: $colCount + 2 - 4;
+      grid-column-end: $colCount + 2 - 9; 
+      grid-row-start: $rowCount + 2 - 22;
+      grid-row-end: $rowCount + 2 - 27;
+    }
+
+    &:nth-child(20) {
+      background: yellow;
+      grid-column-start: $colCount + 2 - 9;
+      grid-column-end: $colCount + 2 - 13; 
+      grid-row-start: $rowCount + 2 - 22;
+      grid-row-end: $rowCount + 2 - 25;
+    }
+
+    &:nth-child(21) {
+      background: black;
+      grid-column-start: $colCount + 2 - 9;
+      grid-column-end: $colCount + 2 - 11; 
+      grid-row-start: $rowCount + 2 - 25;
+      grid-row-end: $rowCount + 2 - 27;
+    }
+
+    &:nth-child(22) {
+      background: cyan;
+      grid-column-start: $colCount + 2 - 1;
+      grid-column-end: $colCount + 2 - 4; 
+      grid-row-start: $rowCount + 2 - 27;
+      grid-row-end: $rowCount + 2 - 30;
+    }
+
+    &:nth-child(23) {
+      background: magenta;
+      grid-column-start: $colCount + 2 - 4;
+      grid-column-end: $colCount + 2 - 7; 
+      grid-row-start: $rowCount + 2 - 27;
+      grid-row-end: $rowCount + 2 - 29;
+    }
+
+    &:nth-child(24) {
+      background: magenta;
+      grid-column-start: $colCount + 2 - 7;
+      grid-column-end: $colCount + 2 - 12; 
+      grid-row-start: $rowCount + 2 - 27;
+      grid-row-end: $rowCount + 2 - 31;
+    }
+  }
 }
 
 .grid__item__wrap {
@@ -140,7 +344,7 @@
 		&:hover h4,
 		&:focus h4 {
 			visibility: visible;
-		}
+    }
   }
 
   @media all and (min-width: 480px) and (max-width: 799.9px) {
