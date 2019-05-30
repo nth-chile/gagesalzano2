@@ -1,8 +1,8 @@
 ---
 title: Assorted Logos
-date: 2017-03-18 20:10:14
+date: 2019-05-25 05:03:30
 featured_image: /assets/images/posts/Assorted_Logos/assortedlogos-thumb.jpg
-style: height:100%;width:auto;
+style: height:100%
 ---
 {% assign slide = site.data.slide %}
 {{slide['start']}}

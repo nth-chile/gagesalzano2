@@ -1,7 +1,7 @@
 ---
 title: Google Engage — Branding
 dark_title: true
-date: 2017-03-18 21:01:35
+date: 2019-05-25 05:02:20
 featured_image: /assets/images/posts/Google_Engage/engage-thumb.png
 style: width:100%
 stack_color: white

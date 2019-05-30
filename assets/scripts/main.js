@@ -206,15 +206,16 @@ $(document).ready(function(){
 		// 	$grid.append($wrap)
 		// });
 		// setTileZIndex();
-		// //if the image aspect ratio is wider than that of grid tile, assign class to prevent stretch-to-fit
-		// var $img = $('.grid__item__wrap').find('img');
-		// $img.one('load', function() {
-		// 	if($(this).height() / $(this).width() < $(this).closest('.grid__item__wrap').height() / $(this).closest('.grid__item__wrap').width())
-		// 		if($(this).hasClass('stretchfix') == false) $(this).addClass('stretchfix');
-		// })
-		// .each(function() {
-		// 	if(this.complete) $(this).trigger('load');
-		// });
+		//if the image aspect ratio is wider than that of grid tile, assign class to prevent stretch-to-fit
+		//var $img = $('.grid__item__wrap').find('img');
+		var $img = $('.grid__item').find('img');
+		$img.one('load', function() {
+			if($(this).height() / $(this).width() < $(this).closest('.grid__item').height() / $(this).closest('.grid__item').width())
+				if($(this).hasClass('stretchfix') == false) $(this).addClass('stretchfix');
+		})
+		.each(function() {
+			if(this.complete) $(this).trigger('load');
+		});
 	}
 	//on mobile 'slide' view, make article images with class of 'full-height' fill screen
 	function centerFullHeightClass() {

@@ -58,6 +58,7 @@ layout: default
 	<div class='about mobile'>{{ about | markdownify }}</div>
 
 	<div class='grid'>
+		<!-- <div class="grid__item"></div>
 		<div class="grid__item"></div>
 		<div class="grid__item"></div>
 		<div class="grid__item"></div>
@@ -80,10 +81,9 @@ layout: default
 		<div class="grid__item"></div>
 		<div class="grid__item"></div>
 		<div class="grid__item"></div>
-		<div class="grid__item"></div>
-		<div class="grid__item"></div>
+		<div class="grid__item"></div> -->
 
-		<!-- {% if site.posts %}
+		{% if site.posts %}
 		{% for post in site.posts %}
 			{% if post.stack_color %}
 				{% assign bg_color = post.stack_color %}
@@ -113,7 +113,7 @@ layout: default
 		</div>
 			{% endif %}
 		{% endfor %}
-	{% endif %} -->
+	{% endif %}
 	</div>
 
 	<div class='about desktop'>{{ about | markdownify }}</div>

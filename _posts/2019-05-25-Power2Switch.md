@@ -1,7 +1,7 @@
 ---
 title: Power2Switch — Branding
 dark_title: true
-date: 2017-03-18 18:18:15
+date: 2019-05-25 05:03:40
 featured_image: /assets/images/posts/Power2Switch/power-2-switch-thumb.png
 style: width:100%
 stack_color: white

@@ -1,6 +1,6 @@
 ---
 title: Glassdoor — Branding
-date: 2017-03-18 17:56:59
+date: 2019-05-25 05:03:50
 featured_image: /assets/images/posts/Glassdoor/gd-thumb.png
 style: width:100%
 stack_color: white
