@@ -59,7 +59,8 @@ layout: default
 
 	<div class='grid'>
 		{% if site.posts %}
-		{% for post in site.posts %}
+		{% assign reversePosts = site.posts | reverse %}
+		{% for post in reversePosts %}
 			{% if post.stack_color %}
 				{% assign bg_color = post.stack_color %}
 			{% else %}
