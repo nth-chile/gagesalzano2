@@ -35,7 +35,7 @@ $(document).ready(function(){
 	var slickFix = -10;
 
 //** DO STUFF **//
-
+	setTileZIndex();
 	displayRandomQuote();
 
 	//resize throttler
@@ -102,6 +102,7 @@ $(document).ready(function(){
 				}
 			}
 			removeLoadScreen();
+			setTileZIndex();
 		}
 	}
 	}());
@@ -441,9 +442,9 @@ $(document).ready(function(){
 			)
 		})
 	}
-	//so that hovered grid items overlap properly when they grow
+	// So that hovered grid items overlap properly when they grow
 	function setTileZIndex() {
-		var $tiles = $('.grid__item__wrap');
+		var $tiles = $('.grid__item');
 		var coords = [];
 		$tiles.each(function(index) {
 			var topLeft = $(this).offset();
