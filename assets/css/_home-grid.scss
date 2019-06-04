@@ -436,7 +436,7 @@ $rowCount: 30;
   }
 }
 
-.grid__item__wrap {
+.grid__item {
   @include min480 {
     box-sizing: border-box;
     float: left;
