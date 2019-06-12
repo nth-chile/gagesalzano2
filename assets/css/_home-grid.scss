@@ -13,7 +13,6 @@ $rowCount: 30;
 	  margin: 60px auto;
     width: 95.76vw;
     display: grid;
-    gap: 6px;
 
     &::after {
 	  	content: " ";
@@ -25,14 +24,17 @@ $rowCount: 30;
 
   @include min800 {
     height: 95.76vw * $rowCount / $colCount;
-    grid-template-columns: repeat($colCount, 1fr);
-    grid-template-rows: repeat($rowCount, 1fr);
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    // grid-template-columns: repeat(12, 1fr);
+    // grid-template-rows: repeat(30, 1fr);
   }
 
   @media all and (min-width: 480px) and (max-width: 799.9px) {
     width: 94vw;
     grid-template-columns: 33fr 16.5fr 16.5fr 33fr;
-    grid-template-rows: repeat(10, 1fr);
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    //grid-template-rows: repeat(10, 1fr);
     
     img {
 			margin: 0 !important;
