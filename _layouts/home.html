@@ -31,32 +31,7 @@ layout: default
 	var spinner = new Spinner(opts).spin(target);
 </script>
 <div class='home-wrap'>
-	<header class="header-flex-wrap">
-		<div class='id'>
-			{{ site.id.avatar }}
-			<h4 class='desktop'><b>{{ site.id.title }}</b></h4>
-			<h4 class='desktop subtitle'>{{ site.id.subtitle }}</h4>
-		</div>
-		<div class='quote-wrap'>
-		{% if site.quotes %}
-			{% for quote in site.quotes %}
-				<span><a class='desktop quote quote__quote'
-				{% if quote.href %}
-					href='{{quote.href}}' target='_blank'
-				{% else %}
-					href='#'
-				{% endif %}
-				>{{quote.quote}}</a></span>
-				<h4 class='desktop quote quote__source'>{{quote.source}}</h4>
-			{% endfor %}
-		{% endif %}
-		</div>
-		<ul class="header-nav">
-			<li><a class="header-nav-item--current" href="/">Work</a></li>
-			<li><a href="/about">About</a></li>
-			<li><a href="/contact">Contact</a></li>
-		</ul>
-	</header>
+	{% include header.html %}
 
 	<div class='grid'>
 		{% if site.posts %}
@@ -93,6 +68,20 @@ layout: default
 	{% endif %}
 	</div>
 
-	<div class='about desktop'>{{ about | markdownify }}</div>
+	<div class='quote-wrap'>
+		{% if site.quotes %}
+			{% for quote in site.quotes %}
+				<span><a class='desktop quote quote__quote'
+				{% if quote.href %}
+					href='{{quote.href}}' target='_blank'
+				{% else %}
+					href='#'
+				{% endif %}
+				>{{quote.quote}}</a></span>
+				<h4 class='desktop quote quote__source'>{{quote.source}}</h4>
+			{% endfor %}
+		{% endif %}
+	</div>
+
 	{% include footer.html %}
 </div>

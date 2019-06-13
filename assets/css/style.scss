@@ -77,11 +77,9 @@ article {
 
 .error-404-wrap,
 
-.home-wrap {
-	padding-bottom: 20px;
-}
-
 footer {
+	padding-bottom: 20px;
+	
 	h4 {
 		color: $post-nav-color;
 		font-weight: normal;
@@ -90,6 +88,29 @@ footer {
 
 figcaption {
 	color: rgb(148, 143, 143);
+}
+
+.contact-wrap {
+	a {
+		color: $post-nav-color;
+	}
+
+	img {
+		max-width: 634px;
+	}
+
+	figcaption {
+		color: #090909;
+		font-size: 9px;
+	}
+
+	figure { 
+		margin-bottom: 60px;
+	}
+
+	footer > a {
+		display: none;
+	}
 }
 
 figcaption a, footer a {
@@ -164,12 +185,6 @@ h5 {
 	padding: 0;
 	margin: 0;
 
-	.header-nav-item--current {
-		color: rgb(77, 69, 69);
-
-		&:hover, &:focus { color: rgb(77, 69, 69); }
-	}
-
 	a {
 		color: rgba(77, 69, 69, .5);
 		text-decoration: none;
@@ -185,34 +200,56 @@ h5 {
 	}
 }
 
+// Current page link color
+.about-wrap .header-nav a.about-link {
+	color: rgb(77, 69, 69);
+	&:hover, &:focus { color: rgb(77, 69, 69); }
+}
+.home-wrap .header-nav a.home-link {
+	color: rgb(77, 69, 69);
+	&:hover, &:focus { color: rgb(77, 69, 69); }
+}
+.contact-wrap .header-nav a.contact-link {
+	color: rgb(77, 69, 69);
+	&:hover, &:focus { color: rgb(77, 69, 69); }
+}
+
 .quote-wrap {
-	// position: absolute;
-	// width: 100%;
-	// left: 0;
-	grid-column: 2/3;
 	color: rgb(60, 53, 53);
 	white-space: normal;
 	padding-top: 6px;
+
+	.quote {
+		display: none;
+	}
+	
+	.quote__source {
+		color: $post-nav-color;
+		font-weight: normal;
+		margin-top: 6px;
+		opacity: 0;
+	}
+
 	span {
 		font-weight: bold;
 		white-space: nowrap;
-		.quote__quote {
-			color: $post-nav-color;
-			text-decoration: none;
-			white-space: normal;
-		}
 	}
+
+	.quote__quote {
+		color: $post-nav-color;
+		text-decoration: none;
+		white-space: normal;
+	}
+
 	&:hover {
 		.quote__source.chosen {
 			cursor: default;
 			opacity: 1;
 		}
 	}
-}
-.quote__source {
-	font-weight: normal;
-	margin-top: 6px;
-	opacity: 0;
+
+	@media (max-width: 900px) { padding: 6px 12% 0; }
+	@media (max-width: 600px) { display: none; }
 }
 
 p {
@@ -419,9 +456,6 @@ figure {
 	html {
 		height: 100%;
 	}
-	.id {
-		margin: 0 auto;
-  }
 
 	.post-nav {
 		.page-title {
@@ -526,7 +560,7 @@ figure {
 			}
 		}
 	}
-	.tooltip, .quote-wrap {
+	.tooltip {
 		display: none;
 	}
 }
@@ -550,9 +584,7 @@ figure {
 		font-size: 14px;
 		line-height: 22px;
 	}
-	.quote {
-		display: none;
-	}
+	
 	.tooltip {
 		box-shadow: 0px 0px 25px 0px rgba(77, 69, 69, .25);
 		box-sizing: border-box;
@@ -677,21 +709,6 @@ figure {
 
 @media (max-width: 1224px) {
 	header h4 {
-		display: none;
-	}
-}
-
-@media (max-width: 900px) {
-	.quote-wrap {
-		// width: 76%;
-		padding: 6px 12% 0;
-	}
-}
-@media (max-width: 600px) {
-	.id {
-		margin: 0 auto;
-	}
-	.quote-wrap {
 		display: none;
 	}
 }

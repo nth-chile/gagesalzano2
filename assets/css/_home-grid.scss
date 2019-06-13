@@ -10,7 +10,7 @@ $rowCount: 30;
   }
 
   @include min480 {
-	  margin: 60px auto;
+	  margin: 60px auto 114px;
     width: 95.76vw;
     display: grid;
 
@@ -24,17 +24,14 @@ $rowCount: 30;
 
   @include min800 {
     height: 95.76vw * $rowCount / $colCount;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    // grid-template-columns: repeat(12, 1fr);
-    // grid-template-rows: repeat(30, 1fr);
+    grid-template-columns: repeat($colCount, 1fr);
+    grid-template-rows: repeat($rowCount, 1fr);
   }
 
   @media all and (min-width: 480px) and (max-width: 799.9px) {
     width: 94vw;
     grid-template-columns: 33fr 16.5fr 16.5fr 33fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    //grid-template-rows: repeat(10, 1fr);
+    grid-template-rows: repeat(10, 1fr);
     
     img {
 			margin: 0 !important;
@@ -99,6 +96,7 @@ $rowCount: 30;
       -webkit-transition: box-shadow 600ms;
       perspective: 800px;
       perspective-origin: 0% 150%;
+
       div {
         transition: transform 400ms;
         -webkit-transition: transform 400ms;
@@ -120,19 +118,22 @@ $rowCount: 30;
         }
       }
     }
+
     h4 {
         left: 0;
       top: 0;
     }
+
     img {
-        position: relative;
+      position: relative;
       display: block;
       flex: none;
-        min-height: 100%;
+      min-height: 100%;
       min-width: 101%;
       transition: all 250ms;
       -webkit-transition: all 250ms;
     }
+
     &:hover a {
       box-shadow: 8px -5px 25px 0px rgba(77, 69, 69, .05);
     }

@@ -1,4 +1,4 @@
-<img src='{{ '/assets/images/man_raising_hand.png' | prepend: site.url }}' alt='Wave emoji' class='emoji'> Hi, my name is <span id='me'>Gage Salzano.</span>
+👋Hi, my name is <span id='me'>Gage Salzano.</span>
 
 I help people conceptualize and design things to help them communicate an idea.
 
