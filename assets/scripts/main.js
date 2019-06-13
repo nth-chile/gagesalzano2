@@ -64,20 +64,7 @@ $(document).ready(function(){
 
 		if (layoutShouldChange) {
 			if (layout == 'mini') {
-				if ($('.home-wrap').length > 0) { //if home page
-					if($grid.hasClass('masonry--initialized')) {
-						$grid.masonry('destroy');
-						$grid.removeClass('masonry--initialized');
-					}
-					$grid.html('');
-					gridItemContents.forEach(function(item) {
-						$grid.append(
-							$(
-								$('<div>').attr('class', 'no-masonry grid__item')
-							).html(item)
-						)
-					});
-				} else if ( $('.slick').length > 0 ) { //if article page
+				if ( $('.slick').length > 0 ) { //if article page
 					slickFix += 10;
 					doSlick();
 					assignFullHeightContainerClass();
@@ -87,7 +74,6 @@ $(document).ready(function(){
 			} else if (layout == 'medium--1' || layout == 'medium--2') {
 				if($('.home-wrap').length > 0) {
 					buildTinyGrid();
-					//if($('.tooltip').length == 0) createTooltips();
 				} else if ($('.slick').length > 0 ) {
 					$('.slick').slick('slickUnfilter');
 					$('html').css('position', 'static');
@@ -97,12 +83,7 @@ $(document).ready(function(){
 					}
 				}
 			}
-			else if (layout == 'full') {
-				if ($('.home-wrap').length > 0) {
-					buildGrid();
-					//if($('.tooltip').length == 0) createTooltips();
-				}
-			}
+
 			removeLoadScreen();
 			setTileZIndex();
 		}
@@ -117,8 +98,6 @@ $(document).ready(function(){
 	});
 
 //** MEDIA QUERIES (ON PAGE LOAD) **//
-
-
 	if (window.matchMedia("(max-width: 479.9px)").matches) {
 		var layout = 'mini';
 		if ( $('.slick').length > 0 ) {
@@ -132,7 +111,6 @@ $(document).ready(function(){
 		var layout = 'medium';
 		if($('.home-wrap').length > 0) {
 			buildTinyGrid();
-			//if($('.tooltip').length == 0) createTooltips();
 		} else if ($('.slick').length > 0 ) {
 			setRowItemWidths();
 			setColumnItemHeight();
@@ -140,17 +118,12 @@ $(document).ready(function(){
 	}
 	else if (window.matchMedia("(min-width: 800px)").matches) {
 		var layout = 'full';
-		if($('.home-wrap').length > 0) {
-			buildGrid();
-			//if($('.tooltip').length == 0) createTooltips();
-		}  else if ($('.slick').length > 0 ) {
+		if ($('.slick').length > 0 ) {
 			setColumnItemHeight();
 			setRowItemWidths();
 		}
 	}
 	removeLoadScreen();
-
-
 
 //** FUNCTION DEFINITIONS **//
 	function buildTinyGrid() {
@@ -444,29 +417,25 @@ $(document).ready(function(){
 	// show tooltips at mouse position
 	function showOnHover(elt, target) {
 		$('body').on('mouseenter', target, function(e) {
-			var x;
-			var y;
-			if(e.pageX || e.pageY) {
-				x = e.pageX;
-				y = e.pageY;
-			}
-			else if (e.clientX || e.clientY) {
-				x = e.clientX + document.body.scrollLeft
-					+ document.documentElement.scrollLeft;
-				y = e.clientY + document.body.scrollTop
-					+ document.documentElement.scrollTop;
-			}
+
 			var paddingBottom = parseInt($(elt).css('padding-bottom').slice(0, -2));
 			var paddingTop = parseInt($(elt).css('padding-top').slice(0, -2));
-			elt.style.top = y - ($(elt).height() + 20 ) - (paddingBottom + paddingTop) + 'px';
-			if ( x - $(elt).width() / 2 < 0 )
-				elt.style.left = 0;
-			else if ( x + $(elt).width() / 2 > $(window).width() ) {
-				elt.style.left = $(window).width() - $(elt).width() + 'px';
-			}
-			else
-				elt.style.left = x - $(elt).width() / 2 + 'px';
 
+			// Set top pos
+			if ( e.clientY - ($(elt).height() + 20 + paddingBottom + paddingTop) / 2 < 0 ) {
+				elt.style.top = e.pageY + 20 - paddingBottom + paddingTop + 'px';
+			}
+			else {
+				elt.style.top = e.pageY - ($(elt).height() + 20 ) - (paddingBottom + paddingTop) + 'px';
+			}
+
+			// Set left pos
+			if ( e.pageX - $(elt).width() / 2 < 0 )
+				elt.style.left = 0;
+			else if ( e.pageX + $(elt).width() / 2 > $(window).width() )
+				elt.style.left = $(window).width() - $(elt).width() + 'px';
+			else
+				elt.style.left = e.pageX - $(elt).width() / 2 + 'px';
 		});
 		$('body').on('mouseleave', target, function(e) {
 			setTimeout(function(){
