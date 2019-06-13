@@ -31,7 +31,7 @@ layout: default
 	var spinner = new Spinner(opts).spin(target);
 </script>
 <div class='home-wrap'>
-	<header>
+	<header class="header-flex-wrap">
 		<div class='id'>
 			{{ site.id.avatar }}
 			<h4 class='desktop'><b>{{ site.id.title }}</b></h4>
@@ -51,7 +51,11 @@ layout: default
 			{% endfor %}
 		{% endif %}
 		</div>
-
+		<ul class="header-nav">
+			<li><a class="header-nav-item--current" href="/">Work</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/contact">Contact</a></li>
+		</ul>
 	</header>
 
 	<div class='grid'>

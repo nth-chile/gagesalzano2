@@ -119,35 +119,77 @@ h5 {
 	font-size: 9px;
 	line-height: 14px;
 }
-header {
-	@include flexbox();
-	@include justify-content(space-between);
+
+.header-flex-wrap {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
 	padding: 76px 0 40px 0;
 	white-space: nowrap;
+
 	h4, p {
 		color: $post-nav-color;
 		margin: 0;
 		max-width: none;
 	}
-	p {padding: 0;}
+
+	p { padding: 0; }
+
 	.subtitle {
 		font-weight: normal;
 	}
+
 	.id {
 		text-align: left;
+		grid-column: 1/2;
+
+		h4 { padding-left: 48px; }
 	}
-	.id {
-		h4 {padding-left: 48px;}
-		svg {
-			float: left;
-			margin-top: 6px;
-		}
+
+	.logo {
+		float: left;
+		margin-top: 6px;
+		height: 34px;
+		width: 34px;
+	}
+
+	@media all and (min-width: 480px) {
+		margin: 0 auto;
+		width: calc(94vw - 6px);	
 	}
 }
+
+.header-nav {
+	list-style-type: none;
+	grid-column: 3/4;
+	padding: 0;
+	margin: 0;
+
+	.header-nav-item--current {
+		color: rgb(77, 69, 69);
+
+		&:hover, &:focus { color: rgb(77, 69, 69); }
+	}
+
+	a {
+		color: rgba(77, 69, 69, .5);
+		text-decoration: none;
+
+		&:hover, &:focus {
+			color: rgba(77, 69, 69, .5);
+		}
+	}
+
+	li {
+		display: inline-block;
+		padding: 0 10px;
+	}
+}
+
 .quote-wrap {
-	position: absolute;
-	width: 100%;
-	left: 0;
+	// position: absolute;
+	// width: 100%;
+	// left: 0;
+	grid-column: 2/3;
 	color: rgb(60, 53, 53);
 	white-space: normal;
 	padding-top: 6px;
@@ -254,7 +296,7 @@ figure {
 }
 .post-nav {
 	background-color: $real-post-nav-color;
-	@include flexbox();
+	display: flex;
 	height: 50px;
 	padding: 3px 0;
 	position: fixed;
@@ -374,10 +416,6 @@ figure {
 		bottom: 0;
 		left: 0;
 	}
-	header svg {
-		height: 34px;
-		width: 34px;
-	}
 	html {
 		height: 100%;
 	}
@@ -450,10 +488,10 @@ figure {
 			color: $link-color-white;
 		}
 		.slide__content {
-			@include flexbox();
+			display: flex;
 			@include align-items(center);
 			@include flex-flow(column);
-			@include justify-content(center);
+			justify-content: center;
 			box-sizing: border-box;
 			overflow: hidden;
 			padding: 17.5px 11px 35px;
@@ -511,16 +549,6 @@ figure {
 	figcaption {
 		font-size: 14px;
 		line-height: 22px;
-	}
-
-	header {
-		//padding: 76px 35px 0;
-		margin: 0 auto;
-		width: calc(94vw - 6px);
-		svg {
-			height: 34px;
-			width: 34px;
-		}
 	}
 	.quote {
 		display: none;
@@ -619,7 +647,7 @@ figure {
 		}
 		.column {
 			height: 100%;
-			@include flexbox();
+			display: flex;
 			@include flex(column);
 			div {
 				height: 0;
@@ -655,7 +683,7 @@ figure {
 
 @media (max-width: 900px) {
 	.quote-wrap {
-		width: 76%;
+		// width: 76%;
 		padding: 6px 12% 0;
 	}
 }

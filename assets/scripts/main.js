@@ -1,36 +1,7 @@
 $(document).ready(function(){
 
 //** GLOBALS **//
-
 	var rowsSet = false;
-
-	var $grid = $('.grid');
-
-	var gridItemContents = $('.no-masonry.grid__item').map(function(i) {
-			return $($($(this)[0]).html());
-		});
-
-	gridItemContents = gridItemContents.toArray();
-
-	var masonryOptions = {
-			itemSelector: '.grid__item__wrap',
-			originTop: false
-		};
-
-	var msnryItems = (function() {
-			var counter = gridItemContents.length - 1;
-			return (
-				GRID_DATA.map(function(item, i) {
-					var $block = $(item);
-					if ($($block.children()[0]).hasClass('ghost') == false && counter >= 0 ) {
-						$($block.children()[0]).append(gridItemContents[counter]);
-						counter--;
-					}
-					return $($block.prop('outerHTML'));
-				})
-			);
-		}());
-
 	//each time slick is re-initialized, $('.slide.slick-active').attr('aria-describedby').slice(-2) increases by ten -_-
 	var slickFix = -10;
 

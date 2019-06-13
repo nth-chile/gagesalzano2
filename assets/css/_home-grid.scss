@@ -84,7 +84,7 @@ $rowCount: 30;
     width: 100%;
     a {
       position: relative;
-      @include flexbox();
+      display: flex;
       justify-content: center;
       align-items: center;
       width: 100%;

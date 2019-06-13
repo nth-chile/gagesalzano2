@@ -32,14 +32,6 @@ $text-highlight-color: rgb(247, 226, 127);
   }
 }
 
-@mixin flexbox() {
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-}
-
 @mixin inline-flex() {
   display: -webkit-inline-box;
   display: -moz-inline-flex;
@@ -76,9 +68,4 @@ $text-highlight-color: rgb(247, 226, 127);
 @mixin align-self($values) {
   -webkit-align-self: $values;
   align-self: $values;
-}
-
-@mixin justify-content($values) {
-  -webkit-justify-content: $values;
-  justify-content: $values;
 }
