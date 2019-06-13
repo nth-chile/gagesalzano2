@@ -19,6 +19,23 @@ body {
 	}
 }
 
+.about {
+	ul {
+		columns: 2;
+		column-gap: 0;
+		column-width: 260px; 
+		display: inline-block;
+		list-style-type: none;
+		margin: 34px auto 0;
+		padding: 0;
+		text-align: left;
+
+		li:before {
+			content: "\2013  ";
+		}
+	}
+}
+
 main {
 	height: 100%;
 }
