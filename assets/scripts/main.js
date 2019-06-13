@@ -37,6 +37,7 @@ $(document).ready(function(){
 //** DO STUFF **//
 	setTileZIndex();
 	displayRandomQuote();
+	createTooltips();
 
 	//resize throttler
 	(function() {window.addEventListener("resize", resizeThrottler, false);var resizeTimeout;function resizeThrottler() {if ( !resizeTimeout ) {resizeTimeout = setTimeout(function() {resizeTimeout = null;actualResizeHandler();}, 66);}}
@@ -60,6 +61,7 @@ $(document).ready(function(){
 			layout = 'full';
 			layoutShouldChange = true;
 		}
+
 		if (layoutShouldChange) {
 			if (layout == 'mini') {
 				if ($('.home-wrap').length > 0) { //if home page
@@ -85,7 +87,7 @@ $(document).ready(function(){
 			} else if (layout == 'medium--1' || layout == 'medium--2') {
 				if($('.home-wrap').length > 0) {
 					buildTinyGrid();
-					if($('.tooltip').length == 0) createTooltips();
+					//if($('.tooltip').length == 0) createTooltips();
 				} else if ($('.slick').length > 0 ) {
 					$('.slick').slick('slickUnfilter');
 					$('html').css('position', 'static');
@@ -98,7 +100,7 @@ $(document).ready(function(){
 			else if (layout == 'full') {
 				if ($('.home-wrap').length > 0) {
 					buildGrid();
-					if($('.tooltip').length == 0) createTooltips();
+					//if($('.tooltip').length == 0) createTooltips();
 				}
 			}
 			removeLoadScreen();
@@ -130,7 +132,7 @@ $(document).ready(function(){
 		var layout = 'medium';
 		if($('.home-wrap').length > 0) {
 			buildTinyGrid();
-			if($('.tooltip').length == 0) createTooltips();
+			//if($('.tooltip').length == 0) createTooltips();
 		} else if ($('.slick').length > 0 ) {
 			setRowItemWidths();
 			setColumnItemHeight();
@@ -140,7 +142,7 @@ $(document).ready(function(){
 		var layout = 'full';
 		if($('.home-wrap').length > 0) {
 			buildGrid();
-			if($('.tooltip').length == 0) createTooltips();
+			//if($('.tooltip').length == 0) createTooltips();
 		}  else if ($('.slick').length > 0 ) {
 			setColumnItemHeight();
 			setRowItemWidths();
@@ -151,64 +153,7 @@ $(document).ready(function(){
 
 
 //** FUNCTION DEFINITIONS **//
-
-	function buildGrid() {
-		// if(!$grid.hasClass('masonry--initialized'))
-		// 	$grid.addClass('masonry--initialized');
-		// else {
-		// 	$grid.masonry('destroy');
-		// 	$grid.removeClass('masonry--initialized');
-		// }
-		// $grid.html('');
-		// $grid.masonry(masonryOptions);
-		// msnryItems.forEach(function(item) {
-		// 	$grid.append(item)
-		// 		.masonry('appended', item)
-		// 		.masonry();
-		// });
-		// $grid.on('layoutComplete', setTileZIndex);
-	}
 	function buildTinyGrid() {
-		// if($grid.hasClass('masonry--initialized')) {
-		// 	$grid.removeClass('masonry--initialized');
-		// 	$grid.masonry('destroy');
-		// }
-		// $grid.html('');
-		// var phase = 1;
-		// var widths = [];
-		// //repeat a pattern: give first two grid items 50% width, give the next three 33.33% width
-		// //first, build an array of width values
-		// if (!window.matchMedia("(max-width: 600px)").matches) {
-		// 	for (i = 0 ; i <= gridItemContents.length; i++) {
-		// 		if ( phase == 1 | phase == 2 )
-		// 			widths.push('50%');
-		// 		else
-		// 			widths.push('33.333333333333%');
-		// 		phase < 5 ? phase++ : phase = 1;
-		// 	}
-		// }
-		// else {
-		// 	for (i = 0 ; i <= gridItemContents.length; i++)
-		// 		widths.push('50%');
-		// }
-		// //assign those width values and append to a wrapper
-		// gridItemContents.forEach(function(item, index) {
-		// 	var $wrap = $($('<div>').attr('class', 'grid__item__wrap'))
-		// 		.css({
-		// 			'width': widths[index],
-		// 			'height': '30vw'
-		// 		})
-		// 		.append(
-		// 			$('<div>')
-		// 			.addClass('grid__item')
-		// 			.append(item)
-		// 		);
-
-		// 	$grid.append($wrap)
-		// });
-		// setTileZIndex();
-		//if the image aspect ratio is wider than that of grid tile, assign class to prevent stretch-to-fit
-		//var $img = $('.grid__item__wrap').find('img');
 		var $img = $('.grid__item').find('img');
 		$img.one('load', function() {
 			if($(this).height() / $(this).width() < $(this).closest('.grid__item').height() / $(this).closest('.grid__item').width())
@@ -303,17 +248,7 @@ $(document).ready(function(){
   		var index = Math.floor(Math.random() * max);
   		var $p = $($('a.quote__quote')[index]);
 
-  		// var $startQuote = $('<span>&ldquo;</span>')
-  		// $startQuote.addClass('desktop quotation-mark quote__quote')
-  		// 			  .css('display', 'inline');
-
-  		// var $endQuote = $('<span>&rdquo;</span>')
-  		// $endQuote.addClass('desktop quotation-mark quote__quote')
-  		// 			  .css('display', 'inline');
-
   		$p.css('display', 'inline');
-  		// $p.before($startQuote);
-  		// $p.after($endQuote);
   		$($('h4.quote__source')[index]).addClass('chosen')
   									   .css('display', 'block');
 	}
@@ -373,7 +308,6 @@ $(document).ready(function(){
 		div.appendChild(fig);
 		document.body.appendChild(div);
 		showOnHover(div, target);
-
 	}
 	function tooltip_img_boxBottom(target, image, caption, alt, captionBgColor) {
 		var div = document.createElement('div');
@@ -490,8 +424,6 @@ $(document).ready(function(){
 				imagesInRow--;
 				if (imagesInRow == 0) { //after last image is loaded ...
 					$(this).closest('.row').find('img').each(function() {
-						//var px = $(this).width() / (total / maxWidth);
-						//var percent = (px / $(this).closest('.row').width()) * 100 + '%';
 						var percent = $(this).width() / total * 100 + '%';
 						$(this).css('width', '100%');
 						if ($(this).closest('.column').length > 0) {
@@ -547,6 +479,5 @@ $(document).ready(function(){
 				}
 			}, 150);
 		});
-
 	}
 });

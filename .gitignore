@@ -1,4 +1,4 @@
-_excluded
+ignored
 _site
 .sass-cache
 .jekyll-metadata
