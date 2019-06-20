@@ -1,4 +1,42 @@
 $(document).ready(function(){
+//** CLASSES **//
+class Dropdown {
+	arrow = '<svg xmlns="http://www.w3.org/2000/svg" width="12" height="8"><path fill="none" fill-rule="evenodd" stroke="#4D4545" stroke-width="1.5" d="M11.13256879.75868655L6.0460822 6.59228518.95959486.75868634"/></svg>'
+	options = ["all", "branding", "digital", "print"]
+	selected = "all"
+
+	constructor(elt) {
+		this.$elt = $(elt)
+		this.init();
+	}
+
+	init () {
+		this.$elt.find("li").click(e => {
+			// Set selected
+			this.selected = e.target.innerHTML
+			// Get new list
+			const selectedIndex = this.options.indexOf(this.selected)
+			const listItems = [...this.options]
+						listItems.splice(selectedIndex, 1)
+			// Inject selected value
+			this.$elt.find(".header-dropdown-val").html(`Viewing ${e.target.innerHTML} examples ${this.arrow}`)
+			// Inject list items
+			this.$elt.find("li").each((index, elt) => {
+				$(elt).html(listItems[index])
+			})
+			// Add class to .grid
+			const $grid = $(".grid")
+			$grid.removeClass(this.options.join(" "))
+			$grid.addClass(this.options[selectedIndex])
+		})
+	}
+
+	// get value (val) {
+	// 	return `Viewing ${this.selected} examples ${this.arrow}`
+	// }
+}
+
+const headerDropdown = new Dropdown(document.querySelector(".header-dropdown"))
 
 //** GLOBALS **//
 	var rowsSet = false;

@@ -33,7 +33,7 @@ layout: default
 <div class='home-wrap'>
 	{% include header.html %}
 
-	<div class='grid'>
+	<div class='grid all'>
 		{% if site.posts %}
 		{% assign reversePosts = site.posts | reverse %}
 		{% for post in reversePosts %}
