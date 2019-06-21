@@ -9,6 +9,25 @@
   }
 
   .grid__item {
+    @include max479p9 {
+      // DoneDone
+      &:nth-child(5) { display: none; }
+      // WAM
+      &:nth-child(7) { display: none; }
+      // Kin
+      &:nth-child(8) { display: none; }
+      // 826 2017
+      &:nth-child(12) { display: none; }
+      // 826 2014
+      &:nth-child(13) { display: none; }
+      // 2015
+      &:nth-child(15) { display: none; }
+      // 2017
+      &:nth-child(16) { display: none; }
+      // Signac
+      &:nth-child(24) { display: none; }
+    }
+
     @media all and (min-width: 480px) and (max-width: 799.9px) {
       // Wil
       &:nth-child(1) { @include mini-grid-tile-1; }

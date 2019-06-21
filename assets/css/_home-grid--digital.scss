@@ -9,6 +9,37 @@
   }
 
   .grid__item {
+    @include max479p9 {
+      // Wil
+      &:nth-child(1) { display: none; }
+      // MM
+      &:nth-child(3) { display: none; }
+      // Lakeside
+      &:nth-child(4) { display: none; }
+      // EC1
+      &:nth-child(6) { display: none; }
+      // Tennyson
+      &:nth-child(11) { display: none; }
+      // 826 2017
+      &:nth-child(12) { display: none; }
+      // Google
+      &:nth-child(14) { display: none; }
+      // 2015
+      &:nth-child(15) { display: none; }
+      // Saugatuck
+      &:nth-child(17) { display: none; }
+      // Bluebox
+      &:nth-child(18) { display: none; }
+      // Tazza
+      &:nth-child(19) { display: none; }
+      // Assorted
+      &:nth-child(21) { display: none; }
+      // Power2Switch
+      &:nth-child(22) { display: none; }
+      // Glassdoor
+      &:nth-child(23) { display: none; }
+    }
+
     @media all and (min-width: 480px) and (max-width: 799.9px) {
       // Wil
       &:nth-child(1) { display: none; }
