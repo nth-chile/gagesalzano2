@@ -1,13 +1,14 @@
 .grid {
 	min-height: 23.5vw;
   position: relative;
+  z-index: 0;
   
   @include max479p9 {
     margin-bottom: 81px;
   }
 
   @include min480 {
-	  margin: 60px auto 114px;
+	  margin: 17px auto 114px;
     width: 95.76vw;
     display: grid;
 
@@ -22,7 +23,6 @@
   @media all and (min-width: 480px) and (max-width: 799.9px) {
     width: 94vw;
     grid-template-columns: 33fr 16.5fr 16.5fr 33fr;
-    grid-template-rows: repeat(10, 1fr);
     
     img {
 			margin: 0 !important;

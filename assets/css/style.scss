@@ -149,7 +149,9 @@ h5 {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	padding: 76px 0 40px 0;
+	position: relative;
 	white-space: nowrap;
+	z-index: 1;
 
 	h4, p {
 		color: $post-nav-color;
@@ -185,7 +187,8 @@ h5 {
 
 .header-dropdown {
 	position: relative;
-	padding: 7px 20px;
+	padding: 7px 16px;
+	margin: 0 auto;
 	cursor: pointer;
 
 	&:hover,
