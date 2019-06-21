@@ -1,0 +1,214 @@
+.grid.branding {
+  $colCount: 12;
+  $rowCount: 21;
+
+  @include min800 {
+    height: 95.76vw * $rowCount / $colCount;
+    grid-template-columns: repeat($colCount, 1fr);
+    grid-template-rows: repeat($rowCount, 1fr);
+  }
+
+  .grid__item {
+    @media all and (min-width: 480px) and (max-width: 799.9px) {
+      // Wil
+      &:nth-child(1) { @include mini-grid-tile-1; }
+      // Peak
+      &:nth-child(2) { @include mini-grid-tile-2; }
+      // MM
+      &:nth-child(3) { @include mini-grid-tile-3; }
+      // Lakeside
+      &:nth-child(4) { @include mini-grid-tile-4; }
+      // DoneDone
+      &:nth-child(5) { display: none; }
+      // EC1
+      &:nth-child(6) { @include mini-grid-tile-5; }
+      // WAM
+      &:nth-child(7) { display: none; }
+      // Kin
+      &:nth-child(8) { display: none; }
+      // The Ro
+      &:nth-child(9) { @include mini-grid-tile-6; }
+      // Homeroom
+      &:nth-child(10) { @include mini-grid-tile-7; }
+      // Tennyson
+      &:nth-child(11) { @include mini-grid-tile-8; }
+      // 826 2017
+      &:nth-child(12) { display: none; }
+      // 826 2014
+      &:nth-child(13) { display: none; }
+      // Google
+      &:nth-child(14) { @include mini-grid-tile-9; }
+      // 2015
+      &:nth-child(15) { display: none; }
+      // 2017
+      &:nth-child(16) { display: none; }
+      // Saugatuck
+      &:nth-child(17) { @include mini-grid-tile-10; }
+      // Bluebox
+      &:nth-child(18) { @include mini-grid-tile-11; }
+      // Tazza
+      &:nth-child(19) { @include mini-grid-tile-12; }
+      // OrderUp
+      &:nth-child(20) { @include mini-grid-tile-13; }
+      // Assorted
+      &:nth-child(21) { @include mini-grid-tile-14; }
+      // Power2Switch
+      &:nth-child(22) { @include mini-grid-tile-15; }
+      // Glassdoor
+      &:nth-child(23) { @include mini-grid-tile-16; }
+      // Signac
+      &:nth-child(24) { display: none; }
+    }
+
+    @include min800 {
+      // Signac
+      &:nth-child(24) {
+        display: none;
+      }
+      // Glassdoor
+      &:nth-child(23) {
+        grid-column-start: 6;
+        grid-column-end: 10; 
+        grid-row-start: $rowCount + 2 - 1;
+        grid-row-end: $rowCount + 2 - 5;
+      }
+      // Power2Switch
+      &:nth-child(22) {
+        grid-column-start: 3;
+        grid-column-end: 6; 
+        grid-row-start: $rowCount + 2 - 3;
+        grid-row-end: $rowCount + 2 - 5;
+      }
+      // Assorted
+      &:nth-child(21) {
+        grid-column-start: $colCount + 2 - 2;
+        grid-column-end: $colCount + 2 - 7; 
+        grid-row-start: 13;
+        grid-row-end: 18;
+      }
+      // OrderUp
+      &:nth-child(20) {
+        grid-column-start: 10;
+        grid-column-end: 12; 
+        grid-row-start: 18;
+        grid-row-end: 20;
+      }
+      // Tazza
+      &:nth-child(19) {
+        grid-column-start: $colCount + 2 - 7;
+        grid-column-end: $colCount + 2 - 11; 
+        grid-row-start: 13;
+        grid-row-end: 16;
+      }
+      // Bluebox
+      &:nth-child(18) {
+        grid-column-start: $colCount + 2 - 2;
+        grid-column-end: $colCount + 2 - 4; 
+        grid-row-start: $rowCount + 2 - 11;
+        grid-row-end: $rowCount + 2 - 13;
+      }
+      // Saugatuck
+      &:nth-child(17) {
+        grid-column-start: $colCount + 2 - 4;
+        grid-column-end: $colCount + 2 - 6; 
+        grid-row-start: $rowCount + 2 - 11;
+        grid-row-end: $rowCount + 2 - 13;
+      }
+      // 2017
+      &:nth-child(16) {
+        display: none;
+      }
+      // 2015
+      &:nth-child(15) {
+        display: none;
+      }
+      // Google
+      &:nth-child(14) {
+        grid-column-start: $colCount + 2 - 9;
+        grid-column-end: $colCount + 2 - 12; 
+        grid-row-start: $rowCount + 2 - 11;
+        grid-row-end: $rowCount + 2 - 13;
+      }
+      // 826 2014
+      &:nth-child(13) {
+        display: none;
+      }
+      // 826 2017
+      &:nth-child(12) {
+        display: none;
+      }
+      // Tennyson
+      &:nth-child(11) {
+        grid-column-start: $colCount + 2 - 6;
+        grid-column-end: $colCount + 2 - 9; 
+        grid-row-start: 10;
+        grid-row-end: 13;
+      }
+      // Homeroom
+      &:nth-child(10) {
+        grid-column-start: $colCount + 2 - 2;
+        grid-column-end: $colCount + 2 - 4; 
+        grid-row-start: $rowCount + 2 - 16;
+        grid-row-end: $rowCount + 2 - 18;
+      }
+      // The Ro
+      &:nth-child(9) {
+        grid-column-start: $colCount + 2 - 1;
+        grid-column-end: $colCount + 2 - 4; 
+        grid-row-start: $rowCount + 2 - 13;
+        grid-row-end: $rowCount + 2 - 16;
+      }
+      // Kin
+      &:nth-child(8) {
+        display: none;
+      }
+      // WAM
+      &:nth-child(7) {
+        display: none;
+      }
+      // EC1
+      &:nth-child(6) {
+        grid-column-start: $colCount + 2 - 4;
+        grid-column-end: $colCount + 2 - 9; 
+        grid-row-start: $rowCount + 2 - 13;
+        grid-row-end: $rowCount + 2 - 18;
+      }
+      // DoneDone
+      &:nth-child(5) {
+        grid-column-start: $colCount + 2 - 9;
+        grid-column-end: $colCount + 2 - 13; 
+        grid-row-start: $rowCount + 2 - 13;
+        grid-row-end: $rowCount + 2 - 16;
+        display: none;
+      }
+      // Lakeside
+      &:nth-child(4) {
+        grid-column-start: $colCount + 2 - 9;
+        grid-column-end: $colCount + 2 - 11; 
+        grid-row-start: $rowCount + 2 - 16;
+        grid-row-end: $rowCount + 2 - 18;
+      }
+      // Mission Muscle
+      &:nth-child(3) {
+        grid-column-start: 10;
+        grid-column-end: 13; 
+        grid-row-start: 2;
+        grid-row-end: 5;
+      }
+      // Peak
+      &:nth-child(2) {
+        grid-column-start: 7;
+        grid-column-end: 10; 
+        grid-row-start: 3;
+        grid-row-end: 5;
+      }
+      // Wil
+      &:nth-child(1) {
+        grid-column-start: 2;
+        grid-column-end: 7; 
+        grid-row-start: 1;
+        grid-row-end: 5;
+      }
+    }
+  }
+}

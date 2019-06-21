@@ -1,0 +1,117 @@
+.grid.print {
+  $colCount: 12;
+  $rowCount: 10;
+
+  @include min800 {
+    height: 95.76vw * $rowCount / $colCount;
+    grid-template-columns: repeat($colCount, 1fr);
+    grid-template-rows: repeat($rowCount, 1fr);
+  }
+
+  .grid__item {
+    @media all and (min-width: 480px) and (max-width: 799.9px) {
+      // Wil
+      &:nth-child(1) { display: none; }
+      // Peak
+      &:nth-child(2) { display: none; }
+      // MM
+      &:nth-child(3) { display: none; }
+      // Lakeside
+      &:nth-child(4) { display: none; }
+      // DoneDone
+      &:nth-child(5) { display: none; }
+      // EC1
+      &:nth-child(6) {  @include mini-grid-tile-1; }
+      // WAM
+      &:nth-child(7) { display: none; }
+      // Kin
+      &:nth-child(8) { display: none; }
+      // The Ro
+      &:nth-child(9) { display: none; }
+      // Homeroom
+      &:nth-child(10) { display: none; }
+      // Tennyson
+      &:nth-child(11) { @include mini-grid-tile-2; }
+      // 826 2017
+      &:nth-child(12) { @include mini-grid-tile-3; }
+      // 826 2014
+      &:nth-child(13) { display: none; }
+      // Google
+      &:nth-child(14) { display: none; }
+      // 2015
+      &:nth-child(15) { @include mini-grid-tile-4; }
+      // 2017
+      &:nth-child(16) { display: none; }
+      // Saugatuck
+      &:nth-child(17) { display: none; }
+      // Bluebox
+      &:nth-child(18) { display: none; }
+      // Tazza
+      &:nth-child(19) { display: none; }
+      // OrderUp
+      &:nth-child(20) { display: none; }
+      // Assorted
+      &:nth-child(21) { display: none; }
+      // Power2Switch
+      &:nth-child(22) { display: none; }
+      // Glassdoor
+      &:nth-child(23) { display: none; }
+      // Signac
+      &:nth-child(24) { display: none; }
+    }
+
+    @include min800 {
+      // 2015
+      &:nth-child(15) {
+        grid-column-start: 9;
+        grid-column-end: 12; 
+        grid-row-start: 4;
+        grid-row-end: 6;
+      }
+      // 826 2017
+      &:nth-child(12) {
+        grid-column-start: 2;
+        grid-column-end: 7; 
+        grid-row-start: 6;
+        grid-row-end: 11;
+      }
+      // Tennyson
+      &:nth-child(11) {
+        grid-column-start: 7;
+        grid-column-end: 10; 
+        grid-row-start: 6;
+        grid-row-end: 9;
+      }
+      // EC1
+      &:nth-child(6) {
+        grid-column-start: 4;
+        grid-column-end: 9; 
+        grid-row-start: 1;
+        grid-row-end: 6;
+      }
+
+      &:nth-child(16),
+      &:nth-child(13),
+      &:nth-child(24),
+      &:nth-child(23),
+      &:nth-child(22),
+      &:nth-child(21),
+      &:nth-child(20),
+      &:nth-child(19),
+      &:nth-child(18),
+      &:nth-child(17),
+      &:nth-child(14),
+      &:nth-child(10),
+      &:nth-child(9),
+      &:nth-child(8),
+      &:nth-child(7),
+      &:nth-child(5),
+      &:nth-child(4),
+      &:nth-child(1),
+      &:nth-child(2),
+      &:nth-child(3) {
+        display: none;
+      }
+    }
+  }
+}
