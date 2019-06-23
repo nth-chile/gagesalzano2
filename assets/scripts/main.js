@@ -2,12 +2,13 @@ $(document).ready(function(){
 //** CLASSES **//
 class Dropdown {
 	arrow = '<svg xmlns="http://www.w3.org/2000/svg" width="12" height="8"><path fill="none" fill-rule="evenodd" stroke="#4D4545" stroke-width="1.5" d="M11.13256879.75868655L6.0460822 6.59228518.95959486.75868634"/></svg>'
-	options = ["all", "branding", "digital", "print"]
-	selected = "all"
 
-	constructor(elt) {
-		this.$elt = $(elt)
+	constructor(config) {
+		this.$elt = $(config.element)
 		this.init();
+		this.handleSelect = config.handleSelect
+		this.options = config.options
+		this.selected = config.initialValue
 	}
 
 	init () {
@@ -24,19 +25,42 @@ class Dropdown {
 			this.$elt.find("li").each((index, elt) => {
 				$(elt).html(listItems[index])
 			})
-			// Add class to .grid
-			const $grid = $(".grid")
-			$grid.removeClass(this.options.join(" "))
-			$grid.addClass(this.options[selectedIndex])
+			this.handleSelect(this.options[selectedIndex], this.options)
 		})
 	}
-
-	// get value (val) {
-	// 	return `Viewing ${this.selected} examples ${this.arrow}`
-	// }
 }
 
-const headerDropdown = new Dropdown(document.querySelector(".header-dropdown"))
+const headerDropdown = new Dropdown({
+	element: document.querySelector(".header-dropdown"),
+	handleSelect: (selected, options) => {
+		const $grid = $(".grid")
+		// Hide grid
+		console.log('hey')
+		$grid.addClass("grid--hide")
+		setTimeout(() => {
+			// Add class to .grid
+			$grid.removeClass(options.join(" "))
+			$grid.addClass(selected)
+		}, 100)
+		
+		setTimeout(() => {
+			$grid.removeClass("grid--hide")
+		}, 150)
+		
+		// $grid.fadeOut({
+		// 	duration: 0,
+		// 	complete: () => {
+		// 		// Add class to .grid
+		// 		$grid.removeClass(options.join(" "))
+		// 		$grid.addClass(selected)
+		// 		$grid.fadeIn({ duration: 150 })
+		// 	}
+		// })
+		
+	},
+	initialValue: "all",
+	options: ["all", "branding", "digital", "print"]
+})
 
 //** GLOBALS **//
 	var rowsSet = false;
