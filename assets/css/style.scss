@@ -65,7 +65,7 @@ a.go-home:hover {
 }
 
 article {
-	margin-top: 56px;
+	//margin-top: 56px;
 	img {margin-bottom:-4px;}
 }
 
@@ -148,7 +148,8 @@ h5 {
 .header-flex-wrap {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
-	padding: 76px 0 40px 0;
+	margin: 0 50px;
+	padding: 50px 0 35px 0;
 	position: relative;
 	white-space: nowrap;
 	z-index: 1;
@@ -180,8 +181,8 @@ h5 {
 	}
 
 	@media all and (min-width: 480px) {
-		margin: 0 auto;
-		width: calc(94vw - 6px);	
+		//margin: 0 auto;
+		//width: calc(94vw - 6px);	
 	}
 }
 
@@ -403,60 +404,84 @@ figure {
 	width: 100%;
 	z-index: 1000000;
 }
+
 .post-nav {
 	background-color: $real-post-nav-color;
 	display: flex;
 	height: 50px;
 	padding: 3px 0;
-	position: fixed;
-	top: 0;
+	//position: fixed;
+	// top: 0;
 	white-space: nowrap;
 	width: 100%;
 	z-index: 1500;
+
 	* { display: inline-block;}
+
 	a {
 		height: 50px;
 		line-height: 50px;
 		text-decoration: none;
 	}
+	
 	h4 {
 		font-size: 13px;
 		margin: 0;
 	}
+
 	.page-title {
 		padding-right: 70px;
 		line-height: 50px;
 		@include flex(1);
 	}
+
 	.prev, .next {
 		border-left: 1px solid rgb(103, 96, 96);
 		min-width: 50px;
 		width: 50px;
+
 		svg {
 			height: 9.8px;
 			width: 9.8px;
 		}
 	}
+
 	.page-title {
 		overflow: hidden;
 		text-overflow: ellipsis;
 	}
-	.post-nav__home {
-		box-sizing: border-box;
-		padding: 0 21px;
-		h4 {
-				margin-left: 6.7px;
-				visibility: hidden;
-			}
-		&:hover h4 {
-			visibility: visible;
+
+	@media all and (max-width: 479.9px) {
+		.page-title {
+			padding-right: 0px;
+			margin: 0 9px;
+			text-align: left;
 		}
-		svg {
-			height: 20.4px;
-			position: relative;
-			top: 3px;
-			width: 19px;
-		}
+	}
+}
+
+.post-nav__home {
+	box-sizing: border-box;
+	padding: 0 21px;
+
+	h4 {
+		margin-left: 6.7px;
+		visibility: hidden;
+	}
+
+	&:hover h4 {
+		visibility: visible;
+	}
+
+	svg {
+		height: 20.4px;
+		position: relative;
+		top: 3px;
+		width: 19px;
+	}
+
+	@media all and (max-width: 479.9px) {
+		width: 50px;
 	}
 }
 
@@ -529,16 +554,6 @@ figure {
 		height: 100%;
 	}
 
-	.post-nav {
-		.page-title {
-			padding-right: 0px;
-			margin: 0 9px;
-			text-align: left;
-		}
-		.post-nav__home {
-			width: 50px;
-		}
-	}
 	.slick-dots {
 		bottom: 15px;
 		margin: 0 auto;
