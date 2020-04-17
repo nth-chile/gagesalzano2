@@ -8,7 +8,7 @@ stack_color: white
 {% assign slide = site.data.slide %}
 {{slide['start']}}
 
-Here's a collection of some brand identities I've worked on through the years.
+Here's a collection of brand identities we've worked on through the years.
 
 {{slide['end']}}
 
@@ -166,7 +166,7 @@ This was for a parking app &hellip; Get it?
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile@3x.png 1125w'></div>
 
-<p class='bg'>My friend Tony runs a company in my hometown that tests electronics on things like military-grade helicopters and electric cars. I just cleaned up their logo. ¯\\\_(ツ)\_/¯</p>
+<p class='bg'>A waveform symbolizes a radio frequency associated with the type of electronic testing offered by Keystone Compliance.</p>
 
 
 {{slide['end']}}
@@ -183,9 +183,7 @@ This was for a parking app &hellip; Get it?
 
 </div>
 
-My friend Tony runs a company in my hometown that tests electronics on things like military-grade helicopters and electric cars. I just cleaned up their logo.
-
-¯\\\_(ツ)\_/¯
+A waveform symbolizes a radio frequency associated with the type of electronic testing offered by Keystone Compliance.
 
 {{slide['end']}}
 
@@ -194,7 +192,7 @@ My friend Tony runs a company in my hometown that tests electronics on things li
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile@3x.jpg 1125w'></div>
 
-<p class='bg'>A logo for an online edu platform.</p>
+<p class='bg'>A logo for an online education platform.</p>
 
 
 {{slide['end']}}
@@ -262,5 +260,3 @@ Campaign concept for <a href='http://gcc.edu'>Grove City University</a>.
 
 
 {{slide['end']}}
-
-

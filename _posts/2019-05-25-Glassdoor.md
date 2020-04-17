@@ -21,7 +21,7 @@ stack_color: white
 
 {{slide['start']}}
 
-I worked on a small team that helped Glassdoor rethink their visual brand.
+We worked on a small team that helped Glassdoor rethink their visual brand.
 
 {{slide['end']}}
 
@@ -116,7 +116,7 @@ The doorframe symbol expands as two brackets to become a visual tool used to fra
 
 {{slide['start']}}
 
-This is visual proof that I got to work with these awesome people and that I own the classic men's semi-cashe blue oxford.
+<br />
 
 <figure>
 
@@ -130,7 +130,6 @@ This is visual proof that I got to work with these awesome people and that I own
 
 {{slide['start']}}
 
-Read more about the process here:<br>[Behind The Scenes of the Glassdoor Brand Refresh](https://www.glassdoor.com/blog/behind-the-scenes-of-the-glassdoor-brand-refresh/)
 
 Designed with <a href='https://sarahgless.com/'>Sarah Gless</a>.
 
