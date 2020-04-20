@@ -11,7 +11,7 @@ stack_color: white
 
 {{slide['startmobile']}}
 
-Google Engage was a partnership created by&hellip;Google, for agencies working in search marketing that use their products.
+Google Engage was a resource for agencies working in search marketing to get the best use of their products.
 
 {{slide['end']}}
 
@@ -29,7 +29,7 @@ Animation by <a href="https://www.joshvanpraag.com/" target="_blank">Josh Van Pr
 
 <div><img class='full-width' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.png 1024w, {{ site.url }}/assets/images/posts/Google_Engage/engage-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Google_Engage/engage-1@3x.png 3072w'></div>
 
-Google Engage was a partnership created by&hellip;Google for agencies working in search marketing that use their products.
+Google Engage was a resource for agencies working in search marketing to get the best use of their products.
 
 <div class='row'>
 
