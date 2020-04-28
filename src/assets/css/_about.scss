@@ -1,0 +1,123 @@
+.about-wrap {
+  text-align: center;
+  margin-bottom: 100px;
+
+  p, .p, h2, ul, .footnote {
+    text-align: left;
+  }
+  
+  .list-dash-style {
+    margin-top: 6.5px;
+  }
+
+  section {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .section-services {
+    margin-bottom: 171px;
+
+    article:first-child {
+      margin-right: 60px;
+
+      .section-services__img-wrap {
+        width: 246px;
+      }
+    }
+
+    article:nth-child(2) {
+      margin-right: 30px;
+
+      .section-services__img-wrap {
+        width: 215px;
+      }
+    }
+
+    article:nth-child(3) {
+      margin-right: 30px;
+
+      .section-services__img-wrap {
+        width: 265px;
+      }
+    }
+  }
+
+  .section-services__img-wrap {
+    height: 203px;
+    position: relative;
+    margin-bottom: 19px;
+
+    img {
+      position: relative;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 100%;
+    }
+  }
+
+  .logo-grid {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 180px;
+    display: inline-grid;
+    grid-template-columns: repeat(5, 1fr);
+    position: relative;
+
+    & > div {
+      padding: 0 19px 28px;
+    }
+
+    img {
+      position: relative;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 28px;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+  }
+
+  .logo-Google { width: 88px; }
+  .logo-826CHI { width: 54px; }
+  .logo-Gusto { width: 79px; }
+  .logo-Nestle { width: 55px; }
+  .logo-Uptake { width: 94px; }
+  .logo-JLL { width: 67px; }
+  .logo-CBRE { width: 87px; }
+  .logo-Glassdoor { width: 119px; }
+  .logo-Trunk { width: 125px; }
+  .logo-Heinz { width: 88px; }
+  .logo-Girl { width: 130px; }
+  .logo-Youtube { width: 52px; }
+  .logo-Spear { width: 125px; }
+  .logo-Grove { width: 95px; }
+  .logo-Thought { width: 66px; }
+
+  .section-approach {
+    width: calc(100% - 500px); // rough number to get proper # of columns in a row
+    margin-bottom: 160px;
+  }
+
+  .section-approach__grid {
+    margin-top: 48px;
+
+    & > div {
+      display: inline-block;
+      margin-left: 17px;
+      margin-right: 17px;
+      width: 201px;
+
+      img {
+        width: 100%;
+      }
+    }
+  }
+
+  .section-team {
+    img {
+      margin-bottom: 52px;
+      width: 322px;
+    }
+  }
+}

@@ -11,16 +11,18 @@ export default class Dropdown {
   init() {
     this.$elt.find("li").click(e => {
       // Set selected
-      this.selected = e.target.innerHTML
+      this.selected = e.target.dataset.value
       // Get new list
-      const selectedIndex = this.options.indexOf(this.selected)
+      const selectedIndex = this.options.findIndex(option => option.value === this.selected)
       const listItems = [...this.options]
       listItems.splice(selectedIndex, 1)
       // Inject selected value
       this.$elt.find(".header-dropdown-val").html(`Viewing ${e.target.innerHTML} examples ${this.arrow}`)
       // Inject list items
       this.$elt.find("li").each((index, elt) => {
-        $(elt).html(listItems[index])
+        $(elt)
+          .html(listItems[index].HTMLDisplayText)
+          .attr('data-value', listItems[index].value)
       })
       this.handleSelect(this.options[selectedIndex], this.options)
     })

@@ -1,0 +1,53 @@
+// There might be some type styles in style.scss that haven't been moved to here
+
+// MONO
+
+// TILES       12px 0.43px  14px
+// HEADER      13px -0.5px   22px
+// FOOTER      11px -0.42px 18px
+// figcaption  11   -0.42   18
+// footnote    9    -.35    16
+
+body {
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-size: 16px;
+}
+
+// Setting a max line width
+p, h1, h2, h3, h4, h5, h6, footer {
+  line-height: 22px;
+  max-width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+}
+
+h2:not(.p) {
+  font-family: "GT-America-Standard-Bold", sans-serif;
+  line-height: 24px;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+p, .p {
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+  font-size: 16px;
+  font-weight: normal;
+  letter-spacing: -0.2;
+  line-height: 22px;
+  margin-bottom: 3px;
+}
+
+.mono-header {
+  font-family: "GT-America-Mono-Regular", sans-serif;
+  font-size: 13px;
+  letter-spacing: .5px;
+  line-height: 22px;
+}
+
+.footnote {
+  font-family: "GT-America-Mono-Regular", sans-serif;
+  font-size: 9px;
+  letter-spacing: -0.35;
+  line-height: 16px;
+}

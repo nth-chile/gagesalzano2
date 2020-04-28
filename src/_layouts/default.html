@@ -3,65 +3,55 @@ name: default
 ---
 
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
-<!--[if gt IE 8]><!-->
 <html class="no-js" lang="{{ page.lang | default: site.lang | default: "en" }}">
-<!--<![endif]-->
+  <head>
+    <!-- page title -->
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}Studio Apartment{% endif %}</title>
+    
+    <!-- meta tags -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="design, graphic design, branding, brand identity, web design, website design, app design, design studio, web design studio, branding studio, design agency, web design agency, branding agency, brooklyn design, brooklyn designer, brooklyn web designer, brooklyn graphic designer, brooklyn design agency, brooklyn web design agency, brooklyn branding agency, brooklyn design studio, brooklyn web design studio, brooklyn branding studio, new york design, new york designer, new york web designer, new york graphic designer, new york design agency, new york web design agency, new york branding agency, new york design studio, new york web design studio, new york branding studio, nyc design, nyc designer, nyc web designer, nyc graphic designer, nyc design agency, nyc web design agency, nyc branding agency, nyc design studio, nyc web design studio, nyc branding studio" />
+    <meta name="robots" content="follow, all" />
+    <meta name="language" content="en" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="revisit-after" content="20 days" />
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description"
-    content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="keywords"
-    content="design, graphic design, branding, brand identity, web design, website design, app design, chicago design, chicago designer, chicago web designer, chicago graphic designer " />
-  <meta name="robots" content="follow, all" />
-  <meta name="language" content="en" />
-  <meta name="googlebot" content="index, follow" />
-  <meta name="revisit-after" content="20 days" />
+    <!-- open graph  -->
+    <meta property="og:title" content="Studio Apartment – Brand Identity & Web Design" />
+    <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
+    <meta property="og:image" content="{{ site.url }}/assets/images/metaimage.jpg" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:site_name" content="Studio Apartment">
 
-  <meta property="og:title" content="Gage Salzano – Portfolio" />
-  <meta property="og:description"
-    content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
-  <meta property="og:url" content="https://www.gagesalzano.com" />
-  <meta property="og:image" content="https://www.gagesalzano.com/assets/images/meta.png" />
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#231f20">
+    <meta name="msapplication-TileColor" content="#231f20">
+    <meta name="theme-color" content="#ffffff">
 
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@gagesalzano" />
-  <meta name="twitter:title" content="Gage Salzano – Portfolio" />
-  <meta name="twitter:description"
-    content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
-  <meta name=twitter:image content="https://www.gagesalzano.com/assets/images/meta.png" />
-  <meta name=twitter:url content="https://www.gagesalzano.com" />
-  <!-- favicon -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#231f20">
-  <meta name="msapplication-TileColor" content="#231f20">
-  <meta name="theme-color" content="#ffffff">
-  <!-- style -->
-  <link rel="stylesheet" type="text/css" href='{{ '/assets/css/normalize.css' | prepend: site.url }}' />
-  <link rel="stylesheet" type="text/css" href='{{ '/assets/css/style.css' | prepend: site.url }}' />
-  <link rel="stylesheet" type="text/css" href='{{ '/assets/slick/slick.css' | prepend: site.url }}' />
-</head>
+    <!-- stylesheets -->
+    <link rel="stylesheet" type="text/css" href='{{ '/assets/css/normalize.css' | prepend: site.url }}' />
+    <link rel="stylesheet" type="text/css" href='{{ '/assets/css/style.css' | prepend: site.url }}' />
+    <link rel="stylesheet" type="text/css" href='{{ '/assets/slick/slick.css' | prepend: site.url }}' />
 
-
-<body>
-  <main>{{ content }}</main>
-
-  <script type="text/javascript" src='{{ '/assets/scripts/jquery-1.11.0.min.js' | prepend: site.url }}'></script>
-  <script type="text/javascript" src='{{ '/assets/scripts/jquery-migrate-1.2.1.min.js' | prepend: site.url }}'></script>
-  <script type="text/javascript" src='{{ '/assets/slick/slick.min.js' | prepend: site.url }}'></script>
-  <script type="text/javascript" src='{{ '/assets/scripts/main.js' | prepend: site.url }}'></script>
-  {% if page.js_bundle %}
-  <script type="text/javascript" src="/assets/scripts/{{ page.js_bundle }}.js" async></script>
-  {% endif %}
-</body>
-
+    <!-- Roboto just for the gmail mocks on contact page -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <main>{{ content }}</main>
+    <script type="text/javascript" src='{{ '/assets/scripts/jquery-1.11.0.min.js' | prepend: site.url }}'></script>
+    <script type="text/javascript" src='{{ '/assets/scripts/jquery-migrate-1.2.1.min.js' | prepend: site.url }}'></script>
+    <script type="text/javascript" src='{{ '/assets/slick/slick.min.js' | prepend: site.url }}'></script>
+    <script type="text/javascript" src='{{ '/assets/scripts/main.js' | prepend: site.url }}'></script>
+    {% if page.js_bundle %}
+      <script type="text/javascript" src="/assets/scripts/{{ page.js_bundle }}.js" async></script>
+    {% endif %}
+  </body>
 </html>

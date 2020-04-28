@@ -1,6 +1,7 @@
 import Dropdown from './common/Dropdown'
 import addTimeToHeader from './common/addTimeToHeader'
 import addWeatherToHeader from './common/addWeatherToHeader'
+import putItemsIntoHomeGrid from './common/putItemsIntoHomeGrid'
 
 $(document).ready(function () {
   /////////////////
@@ -13,9 +14,12 @@ $(document).ready(function () {
       // Hide grid
       $grid.addClass("grid--hide")
       setTimeout(() => {
+        // Remove all classes from grid
+        $grid.removeClass(options.map(i => i.value).join(" "))
         // Add class to .grid
-        $grid.removeClass(options.join(" "))
-        $grid.addClass(selected)
+        $grid.addClass(selected.value)
+        // Put items in grid
+        putItemsIntoHomeGrid(selected.value)
       }, 100)
 
       setTimeout(() => {
@@ -23,7 +27,12 @@ $(document).ready(function () {
       }, 150)
     },
     initialValue: "all",
-    options: ["all", "branding", "digital", "print"]
+    options: [
+      { value: "all", HTMLDisplayText: 'all' },
+      { value: "branding", HTMLDisplayText: 'branding' },
+      { value: "digital", HTMLDisplayText: 'web sites & applications' },
+      { value: "print", HTMLDisplayText: 'print' }
+    ]
   })
 
   ////////
@@ -32,4 +41,5 @@ $(document).ready(function () {
   headerDropdown.init()
   addTimeToHeader()
   addWeatherToHeader()
+  putItemsIntoHomeGrid('all')
 })

@@ -1,26 +1,26 @@
-<footer>
-	{% if site.available != true %}
-		{% assign visibility = "style='visibility:hidden'" %}
-	{% endif %}
-	<div class='hire-status' {{visibility}}><div class='dot'></div><h4><a href='mailto:{{site.email}}' target='_blank'>Available for hire</a></h4></div>
+<footer class="site-footer">
+  {% if site.social_media_links %}
+    {%	for i in site.social_media_links %}
+      <a class='{{ i.class }}' href='{{ i.href }}' target="_blank">{{ i.svg }}</a>
+    {% endfor %}
+  {% endif %}
 
-	{% if site.social_media_links %}
-		{%	for i in site.social_media_links %}
-				<a class='{{ i.class }}' href='{{ i.href }}' target='_blank'>{{ i.svg }}</a>
-		{% endfor %}
-	{% endif %}
+  {% if site.byline %}
+    {% for i in site.byline %}
+      <h4>{{ i }}</h4>
+    {% endfor %}
+  {% endif %}
 
-	{% if site.byline %}
-		{% for i in site.byline %}
-		<h4>{{ i }}</h4>
-		{% endfor %}
-	{% endif %}
-
-	<div class='copyright'>
-		<h4>&copy; <script type="text/javascript">var d = new Date(); document.write(d.getFullYear())</script></h4>
-		<!-- <h4 class='mobile'>Copyright <script type="text/javascript">var d = new Date(); document.write(d.getFullYear())</script></h4>
+  <div class="copyright">
+    <h4>&copy;
+      <script type="text/javascript">
+        var d = new Date();
+        document.write(d.getFullYear())
+      </script>
+    </h4>
+    <!-- <h4 class='mobile'>Copyright <script type="text/javascript">var d = new Date(); document.write(d.getFullYear())</script></h4>
 		<h4 class='mobile'>I'm not sure why you would, but if you steal anything I will shame you in front of my small handful of followers on social media.</h4> -->
-	</div>
+  </div>
 </footer>
 
 <script>
@@ -33,4 +33,3 @@
   ga('send', 'pageview');
 
 </script>
-

@@ -24,12 +24,13 @@ export default function addWeatherToHeader() {
 
 function codeToColor(code) {
   switch (true) {
-    case (code < 300): return 'rgb(19, 74, 120)';
-    case (code < 500): return 'rgb(58, 131, 191)';
-    case (code < 600): return 'rgb(19, 74, 120)';
-    case (code < 700): return 'rgb(207, 231, 241)';
-    case (code === 800): return 'rgb(241, 184, 91)';
-    default: return 'rgb(140, 198, 244)';
+    case (code < 300): return 'rgb(152, 105, 213)'; // Thunderstorm
+    case (code < 500): return 'rgb(61, 126, 195)'; // Drizzle
+    case (code < 600): return 'rgb(22, 70, 123)'; // Rain
+    case (code < 700): return 'rgb(208, 231, 241)'; // Snow
+    case (code < 800): return 'rgb(217, 223, 229)'; // Atmosphere
+    case (code === 800): return 'rgb(142, 195, 248)'; // Clear
+    default: return 'rgb(255, 255, 255)'; // Clouds
   }
 }
 
