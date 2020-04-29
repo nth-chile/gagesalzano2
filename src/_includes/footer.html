@@ -1,26 +1,21 @@
 <footer class="site-footer">
-  {% if site.social_media_links %}
-    {%	for i in site.social_media_links %}
-      <a class='{{ i.class }}' href='{{ i.href }}' target="_blank">{{ i.svg }}</a>
-    {% endfor %}
-  {% endif %}
-
-  {% if site.byline %}
-    {% for i in site.byline %}
-      <h4>{{ i }}</h4>
-    {% endfor %}
-  {% endif %}
-
-  <div class="copyright">
-    <h4>&copy;
-      <script type="text/javascript">
-        var d = new Date();
-        document.write(d.getFullYear())
-      </script>
-    </h4>
-    <!-- <h4 class='mobile'>Copyright <script type="text/javascript">var d = new Date(); document.write(d.getFullYear())</script></h4>
-		<h4 class='mobile'>I'm not sure why you would, but if you steal anything I will shame you in front of my small handful of followers on social media.</h4> -->
+  <div class="site-footer__social-icons">
+    {% if site.social_media_links %}
+      {%	for i in site.social_media_links %}
+        <a class='{{ i.class }}' href='{{ i.href }}' target="_blank">{{ i.svg }}</a>
+      {% endfor %}
+    {% endif %}
   </div>
+
+  <span class="mono-small d-block">
+    code by Jared – photos by Shannon
+    <br/>
+    <br/>
+    copyright &copy;
+    <script type="text/javascript">
+      document.write(new Date().getFullYear())
+    </script>
+  </span>
 </footer>
 
 <script>
@@ -28,8 +23,6 @@
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
   ga('create', 'UA-8788256-1', 'auto');
   ga('send', 'pageview');
-
 </script>

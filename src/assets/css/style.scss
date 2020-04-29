@@ -27,6 +27,28 @@ button {
   cursor: pointer;
 }
 
+// Start layout 
+.page-content {
+  margin-top: calc(38px + 56px); // adding mobile header height
+  padding: 0 20px;
+  position: relative;
+  
+  @include min900 {
+    padding: 0 35px;
+    margin-top: 38px;
+  }
+}
+
+.home-wrap .page-content {
+  margin-top: calc(38px + 101px); // adding mobile header height
+  position: relative;
+  
+  @include min900 {
+    margin-top: 38px;
+  }
+}
+// End layout
+
 #weather {
   & > span {
     vertical-align: middle;
@@ -82,14 +104,8 @@ article {
 }
 
 .error-404-wrap,
-
 .site-footer {
-	padding-bottom: 20px;
-	
-	h4 {
-		color: $post-nav-color;
-		font-weight: normal;
-	}
+	padding-bottom: 125px;
 }
 
 figcaption {
@@ -155,15 +171,14 @@ h4 {
 	white-space: nowrap;
   z-index: 1;
   text-align: left;
-  margin: 0 -10px;
 
   @include min480 {
 	  margin: 0;
   }
 
 	@include min900 {
-		padding-top: 38px;
-		margin: 0 40px;
+    margin: 0 40px;
+    padding-top: 38px;
   }
   
 	& > * {
@@ -368,10 +383,12 @@ h4 {
 	color: #231F20;
 	&:hover, &:focus { color: rgb(77, 69, 69); }
 }
+
 .home-wrap .header-nav-wrap a.home-link {
 	color: #231F20;
 	&:hover, &:focus { color: rgb(77, 69, 69); }
 }
+
 .contact-wrap .header-nav-wrap a.contact-link {
 	color: #231F20;
 	&:hover, &:focus { color: rgb(77, 69, 69); }
@@ -568,13 +585,8 @@ figure {
 	}
 	div.slide__content p:last-child {
 		padding-bottom: 0px;
-	}
-	.copyright	{
-		margin-bottom: 3.5rem;
-		.mobile {
-			opacity: .25;
-		}
-	}
+  }
+  
 	figcaption {
 		font-size: 13px;
 		line-height: 18px;
@@ -864,8 +876,17 @@ figure {
   content: '\2013\0020';
 }
 
+.site-footer__social-icons {
+  margin-bottom: 17.5px;
+}
 
 // Utility
+
+.d-block { display: block; }
+
+.d-inline-block { display: inline-block; }
+
+.d-none { display: none; }
 
 .flex { display: flex; }
 

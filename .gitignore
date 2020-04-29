@@ -4,3 +4,7 @@ node_modules
 vendor
 .sass-cache
 .jekyll-metadata
+
+# For lambda dirs
+**/node_modules
+*.zip

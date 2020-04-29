@@ -25,10 +25,6 @@ url: "https://www.studioapt.co"
 
 headerText: 'Brooklyn, NY 11217'
 
-byline:
-  - Code by <a href='https://jaredsalzano.com' target='_blank'>Jared</a>, my little brother.
-  - Photos of work by <a href='https://www.instagram.com/smmonson' target='_blank'>Shannon</a> my GF.
-
 social_media_links:
   - class: icon dribbble
     href: https://dribbble.com/gagesalzano

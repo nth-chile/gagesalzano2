@@ -4,9 +4,6 @@
 
 // TILES       12px 0.43px  14px
 // HEADER      13px -0.5px   22px
-// FOOTER      11px -0.42px 18px
-// figcaption  11   -0.42   18
-// footnote    9    -.35    16
 
 body {
   font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
@@ -43,6 +40,13 @@ p, .p {
   font-size: 13px;
   letter-spacing: .5px;
   line-height: 22px;
+}
+
+.mono-small {
+  font-family: "GT-America-Mono-Regular", sans-serif;
+  font-size: 11px;
+  letter-spacing: -0.42px; 
+  line-height: 18px;
 }
 
 .footnote {

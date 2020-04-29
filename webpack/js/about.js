@@ -1,4 +1,5 @@
 import addTimeToHeader from './common/addTimeToHeader'
+import addWeatherToHeader from './common/addWeatherToHeader'
 
 $(document).ready(function () {
   /////////////////
@@ -11,4 +12,5 @@ $(document).ready(function () {
   // Do //
   ////////
   addTimeToHeader()
+  addWeatherToHeader()
 })

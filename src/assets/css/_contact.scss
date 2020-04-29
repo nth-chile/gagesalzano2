@@ -1,9 +1,20 @@
 .contact-wrap {
   margin-bottom: 87px;
+
+  .hero-img-wrap {
+    margin: 0 auto;
+
+    img {
+      width: 100%;
+      
+      @include min900 {
+        width: 50%;
+      }
+    }
+  }
 }
 
 #contact-form {
-  display: inline-block;
   text-align: left;
 
   input[type="radio"] {
@@ -19,11 +30,6 @@
   }
 }
 
-.contact-hero-img {
-  max-width: 516px;
-  margin-top: 38px;
-}
-
 .gmail-inbox-wrap {
   background-color: white;
   color: rgb(32, 33, 36);
@@ -34,7 +40,6 @@
   letter-spacing: 0.2px;
   line-height: 20px;
   margin: 0 auto 43px;
-  white-space: nowrap;
   max-width: 514px;
   
   * { vertical-align: middle; }
@@ -93,10 +98,14 @@
 .gmail-inbox__subject {
   overflow: hidden;
   text-overflow: ellipsis;
+  white-space: nowrap;
   flex-shrink: 1;
 }
 
 .email-form-group {
+  margin: 0 auto;
+  max-width: 480px; // to match the max line width for text elts
+
   label {
     display: inline-block;
     margin-bottom: 10px;

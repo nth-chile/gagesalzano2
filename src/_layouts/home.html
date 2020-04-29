@@ -33,9 +33,12 @@ name: home
   var target = document.getElementById('loading')
   var spinner = new Spinner(opts).spin(target);
 </script>
+
+
 <div class="home-wrap">
   {% include header.html %}
 
+  <div class="page-content">
   <!-- Use a template tag and data-* attributes and add projects to the grid with JS -->
   <template id="template-grid">
     {% if site.projects %}

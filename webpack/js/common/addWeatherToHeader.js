@@ -10,8 +10,10 @@ export default function addWeatherToHeader() {
     const temp = Math.round(res.main.temp)
     const { id, description } = res.weather[0]
 
+    console.log(id);
+
     const color = codeToColor(id)
-    const desc = description.toLowerCase()
+    const desc = id === 800 ? "sunny" : description.toLowerCase()
     const str = `${temp}° and ${desc}`
 
     const elt = document.querySelector('#weather')
@@ -29,7 +31,7 @@ function codeToColor(code) {
     case (code < 600): return 'rgb(22, 70, 123)'; // Rain
     case (code < 700): return 'rgb(208, 231, 241)'; // Snow
     case (code < 800): return 'rgb(217, 223, 229)'; // Atmosphere
-    case (code === 800): return 'rgb(142, 195, 248)'; // Clear
+    case (code === 800): return 'rgb(242, 185, 82)'; // Clear but displayed as "sunny"
     default: return 'rgb(255, 255, 255)'; // Clouds
   }
 }

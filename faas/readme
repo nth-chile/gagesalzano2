@@ -1,0 +1,7 @@
+Using Google Cloud Function to send email. This dir is for storage / version control, but the real thing is uploaded to GCP
+
+SendGrid API key -- check GCP
+
+To use, send a POST to:
+
+https://us-central1-studio-apartment-gage.cloudfunctions.net/sendContactEmail
