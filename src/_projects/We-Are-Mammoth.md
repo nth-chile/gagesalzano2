@@ -13,7 +13,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/wam/wam-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-1-mobile.png 375w, {{ site.url }}/assets/images/posts/wam/wam-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/wam/wam-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/wam/wam-1-mobile.png' srcset='/assets/images/posts/wam/wam-1-mobile.png 375w, /assets/images/posts/wam/wam-1-mobile@2x.png 750w, /assets/images/posts/wam/wam-1-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -31,7 +31,7 @@ We helped the agency We Are Mammoth redevelop their brand and website in order t
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/wam/wam-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-2-mobile.png 375w, {{ site.url }}/assets/images/posts/wam/wam-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/wam/wam-2-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='/assets/images/posts/wam/wam-2-mobile.png' srcset='/assets/images/posts/wam/wam-2-mobile.png 375w, /assets/images/posts/wam/wam-2-mobile@2x.png 750w, /assets/images/posts/wam/wam-2-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -39,7 +39,7 @@ We helped the agency We Are Mammoth redevelop their brand and website in order t
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/wam/wam-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-3-mobile.png 375w, {{ site.url }}/assets/images/posts/wam/wam-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/wam/wam-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/wam/wam-3-mobile.png' srcset='/assets/images/posts/wam/wam-3-mobile.png 375w, /assets/images/posts/wam/wam-3-mobile@2x.png 750w, /assets/images/posts/wam/wam-3-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>Some foundational visual elements were established like an extended color palette, typography stack, and a set of symbols.</p>
 
@@ -48,7 +48,7 @@ We helped the agency We Are Mammoth redevelop their brand and website in order t
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/wam/wam-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-4-mobile.png 375w, {{ site.url }}/assets/images/posts/wam/wam-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/wam/wam-4-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/wam/wam-4-mobile.png' srcset='/assets/images/posts/wam/wam-4-mobile.png 375w, /assets/images/posts/wam/wam-4-mobile@2x.png 750w, /assets/images/posts/wam/wam-4-mobile@3x.png 1125w'></div>
 
 
 <p class='bg-dark'>These elements created a system to communicate the companies’ services in a cohesive and recognizable way.</p>
@@ -67,7 +67,7 @@ Presentation and document templates were created to unify the team’s communica
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/wam/wam-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-5-mobile.png 375w, {{ site.url }}/assets/images/posts/wam/wam-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/wam/wam-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/wam/wam-5-mobile.png' srcset='/assets/images/posts/wam/wam-5-mobile.png 375w, /assets/images/posts/wam/wam-5-mobile@2x.png 750w, /assets/images/posts/wam/wam-5-mobile@3x.png 1125w'></div>
 
  <p class='bg-dark'></p>
 
@@ -78,7 +78,7 @@ Presentation and document templates were created to unify the team’s communica
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/wam/wam-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-6-mobile.png 375w, {{ site.url }}/assets/images/posts/wam/wam-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/wam/wam-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/wam/wam-6-mobile.png' srcset='/assets/images/posts/wam/wam-6-mobile.png 375w, /assets/images/posts/wam/wam-6-mobile@2x.png 750w, /assets/images/posts/wam/wam-6-mobile@3x.png 1125w'></div>
 
 
 <p class='bg-dark'>Collages were created of photography, screenshots, and illustrations to help visualize the creative and application development process.</p>
@@ -97,7 +97,7 @@ The agency had long-term relationships with clients, sold their own apps, and wr
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/wam/wam-7-mobile.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-7-mobile.png 375w, {{ site.url }}/assets/images/posts/wam/wam-7-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/wam/wam-7-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/wam/wam-7-mobile.png' srcset='/assets/images/posts/wam/wam-7-mobile.png 375w, /assets/images/posts/wam/wam-7-mobile@2x.png 750w, /assets/images/posts/wam/wam-7-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -107,7 +107,7 @@ The agency had long-term relationships with clients, sold their own apps, and wr
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/wam/wam-8-mobile.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-8-mobile.png 375w, {{ site.url }}/assets/images/posts/wam/wam-8-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/wam/wam-8-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/wam/wam-8-mobile.png' srcset='/assets/images/posts/wam/wam-8-mobile.png 375w, /assets/images/posts/wam/wam-8-mobile@2x.png 750w, /assets/images/posts/wam/wam-8-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -117,7 +117,7 @@ The agency had long-term relationships with clients, sold their own apps, and wr
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/wam/wam-9-mobile.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-9-mobile.png 375w, {{ site.url }}/assets/images/posts/wam/wam-9-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/wam/wam-9-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/wam/wam-9-mobile.png' srcset='/assets/images/posts/wam/wam-9-mobile.png 375w, /assets/images/posts/wam/wam-9-mobile@2x.png 750w, /assets/images/posts/wam/wam-9-mobile@3x.png 1125w'></div>
 
 
 
@@ -129,7 +129,7 @@ The agency had long-term relationships with clients, sold their own apps, and wr
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/wam/wam-10-mobile.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-10-mobile.png 375w, {{ site.url }}/assets/images/posts/wam/wam-10-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/wam/wam-10-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/wam/wam-10-mobile.png' srcset='/assets/images/posts/wam/wam-10-mobile.png 375w, /assets/images/posts/wam/wam-10-mobile@2x.png 750w, /assets/images/posts/wam/wam-10-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -138,7 +138,7 @@ The agency had long-term relationships with clients, sold their own apps, and wr
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/wam/wam-11-mobile.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-11-mobile.png 375w, {{ site.url }}/assets/images/posts/wam/wam-11-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/wam/wam-11-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/wam/wam-11-mobile.png' srcset='/assets/images/posts/wam/wam-11-mobile.png 375w, /assets/images/posts/wam/wam-11-mobile@2x.png 750w, /assets/images/posts/wam/wam-11-mobile@3x.png 1125w'></div>
 
 
 <p class='bg-dark'>You better believe it was responsive.</p>
@@ -149,7 +149,7 @@ The agency had long-term relationships with clients, sold their own apps, and wr
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/wam/wam-12-mobile.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-12-mobile.png 375w, {{ site.url }}/assets/images/posts/wam/wam-12-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/wam/wam-12-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/wam/wam-12-mobile.png' srcset='/assets/images/posts/wam/wam-12-mobile.png 375w, /assets/images/posts/wam/wam-12-mobile@2x.png 750w, /assets/images/posts/wam/wam-12-mobile@3x.png 1125w'></div>
 
 
 <p class='bg-dark'>Questionnaires were used to capture interests from the team to be included on their about pages...which turned out to be a pretty fun way for the team to learn more about each other, too.</p>
@@ -163,7 +163,7 @@ The agency had long-term relationships with clients, sold their own apps, and wr
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/wam/wam-1@2x.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-1.png 1024w, {{ site.url }}/assets/images/posts/wam/wam-1@2x.png 2048w, {{ site.url }}/assets/images/posts/wam/wam-1@3x.png 3072w'></div>
+<div><img class='full-width' src='/assets/images/posts/wam/wam-1@2x.png' srcset='/assets/images/posts/wam/wam-1.png 1024w, /assets/images/posts/wam/wam-1@2x.png 2048w, /assets/images/posts/wam/wam-1@3x.png 3072w'></div>
 
 We helped the agency We Are Mammoth redevelop their brand and website in order to reflect their new mission.
 
@@ -174,7 +174,7 @@ We helped the agency We Are Mammoth redevelop their brand and website in order t
 
 {{slide['startdesktop']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/wam/wam-2@2x.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-2.png 794w, {{ site.url }}/assets/images/posts/wam/wam-2@2x.png 1588w'></div>
+<div><img class='full-height' src='/assets/images/posts/wam/wam-2@2x.png' srcset='/assets/images/posts/wam/wam-2.png 794w, /assets/images/posts/wam/wam-2@2x.png 1588w'></div>
 
 Some foundational visual elements were established like an extended color palette, typography stack, and a set of symbols.
 
@@ -185,7 +185,7 @@ Some foundational visual elements were established like an extended color palett
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/wam/wam-3@2x.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-3.png 794w, {{ site.url }}/assets/images/posts/wam/wam-3@2x.png 1588w, {{ site.url }}/assets/images/posts/wam/wam-3@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/wam/wam-3@2x.png' srcset='/assets/images/posts/wam/wam-3.png 794w, /assets/images/posts/wam/wam-3@2x.png 1588w, /assets/images/posts/wam/wam-3@3x.png 2382w'></div>
 
 These elements created a system to communicate the companies’ services in a cohesive and recognizable way.
 
@@ -196,7 +196,7 @@ These elements created a system to communicate the companies’ services in a co
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/wam/wam-4@2x.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-4.png 794w, {{ site.url }}/assets/images/posts/wam/wam-4@2x.png 1588w, {{ site.url }}/assets/images/posts/wam/wam-4@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/wam/wam-4@2x.png' srcset='/assets/images/posts/wam/wam-4.png 794w, /assets/images/posts/wam/wam-4@2x.png 1588w, /assets/images/posts/wam/wam-4@3x.png 2382w'></div>
 
 Presentation and document templates were created to unify the team's communications.
 
@@ -207,7 +207,7 @@ Presentation and document templates were created to unify the team's communicati
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/wam/wam-5@2x.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-5.png 794w, {{ site.url }}/assets/images/posts/wam/wam-5@2x.png 1588w, {{ site.url }}/assets/images/posts/wam/wam-5@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/wam/wam-5@2x.png' srcset='/assets/images/posts/wam/wam-5.png 794w, /assets/images/posts/wam/wam-5@2x.png 1588w, /assets/images/posts/wam/wam-5@3x.png 2382w'></div>
 
 Collages were created of photography, screenshots, and illustrations to help visualize the creative and application development process.
 
@@ -217,7 +217,7 @@ Collages were created of photography, screenshots, and illustrations to help vis
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/wam/wam-6@2x.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-6.png 694w, {{ site.url }}/assets/images/posts/wam/wam-6@2x.png 1588w, {{ site.url }}/assets/images/posts/wam/wam-6@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/wam/wam-6@2x.png' srcset='/assets/images/posts/wam/wam-6.png 694w, /assets/images/posts/wam/wam-6@2x.png 1588w, /assets/images/posts/wam/wam-6@3x.png 2382w'></div>
 
 The agency had long-term relationships with clients, sold their own apps, and wrote books. That's why the case studies were designed in an editorial manner to showcase these unique experiences.
 
@@ -229,9 +229,9 @@ The agency had long-term relationships with clients, sold their own apps, and wr
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Wam/wam-7@2x.png' srcset='{{ site.url }}/assets/images/posts/Wam/wam-7.png 314w, {{ site.url }}/assets/images/posts/Wam/wam-7@2x.png 628w, {{ site.url }}/assets/images/posts/Wam/wam-7@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/Wam/wam-7@2x.png' srcset='/assets/images/posts/Wam/wam-7.png 314w, /assets/images/posts/Wam/wam-7@2x.png 628w, /assets/images/posts/Wam/wam-7@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Wam/wam-8@2x.png' srcset='{{ site.url }}/assets/images/posts/Wam/wam-8.png 474w, {{ site.url }}/assets/images/posts/Wam/wam-8@2x.png 948w, {{ site.url }}/assets/images/posts/Wam/wam-8@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/Wam/wam-8@2x.png' srcset='/assets/images/posts/Wam/wam-8.png 474w, /assets/images/posts/Wam/wam-8@2x.png 948w, /assets/images/posts/Wam/wam-8@3x.png 1422w'></div>
 
 </div>
 
@@ -245,9 +245,9 @@ The agency had long-term relationships with clients, sold their own apps, and wr
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Wam/wam-9@2x.png' srcset='{{ site.url }}/assets/images/posts/Wam/wam-9.png 314w, {{ site.url }}/assets/images/posts/Wam/wam-9@2x.png 628w, {{ site.url }}/assets/images/posts/Wam/wam-9@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/Wam/wam-9@2x.png' srcset='/assets/images/posts/Wam/wam-9.png 314w, /assets/images/posts/Wam/wam-9@2x.png 628w, /assets/images/posts/Wam/wam-9@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Wam/wam-10@2x.png' srcset='{{ site.url }}/assets/images/posts/Wam/wam-10.png 474w, {{ site.url }}/assets/images/posts/Wam/wam-10@2x.png 948w, {{ site.url }}/assets/images/posts/Wam/wam-10@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/Wam/wam-10@2x.png' srcset='/assets/images/posts/Wam/wam-10.png 474w, /assets/images/posts/Wam/wam-10@2x.png 948w, /assets/images/posts/Wam/wam-10@3x.png 1422w'></div>
 
 </div>
 
@@ -258,7 +258,7 @@ The agency had long-term relationships with clients, sold their own apps, and wr
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/wam/wam-11@2x.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-11.png 694w, {{ site.url }}/assets/images/posts/wam/wam-11@2x.png 1588w, {{ site.url }}/assets/images/posts/wam/wam-11@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/wam/wam-11@2x.png' srcset='/assets/images/posts/wam/wam-11.png 694w, /assets/images/posts/wam/wam-11@2x.png 1588w, /assets/images/posts/wam/wam-11@3x.png 2382w'></div>
 
 You better believe it was responsive.
 
@@ -270,9 +270,9 @@ You better believe it was responsive.
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Wam/wam-12@2x.png' srcset='{{ site.url }}/assets/images/posts/Wam/wam-12.png 314w, {{ site.url }}/assets/images/posts/Wam/wam-12@2x.png 628w, {{ site.url }}/assets/images/posts/Wam/wam-12@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/Wam/wam-12@2x.png' srcset='/assets/images/posts/Wam/wam-12.png 314w, /assets/images/posts/Wam/wam-12@2x.png 628w, /assets/images/posts/Wam/wam-12@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Wam/wam-13@2x.png' srcset='{{ site.url }}/assets/images/posts/Wam/wam-13.png 474w, {{ site.url }}/assets/images/posts/Wam/wam-13@2x.png 948w, {{ site.url }}/assets/images/posts/Wam/wam-13@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/Wam/wam-13@2x.png' srcset='/assets/images/posts/Wam/wam-13.png 474w, /assets/images/posts/Wam/wam-13@2x.png 948w, /assets/images/posts/Wam/wam-13@3x.png 1422w'></div>
 
 </div>
 
@@ -284,6 +284,6 @@ Questionnaires were used to capture interests from the team to be included on th
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/wam/wam-14@2x.png' srcset='{{ site.url }}/assets/images/posts/wam/wam-14.png 694w, {{ site.url }}/assets/images/posts/wam/wam-14@2x.png 1588w, {{ site.url }}/assets/images/posts/wam/wam-14@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/wam/wam-14@2x.png' srcset='/assets/images/posts/wam/wam-14.png 694w, /assets/images/posts/wam/wam-14@2x.png 1588w, /assets/images/posts/wam/wam-14@3x.png 2382w'></div>
 
 {{slide['end']}}

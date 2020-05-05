@@ -11,7 +11,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Bluebox/bluebox-1-mobile.png' srcset='/assets/images/posts/Bluebox/bluebox-1-mobile.png 375w, /assets/images/posts/Bluebox/bluebox-1-mobile@2x.png 750w, /assets/images/posts/Bluebox/bluebox-1-mobile@3x.png 1125w'></div>
 
 <p class='bg'>Bluebox is an internet security firm.
 <br>
@@ -21,7 +21,7 @@ Think of the movie <cite>Hackers</cite>&hellip;but like with Macbooks and New Ba
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-2-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Bluebox/bluebox-2-mobile.jpg' srcset='/assets/images/posts/Bluebox/bluebox-2-mobile.jpg 375w, /assets/images/posts/Bluebox/bluebox-2-mobile@2x.jpg 750w, /assets/images/posts/Bluebox/bluebox-2-mobile@3x.jpg 1125w'></div>
 
 <p class='bg'>We became obsessed with ciphers, and created one of our own.</p>
 
@@ -29,7 +29,7 @@ Think of the movie <cite>Hackers</cite>&hellip;but like with Macbooks and New Ba
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-3-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-3-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-3-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-3-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Bluebox/bluebox-3-mobile.jpg' srcset='/assets/images/posts/Bluebox/bluebox-3-mobile.jpg 375w, /assets/images/posts/Bluebox/bluebox-3-mobile@2x.jpg 750w, /assets/images/posts/Bluebox/bluebox-3-mobile@3x.jpg 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -38,7 +38,7 @@ Think of the movie <cite>Hackers</cite>&hellip;but like with Macbooks and New Ba
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-1.png 1024w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-1@3x.png 3072w'></div>
+<div><img class='full-width' src='/assets/images/posts/Bluebox/bluebox-1@2x.png' srcset='/assets/images/posts/Bluebox/bluebox-1.png 1024w, /assets/images/posts/Bluebox/bluebox-1@2x.png 2048w, /assets/images/posts/Bluebox/bluebox-1@3x.png 3072w'></div>
 
 Bluebox is an internet security company.
 
@@ -46,13 +46,13 @@ Think of the movie <cite>Hackers</cite>&hellip;but like with Macbooks and New Ba
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-2@3x.png' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-2.png 314w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-2@2x.png 628w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-2@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/Bluebox/bluebox-2@3x.png' srcset='/assets/images/posts/Bluebox/bluebox-2.png 314w, /assets/images/posts/Bluebox/bluebox-2@2x.png 628w, /assets/images/posts/Bluebox/bluebox-2@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-3@3x.png' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-3.png 314w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-3@2x.png 628w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-3@3x.png 942w'></div>
+--><div><img src='/assets/images/posts/Bluebox/bluebox-3@3x.png' srcset='/assets/images/posts/Bluebox/bluebox-3.png 314w, /assets/images/posts/Bluebox/bluebox-3@2x.png 628w, /assets/images/posts/Bluebox/bluebox-3@3x.png 942w'></div>
 
 </div>
 
-<div><img src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-4@3x.png' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-4.png 634w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-4@2x.png 1268w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-4@3x.png 1902w'></div>
+<div><img src='/assets/images/posts/Bluebox/bluebox-4@3x.png' srcset='/assets/images/posts/Bluebox/bluebox-4.png 634w, /assets/images/posts/Bluebox/bluebox-4@2x.png 1268w, /assets/images/posts/Bluebox/bluebox-4@3x.png 1902w'></div>
 
 We became obsessed with ciphers, and created one to be used throughout the branding.
 
@@ -60,7 +60,7 @@ We became obsessed with ciphers, and created one to be used throughout the brand
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-5-mobile.png 374w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-5-mobile@2x.png 748w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-5-mobile@3x.png 1122w'></div>
+<div><img class='full-height' src='/assets/images/posts/Bluebox/bluebox-5-mobile.png' srcset='/assets/images/posts/Bluebox/bluebox-5-mobile.png 374w, /assets/images/posts/Bluebox/bluebox-5-mobile@2x.png 748w, /assets/images/posts/Bluebox/bluebox-5-mobile@3x.png 1122w'></div>
 
 <p class='bg-dark'></p>
 
@@ -69,7 +69,7 @@ We became obsessed with ciphers, and created one to be used throughout the brand
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-5.png 634w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-5@3x.png 1268w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-5@3x.png 1902w'></div>
+<div><img src='/assets/images/posts/Bluebox/bluebox-5@2x.png' srcset='/assets/images/posts/Bluebox/bluebox-5.png 634w, /assets/images/posts/Bluebox/bluebox-5@3x.png 1268w, /assets/images/posts/Bluebox/bluebox-5@3x.png 1902w'></div>
 
 {{slide['end']}}
 
@@ -81,12 +81,12 @@ The type for the logo was altered to feel more geometric to feel at home with th
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-6-mobile.png 375w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Bluebox/bluebox-6-mobile.png' srcset='/assets/images/posts/Bluebox/bluebox-6-mobile.png 375w, /assets/images/posts/Bluebox/bluebox-6-mobile@2x.png 750w, /assets/images/posts/Bluebox/bluebox-6-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-6@2x.png' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-6.png 634w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-6@2x.png 1268w'></div>
+<div><img src='/assets/images/posts/Bluebox/bluebox-6@2x.png' srcset='/assets/images/posts/Bluebox/bluebox-6.png 634w, /assets/images/posts/Bluebox/bluebox-6@2x.png 1268w'></div>
 
 {{slide['end']}}

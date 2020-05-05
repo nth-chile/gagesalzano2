@@ -3,10 +3,9 @@ layout: default
 name: home
 ---
 
-<div id="loading">
-  <!-- <img src='{{ '/assets/images/loading.gif' | prepend: site.url }}' height='120' width='120'/> -->
-</div>
-<script src='{{ '/assets/scripts/spin.min.js' | prepend: site.url }}'></script>
+<div id="loading"></div>
+
+<script src='/assets/scripts/spin.min.js'></script>
 <script>
   var opts = {
     lines: 7 // The number of lines to draw
@@ -57,7 +56,7 @@ name: home
                 {% if project.featured_image %}
                   <img src='{{ project.featured_image | prepend: site.url }}' {% if project.style %} style='{{ project.style }}' {% endif %}/>
                 {% else %}
-                  <img src='{{ '/assets/images/posts/default.png' | prepend: site.url }}'/>
+                  <img src='/assets/images/posts/default.png'/>
                 {% endif %}
               </div>
             </a>

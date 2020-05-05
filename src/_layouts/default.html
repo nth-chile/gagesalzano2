@@ -22,7 +22,7 @@ name: default
     <!-- open graph  -->
     <meta property="og:title" content="Studio Apartment – Brand Identity & Web Design" />
     <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
-    <meta property="og:image" content="{{ site.url }}/assets/images/metaimage.jpg" />
+    <meta property="og:image" content="/assets/images/metaimage.jpg" />
     <meta property="og:url" content="{{ site.url }}" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta property="og:site_name" content="Studio Apartment">
@@ -37,19 +37,19 @@ name: default
     <meta name="theme-color" content="#ffffff">
 
     <!-- stylesheets -->
-    <link rel="stylesheet" type="text/css" href='{{ '/assets/css/normalize.css' | prepend: site.url }}' />
-    <link rel="stylesheet" type="text/css" href='{{ '/assets/css/style.css' | prepend: site.url }}' />
-    <link rel="stylesheet" type="text/css" href='{{ '/assets/slick/slick.css' | prepend: site.url }}' />
+    <link rel="stylesheet" type="text/css" href='/assets/css/normalize.css' />
+    <link rel="stylesheet" type="text/css" href='/assets/css/style.css' />
+    <link rel="stylesheet" type="text/css" href='/assets/slick/slick.css' />
 
     <!-- Roboto just for the gmail mocks on contact page -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
   </head>
   <body>
     <main>{{ content }}</main>
-    <script type="text/javascript" src='{{ '/assets/scripts/jquery-1.11.0.min.js' | prepend: site.url }}'></script>
-    <script type="text/javascript" src='{{ '/assets/scripts/jquery-migrate-1.2.1.min.js' | prepend: site.url }}'></script>
-    <script type="text/javascript" src='{{ '/assets/slick/slick.min.js' | prepend: site.url }}'></script>
-    <script type="text/javascript" src='{{ '/assets/scripts/main.js' | prepend: site.url }}'></script>
+    <script type="text/javascript" src='/assets/scripts/jquery-1.11.0.min.js'></script>
+    <script type="text/javascript" src='/assets/scripts/jquery-migrate-1.2.1.min.js'></script>
+    <script type="text/javascript" src='/assets/slick/slick.min.js'></script>
+    <script type="text/javascript" src='/assets/scripts/main.js'></script>
     {% if page.js_bundle %}
       <script type="text/javascript" src="/assets/scripts/{{ page.js_bundle }}.js" async></script>
     {% endif %}

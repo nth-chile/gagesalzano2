@@ -8,7 +8,7 @@ const handler = async (req, res) => {
   }
 
   const msg = {
-    to: 'jaredsalzano@gmail.com',
+    to: 'office@studioapt.co',
     from: req.body.from || 'anonymous@anonymous.com',
     subject: req.body.subject || 'New email via studioapartment.co contact form',
     text: req.body.text || 'Email sent via studioapartment.co contact form.'

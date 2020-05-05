@@ -13,7 +13,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-1-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-1-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-1-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-1-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>The Tennyson is a pair of office buildings in Dallas. The owners were in need of a brand identity to accompany some building updates.</p>
 
@@ -31,7 +31,7 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-2-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-2-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-2-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-2-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -42,7 +42,7 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-3-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-3-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-3-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-3-mobile@3x.png 1125w'></div>
 
 <p class='bg'>A concept referencing a distinctive staircase in the lobby really jumped out to everyone on the team.</p>
 
@@ -52,7 +52,7 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-4-mobile.png 375w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-4-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-4-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-4-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-4-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-4-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -60,7 +60,7 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-5-mobile.png 375w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-5-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-5-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-5-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-5-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>Bold lines, one-color layouts, and confidence are stylistic choices that unify the collateral by having the same characteristics of the logo itself.</p>
 
@@ -71,7 +71,7 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-6-mobile.png 375w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-6-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-6-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-6-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-6-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>The typography and colors were chosen to feel bold and assertive, but not over-powering.</p>
 
@@ -81,7 +81,7 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-7-mobile.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-7-mobile.png 375w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-7-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-7-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-7-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-7-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-7-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-7-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>Templates were provided to show how the “staircase” motif could be used to create layouts for signage, advertisements and other materials.</p>
 
@@ -92,7 +92,7 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-8-mobile.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-8-mobile.png 375w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-8-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-8-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-8-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-8-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-8-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-8-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -102,7 +102,7 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-9-mobile.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-9-mobile.png 375w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-9-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-9-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-9-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-9-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-9-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-9-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -110,7 +110,7 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-10-mobile.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-10-mobile.png 375w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-10-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-10-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-10-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-10-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-10-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-10-mobile@3x.png 1125w'></div>
 
 
 {{slide['end']}}
@@ -120,7 +120,7 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-11-mobile.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-11-mobile.png 375w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-11-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-11-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='/assets/images/posts/Tennyson/tennyson-11-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-11-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-11-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-11-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -137,7 +137,7 @@ Example signage shows how physical hardware should feel as sturdy and sleek as t
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-12-mobile.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-12-mobile.png 375w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-12-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-12-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-12-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-12-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-12-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-12-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -150,7 +150,7 @@ Example signage shows how physical hardware should feel as sturdy and sleek as t
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-1.png 1024w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-1@3x.png 3072w'></div>
+<div><img class='full-width' src='/assets/images/posts/Tennyson/tennyson-1@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-1.png 1024w, /assets/images/posts/Tennyson/tennyson-1@2x.png 2048w, /assets/images/posts/Tennyson/tennyson-1@3x.png 3072w'></div>
 
 The Tennyson is a pair of office buildings in Dallas. The owners were in need of a brand identity to accompany some building updates.
 
@@ -160,7 +160,7 @@ The Tennyson is a pair of office buildings in Dallas. The owners were in need of
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-2.png 794w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-2@2x.png 1588w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-2@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/Tennyson/tennyson-2@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-2.png 794w, /assets/images/posts/Tennyson/tennyson-2@2x.png 1588w, /assets/images/posts/Tennyson/tennyson-2@3x.png 2382w'></div>
 
 <figcaption>Early explorations played into the buildings’ architecture, dimensions and location.</figcaption>
 
@@ -174,9 +174,9 @@ A concept referencing a distinctive staircase in the lobby really jumped out to 
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-3.png 314w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-3@2x.png 628w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-3@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/Tennyson/tennyson-3@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-3.png 314w, /assets/images/posts/Tennyson/tennyson-3@2x.png 628w, /assets/images/posts/Tennyson/tennyson-3@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-4@2x.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-4.png 474w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-4@2x.png 948w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-4@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/Tennyson/tennyson-4@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-4.png 474w, /assets/images/posts/Tennyson/tennyson-4@2x.png 948w, /assets/images/posts/Tennyson/tennyson-4@3x.png 1422w'></div>
 
 </div>
 
@@ -188,7 +188,7 @@ A set of logos were built to accompany a range of layout needs.
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-5.png 794w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-5@2x.png 1588w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-5@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/Tennyson/tennyson-5@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-5.png 794w, /assets/images/posts/Tennyson/tennyson-5@2x.png 1588w, /assets/images/posts/Tennyson/tennyson-5@3x.png 2382w'></div>
 
 The typography and colors were chosen to feel bold and assertive, but not over-powering.
 
@@ -199,7 +199,7 @@ The typography and colors were chosen to feel bold and assertive, but not over-p
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-6@2x.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-6.png 794w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-6@2x.png 1588w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-6@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/Tennyson/tennyson-6@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-6.png 794w, /assets/images/posts/Tennyson/tennyson-6@2x.png 1588w, /assets/images/posts/Tennyson/tennyson-6@3x.png 2382w'></div>
 
 Templates were provided to show how the “staircase” motif could be used to create layouts for signage, advertisements and other materials.
 
@@ -209,7 +209,7 @@ Templates were provided to show how the “staircase” motif could be used to c
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-7@2x.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-7.png 794w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-7@2x.png 1588w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-7@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/Tennyson/tennyson-7@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-7.png 794w, /assets/images/posts/Tennyson/tennyson-7@2x.png 1588w, /assets/images/posts/Tennyson/tennyson-7@3x.png 2382w'></div>
 
 {{slide['end']}}
 
@@ -219,9 +219,9 @@ Templates were provided to show how the “staircase” motif could be used to c
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-8@2x.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-8.png 314w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-8@2x.png 628w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-8@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/Tennyson/tennyson-8@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-8.png 314w, /assets/images/posts/Tennyson/tennyson-8@2x.png 628w, /assets/images/posts/Tennyson/tennyson-8@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-9@2x.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-9.png 474w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-9@2x.png 948w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-9@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/Tennyson/tennyson-9@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-9.png 474w, /assets/images/posts/Tennyson/tennyson-9@2x.png 948w, /assets/images/posts/Tennyson/tennyson-9@3x.png 1422w'></div>
 
 </div>
 
@@ -235,9 +235,9 @@ Templates were provided to show how the “staircase” motif could be used to c
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-10@2x.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-10.png 314w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-10@2x.png 628w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-10@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/Tennyson/tennyson-10@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-10.png 314w, /assets/images/posts/Tennyson/tennyson-10@2x.png 628w, /assets/images/posts/Tennyson/tennyson-10@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-11@2x.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-11.png 474w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-11@2x.png 948w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-11@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/Tennyson/tennyson-11@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-11.png 474w, /assets/images/posts/Tennyson/tennyson-11@2x.png 948w, /assets/images/posts/Tennyson/tennyson-11@3x.png 1422w'></div>
 
 </div>
 
@@ -253,9 +253,9 @@ Example signage shows how physical hardware should feel as sturdy and sleek as t
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-12@2x.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-12.png 314w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-12@2x.png 628w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-12@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/Tennyson/tennyson-12@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-12.png 314w, /assets/images/posts/Tennyson/tennyson-12@2x.png 628w, /assets/images/posts/Tennyson/tennyson-12@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-13@2x.png' srcset='{{ site.url }}/assets/images/posts/Tennyson/tennyson-13.png 474w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-13@2x.png 948w, {{ site.url }}/assets/images/posts/Tennyson/tennyson-13@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/Tennyson/tennyson-13@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-13.png 474w, /assets/images/posts/Tennyson/tennyson-13@2x.png 948w, /assets/images/posts/Tennyson/tennyson-13@3x.png 1422w'></div>
 
 </div>
 

@@ -1,8 +1,9 @@
 ---
 title: Johnny Karate — T-Shirt
 featured_image: /assets/images/posts/Johnny_Karate/thumb.png
+date: 2019-05-25 04:00:40
+style: width:100%
 stack_color: white
-published: false
 categories:
   - print
 ---
@@ -12,7 +13,7 @@ categories:
   <div>
     <img
       class='full-height' 
-      src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-1-mobile@2x.png'
+      src='/assets/images/posts/Johnny_Karate/johnny-1-mobile@2x.png'
     />
   </div>
 
@@ -23,7 +24,7 @@ categories:
   <div>
     <img
       class='full-height' 
-      src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-2-mobile@2x.png'
+      src='/assets/images/posts/Johnny_Karate/johnny-2-mobile@2x.png'
     />
   </div>
 {{slide['end']}}
@@ -32,7 +33,7 @@ categories:
   <div>
     <img
       class='full-height' 
-      src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-3-mobile@2x.png'
+      src='/assets/images/posts/Johnny_Karate/johnny-3-mobile@2x.png'
     />
   </div>
 
@@ -43,7 +44,7 @@ categories:
   <div>
     <img
       class='full-height' 
-      src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-4-mobile@2x.png'
+      src='/assets/images/posts/Johnny_Karate/johnny-4-mobile@2x.png'
     />
   </div>
 {{slide['end']}}
@@ -52,7 +53,7 @@ categories:
   <div>
     <img
       class='full-width' 
-      src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-1@2x.png'
+      src='/assets/images/posts/Johnny_Karate/johnny-1@2x.png'
     />
   </div>
 
@@ -60,19 +61,15 @@ categories:
 
   <figure>
     <img
-      src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-2@2x.png'
+      src='/assets/images/posts/Johnny_Karate/johnny-2@2x.png'
     />
     <figcaption>Research for this project involved looking at some of the most iconic scripts in baseball for common traits.</figcaption>
   </figure>
 
   <p>After sharing some sketches after Muay Thai class, we landed on a script we liked and Johnny had the idea of working a black belt into the underline. With that addition, and a little help from the computer, we had ourselves a T-Shirt design.</p>
 
-  <img
-    src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-3@2x.png'
-  />
+  <div><img src='/assets/images/posts/Johnny_Karate/johnny-3@2x.png'/></div>
 
-  <img
-    src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-4@2x.png'
-  />
+  <div><img src='/assets/images/posts/Johnny_Karate/johnny-4@2x.png' /></div>
 
 {{slide['end']}}

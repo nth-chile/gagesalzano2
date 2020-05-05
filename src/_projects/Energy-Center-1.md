@@ -13,7 +13,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Ec1/ec1-1-mobile.png' srcset='/assets/images/posts/Ec1/ec1-1-mobile.png 375w, /assets/images/posts/Ec1/ec1-1-mobile@2x.png 750w, /assets/images/posts/Ec1/ec1-1-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -35,7 +35,7 @@ Early explorations focused on aspects of the energy industry, the initials and a
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Ec1/ec1-2-mobile.png' srcset='/assets/images/posts/Ec1/ec1-2-mobile.png 375w, /assets/images/posts/Ec1/ec1-2-mobile@2x.png 750w, /assets/images/posts/Ec1/ec1-2-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -54,7 +54,7 @@ We realized the address numeral was an iconic way to represent the building, and
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Ec1/ec1-3-mobile.png' srcset='/assets/images/posts/Ec1/ec1-3-mobile.png 375w, /assets/images/posts/Ec1/ec1-3-mobile@2x.png 750w, /assets/images/posts/Ec1/ec1-3-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -70,7 +70,7 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Ec1/ec1-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-4-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-4-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='/assets/images/posts/Ec1/ec1-4-mobile.png' srcset='/assets/images/posts/Ec1/ec1-4-mobile.png 375w, /assets/images/posts/Ec1/ec1-4-mobile@2x.png 750w, /assets/images/posts/Ec1/ec1-4-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -78,7 +78,7 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-5-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Ec1/ec1-5-mobile.png' srcset='/assets/images/posts/Ec1/ec1-5-mobile.png 375w, /assets/images/posts/Ec1/ec1-5-mobile@2x.png 750w, /assets/images/posts/Ec1/ec1-5-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>A system of marks were built from the original symbol to provide variety for the team.</p>
 
@@ -88,7 +88,7 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-6-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Ec1/ec1-6-mobile.png' srcset='/assets/images/posts/Ec1/ec1-6-mobile.png 375w, /assets/images/posts/Ec1/ec1-6-mobile@2x.png 750w, /assets/images/posts/Ec1/ec1-6-mobile@3x.png 1125w'></div>
 
 <p class='bg'>An extended color palette and custom numeral set enabled us to create signage templates for different parts of the building.</p>
 
@@ -98,7 +98,7 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-7-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-7-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-7-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-7-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Ec1/ec1-7-mobile.png' srcset='/assets/images/posts/Ec1/ec1-7-mobile.png 375w, /assets/images/posts/Ec1/ec1-7-mobile@2x.png 750w, /assets/images/posts/Ec1/ec1-7-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -109,7 +109,7 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Ec1/ec1-8-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-8-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-8-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-8-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='/assets/images/posts/Ec1/ec1-8-mobile.png' srcset='/assets/images/posts/Ec1/ec1-8-mobile.png 375w, /assets/images/posts/Ec1/ec1-8-mobile@2x.png 750w, /assets/images/posts/Ec1/ec1-8-mobile@3x.png 1125w'></div>
 
 <p>A booklet was designed for potential tenants to showcase the new space and the building’s amenities.</p>
 
@@ -119,7 +119,7 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-10-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-10-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-10-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-10-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Ec1/ec1-10-mobile.png' srcset='/assets/images/posts/Ec1/ec1-10-mobile.png 375w, /assets/images/posts/Ec1/ec1-10-mobile@2x.png 750w, /assets/images/posts/Ec1/ec1-10-mobile@3x.png 1125w'></div>
 
 <p class='bg'>Once the rules were established, a lot of collateral could be created pretty quickly.</p>
 
@@ -129,7 +129,7 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-9-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-9-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-9-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-9-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Ec1/ec1-9-mobile.png' srcset='/assets/images/posts/Ec1/ec1-9-mobile.png 375w, /assets/images/posts/Ec1/ec1-9-mobile@2x.png 750w, /assets/images/posts/Ec1/ec1-9-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>(We never thought we'd be able to design a hard hat, but dreams do come true sometimes.)</p>
 
@@ -140,7 +140,7 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-11-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-11-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-11-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-11-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Ec1/ec1-11-mobile.png' srcset='/assets/images/posts/Ec1/ec1-11-mobile.png 375w, /assets/images/posts/Ec1/ec1-11-mobile@2x.png 750w, /assets/images/posts/Ec1/ec1-11-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -153,7 +153,7 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Ec1/ec1-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-1.png 1024w, {{ site.url }}/assets/images/posts/Ec1/ec1-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Ec1/ec1-1@3x.png 3072w'></div>
+<div><img class='full-width' src='/assets/images/posts/Ec1/ec1-1@2x.png' srcset='/assets/images/posts/Ec1/ec1-1.png 1024w, /assets/images/posts/Ec1/ec1-1@2x.png 2048w, /assets/images/posts/Ec1/ec1-1@3x.png 3072w'></div>
 
 Energy Center 1 is an office building located in the “Energy Corridor” of Houston (where a lot of energy companies have offices).
 
@@ -165,7 +165,7 @@ They were in need of a visual identity to help create signage, marketing materia
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-2.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-2@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-2@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/Ec1/ec1-2@2x.png' srcset='/assets/images/posts/Ec1/ec1-2.png 794w, /assets/images/posts/Ec1/ec1-2@2x.png 1588w, /assets/images/posts/Ec1/ec1-2@3x.png 2382w'></div>
 
 <figcaption>Early explorations focused on aspects of the energy industry, the initials and address number.</figcaption>
 
@@ -177,7 +177,7 @@ We realized the address numeral was an iconic way to represent the building, and
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-3.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-3@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-3@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/Ec1/ec1-3@2x.png' srcset='/assets/images/posts/Ec1/ec1-3.png 794w, /assets/images/posts/Ec1/ec1-3@2x.png 1588w, /assets/images/posts/Ec1/ec1-3@3x.png 2382w'></div>
 
 It’s simplicity calls for bright, engaging imagery and bold colors.
 
@@ -187,7 +187,7 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-4@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-4.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-4@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-4@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/Ec1/ec1-4@2x.png' srcset='/assets/images/posts/Ec1/ec1-4.png 794w, /assets/images/posts/Ec1/ec1-4@2x.png 1588w, /assets/images/posts/Ec1/ec1-4@3x.png 2382w'></div>
 
 A system of marks were built from the original symbol to provide variety for the team.
 
@@ -198,7 +198,7 @@ A system of marks were built from the original symbol to provide variety for the
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-5.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-5@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-5@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/Ec1/ec1-5@2x.png' srcset='/assets/images/posts/Ec1/ec1-5.png 794w, /assets/images/posts/Ec1/ec1-5@2x.png 1588w, /assets/images/posts/Ec1/ec1-5@3x.png 2382w'></div>
 
 An extended color palette and custom numeral set enabled us to create signage templates for different parts of the building.
 
@@ -210,13 +210,13 @@ An extended color palette and custom numeral set enabled us to create signage te
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-6@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-6.png 314w, {{ site.url }}/assets/images/posts/Ec1/ec1-6@2x.png 628w, {{ site.url }}/assets/images/posts/Ec1/ec1-6@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/Ec1/ec1-6@2x.png' srcset='/assets/images/posts/Ec1/ec1-6.png 314w, /assets/images/posts/Ec1/ec1-6@2x.png 628w, /assets/images/posts/Ec1/ec1-6@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-7@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-7.png 474w, {{ site.url }}/assets/images/posts/Ec1/ec1-7@2x.png 948w, {{ site.url }}/assets/images/posts/Ec1/ec1-7@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/Ec1/ec1-7@2x.png' srcset='/assets/images/posts/Ec1/ec1-7.png 474w, /assets/images/posts/Ec1/ec1-7@2x.png 948w, /assets/images/posts/Ec1/ec1-7@3x.png 1422w'></div>
 
 </div>
 
-<div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-8@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-8.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-8@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-8@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/Ec1/ec1-8@2x.png' srcset='/assets/images/posts/Ec1/ec1-8.png 794w, /assets/images/posts/Ec1/ec1-8@2x.png 1588w, /assets/images/posts/Ec1/ec1-8@3x.png 2382w'></div>
 
 A booklet was designed for potential tenants to showcase the new space and the building’s amenities.
 
@@ -228,9 +228,9 @@ A booklet was designed for potential tenants to showcase the new space and the b
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-9@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-9.png 314w, {{ site.url }}/assets/images/posts/Ec1/ec1-9@2x.png 628w, {{ site.url }}/assets/images/posts/Ec1/ec1-9@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/Ec1/ec1-9@2x.png' srcset='/assets/images/posts/Ec1/ec1-9.png 314w, /assets/images/posts/Ec1/ec1-9@2x.png 628w, /assets/images/posts/Ec1/ec1-9@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-10@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-10.png 474w, {{ site.url }}/assets/images/posts/Ec1/ec1-10@2x.png 948w, {{ site.url }}/assets/images/posts/Ec1/ec1-10@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/Ec1/ec1-10@2x.png' srcset='/assets/images/posts/Ec1/ec1-10.png 474w, /assets/images/posts/Ec1/ec1-10@2x.png 948w, /assets/images/posts/Ec1/ec1-10@3x.png 1422w'></div>
 
 </div>
 
@@ -244,9 +244,9 @@ Once the rules were established, a lot of collateral could be created pretty qui
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-11@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-11.png 314w, {{ site.url }}/assets/images/posts/Ec1/ec1-11@2x.png 628w, {{ site.url }}/assets/images/posts/Ec1/ec1-11@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/Ec1/ec1-11@2x.png' srcset='/assets/images/posts/Ec1/ec1-11.png 314w, /assets/images/posts/Ec1/ec1-11@2x.png 628w, /assets/images/posts/Ec1/ec1-11@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-12@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-12.png 474w, {{ site.url }}/assets/images/posts/Ec1/ec1-12@2x.png 948w, {{ site.url }}/assets/images/posts/Ec1/ec1-12@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/Ec1/ec1-12@2x.png' srcset='/assets/images/posts/Ec1/ec1-12.png 474w, /assets/images/posts/Ec1/ec1-12@2x.png 948w, /assets/images/posts/Ec1/ec1-12@3x.png 1422w'></div>
 
 </div>
 
@@ -259,6 +259,6 @@ Once the rules were established, a lot of collateral could be created pretty qui
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-13@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-13.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-13@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-13@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/Ec1/ec1-13@2x.png' srcset='/assets/images/posts/Ec1/ec1-13.png 794w, /assets/images/posts/Ec1/ec1-13@2x.png 1588w, /assets/images/posts/Ec1/ec1-13@3x.png 2382w'></div>
 
 {{slide['end']}}

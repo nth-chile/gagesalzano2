@@ -10,7 +10,7 @@ stack_color: white
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Gusto/gusto-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-1-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='/assets/images/posts/Gusto/gusto-1-mobile.png' srcset='/assets/images/posts/Gusto/gusto-1-mobile.png 375w, /assets/images/posts/Gusto/gusto-1-mobile@2x.png 750w, /assets/images/posts/Gusto/gusto-1-mobile@3x.png 1125w'></div>
 
 Gusto needed some ideas to help push an internal rebranding effort.
 
@@ -18,7 +18,7 @@ Gusto needed some ideas to help push an internal rebranding effort.
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Gusto/gusto-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-1.png 1024w, {{ site.url }}/assets/images/posts/Gusto/gusto-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Gusto/gusto-1@3x.png 3072w'></div>
+<div><img class='full-width' src='/assets/images/posts/Gusto/gusto-1@2x.png' srcset='/assets/images/posts/Gusto/gusto-1.png 1024w, /assets/images/posts/Gusto/gusto-1@2x.png 2048w, /assets/images/posts/Gusto/gusto-1@3x.png 3072w'></div>
 
 Gusto needed some ideas to help push an internal rebranding effort.
 
@@ -26,19 +26,19 @@ Gusto needed some ideas to help push an internal rebranding effort.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Gusto/gusto-2-mobile.png' srcset='/assets/images/posts/Gusto/gusto-2-mobile.png 375w, /assets/images/posts/Gusto/gusto-2-mobile@2x.png 750w, /assets/images/posts/Gusto/gusto-2-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
 {{slide['startdesktop']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-2.png 794w, {{ site.url }}/assets/images/posts/Gusto/gusto-2@2x.png 1588w'></div>
+<div><img class='full-height' src='/assets/images/posts/Gusto/gusto-2@2x.png' srcset='/assets/images/posts/Gusto/gusto-2.png 794w, /assets/images/posts/Gusto/gusto-2@2x.png 1588w'></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-3-mobile@3x.png 1125w'></div>
+<div><img src='/assets/images/posts/Gusto/gusto-3-mobile.png' srcset='/assets/images/posts/Gusto/gusto-3-mobile.png 375w, /assets/images/posts/Gusto/gusto-3-mobile@2x.png 750w, /assets/images/posts/Gusto/gusto-3-mobile@3x.png 1125w'></div>
 
 We only had a couple days, so we tried to come up with as many concepts as we could.
 
@@ -46,7 +46,7 @@ We only had a couple days, so we tried to come up with as many concepts as we co
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-3.png 794w, {{ site.url }}/assets/images/posts/Gusto/gusto-3@2x.png 1588w, {{ site.url }}/assets/images/posts/Gusto/gusto-3@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/Gusto/gusto-3@2x.png' srcset='/assets/images/posts/Gusto/gusto-3.png 794w, /assets/images/posts/Gusto/gusto-3@2x.png 1588w, /assets/images/posts/Gusto/gusto-3@3x.png 2382w'></div>
 
 We only had a couple days, so we tried to come up with as many concepts as we could.
 
@@ -54,7 +54,7 @@ We only had a couple days, so we tried to come up with as many concepts as we co
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-4-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-4-mobile@3x.png 1125w'></div>
+<div><img src='/assets/images/posts/Gusto/gusto-4-mobile.png' srcset='/assets/images/posts/Gusto/gusto-4-mobile.png 375w, /assets/images/posts/Gusto/gusto-4-mobile@2x.png 750w, /assets/images/posts/Gusto/gusto-4-mobile@3x.png 1125w'></div>
 
 
 
@@ -66,7 +66,7 @@ We only had a couple days, so we tried to come up with as many concepts as we co
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-4@2x.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-4.png 794w, {{ site.url }}/assets/images/posts/Gusto/gusto-4@2x.png 1588w, {{ site.url }}/assets/images/posts/Gusto/gusto-4@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/Gusto/gusto-4@2x.png' srcset='/assets/images/posts/Gusto/gusto-4.png 794w, /assets/images/posts/Gusto/gusto-4@2x.png 1588w, /assets/images/posts/Gusto/gusto-4@3x.png 2382w'></div>
 
 One of my favorite ideas of the bunch was based on the "moments of Gusto" in the workplace.
 
@@ -82,13 +82,13 @@ Keyword is MY favorite idea, not always the client's.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-5-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Gusto/gusto-5-mobile.png' srcset='/assets/images/posts/Gusto/gusto-5-mobile.png 375w, /assets/images/posts/Gusto/gusto-5-mobile@2x.png 750w, /assets/images/posts/Gusto/gusto-5-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-6-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Gusto/gusto-6-mobile.png' srcset='/assets/images/posts/Gusto/gusto-6-mobile.png 375w, /assets/images/posts/Gusto/gusto-6-mobile@2x.png 750w, /assets/images/posts/Gusto/gusto-6-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -99,9 +99,9 @@ Keyword is MY favorite idea, not always the client's.
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-5.png 314w, {{ site.url }}/assets/images/posts/Gusto/gusto-5@2x.png 628w, {{ site.url }}/assets/images/posts/Gusto/gusto-5@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/Gusto/gusto-5@2x.png' srcset='/assets/images/posts/Gusto/gusto-5.png 314w, /assets/images/posts/Gusto/gusto-5@2x.png 628w, /assets/images/posts/Gusto/gusto-5@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-6@2x.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-6.png 314w, {{ site.url }}/assets/images/posts/Gusto/gusto-6@2x.png 628w, {{ site.url }}/assets/images/posts/Gusto/gusto-6@3x.png 942w'></div>
+--><div><img src='/assets/images/posts/Gusto/gusto-6@2x.png' srcset='/assets/images/posts/Gusto/gusto-6.png 314w, /assets/images/posts/Gusto/gusto-6@2x.png 628w, /assets/images/posts/Gusto/gusto-6@3x.png 942w'></div>
 
 </div>
 
@@ -119,7 +119,7 @@ We used a lot of hand-made elements to feel energetic and stand out in an indust
 
 <figure>
 
-<div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-7-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-7-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-7-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-7-mobile@3x.png 1125w'></div>
+<div><img src='/assets/images/posts/Gusto/gusto-7-mobile.png' srcset='/assets/images/posts/Gusto/gusto-7-mobile.png 375w, /assets/images/posts/Gusto/gusto-7-mobile@2x.png 750w, /assets/images/posts/Gusto/gusto-7-mobile@3x.png 1125w'></div>
 
 <figcaption>Sorry to anyone who really knows how to read sign language, this was just a mock-up and I have no idea what it says.</figcaption>
 
@@ -129,7 +129,7 @@ We used a lot of hand-made elements to feel energetic and stand out in an indust
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-8-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-8-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-8-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-8-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Gusto/gusto-8-mobile.png' srcset='/assets/images/posts/Gusto/gusto-8-mobile.png 375w, /assets/images/posts/Gusto/gusto-8-mobile@2x.png 750w, /assets/images/posts/Gusto/gusto-8-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -139,9 +139,9 @@ We used a lot of hand-made elements to feel energetic and stand out in an indust
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-7@2x.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-7.png 474w, {{ site.url }}/assets/images/posts/Gusto/gusto-7@2x.png 948w, {{ site.url }}/assets/images/posts/Gusto/gusto-7@3x.png 1422w'></div><!--
+<div><img src='/assets/images/posts/Gusto/gusto-7@2x.png' srcset='/assets/images/posts/Gusto/gusto-7.png 474w, /assets/images/posts/Gusto/gusto-7@2x.png 948w, /assets/images/posts/Gusto/gusto-7@3x.png 1422w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-8@2x.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-8.png 154w, {{ site.url }}/assets/images/posts/Gusto/gusto-8@2x.png 308w, {{ site.url }}/assets/images/posts/Gusto/gusto-8@3x.png 462w'></div>
+--><div><img src='/assets/images/posts/Gusto/gusto-8@2x.png' srcset='/assets/images/posts/Gusto/gusto-8.png 154w, /assets/images/posts/Gusto/gusto-8@2x.png 308w, /assets/images/posts/Gusto/gusto-8@3x.png 462w'></div>
 
 </div>
 

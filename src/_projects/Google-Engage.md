@@ -19,7 +19,7 @@ Google Engage was a resource for agencies working in search marketing to get the
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.gif' style='width:100vw'></div>
+<div><img src='/assets/images/posts/Google_Engage/engage-1.gif' style='width:100vw'></div>
 
 This concept symbolized the community as building blocks, inspired by "The whole is greater than the sum of its parts." (Thanks <a href='https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts'>Aristotle</a>)
 
@@ -29,15 +29,15 @@ Animation by <a href="https://www.joshvanpraag.com/" target="_blank">Josh Van Pr
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.png 1024w, {{ site.url }}/assets/images/posts/Google_Engage/engage-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Google_Engage/engage-1@3x.png 3072w'></div>
+<div><img class='full-width' src='/assets/images/posts/Google_Engage/engage-1@2x.png' srcset='/assets/images/posts/Google_Engage/engage-1.png 1024w, /assets/images/posts/Google_Engage/engage-1@2x.png 2048w, /assets/images/posts/Google_Engage/engage-1@3x.png 3072w'></div>
 
 Google Engage was a resource for agencies working in search marketing to get the best use of their products.
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-2.png 314w, {{ site.url }}/assets/images/posts/Google_Engage/engage-2@2x.png 628w, {{ site.url }}/assets/images/posts/Google_Engage/engage-2@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/Google_Engage/engage-2@2x.png' srcset='/assets/images/posts/Google_Engage/engage-2.png 314w, /assets/images/posts/Google_Engage/engage-2@2x.png 628w, /assets/images/posts/Google_Engage/engage-2@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-3.png 474w, {{ site.url }}/assets/images/posts/Google_Engage/engage-3@2x.png 948w, {{ site.url }}/assets/images/posts/Google_Engage/engage-3@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/Google_Engage/engage-3@2x.png' srcset='/assets/images/posts/Google_Engage/engage-3.png 474w, /assets/images/posts/Google_Engage/engage-3@2x.png 948w, /assets/images/posts/Google_Engage/engage-3@3x.png 1422w'></div>
 
 </div>
 
@@ -55,7 +55,7 @@ That's why the color was such an important part.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-4-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-4-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Google_Engage/engage-4-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Google_Engage/engage-4-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Google_Engage/engage-4-mobile.jpg' srcset='/assets/images/posts/Google_Engage/engage-4-mobile.jpg 375w, /assets/images/posts/Google_Engage/engage-4-mobile@2x.jpg 750w, /assets/images/posts/Google_Engage/engage-4-mobile@3x.jpg 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -63,7 +63,7 @@ That's why the color was such an important part.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Google_Engage/engage-5-mobile.jpg' srcset='/assets/images/posts/Google_Engage/engage-5-mobile.jpg 375w, /assets/images/posts/Google_Engage/engage-5-mobile@2x.jpg 750w, /assets/images/posts/Google_Engage/engage-5-mobile@3x.jpg 1125w'></div>
 
 <p class='bg-dark'>The parts of the logo could be used to construct icons and inspire page compositions.</p>
 
@@ -73,7 +73,7 @@ That's why the color was such an important part.
 
 <!---
 
-<div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-4.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-4.png 634w, {{ site.url }}/assets/images/posts/Google_Engage/engage-4@2x.png 1268w, {{ site.url }}/assets/images/posts/Google_Engage/engage-4@3x.png 1902w'></div>
+<div><img src='/assets/images/posts/Google_Engage/engage-4.png' srcset='/assets/images/posts/Google_Engage/engage-4.png 634w, /assets/images/posts/Google_Engage/engage-4@2x.png 1268w, /assets/images/posts/Google_Engage/engage-4@3x.png 1902w'></div>
 
 The gif below replaces above .png
 
@@ -81,7 +81,7 @@ The gif below replaces above .png
 
 <figure>
   <div>
-    <img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-1.gif'>
+    <img src='/assets/images/posts/Google_Engage/engage-1.gif'>
     <figcaption>Animation by <a href="https://www.joshvanpraag.com/" target="_blank">Josh Van Praag</a>.</figcaption>
   </div>
 </figure>
@@ -96,7 +96,7 @@ That's why the color was such an important part.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile.png 375w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/Google_Engage/engage-6-mobile.png' srcset='/assets/images/posts/Google_Engage/engage-6-mobile.png 375w, /assets/images/posts/Google_Engage/engage-6-mobile@2x.png 750w, /assets/images/posts/Google_Engage/engage-6-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -107,9 +107,9 @@ That's why the color was such an important part.
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-5.png 554w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5@2x.png 1108w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5@3x.png 1662w'></div><!--
+<div><img src='/assets/images/posts/Google_Engage/engage-5@2x.png' srcset='/assets/images/posts/Google_Engage/engage-5.png 554w, /assets/images/posts/Google_Engage/engage-5@2x.png 1108w, /assets/images/posts/Google_Engage/engage-5@3x.png 1662w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Google_Engage/engage-6@2x.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-6.png 234w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6@2x.png 468w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6@3x.png 702w'></div>
+--><div><img src='/assets/images/posts/Google_Engage/engage-6@2x.png' srcset='/assets/images/posts/Google_Engage/engage-6.png 234w, /assets/images/posts/Google_Engage/engage-6@2x.png 468w, /assets/images/posts/Google_Engage/engage-6@3x.png 702w'></div>
 
 </div>
 

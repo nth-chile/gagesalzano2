@@ -13,7 +13,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-1-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-1-mobile.png' srcset='/assets/images/posts/The_Ro/thero-1-mobile.png 375w, /assets/images/posts/The_Ro/thero-1-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-1-mobile@3x.png 1125w'></div>
 
 <p class='bg'>The Ro is a new multi-use building complex in Houston that needed visual identity and system for all signage and marketing communications.</p>
 
@@ -33,7 +33,7 @@ Early options included a custom engraving style typeface and other symbols inspi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-2-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-2-mobile.png' srcset='/assets/images/posts/The_Ro/thero-2-mobile.png 375w, /assets/images/posts/The_Ro/thero-2-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-2-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -42,7 +42,7 @@ Early options included a custom engraving style typeface and other symbols inspi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-3-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-3-mobile.png' srcset='/assets/images/posts/The_Ro/thero-3-mobile.png 375w, /assets/images/posts/The_Ro/thero-3-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-3-mobile@3x.png 1125w'></div>
 
 <p class='bg'>When researching the history of the area, we found that azaleas were native to the region. There was a lot of embedded meaning in the flower and we thought it had a lot of potential.</p>
 
@@ -52,7 +52,7 @@ Early options included a custom engraving style typeface and other symbols inspi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-4-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-4-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-4-mobile.png' srcset='/assets/images/posts/The_Ro/thero-4-mobile.png 375w, /assets/images/posts/The_Ro/thero-4-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-4-mobile@3x.png 1125w'></div>
 
 <p class='bg'>We probably drew 100 azaleas until landing on this one.</p>
 
@@ -63,7 +63,7 @@ Early options included a custom engraving style typeface and other symbols inspi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-5-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-5-mobile.png' srcset='/assets/images/posts/The_Ro/thero-5-mobile.png 375w, /assets/images/posts/The_Ro/thero-5-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-5-mobile@3x.png 1125w'></div>
 
 <p class='bg'>The typography was inspired by stone engraving, to establish a classical feeling for the branding.</p>
 
@@ -74,7 +74,7 @@ Early options included a custom engraving style typeface and other symbols inspi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-6-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-6-mobile.png' srcset='/assets/images/posts/The_Ro/thero-6-mobile.png 375w, /assets/images/posts/The_Ro/thero-6-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-6-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -82,7 +82,7 @@ Early options included a custom engraving style typeface and other symbols inspi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-7-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-7-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-7-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-7-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-7-mobile.png' srcset='/assets/images/posts/The_Ro/thero-7-mobile.png 375w, /assets/images/posts/The_Ro/thero-7-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-7-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>The type and symbol naturally provided for a lot of extensions.</p>
 
@@ -93,7 +93,7 @@ Early options included a custom engraving style typeface and other symbols inspi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-8-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-8-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-8-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-8-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-8-mobile.png' srcset='/assets/images/posts/The_Ro/thero-8-mobile.png 375w, /assets/images/posts/The_Ro/thero-8-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-8-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>Maroon, navy and bronze provide a feeling of timeliness elegance when used over earth tone backdrops.</p>
 
@@ -111,7 +111,7 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-9-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-9-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-9-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-9-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-9-mobile.png' srcset='/assets/images/posts/The_Ro/thero-9-mobile.png 375w, /assets/images/posts/The_Ro/thero-9-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-9-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -121,7 +121,7 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-10-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-10-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-10-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-10-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-10-mobile.png' srcset='/assets/images/posts/The_Ro/thero-10-mobile.png 375w, /assets/images/posts/The_Ro/thero-10-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-10-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>Print materials rely on uncoated stock, off-white recycled papers and organic finishes like ink stamping.</p>
 
@@ -132,7 +132,7 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-11-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-11-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-11-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-11-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-11-mobile.png' srcset='/assets/images/posts/The_Ro/thero-11-mobile.png 375w, /assets/images/posts/The_Ro/thero-11-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-11-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -144,7 +144,7 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-12-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-12-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-12-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-12-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-12-mobile.png' srcset='/assets/images/posts/The_Ro/thero-12-mobile.png 375w, /assets/images/posts/The_Ro/thero-12-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-12-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -155,7 +155,7 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-13-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-13-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-13-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-13-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-13-mobile.png' srcset='/assets/images/posts/The_Ro/thero-13-mobile.png 375w, /assets/images/posts/The_Ro/thero-13-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-13-mobile@3x.png 1125w'></div>
 
 <p class='bg'>Collateral was designed with judiciousness, providing a lot of opportunity for materials and photography to shine.</p>
 
@@ -165,7 +165,7 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-14-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-14-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-14-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-14-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-14-mobile.png' srcset='/assets/images/posts/The_Ro/thero-14-mobile.png 375w, /assets/images/posts/The_Ro/thero-14-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-14-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>These example show how the form of the object can help define which logo or symbol to use.</p>
 
@@ -175,7 +175,7 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-15-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-15-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-15-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-15-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/The_Ro/thero-15-mobile.png' srcset='/assets/images/posts/The_Ro/thero-15-mobile.png 375w, /assets/images/posts/The_Ro/thero-15-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-15-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -185,7 +185,7 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/The_Ro/thero-16-mobile.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-16-mobile.png 375w, {{ site.url }}/assets/images/posts/The_Ro/thero-16-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/The_Ro/thero-16-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='/assets/images/posts/The_Ro/thero-16-mobile.png' srcset='/assets/images/posts/The_Ro/thero-16-mobile.png 375w, /assets/images/posts/The_Ro/thero-16-mobile@2x.png 750w, /assets/images/posts/The_Ro/thero-16-mobile@3x.png 1125w'></div>
 
 <p class='bg'>Sometimes the symbol is the forefront and others the name, depending on the use and it’s purpose.</p>
 
@@ -201,7 +201,7 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/The_Ro/thero-1@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-1.png 1024w, {{ site.url }}/assets/images/posts/The_Ro/thero-1@2x.png 2048w, {{ site.url }}/assets/images/posts/The_Ro/thero-1@3x.png 3072w'></div>
+<div><img class='full-width' src='/assets/images/posts/The_Ro/thero-1@2x.png' srcset='/assets/images/posts/The_Ro/thero-1.png 1024w, /assets/images/posts/The_Ro/thero-1@2x.png 2048w, /assets/images/posts/The_Ro/thero-1@3x.png 3072w'></div>
 
 The Ro is a new multi-use building complex in Houston that needed visual identity and system for all signage and marketing communications.
 
@@ -211,7 +211,7 @@ The Ro is a new multi-use building complex in Houston that needed visual identit
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-2@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-2.png 794w, {{ site.url }}/assets/images/posts/The_Ro/thero-2@2x.png 1588w, {{ site.url }}/assets/images/posts/The_Ro/thero-2@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/The_Ro/thero-2@2x.png' srcset='/assets/images/posts/The_Ro/thero-2.png 794w, /assets/images/posts/The_Ro/thero-2@2x.png 1588w, /assets/images/posts/The_Ro/thero-2@3x.png 2382w'></div>
 
 <figcaption>Early options included a custom engraving style typeface and other symbols inspired by the building layout and location.</figcaption>
 
@@ -225,9 +225,9 @@ When researching the history of the area, we found that azaleas were native to t
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-3@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-3.png 314w, {{ site.url }}/assets/images/posts/The_Ro/thero-3@2x.png 628w, {{ site.url }}/assets/images/posts/The_Ro/thero-3@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/The_Ro/thero-3@2x.png' srcset='/assets/images/posts/The_Ro/thero-3.png 314w, /assets/images/posts/The_Ro/thero-3@2x.png 628w, /assets/images/posts/The_Ro/thero-3@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-4@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-4.png 474w, {{ site.url }}/assets/images/posts/The_Ro/thero-4@2x.png 948w, {{ site.url }}/assets/images/posts/The_Ro/thero-4@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/The_Ro/thero-4@2x.png' srcset='/assets/images/posts/The_Ro/thero-4.png 474w, /assets/images/posts/The_Ro/thero-4@2x.png 948w, /assets/images/posts/The_Ro/thero-4@3x.png 1422w'></div>
 
 </div>
 
@@ -244,9 +244,9 @@ The typography was inspired by stone engraving, to establish a classical feeling
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-5@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-5.png 314w, {{ site.url }}/assets/images/posts/The_Ro/thero-5@2x.png 628w, {{ site.url }}/assets/images/posts/The_Ro/thero-5@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/The_Ro/thero-5@2x.png' srcset='/assets/images/posts/The_Ro/thero-5.png 314w, /assets/images/posts/The_Ro/thero-5@2x.png 628w, /assets/images/posts/The_Ro/thero-5@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-6@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-6.png 474w, {{ site.url }}/assets/images/posts/The_Ro/thero-6@2x.png 948w, {{ site.url }}/assets/images/posts/The_Ro/thero-6@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/The_Ro/thero-6@2x.png' srcset='/assets/images/posts/The_Ro/thero-6.png 474w, /assets/images/posts/The_Ro/thero-6@2x.png 948w, /assets/images/posts/The_Ro/thero-6@3x.png 1422w'></div>
 
 </div>
 
@@ -259,7 +259,7 @@ The type and symbol naturally provided for a lot of extensions.
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-7@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-7.png 794w, {{ site.url }}/assets/images/posts/The_Ro/thero-7@2x.png 1588w, {{ site.url }}/assets/images/posts/The_Ro/thero-7@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/The_Ro/thero-7@2x.png' srcset='/assets/images/posts/The_Ro/thero-7.png 794w, /assets/images/posts/The_Ro/thero-7@2x.png 1588w, /assets/images/posts/The_Ro/thero-7@3x.png 2382w'></div>
 
 Maroon, navy and bronze provide a feeling of timeliness elegance when used over earth tone backdrops.
 
@@ -274,11 +274,11 @@ Maroon, navy and bronze provide a feeling of timeliness elegance when used over 
 
 <div class='column'>
 
-<div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-8@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-8.png 234w, {{ site.url }}/assets/images/posts/The_Ro/thero-8@2x.png 468w, {{ site.url }}/assets/images/posts/The_Ro/thero-8@3x.png 702w'></div><!--
+<div><img src='/assets/images/posts/The_Ro/thero-8@2x.png' srcset='/assets/images/posts/The_Ro/thero-8.png 234w, /assets/images/posts/The_Ro/thero-8@2x.png 468w, /assets/images/posts/The_Ro/thero-8@3x.png 702w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-9@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-9.png 234w, {{ site.url }}/assets/images/posts/The_Ro/thero-9@2x.png 468w, {{ site.url }}/assets/images/posts/The_Ro/thero-9@3x.png 702w'></div>
+--><div><img src='/assets/images/posts/The_Ro/thero-9@2x.png' srcset='/assets/images/posts/The_Ro/thero-9.png 234w, /assets/images/posts/The_Ro/thero-9@2x.png 468w, /assets/images/posts/The_Ro/thero-9@3x.png 702w'></div>
 
-</div><div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-10@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-10.png 554w, {{ site.url }}/assets/images/posts/The_Ro/thero-10@2x.png 1108w, {{ site.url }}/assets/images/posts/The_Ro/thero-10@3x.png 1662w'></div>
+</div><div><img src='/assets/images/posts/The_Ro/thero-10@2x.png' srcset='/assets/images/posts/The_Ro/thero-10.png 554w, /assets/images/posts/The_Ro/thero-10@2x.png 1108w, /assets/images/posts/The_Ro/thero-10@3x.png 1662w'></div>
 
 </div>
 
@@ -291,7 +291,7 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-11@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-11.png 794w, {{ site.url }}/assets/images/posts/The_Ro/thero-11@2x.png 1588w, {{ site.url }}/assets/images/posts/The_Ro/thero-11@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/The_Ro/thero-11@2x.png' srcset='/assets/images/posts/The_Ro/thero-11.png 794w, /assets/images/posts/The_Ro/thero-11@2x.png 1588w, /assets/images/posts/The_Ro/thero-11@3x.png 2382w'></div>
 
 Print materials rely on uncoated stock, off-white recycled papers and organic finishes like ink stamping.
 
@@ -304,11 +304,11 @@ Print materials rely on uncoated stock, off-white recycled papers and organic fi
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-12@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-12.png 554w, {{ site.url }}/assets/images/posts/The_Ro/thero-12@2x.png 1128w, {{ site.url }}/assets/images/posts/The_Ro/thero-12@3x.png 1662w'></div><div class='column'>
+<div><img src='/assets/images/posts/The_Ro/thero-12@2x.png' srcset='/assets/images/posts/The_Ro/thero-12.png 554w, /assets/images/posts/The_Ro/thero-12@2x.png 1128w, /assets/images/posts/The_Ro/thero-12@3x.png 1662w'></div><div class='column'>
 
-<div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-13@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-13.png 234w, {{ site.url }}/assets/images/posts/The_Ro/thero-13@2x.png 468w, {{ site.url }}/assets/images/posts/The_Ro/thero-13@3x.png 702w'></div><!--
+<div><img src='/assets/images/posts/The_Ro/thero-13@2x.png' srcset='/assets/images/posts/The_Ro/thero-13.png 234w, /assets/images/posts/The_Ro/thero-13@2x.png 468w, /assets/images/posts/The_Ro/thero-13@3x.png 702w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-14@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-14.png 234w, {{ site.url }}/assets/images/posts/The_Ro/thero-14@2x.png 468w, {{ site.url }}/assets/images/posts/The_Ro/thero-14@3x.png 702w'></div>
+--><div><img src='/assets/images/posts/The_Ro/thero-14@2x.png' srcset='/assets/images/posts/The_Ro/thero-14.png 234w, /assets/images/posts/The_Ro/thero-14@2x.png 468w, /assets/images/posts/The_Ro/thero-14@3x.png 702w'></div>
 
 </div>
 </div>
@@ -324,11 +324,11 @@ Collateral was designed with judiciousness, providing a lot of opportunity for m
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-15@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-15.png 554w, {{ site.url }}/assets/images/posts/The_Ro/thero-15@2x.png 1128w, {{ site.url }}/assets/images/posts/The_Ro/thero-15@3x.png 1662w'></div><div class='column'>
+<div><img src='/assets/images/posts/The_Ro/thero-15@2x.png' srcset='/assets/images/posts/The_Ro/thero-15.png 554w, /assets/images/posts/The_Ro/thero-15@2x.png 1128w, /assets/images/posts/The_Ro/thero-15@3x.png 1662w'></div><div class='column'>
 
-<div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-16@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-16.png 234w, {{ site.url }}/assets/images/posts/The_Ro/thero-16@2x.png 468w, {{ site.url }}/assets/images/posts/The_Ro/thero-16@3x.png 702w'></div><!--
+<div><img src='/assets/images/posts/The_Ro/thero-16@2x.png' srcset='/assets/images/posts/The_Ro/thero-16.png 234w, /assets/images/posts/The_Ro/thero-16@2x.png 468w, /assets/images/posts/The_Ro/thero-16@3x.png 702w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-17@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-17.png 234w, {{ site.url }}/assets/images/posts/The_Ro/thero-17@2x.png 468w, {{ site.url }}/assets/images/posts/The_Ro/thero-17@3x.png 702w'></div>
+--><div><img src='/assets/images/posts/The_Ro/thero-17@2x.png' srcset='/assets/images/posts/The_Ro/thero-17.png 234w, /assets/images/posts/The_Ro/thero-17@2x.png 468w, /assets/images/posts/The_Ro/thero-17@3x.png 702w'></div>
 
 </div>
 </div>
@@ -345,9 +345,9 @@ These example show how the form of the object can help define which logo or symb
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-18@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-18.png 314w, {{ site.url }}/assets/images/posts/The_Ro/thero-18@2x.png 628w, {{ site.url }}/assets/images/posts/The_Ro/thero-18@3x.png 942w'></div><!--
+<div><img src='/assets/images/posts/The_Ro/thero-18@2x.png' srcset='/assets/images/posts/The_Ro/thero-18.png 314w, /assets/images/posts/The_Ro/thero-18@2x.png 628w, /assets/images/posts/The_Ro/thero-18@3x.png 942w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-19@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-19.png 474w, {{ site.url }}/assets/images/posts/The_Ro/thero-19@2x.png 948w, {{ site.url }}/assets/images/posts/The_Ro/thero-19@3x.png 1422w'></div>
+--><div><img src='/assets/images/posts/The_Ro/thero-19@2x.png' srcset='/assets/images/posts/The_Ro/thero-19.png 474w, /assets/images/posts/The_Ro/thero-19@2x.png 948w, /assets/images/posts/The_Ro/thero-19@3x.png 1422w'></div>
 
 </div>
 
@@ -363,6 +363,6 @@ Sometimes the symbol is the forefront and others the name, depending on the use 
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-20@2x.png' srcset='{{ site.url }}/assets/images/posts/The_Ro/thero-20.png 794w, {{ site.url }}/assets/images/posts/The_Ro/thero-20@2x.png 1588w, {{ site.url }}/assets/images/posts/The_Ro/thero-20@3x.png 2382w'></div>
+<div><img src='/assets/images/posts/The_Ro/thero-20@2x.png' srcset='/assets/images/posts/The_Ro/thero-20.png 794w, /assets/images/posts/The_Ro/thero-20@2x.png 1588w, /assets/images/posts/The_Ro/thero-20@3x.png 2382w'></div>
 
 {{slide['end']}}

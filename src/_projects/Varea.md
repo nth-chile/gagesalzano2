@@ -1,8 +1,9 @@
 ---
 title: Varea — UX/UI
 featured_image: /assets/images/posts/Varea/thumb.png
+date: 2019-05-25 04:00:30
+style: width:100%
 stack_color: white
-published: false
 categories:
   - digital
 ---
@@ -12,7 +13,7 @@ categories:
   <div>
     <img
       class="full-height"
-      src="{{ site.url }}/assets/images/posts/Varea/varea-1-mobile@2x.png"
+      src="/assets/images/posts/Varea/varea-1-mobile@2x.png"
     />
   </div>
 
@@ -23,7 +24,7 @@ categories:
   <div>
     <img
       class="full-height"
-      src="{{ site.url }}/assets/images/posts/Varea/varea-2-mobile@2x.png"
+      src="/assets/images/posts/Varea/varea-2-mobile@2x.png"
     />
   </div>
 
@@ -34,7 +35,7 @@ categories:
   <div>
     <img
       class="full-height"
-      src="{{ site.url }}/assets/images/posts/Varea/varea-3-mobile@2x.png"
+      src="/assets/images/posts/Varea/varea-3-mobile@2x.png"
     />
   </div>
 
@@ -45,7 +46,7 @@ categories:
   <div>
     <img
       class="full-height"
-      src="{{ site.url }}/assets/images/posts/Varea/varea-4-mobile@2x.png"
+      src="/assets/images/posts/Varea/varea-4-mobile@2x.png"
     />
   </div>
 
@@ -56,7 +57,7 @@ categories:
   <div>
     <img
       class="full-height"
-      src="{{ site.url }}/assets/images/posts/Varea/varea-5-mobile@2x.png"
+      src="/assets/images/posts/Varea/varea-5-mobile@2x.png"
     />
   </div>
 {{slide['end']}}
@@ -65,7 +66,7 @@ categories:
   <div>
     <img
       class="full-height"
-      src="{{ site.url }}/assets/images/posts/Varea/varea-6-mobile@2x.png"
+      src="/assets/images/posts/Varea/varea-6-mobile@2x.png"
     />
   </div>
 {{slide['end']}}
@@ -74,38 +75,36 @@ categories:
   <div>
     <img
       class="full-height"
-      src="{{ site.url }}/assets/images/posts/Varea/varea-7-mobile@2x.png"
+      src="/assets/images/posts/Varea/varea-7-mobile@2x.png"
     />
   </div>
 {{slide['end']}}
 
 {{slide['startdesktop']}}
   <div>
-    <img class="full-width" src="{{ site.url }}/assets/images/posts/Varea/varea-1@2x.png" />
+    <img class="full-width" src="/assets/images/posts/Varea/varea-1@2x.png" />
   </div>
 
   <p>Varea Media is an independent media company in Houston that uses their knowledge of the digital landscape to find eco-friendly solutions to meet various business objectives. The team was seeking to build an online network to share news on clean energy, sustainability, and environmental well-being, both in your local community and worldwide.</p>
 
   <div>
-    <img src="{{ site.url }}/assets/images/posts/Varea/varea-2@2x.png" />
+    <img src="/assets/images/posts/Varea/varea-2@2x.png" />
   </div>
 
   <p>The first step was building a proof of concept by creating a clickable mobile protoype for the team to test and get a full understanding of the feature specifications. We got a feel for the balance between curated content and interaction.</p>
 
   <figure>
     <div class="row">
-      <div class="col">
+      <div class="column">
         <div>
-          <img src="{{ site.url }}/assets/images/posts/Varea/varea-3@2x.png" />
+          <img src="/assets/images/posts/Varea/varea-3.png" />
         </div>
-      </div>
-      <div class="col">
         <div>
-          <img src="{{ site.url }}/assets/images/posts/Varea/varea-4@2x.png" />
+          <img src="/assets/images/posts/Varea/varea-4.png" />
         </div>
       </div>
       <div>
-        <img src="{{ site.url }}/assets/images/posts/Varea/varea-5@2x.png" />
+        <img src="/assets/images/posts/Varea/varea-5.png" />
       </div>
     </div>
     <figcaption>Early design concepts explored the relationship between content and filter/map interactions.</figcaption>
@@ -115,10 +114,10 @@ categories:
 
   <div class="row">
     <div>
-      <img src="{{ site.url }}/assets/images/posts/Varea/varea-6@2x.png" />
+      <img src="/assets/images/posts/Varea/varea-6@2x.png" />
     </div>
     <div>
-      <img src="{{ site.url }}/assets/images/posts/Varea/varea-7@2x.png" />
+      <img src="/assets/images/posts/Varea/varea-7@2x.png" />
     </div>
   </div>
 
@@ -126,10 +125,10 @@ categories:
 
   <div class="row">
     <div>
-      <img src="{{ site.url }}/assets/images/posts/Varea/varea-8@2x.png" />
+      <img src="/assets/images/posts/Varea/varea-8@2x.png" />
     </div>
     <div>
-      <img src="{{ site.url }}/assets/images/posts/Varea/varea-9@2x.png" />
+      <img src="/assets/images/posts/Varea/varea-9@2x.png" />
     </div>
   </div>
 

@@ -1,0 +1,122 @@
+I"¨
+<div class="slide mobile">
+  <div class="slide__content">
+    <div>
+    <img class="full-height" src="http://localhost:4000/assets/images/posts/Varea/varea-1-mobile@2x.png" />
+  </div>
+
+    <p class="bg">Varea Media is an independent media company in Houston that uses their knowledge of the digital landscape to find eco-friendly solutions to meet various business objectives. The team was seeking to build an online network to share news on clean energy, sustainability, and environmental well-being, both in your local community and worldwide.</p>
+  </div>
+</div>
+
+<div class="slide mobile">
+  <div class="slide__content">
+    <div>
+    <img class="full-height" src="http://localhost:4000/assets/images/posts/Varea/varea-2-mobile@2x.png" />
+  </div>
+
+    <p class="bg">The first step was building a proof of concept by creating a clickable mobile protoype for the team to test and get a full understanding of the feature specifications. We got a feel for the balance between curated content and interaction.</p>
+  </div>
+</div>
+
+<div class="slide mobile">
+  <div class="slide__content">
+    <div>
+    <img class="full-height" src="http://localhost:4000/assets/images/posts/Varea/varea-3-mobile@2x.png" />
+  </div>
+
+    <p class="bg">The design solution we developed towed the line between utilitarian and editorial, making orienting yourself with the map easy while establishing an immersive article reading experience.</p>
+  </div>
+</div>
+
+<div class="slide mobile">
+  <div class="slide__content">
+    <div>
+    <img class="full-height" src="http://localhost:4000/assets/images/posts/Varea/varea-4-mobile@2x.png" />
+  </div>
+
+    <p class="bg">The grid structure was designed to be flexible enough to build an engaging layout with varied types of content: whether it be user-generated or editiorial.</p>
+  </div>
+</div>
+
+<div class="slide mobile">
+  <div class="slide__content">
+    <div>
+    <img class="full-height" src="http://localhost:4000/assets/images/posts/Varea/varea-5-mobile@2x.png" />
+  </div>
+  </div>
+</div>
+
+<div class="slide mobile">
+  <div class="slide__content">
+    <div>
+    <img class="full-height" src="http://localhost:4000/assets/images/posts/Varea/varea-6-mobile@2x.png" />
+  </div>
+  </div>
+</div>
+
+<div class="slide mobile">
+  <div class="slide__content">
+    <div>
+    <img class="full-height" src="http://localhost:4000/assets/images/posts/Varea/varea-7-mobile@2x.png" />
+  </div>
+  </div>
+</div>
+
+<div class="slide desktop">
+  <div class="slide__content">
+    <div>
+    <img class="full-width" src="http://localhost:4000/assets/images/posts/Varea/varea-1@2x.png" />
+  </div>
+
+    <p>Varea Media is an independent media company in Houston that uses their knowledge of the digital landscape to find eco-friendly solutions to meet various business objectives. The team was seeking to build an online network to share news on clean energy, sustainability, and environmental well-being, both in your local community and worldwide.</p>
+
+    <div>
+    <img src="http://localhost:4000/assets/images/posts/Varea/varea-2@2x.png" />
+  </div>
+
+    <p>The first step was building a proof of concept by creating a clickable mobile protoype for the team to test and get a full understanding of the feature specifications. We got a feel for the balance between curated content and interaction.</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;div class="row"&gt;
+  &lt;div class="col"&gt;
+    &lt;div&gt;
+      &lt;img src="http://localhost:4000/assets/images/posts/Varea/varea-3.png" /&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+      &lt;img src="http://localhost:4000/assets/images/posts/Varea/varea-4.png" /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="col"&gt;
+    &lt;div&gt;
+      &lt;img src="http://localhost:4000/assets/images/posts/Varea/varea-5.png" /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre></div>    </div>
+
+    <p>The design solution we developed towed the line between utilitarian and editorial, making orienting yourself with the map easy while establishing an immersive article reading experience.</p>
+
+    <div class="row">
+    <div>
+      <img src="http://localhost:4000/assets/images/posts/Varea/varea-6@2x.png" />
+    </div>
+    <div>
+      <img src="http://localhost:4000/assets/images/posts/Varea/varea-7@2x.png" />
+    </div>
+  </div>
+
+    <p>The grid structure was designed to be flexible enough to build an engaging layout with varied types of content: whether it be user-generated or editiorial.</p>
+
+    <div class="row">
+    <div>
+      <img src="http://localhost:4000/assets/images/posts/Varea/varea-8@2x.png" />
+    </div>
+    <div>
+      <img src="http://localhost:4000/assets/images/posts/Varea/varea-9@2x.png" />
+    </div>
+  </div>
+
+  </div>
+</div>
+
+:ET

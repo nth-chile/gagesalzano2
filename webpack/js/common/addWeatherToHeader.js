@@ -10,15 +10,15 @@ export default function addWeatherToHeader() {
     const temp = Math.round(res.main.temp)
     const { id, description } = res.weather[0]
 
-    console.log(id);
-
     const color = codeToColor(id)
     const desc = id === 800 ? "sunny" : description.toLowerCase()
     const str = `${temp}° and ${desc}`
 
+    let dotBorderStyle = id > 800 ? '1px solid rgba(82, 73, 76, .15)' : 'none'
+
     const elt = document.querySelector('#weather')
     elt.innerHTML = `
-      <span class="weather__dot" style="background-color: ${color}"></span>
+      <span class="weather__dot" style="background-color: ${color}; border:${dotBorderStyle}"></span>
       <span>${str}</span>
     `
   })

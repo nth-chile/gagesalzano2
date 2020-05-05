@@ -8,18 +8,17 @@
 export default function putItemsIntoHomeGrid(selected) {
   // select template elt
   const template = document.querySelector('#template-grid')
-  const templateChildNodes = template.content.childNodes
+  const templateChildren = template.content.children
   const gridElt = document.querySelector('.grid')
-  let filtered = []
-  // Add keeper elts to filtered
-  templateChildNodes.forEach(i => {
+  gridElt.innerHTML = ''
+  // Append keeper elts
+  for (let i of templateChildren) {
     if (!i.classList || !i.classList.contains || !i.classList.contains('grid__item')) {
-      return
+      continue
     }
 
     if (selected === 'all' || i.dataset.categories.includes(selected)) {
-      gridElt.appendChild(i)
-      return
+      gridElt.appendChild(i.cloneNode(true))
     }
-  })
+  }
 }

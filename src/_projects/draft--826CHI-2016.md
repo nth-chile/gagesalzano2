@@ -10,7 +10,7 @@ stack_color: white
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2.png 394w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2@2x.png 788w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2@3x.png 1182w'></div>
+<div><img class='full-height' src='/assets/images/posts/826CHI_2016/whowantslove-2015-2.png' srcset='/assets/images/posts/826CHI_2016/whowantslove-2015-2.png 394w, /assets/images/posts/826CHI_2016/whowantslove-2015-2@2x.png 788w, /assets/images/posts/826CHI_2016/whowantslove-2015-2@3x.png 1182w'></div>
 
 <p class='bg'>My friend <a href='https://tinybold.com/'>Alison</a> holds a poster exhibit every year with <a href='https://826CHI.org/'>826CHI</a> showcasing posters inspired by student writing.</p>
 
@@ -18,13 +18,13 @@ stack_color: white
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-1@2x.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-1.png 1024w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-1@2x.png 2048w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-1@3x.png 3072w'></div>
+<div><img class='full-width' src='/assets/images/posts/826CHI_2016/whowantslove-2015-1@2x.png' srcset='/assets/images/posts/826CHI_2016/whowantslove-2015-1.png 1024w, /assets/images/posts/826CHI_2016/whowantslove-2015-1@2x.png 2048w, /assets/images/posts/826CHI_2016/whowantslove-2015-1@3x.png 3072w'></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2-mobile.png 375w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='/assets/images/posts/826CHI_2016/whowantslove-2015-2-mobile.png' srcset='/assets/images/posts/826CHI_2016/whowantslove-2015-2-mobile.png 375w, /assets/images/posts/826CHI_2016/whowantslove-2015-2-mobile@2x.png 750w, /assets/images/posts/826CHI_2016/whowantslove-2015-2-mobile@3x.png 1125w'></div>
 
 <p class='bg'>The concept of a pony with a green mustache wearing a wizard costume was inspiration enough&hellip;I just drew the thing.</p>
 
@@ -42,7 +42,7 @@ The concept of a pony with a green mustache wearing a wizard costume was inspira
 
 <figure>
 
-<div><img src='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-1.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-1.png 1024w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-1@2x.png 2048w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-1@3x.png 3072w'></div>
+<div><img src='/assets/images/posts/826CHI_2016/whowantslove-2015-1.png' srcset='/assets/images/posts/826CHI_2016/whowantslove-2015-1.png 1024w, /assets/images/posts/826CHI_2016/whowantslove-2015-1@2x.png 2048w, /assets/images/posts/826CHI_2016/whowantslove-2015-1@3x.png 3072w'></div>
 
 <figcaption>Supposedly Peter Sagal owns this print. I can't confirm that but the peeps at 826 told me that, so I'm running with it.</figcaption>
 
@@ -56,9 +56,9 @@ The concept of a pony with a green mustache wearing a wizard costume was inspira
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2@2x.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2.png 394w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2@2x.png 788w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2@3x.png 1182w'></div><!--
+<div><img src='/assets/images/posts/826CHI_2016/whowantslove-2015-2@2x.png' srcset='/assets/images/posts/826CHI_2016/whowantslove-2015-2.png 394w, /assets/images/posts/826CHI_2016/whowantslove-2015-2@2x.png 788w, /assets/images/posts/826CHI_2016/whowantslove-2015-2@3x.png 1182w'></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-3@2x.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-3.png 234w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-3@2x.png 468w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-3@3x.png 702w'></div>
+--><div><img src='/assets/images/posts/826CHI_2016/whowantslove-2015-3@2x.png' srcset='/assets/images/posts/826CHI_2016/whowantslove-2015-3.png 234w, /assets/images/posts/826CHI_2016/whowantslove-2015-3@2x.png 468w, /assets/images/posts/826CHI_2016/whowantslove-2015-3@3x.png 702w'></div>
 
 </div>
 

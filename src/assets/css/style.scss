@@ -87,7 +87,6 @@ a.go-home:hover {
 }
 
 article {
-	//margin-top: 56px;
 	img {margin-bottom:-4px;}
 }
 
@@ -109,7 +108,8 @@ article {
 }
 
 figcaption {
-	color: rgb(148, 143, 143);
+  color: rgb(148, 143, 143);
+  margin-top: 1em;
 }
 
 .contact-wrap {
@@ -137,13 +137,13 @@ figcaption {
 
 figcaption a, .site-footer a {
 	color: $post-nav-color;
-	@extend .bold;
 	&:visited {color: $post-nav-color;}
 	&:hover, &:focus {color: black;}
 }
 
 .tooltip figcaption {
   color: #fff;
+  margin-top: 0;
 	a {
 		color: #fff;
 		@extend .bold;
@@ -203,7 +203,6 @@ h4 {
 	}
 
 	.logo {
-		float: left;
 		margin-top: 6px;
 		height: 34px;
 		width: 34px;
@@ -216,6 +215,7 @@ h4 {
   font-size: 13px;
   line-height: 22px;
   letter-spacing: -0.5px;
+  margin-left: 3px;
 
   @include min900 {
     display: block;
@@ -474,6 +474,7 @@ figure {
   		fill: #EF4859;
   	}
 }
+
 #loading {
 	background-color: #FCF5EA;
 	height: 100%;
@@ -488,35 +489,26 @@ figure {
 	display: flex;
 	height: 50px;
 	padding: 3px 0;
-	//position: fixed;
-	// top: 0;
 	white-space: nowrap;
-	width: 100%;
+	// width: 100%;
 	z-index: 1500;
 
-	* { display: inline-block;}
+	// * { display: inline-block; }
 
-	a {
-		height: 50px;
+	a, h4 {
 		line-height: 50px;
 		text-decoration: none;
 	}
 	
 	h4 {
 		font-size: 13px;
-		margin: 0;
-	}
-
-	.page-title {
-		padding-right: 70px;
-		line-height: 50px;
-		@include flex(1);
+		margin-top: 0;
+		margin-bottom: 0;
 	}
 
 	.prev, .next {
 		border-left: 1px solid rgb(103, 96, 96);
-		min-width: 50px;
-		width: 50px;
+		flex: 0 0 50px;
 
 		svg {
 			height: 9.8px;
@@ -526,21 +518,23 @@ figure {
 
 	.page-title {
 		overflow: hidden;
-		text-overflow: ellipsis;
-	}
-
-	@media all and (max-width: 479.9px) {
-		.page-title {
-			padding-right: 0px;
-			margin: 0 9px;
-			text-align: left;
-		}
+    text-overflow: ellipsis;
+    padding-right: 70px;
+		flex: 1 1 0px;
+    
+    @media all and (max-width: 479.9px) {
+      padding-right: 0px;
+      margin: 0 9px;
+      text-align: left;
+    }
 	}
 }
 
 .post-nav__home {
 	box-sizing: border-box;
-	padding: 0 21px;
+  padding: 0 21px;
+  
+  & > * { display: inline-block; }
 
 	h4 {
 		margin-left: 6.7px;
@@ -555,16 +549,22 @@ figure {
 		height: 20.4px;
 		position: relative;
 		top: 3px;
-		width: 19px;
+    width: 19px;
 	}
 
 	@media all and (max-width: 479.9px) {
-		width: 50px;
+		flex-basis: 50px;
 	}
 }
 
 .slide {
-	&:focus {outline:none;}
+  &:focus {outline:none;}
+  
+  @media all and (max-width: 479.9px) {
+    article {
+      background-color: black;
+    }
+  }
 }
 
 @media all and (max-width: 479.9px) {
@@ -574,9 +574,6 @@ figure {
 	}
 	.desktop { display: none !important }
 
-	article {
-		background-color: black;
-	}
 	article p {
 		font-size: 16px;
 		line-height: 22px;
@@ -897,3 +894,5 @@ figure {
 .justify-center { justify-content: center; }
 
 .text-left { text-align: left; }
+
+.underline { text-decoration: underline;}
