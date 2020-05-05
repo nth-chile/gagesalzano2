@@ -1,0 +1,262 @@
+---
+title: Tennyson Park — Branding
+date: 2019-05-25 05:01:40
+featured_image: /assets/images/posts/Tennyson/tennyson-thumb.jpg
+style: width:100%
+stack_color: white
+categories:
+  - branding
+  - print
+---
+{% assign slide = site.data.slide %}
+
+
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-1-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-1-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-1-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-1-mobile@3x.png 1125w'></div>
+
+<p class='bg-dark'>The Tennyson is a pair of office buildings in Dallas. The owners were in need of a brand identity to accompany some building updates.</p>
+
+{{slide['end']}}
+
+
+
+{{slide['startmobile']}}
+
+Early explorations played into the buildings’ architecture, dimensions and location.
+
+{{slide['end']}}
+
+
+
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-2-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-2-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-2-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-2-mobile@3x.png 1125w'></div>
+
+<p class='bg-dark'></p>
+
+{{slide['end']}}
+
+
+
+
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-3-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-3-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-3-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-3-mobile@3x.png 1125w'></div>
+
+<p class='bg'>A concept referencing a distinctive staircase in the lobby really jumped out to everyone on the team.</p>
+
+{{slide['end']}}
+
+
+
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-4-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-4-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-4-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-4-mobile@3x.png 1125w'></div>
+
+{{slide['end']}}
+
+
+
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-5-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-5-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-5-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-5-mobile@3x.png 1125w'></div>
+
+<p class='bg-dark'>Bold lines, one-color layouts, and confidence are stylistic choices that unify the collateral by having the same characteristics of the logo itself.</p>
+
+{{slide['end']}}
+
+
+
+
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-6-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-6-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-6-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-6-mobile@3x.png 1125w'></div>
+
+<p class='bg-dark'>The typography and colors were chosen to feel bold and assertive, but not over-powering.</p>
+
+{{slide['end']}}
+
+
+
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-7-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-7-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-7-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-7-mobile@3x.png 1125w'></div>
+
+<p class='bg-dark'>Templates were provided to show how the “staircase” motif could be used to create layouts for signage, advertisements and other materials.</p>
+
+{{slide['end']}}
+
+
+
+
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-8-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-8-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-8-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-8-mobile@3x.png 1125w'></div>
+
+<p class='bg-dark'></p>
+
+{{slide['end']}}
+
+
+
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-9-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-9-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-9-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-9-mobile@3x.png 1125w'></div>
+
+{{slide['end']}}
+
+
+
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-10-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-10-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-10-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-10-mobile@3x.png 1125w'></div>
+
+
+{{slide['end']}}
+
+
+
+
+{{slide['startmobile']}}
+
+<div><img class='full-width' src='/assets/images/posts/Tennyson/tennyson-11-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-11-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-11-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-11-mobile@3x.png 1125w'></div>
+
+{{slide['end']}}
+
+
+
+{{slide['startmobile']}}
+
+Example signage shows how physical hardware should feel as sturdy and sleek as the graphic elements.
+
+{{slide['end']}}
+
+
+
+
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='/assets/images/posts/Tennyson/tennyson-12-mobile.png' srcset='/assets/images/posts/Tennyson/tennyson-12-mobile.png 375w, /assets/images/posts/Tennyson/tennyson-12-mobile@2x.png 750w, /assets/images/posts/Tennyson/tennyson-12-mobile@3x.png 1125w'></div>
+
+{{slide['end']}}
+
+
+
+
+
+
+
+
+{{slide['startdesktop']}}
+
+<div><img class='full-width' src='/assets/images/posts/Tennyson/tennyson-1@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-1.png 1024w, /assets/images/posts/Tennyson/tennyson-1@2x.png 2048w, /assets/images/posts/Tennyson/tennyson-1@3x.png 3072w'></div>
+
+The Tennyson is a pair of office buildings in Dallas. The owners were in need of a brand identity to accompany some building updates.
+
+{{slide['end']}}
+
+
+
+{{slide['startdesktop']}}
+
+<div><img src='/assets/images/posts/Tennyson/tennyson-2@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-2.png 794w, /assets/images/posts/Tennyson/tennyson-2@2x.png 1588w, /assets/images/posts/Tennyson/tennyson-2@3x.png 2382w'></div>
+
+<figcaption>Early explorations played into the buildings’ architecture, dimensions and location.</figcaption>
+
+A concept referencing a distinctive staircase in the lobby really jumped out to everyone on the team.
+
+{{slide['end']}}
+
+
+
+{{slide['startdesktop']}}
+
+<div class='row'>
+
+<div><img src='/assets/images/posts/Tennyson/tennyson-3@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-3.png 314w, /assets/images/posts/Tennyson/tennyson-3@2x.png 628w, /assets/images/posts/Tennyson/tennyson-3@3x.png 942w'></div><!--
+
+--><div><img src='/assets/images/posts/Tennyson/tennyson-4@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-4.png 474w, /assets/images/posts/Tennyson/tennyson-4@2x.png 948w, /assets/images/posts/Tennyson/tennyson-4@3x.png 1422w'></div>
+
+</div>
+
+A set of logos were built to accompany a range of layout needs.
+
+{{slide['end']}}
+
+
+
+{{slide['startdesktop']}}
+
+<div><img src='/assets/images/posts/Tennyson/tennyson-5@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-5.png 794w, /assets/images/posts/Tennyson/tennyson-5@2x.png 1588w, /assets/images/posts/Tennyson/tennyson-5@3x.png 2382w'></div>
+
+The typography and colors were chosen to feel bold and assertive, but not over-powering.
+
+{{slide['end']}}
+
+
+
+
+{{slide['startdesktop']}}
+
+<div><img src='/assets/images/posts/Tennyson/tennyson-6@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-6.png 794w, /assets/images/posts/Tennyson/tennyson-6@2x.png 1588w, /assets/images/posts/Tennyson/tennyson-6@3x.png 2382w'></div>
+
+Templates were provided to show how the “staircase” motif could be used to create layouts for signage, advertisements and other materials.
+
+{{slide['end']}}
+
+
+
+{{slide['startdesktop']}}
+
+<div><img src='/assets/images/posts/Tennyson/tennyson-7@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-7.png 794w, /assets/images/posts/Tennyson/tennyson-7@2x.png 1588w, /assets/images/posts/Tennyson/tennyson-7@3x.png 2382w'></div>
+
+{{slide['end']}}
+
+
+
+{{slide['startdesktop']}}
+
+<div class='row'>
+
+<div><img src='/assets/images/posts/Tennyson/tennyson-8@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-8.png 314w, /assets/images/posts/Tennyson/tennyson-8@2x.png 628w, /assets/images/posts/Tennyson/tennyson-8@3x.png 942w'></div><!--
+
+--><div><img src='/assets/images/posts/Tennyson/tennyson-9@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-9.png 474w, /assets/images/posts/Tennyson/tennyson-9@2x.png 948w, /assets/images/posts/Tennyson/tennyson-9@3x.png 1422w'></div>
+
+</div>
+
+<br />
+
+{{slide['end']}}
+
+
+
+{{slide['startdesktop']}}
+
+<div class='row'>
+
+<div><img src='/assets/images/posts/Tennyson/tennyson-10@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-10.png 314w, /assets/images/posts/Tennyson/tennyson-10@2x.png 628w, /assets/images/posts/Tennyson/tennyson-10@3x.png 942w'></div><!--
+
+--><div><img src='/assets/images/posts/Tennyson/tennyson-11@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-11.png 474w, /assets/images/posts/Tennyson/tennyson-11@2x.png 948w, /assets/images/posts/Tennyson/tennyson-11@3x.png 1422w'></div>
+
+</div>
+
+Example signage shows how physical hardware should feel as sturdy and sleek as the graphic elements.
+
+{{slide['end']}}
+
+
+
+
+
+{{slide['startdesktop']}}
+
+<div class='row'>
+
+<div><img src='/assets/images/posts/Tennyson/tennyson-12@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-12.png 314w, /assets/images/posts/Tennyson/tennyson-12@2x.png 628w, /assets/images/posts/Tennyson/tennyson-12@3x.png 942w'></div><!--
+
+--><div><img src='/assets/images/posts/Tennyson/tennyson-13@2x.png' srcset='/assets/images/posts/Tennyson/tennyson-13.png 474w, /assets/images/posts/Tennyson/tennyson-13@2x.png 948w, /assets/images/posts/Tennyson/tennyson-13@3x.png 1422w'></div>
+
+</div>
+
+{{slide['end']}}

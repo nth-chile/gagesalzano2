@@ -1,0 +1,143 @@
+.contact-wrap {
+  margin-bottom: 87px;
+
+  .hero-img-wrap {
+    margin: 0 auto;
+
+    img {
+      width: 100%;
+      
+      @include min900 {
+        width: 50%;
+      }
+    }
+  }
+}
+
+#contact-form {
+  text-align: left;
+
+  input[type="radio"] {
+   display: none; 
+
+   &:checked ~ .gmail-inbox__checkbox {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='rgb(4, 4, 4)' viewBox='3 2 21 21'%3E%3Cpath fill='none' d='M0 0h24v24H0z'/%3E%3Cpath d='M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z'/%3E%3C/svg%3E");
+   }
+  }
+
+  label {
+    cursor: pointer;
+  }
+}
+
+.gmail-inbox-wrap {
+  background-color: white;
+  color: rgb(32, 33, 36);
+  font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  font-size: 0;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  margin: 0 auto 43px;
+  max-width: 514px;
+  
+  * { vertical-align: middle; }
+} 
+
+.gmail-inbox__row {
+  border: 1px solid rgb(213, 213, 213);
+  position: relative;
+  padding-left: 18px;
+  padding-right: 25px;
+  display: flex;
+  align-items: center;
+  
+  & > * {
+    flex-shrink: 0;
+  }
+  
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    border-left: 1px solid rgb(94, 164, 246);
+    border-right: 0.5px solid rgb(64, 148, 244);
+  }
+}
+
+.gmail-inbox__checkbox {
+  display: inline-block;
+  margin: 12px 11px 12px 0;
+  height: 18px;
+  width: 18px;
+  background-image: url("data:image/svg+xml,%3Csvg fill='rgb(213, 213, 213)' height='18px' viewBox='3 2 21 21' xmlns='http://www.w3.org/2000/svg' width='18px'%3E%3Cpath d='M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z'%3E%3C/path%3E%3Cpath d='M0 0h24v24H0z' fill='none'%3E%3C/path%3E%3C/svg%3E");
+  background-position: 0px 1px;
+
+  svg {
+    vertical-align: top;
+    transform: translateY(1px);
+  }
+}
+
+.gmail-inbox__star {
+  margin-right: 12px;
+}
+
+.gmail-inbox__important {
+  margin-right: 11px;
+}
+
+.gmail-inbox__from {
+  display: inline-block;
+  margin-right: 39px;
+}
+
+.gmail-inbox__subject {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 1;
+}
+
+.email-form-group {
+  margin: 0 auto;
+  max-width: 480px; // to match the max line width for text elts
+
+  label {
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+}
+
+.email-form-group__inner {
+  font-size: 13px;
+  letter-spacing: -0.5px;
+  line-height: 22px;
+  font-family: "GT-America-Mono-Regular", sans-serif;
+  display: flex;
+
+  input, input[type="submit"] {
+    padding-top: 4.5px;
+    padding-bottom: 7.5px;
+  }
+
+  input {
+    background: rgba(0, 0, 0, 0);
+    border: 1px solid rgb(176, 170, 163);
+    border-right: none;
+    &:placeholder { color: rgb (176, 170, 163); }
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  input[type="submit"] {
+    background: rgb(35, 31, 32);
+    border: none;
+    color: white;
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+}

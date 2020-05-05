@@ -1,0 +1,49 @@
+.grid.print {
+  $colCount: 12;
+  $rowCount: 10;
+
+  @include min800 {
+    height: 95.76vw * $rowCount / $colCount;
+    grid-template-columns: repeat($colCount, 1fr);
+    grid-template-rows: repeat($rowCount, 1fr);
+  }
+
+
+.grid__item {
+  @include min800 {
+    &:nth-child(1) {
+      grid-column-start: 1;
+      grid-column-end: 5; 
+      grid-row-start: 2;
+      grid-row-end: 6;
+    }
+
+    &:nth-child(2) {
+      grid-column-start: 5;
+      grid-column-end: 10; 
+      grid-row-start: 1;
+      grid-row-end: 6;
+    }
+
+    &:nth-child(3) {
+      grid-column-start: 7;
+      grid-column-end: 10; 
+      grid-row-start: 6;
+      grid-row-end: 9;
+    }
+    
+    &:nth-child(4) {
+      grid-column-start: 2;
+      grid-column-end: 7; 
+      grid-row-start: 6;
+      grid-row-end: 11;
+    }
+    
+    &:nth-child(5) {
+      grid-column-start: 10;
+      grid-column-end: 13; 
+      grid-row-start: 4;
+      grid-row-end: 6;
+    }
+  }
+}}

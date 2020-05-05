@@ -1,0 +1,195 @@
+.grid.branding {
+  $colCount: 12;
+  $rowCount: 21;
+
+  @include min800 {
+    height: 95.76vw * $rowCount / $colCount;
+    grid-template-columns: repeat($colCount, 1fr);
+    grid-template-rows: repeat($rowCount, 1fr);
+  }
+
+.grid__item {
+  @include min800 {
+    &:nth-child(1) {
+      grid-column-start: 1;
+      grid-column-end: 4; 
+      grid-row-start: 2;
+      grid-row-end: 5;
+    }
+    
+    &:nth-child(2) {
+      grid-column-start: 4;
+      grid-column-end: 9; 
+      grid-row-start: 1;
+      grid-row-end: 5;
+    }
+
+    &:nth-child(3) {
+      grid-column-start: 9;
+      grid-column-end: 12; 
+      grid-row-start: 3;
+      grid-row-end: 5;
+    }
+
+    &:nth-child(4) {
+      grid-column-start: $colCount + 2 - 9;
+      grid-column-end: $colCount + 2 - 12; 
+      grid-row-start: $rowCount + 2 - 15;
+      grid-row-end: $rowCount + 2 - 18;
+    }
+
+    &:nth-child(5) {
+      grid-column-start: $colCount + 2 - 9;
+      grid-column-end: $colCount + 2 - 11; 
+      grid-row-start: $rowCount + 2 - 13;
+      grid-row-end: $rowCount + 2 - 15;
+    }
+
+    &:nth-child(6) {
+      grid-column-start: $colCount + 2 - 4;
+      grid-column-end: $colCount + 2 - 9; 
+      grid-row-start: $rowCount + 2 - 13;
+      grid-row-end: $rowCount + 2 - 18;
+    }
+
+    &:nth-child(7) {
+      grid-column-start: $colCount + 2 - 1;
+      grid-column-end: $colCount + 2 - 4; 
+      grid-row-start: $rowCount + 2 - 13;
+      grid-row-end: $rowCount + 2 - 16;
+    }
+
+    &:nth-child(8) {
+      grid-column-start: $colCount + 2 - 2;
+      grid-column-end: $colCount + 2 - 4; 
+      grid-row-start: $rowCount + 2 - 16;
+      grid-row-end: $rowCount + 2 - 18;
+    }
+
+    &:nth-child(9) {
+      grid-column-start: $colCount + 2 - 6;
+      grid-column-end: $colCount + 2 - 9; 
+      grid-row-start: 10;
+      grid-row-end: 13;
+    }
+
+    &:nth-child(10) {
+      grid-column-start: $colCount + 2 - 9;
+      grid-column-end: $colCount + 2 - 12; 
+      grid-row-start: $rowCount + 2 - 11;
+      grid-row-end: $rowCount + 2 - 13;
+    }
+
+    &:nth-child(11) {
+      grid-column-start: $colCount + 2 - 4;
+      grid-column-end: $colCount + 2 - 6; 
+      grid-row-start: $rowCount + 2 - 11;
+      grid-row-end: $rowCount + 2 - 13;
+    }
+
+    &:nth-child(12) {
+      grid-column-start: $colCount + 2 - 2;
+      grid-column-end: $colCount + 2 - 4; 
+      grid-row-start: $rowCount + 2 - 11;
+      grid-row-end: $rowCount + 2 - 13;
+    }
+
+    &:nth-child(13) {
+      grid-column-start: $colCount + 2 - 7;
+      grid-column-end: $colCount + 2 - 11; 
+      grid-row-start: 13;
+      grid-row-end: 16;
+    }
+
+    &:nth-child(14) {
+      grid-column-start: 10;
+      grid-column-end: 12; 
+      grid-row-start: 18;
+      grid-row-end: 20;
+    }
+
+    &:nth-child(15) {
+      grid-column-start: $colCount + 2 - 2;
+      grid-column-end: $colCount + 2 - 7; 
+      grid-row-start: 13;
+      grid-row-end: 18;
+    }
+
+    &:nth-child(16) {
+      grid-column-start: 3;
+      grid-column-end: 6; 
+      grid-row-start: $rowCount + 2 - 3;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+
+    &:nth-child(17) {
+      grid-column-start: 6;
+      grid-column-end: 10; 
+      grid-row-start: $rowCount + 2 - 1;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+
+    &:nth-child(18) {
+      grid-column-start: 6;
+      grid-column-end: 10; 
+      grid-row-start: $rowCount + 2 - 1;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+
+    &:nth-child(19) {
+      grid-column-start: 6;
+      grid-column-end: 10; 
+      grid-row-start: $rowCount + 2 - 1;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+
+    &:nth-child(20) {
+      grid-column-start: 6;
+      grid-column-end: 10; 
+      grid-row-start: $rowCount + 2 - 1;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+
+    &:nth-child(21) {
+      grid-column-start: 6;
+      grid-column-end: 10; 
+      grid-row-start: $rowCount + 2 - 1;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+
+    &:nth-child(22) {
+      grid-column-start: 6;
+      grid-column-end: 10; 
+      grid-row-start: $rowCount + 2 - 1;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+
+    &:nth-child(23) {
+      grid-column-start: 6;
+      grid-column-end: 10; 
+      grid-row-start: $rowCount + 2 - 1;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+
+    &:nth-child(24) {
+      grid-column-start: 6;
+      grid-column-end: 10; 
+      grid-row-start: $rowCount + 2 - 1;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+
+    &:nth-child(25) {
+      grid-column-start: 6;
+      grid-column-end: 10; 
+      grid-row-start: $rowCount + 2 - 1;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+
+    &:nth-child(26) {
+      grid-column-start: 6;
+      grid-column-end: 10; 
+      grid-row-start: $rowCount + 2 - 1;
+      grid-row-end: $rowCount + 2 - 5;
+    }
+  }
+}}

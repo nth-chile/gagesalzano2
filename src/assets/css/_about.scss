@@ -1,0 +1,181 @@
+.about-wrap {
+  text-align: center;
+  margin-bottom: 100px;
+
+  .hero-img-wrap {
+    margin: 0 auto;
+
+    img {
+      margin-bottom: 33px;
+      width: 100%;
+      
+      @include min900 {
+        width: 62%;
+      }
+    }
+  }
+
+  p, .p, h2, ul, .footnote {
+    text-align: left;
+  }
+  
+  .list-dash-style {
+    margin-top: 6.5px;
+  }
+
+  section {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .section-services {
+    flex-direction: column;
+    margin-bottom: 171px;
+
+    @include min900 {
+      flex-direction: row;
+    }
+
+    article {
+      display: inline-block;
+      margin: 0 auto 40px;
+
+      @include min900 {
+        display: block;
+        margin: 0;
+      }
+    }
+
+    article:first-child {
+      @include min900 {
+        margin-right: 60px;
+      }
+
+      .section-services__img-wrap {
+        width: 246px;
+      }
+    }
+
+    article:nth-child(2) {
+      @include min900 {
+        margin-right: 30px;
+      }
+
+      .section-services__img-wrap {
+        width: 215px;
+      }
+    }
+
+    article:nth-child(3) {
+      @include min900 {
+        margin-right: 30px;
+      }
+
+      .section-services__img-wrap {
+        width: 265px;
+      }
+    }
+  }
+
+  .section-services__img-wrap {
+    height: 203px;
+    position: relative;
+    margin-bottom: 19px;
+
+    img {
+      position: relative;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 100%;
+    }
+  }
+
+  .logo-grid {
+    grid-template-columns: repeat(1, 1fr);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 180px;
+    display: inline-grid;
+    position: relative;
+
+    @media (min-width: 490px) {
+      grid-template-columns: repeat(3, 1fr);
+    }    
+    
+    @include min900 {
+      grid-template-columns: repeat(5, 1fr);
+    }
+
+    & > div {
+      padding: 0 0 28px;
+      
+      @media (min-width: 550px) {
+        padding: 0 19px 28px;
+      }
+    }
+
+    img {
+      position: relative;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 28px;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+  }
+
+  .logo-Google { width: 88px; }
+  .logo-826CHI { width: 54px; }
+  .logo-Gusto { width: 79px; }
+  .logo-Nestle { width: 55px; }
+  .logo-Uptake { width: 94px; }
+  .logo-JLL { width: 67px; }
+  .logo-CBRE { width: 87px; }
+  .logo-Glassdoor { width: 119px; }
+  .logo-Trunk { width: 125px; }
+  .logo-Heinz { width: 88px; }
+  .logo-Girl { width: 130px; }
+  .logo-Youtube { width: 52px; }
+  .logo-Spear { width: 125px; }
+  .logo-Grove { width: 95px; }
+  .logo-Thought { width: 66px; }
+
+  .section-approach {
+    margin-bottom: 160px;
+    width: 100%; // rough number to get proper # of columns in a row
+
+    @media (min-width: 780px) {
+      width: calc(100% - 40px ); // rough number to get proper # of columns in a row
+    }
+    
+    @media (min-width: 1010px) {
+      width: calc(100% - 270px); // rough number to get proper # of columns in a row
+    }
+
+    @media (min-width: 1230px) {
+      width: calc(100% - 500px); // rough number to get proper # of columns in a row
+    }
+  }
+
+  .section-approach__grid {
+    margin-top: 48px;
+
+    & > div {
+      display: inline-block;
+      margin-left: 17px;
+      margin-right: 17px;
+      width: 201px;
+
+      img {
+        width: 100%;
+      }
+    }
+  }
+
+  .section-team {
+    img {
+      margin-bottom: 52px;
+      width: 322px;
+    }
+  }
+}

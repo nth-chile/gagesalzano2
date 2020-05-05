@@ -1,0 +1,114 @@
+I"©
+<div class="slide mobile">
+  <div class="slide__content">
+
+    <div><img class="full-height" src="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1-mobile.jpg" srcset="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1-mobile.jpg 375w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1-mobile@2x.jpg 750w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1-mobile@3x.jpg 1125w" /></div>
+
+  </div>
+</div>
+
+<div class="slide desktop">
+  <div class="slide__content">
+
+    <div><img class="full-width" src="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1@2x.png" srcset="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1.png 1024w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1@2x.png 2048w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-1@3x.png 3072w" /></div>
+
+  </div>
+</div>
+
+<div class="slide mobile">
+  <div class="slide__content">
+
+    <div><img class="full-height" src="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2-mobile.jpg" srcset="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2-mobile.jpg 375w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2-mobile@2x.jpg 750w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2-mobile@3x.jpg 1125w" /></div>
+
+    <p class="bg"><a href="https://826CHI.org/">826CHI</a> was looking for an annual report to showcase their achievements throughout the year.</p>
+
+  </div>
+</div>
+
+<div class="slide desktop">
+  <div class="slide__content">
+
+    <p><a href="https://826CHI.org/">826CHI</a> was looking for an annual report to showcase their achievements throughout the year.</p>
+
+  </div>
+</div>
+
+<div class="slide mobile">
+  <div class="slide__content">
+
+    <div><img style="width:100vw" src="http://localhost:4000/assets/images/posts/826CHI_2014/826-2015-1.gif" /></div>
+
+    <p>We thought the newspaper format was unique and hopefully encouraged more people to give it a second look when sorting through their mail.</p>
+
+  </div>
+</div>
+
+<div class="slide desktop">
+  <div class="slide__content">
+
+    <div><img src="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2@3x.png" srcset="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2.png 615w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2@2x.png 1230w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-2@3x.png 1845w" /></div>
+
+    <p>We thought the newspaper format was unique and hopefully encouraged more people to give it a second look when sorting through their mail.</p>
+
+  </div>
+</div>
+
+<div class="slide mobile">
+  <div class="slide__content">
+
+    <figure>
+
+<div><img class="full-height" src="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4-mobile.jpg" srcset="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4-mobile.jpg 375w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4-mobile@2x.jpg 750w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4-mobile@3x.jpg 1125w" /></div>
+
+<p class="bg-dark">Check out the <a href="https://www.newspaperclub.com/">Newspaper Club</a> if you're looking to print something cool on a tight budget.</p>
+
+</figure>
+
+  </div>
+</div>
+
+<div class="slide desktop">
+  <div class="slide__content">
+
+    <figure>
+
+<!--- <div><img src='http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-3.png' srcset='http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-3.png 394w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-3@2x.png 788w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-3@3x.png 1182w'></div>
+
+The gif below replaces the above .png
+-->
+
+<div class="row">
+
+<div><img src="http://localhost:4000/assets/images/posts/826CHI_2014/826-2015-1.gif" /></div><!--
+
+--><div><img class="full-height" src="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4@3x.png" srcset="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4.png 234w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4@2x.png 468w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-4@3x.png 702w" /></div>
+
+</div>
+
+<figcaption>Check out the <a href="https://www.newspaperclub.com/">Newspaper Club</a> if you were looking to print something cool on a tight budget.</figcaption>
+
+</figure>
+
+  </div>
+</div>
+
+<div class="slide mobile">
+  <div class="slide__content">
+
+    <div><img class="full-height" src="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5-mobile.jpg" srcset="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5-mobile.jpg 554w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5-mobile@2x.jpg 1108w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5-mobile@3x.jpg 1662w" /></div>
+
+    <p class="bg-dark">A <a href="https://826chi.org/2014/">web-version of the report was built</a> to be shared in email.</p>
+
+  </div>
+</div>
+
+<div class="slide desktop">
+  <div class="slide__content">
+
+    <p>A <a href="https://826chi.org/2014/">web-version of the report was built</a> to be shared in email.</p>
+
+    <div><img src="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5@3x.png" srcset="http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5.png 554w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5@2x.png 1108w, http://localhost:4000/assets/images/posts/826CHI_2014/826-2014-5@3x.png 1662w" /></div>
+
+  </div>
+</div>
+:ET
