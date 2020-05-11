@@ -1,6 +1,6 @@
 export default function addWeatherToHeader() {
   const appid = '74735b702c4617a2e6cabc145c497c33'
-  const URL = `http://api.openweathermap.org/data/2.5/weather?id=5110302&appid=${appid}&units=imperial`
+  const URL = `https://api.openweathermap.org/data/2.5/weather?id=5110302&appid=${appid}&units=imperial`
   $.get(URL, res => {
     if (res.cod !== 200 || !res.weather || !res.weather.length || !res.main) {
       console.log('Could not get weather.')
@@ -11,7 +11,17 @@ export default function addWeatherToHeader() {
     const { id, description } = res.weather[0]
 
     const color = codeToColor(id)
-    const desc = id === 800 ? "sunny" : description.toLowerCase()
+    let desc = description.toLowerCase()
+
+    // Reword desc...
+    if (id === 800) {
+      desc = "sunny"
+    }
+
+    if (desc === "overcast clouds") {
+      desc = "overcast"
+    }
+
     const str = `${temp}° and ${desc}`
 
     let dotBorderStyle = id > 800 ? '1px solid rgba(82, 73, 76, .15)' : 'none'

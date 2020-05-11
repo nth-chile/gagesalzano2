@@ -142,23 +142,27 @@
 
   .section-approach {
     margin-bottom: 160px;
-    width: 100%; // rough number to get proper # of columns in a row
-
-    @media (min-width: 780px) {
-      width: calc(100% - 40px ); // rough number to get proper # of columns in a row
-    }
-    
-    @media (min-width: 1010px) {
-      width: calc(100% - 270px); // rough number to get proper # of columns in a row
-    }
-
-    @media (min-width: 1230px) {
-      width: calc(100% - 500px); // rough number to get proper # of columns in a row
-    }
   }
 
   .section-approach__grid {
+    display: inline-grid;
     margin-top: 48px;
+    grid-template-columns: repeat(1, 1fr);
+    
+    @media (min-width: 530px) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media (min-width: 780px) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    h2 {
+      font-family: "GT-America-Mono-Regular", sans-serif;
+      font-size: 13px;
+      letter-spacing: .5px;
+      line-height: 22px;
+    }
 
     & > div {
       display: inline-block;
@@ -167,6 +171,7 @@
       width: 201px;
 
       img {
+        height: 127px;
         width: 100%;
       }
     }

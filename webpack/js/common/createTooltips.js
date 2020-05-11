@@ -10,7 +10,7 @@ export default function createTooltips() {
   );
   tooltip_text(
     '#work-experience',
-    '<b>Work Experience:</b>',
+    'Work Experience:',
     '<ul><li>— <b>Current:</b> Independent</li><li>— <b>Nelson Cash:</b> Sr. Designer, 6 years</li><li>— <b>Doejo:</b> Sr. Designer, 1 year</li><li>— <b>Smith Brothers Advertising:</b> Designer, 1 year</li><li>— <b>Mind Over Media:</b> Designer, 1 year</li></ul>'
   );
   tooltip_img_boxRight(
@@ -75,7 +75,7 @@ function tooltip_text(target, title, text) {
   var div = document.createElement('div');
   div.className = 'tooltip tooltip-text';
   var titleElt = document.createElement('h4');
-  var textElt = document.createElement('h4');
+  var textElt = document.createElement('div');
   titleElt.innerHTML = title;
   textElt.innerHTML = text;
   div.appendChild(titleElt);

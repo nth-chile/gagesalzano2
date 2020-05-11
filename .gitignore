@@ -4,7 +4,9 @@ node_modules
 vendor
 .sass-cache
 .jekyll-metadata
+src/.jekyll-cache
+.DS_Store
 
-# For lambda dirs
+# For /faas/ dir
 **/node_modules
 *.zip

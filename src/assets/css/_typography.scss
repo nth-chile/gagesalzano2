@@ -7,7 +7,8 @@
 
 body {
   font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
-	font-size: 16px;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 // Setting a max line width
@@ -28,17 +29,17 @@ h2:not(.p) {
 
 p, .p {
   font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: normal;
-  letter-spacing: -0.2;
-  line-height: 22px;
+  letter-spacing: -0.2px;
+  line-height: 25px;
   margin-bottom: 3px;
 }
 
 .mono-header {
   font-family: "GT-America-Mono-Regular", sans-serif;
   font-size: 13px;
-  letter-spacing: .5px;
+  letter-spacing: -0.5px;
   line-height: 22px;
 }
 

@@ -108,8 +108,12 @@ article {
 }
 
 figcaption {
-  color: rgb(148, 143, 143);
+  font-family: "GT-America-Mono-Regular", sans-serif;
   margin-top: 1em;
+  font-size: 11px;
+  line-height: 18px;
+  letter-spacing: -0.42px;
+  color: #231F20;
 }
 
 .contact-wrap {
@@ -229,6 +233,7 @@ h4 {
 
 .header-dropdown {
   @extend .bold;
+  font-size: 18px;
 	position: relative;
 	margin: 0 auto;
 	cursor: pointer;
@@ -254,25 +259,26 @@ h4 {
 
 	ul {
 		display: none;
-		background-color: transparent;
+		background-color: #FCF5EA;
     margin: -11px 0 0;
     box-sizing: border-box;
 		padding: 0 21px 10px;
 		list-style-type: none;
     z-index: 0;
     width: 100%;
-
+    
     @include min900 {
+      width: auto;
       margin-top: -34px;
       padding-top: 34px;
       box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2);
-      background-color: #FCF5EA;
+      background-color: #f2fcea;
     }
 
 		li {
 			background-color: transparent;
-			// transform: translateX(-36px);
       color: rgba(77, 69, 69, .5);
+      line-height: 25px;
 
 			&:hover, &:focus {
 				color: $post-nav-color;
@@ -283,10 +289,16 @@ h4 {
 
 .header-dropdown__inner {
   display: inline-block;
+  width: 100%;
 
+  @include min900 {
+    width: auto;
+  }
+  
   &:hover,
 	&:focus {
-		ul {
+    ul {
+      width: 100%;
 			display: inline-block;
 		}
 
@@ -418,7 +430,8 @@ h4 {
 	.quote__quote {
 		color: $post-nav-color;
 		text-decoration: none;
-		white-space: normal;
+    white-space: normal;
+    font-size: 18px;
 	}
 
 	&:hover {
@@ -490,10 +503,7 @@ figure {
 	height: 50px;
 	padding: 3px 0;
 	white-space: nowrap;
-	// width: 100%;
 	z-index: 1500;
-
-	// * { display: inline-block; }
 
 	a, h4 {
 		line-height: 50px;
@@ -501,7 +511,6 @@ figure {
 	}
 	
 	h4 {
-		font-size: 13px;
 		margin-top: 0;
 		margin-bottom: 0;
 	}
@@ -535,7 +544,7 @@ figure {
   padding: 0 21px;
   
   & > * { display: inline-block; }
-
+  
 	h4 {
 		margin-left: 6.7px;
 		visibility: hidden;
@@ -567,6 +576,16 @@ figure {
   }
 }
 
+.tooltip-text {
+  li {
+    @extend .mono-header;
+  }
+
+  h4 {
+    font-weight: bold;
+  }
+}
+
 @media all and (max-width: 479.9px) {
 	.home-wrap,
 	.error-404-wrap {
@@ -575,8 +594,8 @@ figure {
 	.desktop { display: none !important }
 
 	article p {
-		font-size: 16px;
-		line-height: 22px;
+		font-size: 18px;
+		line-height: 25px;
 		margin: 0 auto;
 		padding: .7rem 20px;
 	}
@@ -584,13 +603,6 @@ figure {
 		padding-bottom: 0px;
   }
   
-	figcaption {
-		font-size: 13px;
-		line-height: 18px;
-		color: #fff;
-		&:not(.bg) {opacity: .5;}
-
-	}
 	.full-height--centered-y {
 		position: relative;
   		top: 50%;
@@ -667,12 +679,14 @@ figure {
 		font-size: 20px;
 		line-height: 26px;
 		height: 100%;
-		width: 100%;
+    width: 100%;
+    
 		a,
 		figcaption a,
 		figcaption a:visited {
 			color: $link-color-white;
-		}
+    }
+    
 		.slide__content {
 			display: flex;
 			@include align-items(center);
@@ -716,6 +730,7 @@ figure {
 		display: none;
 	}
 }
+
 @media all and (min-width: 480px) {
 	html {
 		height: 100%;
@@ -727,11 +742,6 @@ figure {
 	}
 	.mobile {display: none;}
 
-	figcaption {
-		font-size: 14px;
-		line-height: 22px;
-	}
-	
 	.tooltip {
 		box-shadow: 0px 0px 25px 0px rgba(77, 69, 69, .25);
 		box-sizing: border-box;
@@ -739,10 +749,8 @@ figure {
 		position: absolute;
 		left: -9999px;
 		z-index: 9999999;
-		h4 {
-			font-weight: normal;
-		}
-		img {
+    
+    img {
 			margin-bottom: -9px;
 			max-width: 600px;
 		}
@@ -796,15 +804,17 @@ figure {
 	.tooltip-text {
 		background-color: rgb(242, 252, 234);
 		padding: 1rem 1.5rem 1rem 1rem;
-		text-align: left;
+    text-align: left;
+    
 		* {
 			color: $post-nav-color;
 			margin: 0;
-		}
+    }
+    
 		ul {
 			list-style: none;
 			padding:0;
-		}
+    }
 	}
 
 	//*** POST PAGE ***//
@@ -890,6 +900,8 @@ figure {
 .flex-col { flex-direction: column; }
 
 .flex-row { flex-direction: row; }
+
+.font-weight-normal { font-weight: normal; }
 
 .justify-center { justify-content: center; }
 

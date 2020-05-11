@@ -5,7 +5,7 @@ name: home
 
 <div id="loading"></div>
 
-<script src='/assets/scripts/spin.min.js'></script>
+<script src='{{ site.url }}/assets/scripts/spin.min.js'></script>
 <script>
   var opts = {
     lines: 7 // The number of lines to draw
@@ -38,47 +38,49 @@ name: home
   {% include header.html %}
 
   <div class="page-content">
-  <!-- Use a template tag and data-* attributes and add projects to the grid with JS -->
-  <template id="template-grid">
-    {% if site.projects %}
+    <!-- Use a template tag and data-* attributes and add projects to the grid with JS -->
+    <template id="template-grid">
+      {% if site.projects %}
       {% for project in site.projects %}
-        {% if project.stack_color %}
-          {% assign bg_color = project.stack_color %}
-        {% else %}
-          {% assign bg_color = 'rgb(209, 209, 209)' %}
-        {% endif %}
+      {% if project.stack_color %}
+      {% assign bg_color = project.stack_color %}
+      {% else %}
+      {% assign bg_color = 'rgb(209, 209, 209)' %}
+      {% endif %}
 
-        {% if project.title != 'about' %}
-          <div class="grid__item" data-categories="{{ project.categories | join: " " }}">
-            <a href='{{ project.url | prepend: site.url }}' style="background-color: {{bg_color}}">
-              <div>
-                <h4 {% if project.dark_title %} style="color: rgb(77, 69, 69)" {% endif %}>{{ project.title | escape }}</h4>
-                {% if project.featured_image %}
-                  <img src='{{ project.featured_image | prepend: site.url }}' {% if project.style %} style='{{ project.style }}' {% endif %}/>
-                {% else %}
-                  <img src='/assets/images/posts/default.png'/>
-                {% endif %}
-              </div>
-            </a>
+      {% if project.title != 'about' %}
+      <div class="grid__item" data-categories="{{ project.categories | join: " " }}">
+        <a href='{{ project.url | prepend: site.url }}' style="background-color: {{bg_color}}">
+          <div>
+            <h4 class="mono-header" {% if project.dark_title %} style="color: rgb(77, 69, 69)" {% endif %}>{{ project.title | escape }}</h4>
+            {% if project.featured_image %}
+            <img src='{{ project.featured_image | prepend: site.url }}' {% if project.style %}
+              style='{{ project.style }}' {% endif %} />
+            {% else %}
+            <img src='{{ site.url }}/assets/images/posts/default.png' />
+            {% endif %}
           </div>
-        {% endif %}
+        </a>
+      </div>
+      {% endif %}
       {% endfor %}
-    {% endif %}
-  </template>
+      {% endif %}
+    </template>
 
-  <!-- Initially with .all -->
-  <div class="grid all"></div>
+    <!-- Initially with .all -->
+    <div class="grid all"></div>
 
-  <div class="quote-wrap">
-    {% if site.quotes %}
+    <div class="quote-wrap">
+      {% if site.quotes %}
       {% for quote in site.quotes %}
-        <span>
-          <a class="desktop quote quote__quote" {% if quote.href %} href='{{quote.href}}' target="_blank" {% else %} href="#" {% endif %}>{{quote.quote}}</a>
-        </span>
-        <h4 class="desktop quote quote__source">{{quote.source}}</h4>
+      <span>
+        <a class="desktop quote quote__quote" {% if quote.href %} href='{{quote.href}}' target="_blank" {% else %}
+          href="#" {% endif %}>{{quote.quote}}</a>
+      </span>
+      <h4 class="desktop quote quote__source">{{quote.source}}</h4>
       {% endfor %}
-    {% endif %}
-  </div>
+      {% endif %}
+    </div>
 
-  {% include footer.html %}
-</div>
+    {% include footer.html %}
+  </div>

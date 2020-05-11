@@ -12,7 +12,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/MM/mm-1-mobile.png' srcset='/assets/images/posts/MM/mm-1-mobile.png 375w, /assets/images/posts/MM/mm-1-mobile@2x.png 750w, /assets/images/posts/MM/mm-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/MM/mm-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-1-mobile.png 375w, {{ site.url }}/assets/images/posts/MM/mm-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/MM/mm-1-mobile@3x.png 1125w'></div>
 
 <p class='bg'>Mission Muscle is a foundation started by a friend that raises funds for genetic research to help cure Duchenne Muscular Dystrophy and also connects families struggling with this illness in the Chicago-land area.</p>
 
@@ -30,7 +30,7 @@ He was looking for a logo, and yes we immediately went 1980’s/90’s superhero
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/MM/mm-2-mobile.png' srcset='/assets/images/posts/MM/mm-2-mobile.png 375w, /assets/images/posts/MM/mm-2-mobile@2x.png 750w, /assets/images/posts/MM/mm-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/MM/mm-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-2-mobile.png 375w, {{ site.url }}/assets/images/posts/MM/mm-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/MM/mm-2-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -38,7 +38,7 @@ He was looking for a logo, and yes we immediately went 1980’s/90’s superhero
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/MM/mm-3-mobile.png' srcset='/assets/images/posts/MM/mm-3-mobile.png 375w, /assets/images/posts/MM/mm-3-mobile@2x.png 750w, /assets/images/posts/MM/mm-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/MM/mm-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-3-mobile.png 375w, {{ site.url }}/assets/images/posts/MM/mm-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/MM/mm-3-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>After getting that out of our system,  we looked at other options. One that jumped out at us was the idea of a mascot or character.</p>
 {{slide['end']}}
@@ -46,7 +46,7 @@ He was looking for a logo, and yes we immediately went 1980’s/90’s superhero
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/MM/mm-4-mobile.png' srcset='/assets/images/posts/MM/mm-4-mobile.png 375w, /assets/images/posts/MM/mm-4-mobile@2x.png 750w, /assets/images/posts/MM/mm-4-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/MM/mm-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-4-mobile.png 375w, {{ site.url }}/assets/images/posts/MM/mm-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/MM/mm-4-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>The logo could be shown a different way with each use, to make things a little more fun and engaging.</p>
 
@@ -55,7 +55,7 @@ He was looking for a logo, and yes we immediately went 1980’s/90’s superhero
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/MM/mm-5-mobile.png' srcset='/assets/images/posts/MM/mm-5-mobile.png 375w, /assets/images/posts/MM/mm-5-mobile@2x.png 750w, /assets/images/posts/MM/mm-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/MM/mm-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-5-mobile.png 375w, {{ site.url }}/assets/images/posts/MM/mm-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/MM/mm-5-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>The color and typography were chosen to be energetic and pair with the bold bulky shape of the logo.</p>
 
@@ -65,7 +65,7 @@ He was looking for a logo, and yes we immediately went 1980’s/90’s superhero
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/MM/mm-6-mobile.png' srcset='/assets/images/posts/MM/mm-6-mobile.png 375w, /assets/images/posts/MM/mm-6-mobile@2x.png 750w, /assets/images/posts/MM/mm-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/MM/mm-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-6-mobile.png 375w, {{ site.url }}/assets/images/posts/MM/mm-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/MM/mm-6-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -73,7 +73,7 @@ He was looking for a logo, and yes we immediately went 1980’s/90’s superhero
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/MM/mm-7-mobile.png' srcset='/assets/images/posts/MM/mm-7-mobile.png 375w, /assets/images/posts/MM/mm-7-mobile@2x.png 750w, /assets/images/posts/MM/mm-7-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/MM/mm-7-mobile.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-7-mobile.png 375w, {{ site.url }}/assets/images/posts/MM/mm-7-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/MM/mm-7-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -83,7 +83,7 @@ He was looking for a logo, and yes we immediately went 1980’s/90’s superhero
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='/assets/images/posts/MM/mm-1@2x.png' srcset='/assets/images/posts/MM/mm-1.png 1024w, /assets/images/posts/MM/mm-1@2x.png 2048w, /assets/images/posts/MM/mm-1@3x.png 3072w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/MM/mm-1@2x.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-1.png 1024w, {{ site.url }}/assets/images/posts/MM/mm-1@2x.png 2048w, {{ site.url }}/assets/images/posts/MM/mm-1@3x.png 3072w'></div>
 
 Mission Muscle is a foundation started by a friend that raises funds for genetic research to help cure Duchenne Muscular Dystrophy and also connects families struggling with this illness in the Chicago-land area.
 
@@ -95,7 +95,7 @@ He was looking for a logo, and yes we immediately went 1980’s/90’s superhero
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/MM/mm-2@2x.png' srcset='/assets/images/posts/MM/mm-2.png 794w, /assets/images/posts/MM/mm-2@2x.png 1588w, /assets/images/posts/MM/mm-2@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/MM/mm-2@2x.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-2.png 794w, {{ site.url }}/assets/images/posts/MM/mm-2@2x.png 1588w, {{ site.url }}/assets/images/posts/MM/mm-2@3x.png 2382w'></div>
 
 After getting that out of our system,  we looked at other options. One that jumped out at us was the idea of a mascot or character.
 
@@ -105,7 +105,7 @@ After getting that out of our system,  we looked at other options. One that jump
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/MM/mm-3@2x.png' srcset='/assets/images/posts/MM/mm-3.png 794w, /assets/images/posts/MM/mm-3@2x.png 1588w, /assets/images/posts/MM/mm-3@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/MM/mm-3@2x.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-3.png 794w, {{ site.url }}/assets/images/posts/MM/mm-3@2x.png 1588w, {{ site.url }}/assets/images/posts/MM/mm-3@3x.png 2382w'></div>
 
 The logo could be shown a different way with each use, to make things a little more fun and engaging.
 
@@ -115,7 +115,7 @@ The logo could be shown a different way with each use, to make things a little m
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/MM/mm-4@2x.png' srcset='/assets/images/posts/MM/mm-4.png 794w, /assets/images/posts/MM/mm-4@2x.png 1588w, /assets/images/posts/MM/mm-4@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/MM/mm-4@2x.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-4.png 794w, {{ site.url }}/assets/images/posts/MM/mm-4@2x.png 1588w, {{ site.url }}/assets/images/posts/MM/mm-4@3x.png 2382w'></div>
 
 The color and typography were chosen to be energetic and pair with the bold bulky shape of the logo.
 
@@ -126,7 +126,7 @@ The color and typography were chosen to be energetic and pair with the bold bulk
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/MM/mm-5@2x.png' srcset='/assets/images/posts/MM/mm-5.png 794w, /assets/images/posts/MM/mm-5@2x.png 1588w, /assets/images/posts/MM/mm-5@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/MM/mm-5@2x.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-5.png 794w, {{ site.url }}/assets/images/posts/MM/mm-5@2x.png 1588w, {{ site.url }}/assets/images/posts/MM/mm-5@3x.png 2382w'></div>
 
 {{slide['end']}}
 
@@ -136,9 +136,9 @@ The color and typography were chosen to be energetic and pair with the bold bulk
 
 <div class='row'>
 
-<div><img src='/assets/images/posts/MM/mm-6@2x.png' srcset='/assets/images/posts/MM/mm-6.png 314w, /assets/images/posts/MM/mm-6@2x.png 628w, /assets/images/posts/MM/mm-6@3x.png 942w'></div><!--
+<div><img src='{{ site.url }}/assets/images/posts/MM/mm-6@2x.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-6.png 314w, {{ site.url }}/assets/images/posts/MM/mm-6@2x.png 628w, {{ site.url }}/assets/images/posts/MM/mm-6@3x.png 942w'></div><!--
 
---><div><img src='/assets/images/posts/MM/mm-7@2x.png' srcset='/assets/images/posts/MM/mm-7.png 474w, /assets/images/posts/MM/mm-7@2x.png 948w, /assets/images/posts/MM/mm-7@3x.png 1422w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/MM/mm-7@2x.png' srcset='{{ site.url }}/assets/images/posts/MM/mm-7.png 474w, {{ site.url }}/assets/images/posts/MM/mm-7@2x.png 948w, {{ site.url }}/assets/images/posts/MM/mm-7@3x.png 1422w'></div>
 
 </div>
 

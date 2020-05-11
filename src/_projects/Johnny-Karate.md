@@ -13,7 +13,7 @@ categories:
   <div>
     <img
       class='full-height' 
-      src='/assets/images/posts/Johnny_Karate/johnny-1-mobile@2x.png'
+      src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-1-mobile@2x.png'
     />
   </div>
 
@@ -24,7 +24,7 @@ categories:
   <div>
     <img
       class='full-height' 
-      src='/assets/images/posts/Johnny_Karate/johnny-2-mobile@2x.png'
+      src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-2-mobile@2x.png'
     />
   </div>
 {{slide['end']}}
@@ -33,18 +33,23 @@ categories:
   <div>
     <img
       class='full-height' 
-      src='/assets/images/posts/Johnny_Karate/johnny-3-mobile@2x.png'
+      src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-3-mobile@2x.png'
     />
   </div>
 
-  <p class="bg">After sharing some sketches after Muay Thai class, we landed on a script we liked and Johnny had the idea of working a black belt into the underline. With that addition, and a little help from the computer, we had ourselves a T-Shirt design.</p>
+  <p class="bg">Research for this project involved looking at some of the most iconic scripts in baseball for common traits.</p>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+  <p>After sharing some sketches after Muay Thai class, we landed on a script we liked and Johnny had the idea of working a black belt into the underline. With that addition, and a little help from the computer, we had ourselves a T-Shirt design.</p>
 {{slide['end']}}
 
 {{slide['startmobile']}}
   <div>
     <img
       class='full-height' 
-      src='/assets/images/posts/Johnny_Karate/johnny-4-mobile@2x.png'
+      src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-4-mobile@2x.png'
     />
   </div>
 {{slide['end']}}
@@ -53,7 +58,7 @@ categories:
   <div>
     <img
       class='full-width' 
-      src='/assets/images/posts/Johnny_Karate/johnny-1@2x.png'
+      src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-1@2x.png'
     />
   </div>
 
@@ -61,15 +66,15 @@ categories:
 
   <figure>
     <img
-      src='/assets/images/posts/Johnny_Karate/johnny-2@2x.png'
+      src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-2@2x.png'
     />
     <figcaption>Research for this project involved looking at some of the most iconic scripts in baseball for common traits.</figcaption>
   </figure>
 
   <p>After sharing some sketches after Muay Thai class, we landed on a script we liked and Johnny had the idea of working a black belt into the underline. With that addition, and a little help from the computer, we had ourselves a T-Shirt design.</p>
 
-  <div><img src='/assets/images/posts/Johnny_Karate/johnny-3@2x.png'/></div>
+  <div><img src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-3@2x.png'/></div>
 
-  <div><img src='/assets/images/posts/Johnny_Karate/johnny-4@2x.png' /></div>
+  <div><img src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-4@2x.png' /></div>
 
 {{slide['end']}}

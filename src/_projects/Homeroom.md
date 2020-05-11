@@ -13,7 +13,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/Homeroom/homeroom-1-mobile.png' srcset='/assets/images/posts/Homeroom/homeroom-1-mobile.png 375w, /assets/images/posts/Homeroom/homeroom-1-mobile@2x.png 750w, /assets/images/posts/Homeroom/homeroom-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-1-mobile@3x.png 1125w'></div>
 
 
 {{slide['end']}}
@@ -34,7 +34,7 @@ From that insight Homeroom was born. We spent the next couple days ironing out t
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/Homeroom/homeroom-2-mobile.png' srcset='/assets/images/posts/Homeroom/homeroom-2-mobile.png 375w, /assets/images/posts/Homeroom/homeroom-2-mobile@2x.png 750w, /assets/images/posts/Homeroom/homeroom-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-2-mobile@3x.png 1125w'></div>
 
 <p class='bg'>The visual style was inspired by chalkboard note-taking.</p>
 
@@ -44,7 +44,7 @@ From that insight Homeroom was born. We spent the next couple days ironing out t
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='/assets/images/posts/Homeroom/homeroom-3-mobile.png' srcset='/assets/images/posts/Homeroom/homeroom-3-mobile.png 375w, /assets/images/posts/Homeroom/homeroom-3-mobile@2x.png 750w, /assets/images/posts/Homeroom/homeroom-3-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-3-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -53,7 +53,7 @@ From that insight Homeroom was born. We spent the next couple days ironing out t
 
 {{slide['startmobile']}}
 
-<div><img src='/assets/images/posts/Homeroom/homeroom-4-mobile.png' srcset='/assets/images/posts/Homeroom/homeroom-4-mobile.png 375w, /assets/images/posts/Homeroom/homeroom-4-mobile@2x.png 750w, /assets/images/posts/Homeroom/homeroom-4-mobile@3x.png 1125w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-4-mobile.png 375w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-4-mobile@3x.png 1125w'></div>
 
 <p class='bg'>A design system was created for class study groups, and the icons and UI elements were handdrawn to relate to the logo.</p>
 
@@ -64,7 +64,7 @@ From that insight Homeroom was born. We spent the next couple days ironing out t
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/Homeroom/homeroom-5-mobile.png' srcset='/assets/images/posts/Homeroom/homeroom-5-mobile.png 375w, /assets/images/posts/Homeroom/homeroom-5-mobile@2x.png 750w, /assets/images/posts/Homeroom/homeroom-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-5-mobile.png 375w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-5-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>The branding was meant to feel playful and inviting.</p>
 
@@ -73,7 +73,7 @@ From that insight Homeroom was born. We spent the next couple days ironing out t
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/Homeroom/homeroom-6-mobile.png' srcset='/assets/images/posts/Homeroom/homeroom-6-mobile.png 375w, /assets/images/posts/Homeroom/homeroom-6-mobile@2x.png 750w, /assets/images/posts/Homeroom/homeroom-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-6-mobile.png 375w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-6-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>The app would be built on the Slack API, piggy-backing on software that already exists and is used in many professional fields today.</p>
 
@@ -83,7 +83,7 @@ From that insight Homeroom was born. We spent the next couple days ironing out t
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/Homeroom/homeroom-7-mobile.png' srcset='/assets/images/posts/Homeroom/homeroom-7-mobile.png 375w, /assets/images/posts/Homeroom/homeroom-7-mobile@2x.png 750w, /assets/images/posts/Homeroom/homeroom-7-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-7-mobile.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-7-mobile.png 375w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-7-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-7-mobile@3x.png 1125w'></div>
 
 
 <p class='bg-dark'>Students would be invited, have direct access to their professor, groups would be created, classmates would be introduced to each other, live study groups would be hosted, and class materials shared, all in Slack.</p>
@@ -93,7 +93,7 @@ From that insight Homeroom was born. We spent the next couple days ironing out t
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/Homeroom/homeroom-8-mobile.png' srcset='/assets/images/posts/Homeroom/homeroom-8-mobile.png 375w, /assets/images/posts/Homeroom/homeroom-8-mobile@2x.png 750w, /assets/images/posts/Homeroom/homeroom-8-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-8-mobile.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-8-mobile.png 375w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-8-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-8-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -103,7 +103,7 @@ From that insight Homeroom was born. We spent the next couple days ironing out t
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='/assets/images/posts/Homeroom/homeroom-9-mobile.png' srcset='/assets/images/posts/Homeroom/homeroom-9-mobile.png 375w, /assets/images/posts/Homeroom/homeroom-9-mobile@2x.png 750w, /assets/images/posts/Homeroom/homeroom-9-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-9-mobile.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-9-mobile.png 375w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-9-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-9-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>The app would provide professors with a lot of helpful tools like the ability to quickly pull up student information, schedule a 1-on-1 meeting or message them.</p>
 
@@ -113,7 +113,7 @@ From that insight Homeroom was born. We spent the next couple days ironing out t
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='/assets/images/posts/Homeroom/homeroom-10-mobile.png' srcset='/assets/images/posts/Homeroom/homeroom-10-mobile.png 375w, /assets/images/posts/Homeroom/homeroom-10-mobile@2x.png 750w, /assets/images/posts/Homeroom/homeroom-10-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-10-mobile.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-10-mobile.png 375w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-10-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-10-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>Other apps like Google Calendar would be synced so that scheduling meetings can be made a breeze.</p>
 
@@ -123,7 +123,7 @@ From that insight Homeroom was born. We spent the next couple days ironing out t
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='/assets/images/posts/Homeroom/homeroom-11-mobile.png' srcset='/assets/images/posts/Homeroom/homeroom-11-mobile.png 375w, /assets/images/posts/Homeroom/homeroom-11-mobile@2x.png 750w, /assets/images/posts/Homeroom/homeroom-11-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-11-mobile.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-11-mobile.png 375w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-11-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-11-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>Professors would get a birds-eye view of how their class is doing, with live updates and overviews and suggests when some students might need more guidance.</p>
 
@@ -138,7 +138,7 @@ From that insight Homeroom was born. We spent the next couple days ironing out t
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='/assets/images/posts/Homeroom/homeroom-1@2x.png' srcset='/assets/images/posts/Homeroom/homeroom-1.png 1024w, /assets/images/posts/Homeroom/homeroom-1@2x.png 2048w, /assets/images/posts/Homeroom/homeroom-1@3x.png 3072w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-1.png 1024w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-1@3x.png 3072w'></div>
 
 Homeroom was the result of a 5-day workshop focused on online higher education and a growing perception that it’s not effective.
 
@@ -152,7 +152,7 @@ From that insight Homeroom was born. We spent the next couple days ironing out t
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/Homeroom/homeroom-2@2x.png' srcset='/assets/images/posts/Homeroom/homeroom-2.png 794w, /assets/images/posts/Homeroom/homeroom-2@2x.png 1588w, /assets/images/posts/Homeroom/homeroom-2@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-2.png 794w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-2@2x.png 1588w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-2@3x.png 2382w'></div>
 
 <figcaption>The molecular looking cube represents connections while the avatar is meant to feel like your super smart study buddy.</figcaption>
 
@@ -167,9 +167,9 @@ The branding was meant to feel playful and inviting.
 
 <div class='row'>
 
-<div><img src='/assets/images/posts/Homeroom/homeroom-3@2x.png' srcset='/assets/images/posts/Homeroom/homeroom-3.png 314w, /assets/images/posts/Homeroom/homeroom-3@2x.png 628w, /assets/images/posts/Homeroom/homeroom-3@3x.png 942w'></div><!--
+<div><img src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-3.png 314w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-3@2x.png 628w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-3@3x.png 942w'></div><!--
 
---><div><img src='/assets/images/posts/Homeroom/homeroom-4@2x.png' srcset='/assets/images/posts/Homeroom/homeroom-4.png 474w, /assets/images/posts/Homeroom/homeroom-4@2x.png 948w, /assets/images/posts/Homeroom/homeroom-4@3x.png 1422w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-4@2x.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-4.png 474w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-4@2x.png 948w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-4@3x.png 1422w'></div>
 
 </div>
 
@@ -186,7 +186,7 @@ Students would be invited, have direct access to their professor, groups would b
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/Homeroom/homeroom-5@2x.png' srcset='/assets/images/posts/Homeroom/homeroom-5.png 794w, /assets/images/posts/Homeroom/homeroom-5@2x.png 1588w, /assets/images/posts/Homeroom/homeroom-5@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-5.png 794w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-5@2x.png 1588w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-5@3x.png 2382w'></div>
 
 The app would provide professors with a lot of helpful tools like the ability to quickly pull up student information, schedule a 1-on-1 meeting or message them.
 
@@ -197,7 +197,7 @@ The app would provide professors with a lot of helpful tools like the ability to
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/Homeroom/homeroom-6@2x.png' srcset='/assets/images/posts/Homeroom/homeroom-6.png 794w, /assets/images/posts/Homeroom/homeroom-6@2x.png 1588w, /assets/images/posts/Homeroom/homeroom-6@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-6@2x.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-6.png 794w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-6@2x.png 1588w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-6@3x.png 2382w'></div>
 
 Other apps like Google Calendar would be synced so that scheduling meetings can be made a breeze.
 
@@ -208,7 +208,7 @@ Other apps like Google Calendar would be synced so that scheduling meetings can 
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/Homeroom/homeroom-7@2x.png' srcset='/assets/images/posts/Homeroom/homeroom-7.png 794w, /assets/images/posts/Homeroom/homeroom-7@2x.png 1588w, /assets/images/posts/Homeroom/homeroom-7@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-7@2x.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-7.png 794w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-7@2x.png 1588w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-7@3x.png 2382w'></div>
 
 Professors would get a birds-eye view of how their class is doing, with live updates and overviews and suggests when some students might need more guidance.
 
@@ -218,7 +218,7 @@ Professors would get a birds-eye view of how their class is doing, with live upd
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/Homeroom/homeroom-8@2x.png' srcset='/assets/images/posts/Homeroom/homeroom-8.png 794w, /assets/images/posts/Homeroom/homeroom-8@2x.png 1588w, /assets/images/posts/Homeroom/homeroom-8@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-8@2x.png' srcset='{{ site.url }}/assets/images/posts/Homeroom/homeroom-8.png 794w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-8@2x.png 1588w, {{ site.url }}/assets/images/posts/Homeroom/homeroom-8@3x.png 2382w'></div>
 
 
 {{slide['end']}}

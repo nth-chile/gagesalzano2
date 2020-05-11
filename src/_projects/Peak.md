@@ -13,7 +13,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/peak/peak-1-mobile.png' srcset='/assets/images/posts/peak/peak-1-mobile.png 375w, /assets/images/posts/peak/peak-1-mobile@2x.png 750w, /assets/images/posts/peak/peak-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Peak/peak-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Peak/peak-1-mobile@3x.png 1125w'></div>
 
 
 {{slide['end']}}
@@ -33,7 +33,7 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/peak/peak-2-mobile.png' srcset='/assets/images/posts/peak/peak-2-mobile.png 375w, /assets/images/posts/peak/peak-2-mobile@2x.png 750w, /assets/images/posts/peak/peak-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Peak/peak-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Peak/peak-2-mobile@3x.png 1125w'></div>
 
 <p class='bg'>The visual style was meant to feel smart, uplifting and helpful.</p>
 
@@ -43,7 +43,7 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/peak/peak-3-mobile.png' srcset='/assets/images/posts/peak/peak-3-mobile.png 375w, /assets/images/posts/peak/peak-3-mobile@2x.png 750w, /assets/images/posts/peak/peak-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Peak/peak-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Peak/peak-3-mobile@3x.png 1125w'></div>
 
 {{slide['end']}}
 
@@ -51,7 +51,7 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/peak/peak-7-mobile.png' srcset='/assets/images/posts/peak/peak-7-mobile.png 375w, /assets/images/posts/peak/peak-7-mobile@2x.png 750w, /assets/images/posts/peak/peak-7-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-7-mobile.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-7-mobile.png 375w, {{ site.url }}/assets/images/posts/Peak/peak-7-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Peak/peak-7-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>To start using Peak, business owners would add basic company information, authenticate external services, and add their team.</p>
 
@@ -61,7 +61,7 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/peak/peak-4-mobile.png' srcset='/assets/images/posts/peak/peak-4-mobile.png 375w, /assets/images/posts/peak/peak-4-mobile@2x.png 750w, /assets/images/posts/peak/peak-4-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-4-mobile.png 375w, {{ site.url }}/assets/images/posts/Peak/peak-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Peak/peak-4-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>Candidates would receive quick-and-easy questions in their inbox to build an understanding of what type of companies and positions they would thrive in overtime.</p>
 
@@ -73,7 +73,7 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' class='full-height' src='/assets/images/posts/peak/peak-5-mobile.png' srcset='/assets/images/posts/peak/peak-5-mobile.png 375w, /assets/images/posts/peak/peak-5-mobile@2x.png 750w, /assets/images/posts/peak/peak-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-5-mobile.png 375w, {{ site.url }}/assets/images/posts/Peak/peak-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Peak/peak-5-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -83,7 +83,7 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/peak/peak-6-mobile.png' srcset='/assets/images/posts/peak/peak-6-mobile.png 375w, /assets/images/posts/peak/peak-6-mobile@2x.png 750w, /assets/images/posts/peak/peak-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-6-mobile.png 375w, {{ site.url }}/assets/images/posts/Peak/peak-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Peak/peak-6-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'></p>
 
@@ -93,7 +93,7 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/peak/peak-8-mobile.png' srcset='/assets/images/posts/peak/peak-8-mobile.png 375w, /assets/images/posts/peak/peak-8-mobile@2x.png 750w, /assets/images/posts/peak/peak-8-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-8-mobile.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-8-mobile.png 375w, {{ site.url }}/assets/images/posts/Peak/peak-8-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Peak/peak-8-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>The application would show candidate matches for each position, organized by team.</p>
 
@@ -103,7 +103,7 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='/assets/images/posts/peak/peak-9-mobile.png' srcset='/assets/images/posts/peak/peak-9-mobile.png 375w, /assets/images/posts/peak/peak-9-mobile@2x.png 750w, /assets/images/posts/peak/peak-9-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-9-mobile.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-9-mobile.png 375w, {{ site.url }}/assets/images/posts/Peak/peak-9-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Peak/peak-9-mobile@3x.png 1125w'></div>
 
 <p class='bg-dark'>Business owners could click on a candidate to see more information about them and why they were a match.</p>
 
@@ -117,7 +117,7 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='/assets/images/posts/peak/peak-1@2x.png' srcset='/assets/images/posts/peak/peak-1.png 1024w, /assets/images/posts/peak/peak-1@2x.png 2048w, /assets/images/posts/peak/peak-1@3x.png 3072w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Peak/peak-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-1.png 1024w, {{ site.url }}/assets/images/posts/Peak/peak-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Peak/peak-1@3x.png 3072w'></div>
 
 Peak was the result of a 3-day workshop focused on finding a way to reduce the costs and inefficiencies around hiring the right candidate.
 
@@ -133,9 +133,9 @@ We took that thinking and designed the branding, visual design style, and built 
 
 <div class='row'>
 
-<div><img src='/assets/images/posts/peak/peak-2@2x.png' srcset='/assets/images/posts/peak/peak-2.png 314w, /assets/images/posts/peak/peak-2@2x.png 628w, /assets/images/posts/peak/peak-2@3x.png 942w'></div><!--
+<div><img src='{{ site.url }}/assets/images/posts/Peak/peak-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-2.png 314w, {{ site.url }}/assets/images/posts/Peak/peak-2@2x.png 628w, {{ site.url }}/assets/images/posts/Peak/peak-2@3x.png 942w'></div><!--
 
---><div><img src='/assets/images/posts/peak/peak-3@2x.png' srcset='/assets/images/posts/peak/peak-3.png 474w, /assets/images/posts/peak/peak-3@2x.png 948w, /assets/images/posts/peak/peak-3@3x.png 1422w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/Peak/peak-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-3.png 474w, {{ site.url }}/assets/images/posts/Peak/peak-3@2x.png 948w, {{ site.url }}/assets/images/posts/Peak/peak-3@3x.png 1422w'></div>
 
 </div>
 
@@ -151,7 +151,7 @@ The visual style was designed to feel smart, uplifting and helpful.
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/peak/peak-4@2x.png' srcset='/assets/images/posts/peak/peak-4.png 794w, /assets/images/posts/peak/peak-4@2x.png 1588w, /assets/images/posts/peak/peak-4@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Peak/peak-4@2x.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-4.png 794w, {{ site.url }}/assets/images/posts/Peak/peak-4@2x.png 1588w, {{ site.url }}/assets/images/posts/Peak/peak-4@3x.png 2382w'></div>
 
 To start using Peak, business owners would add basic company information, authenticate external services, and add their team.
 
@@ -161,7 +161,7 @@ To start using Peak, business owners would add basic company information, authen
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/peak/peak-5@2x.png' srcset='/assets/images/posts/peak/peak-5.png 794w, /assets/images/posts/peak/peak-5@2x.png 1588w, /assets/images/posts/peak/peak-5@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Peak/peak-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-5.png 794w, {{ site.url }}/assets/images/posts/Peak/peak-5@2x.png 1588w, {{ site.url }}/assets/images/posts/Peak/peak-5@3x.png 2382w'></div>
 
 Candidates would receive quick-and-easy questions in their inbox to build an understanding of what type of companies and positions they would thrive in overtime.
 
@@ -171,7 +171,7 @@ Candidates would receive quick-and-easy questions in their inbox to build an und
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/peak/peak-6@2x.png' srcset='/assets/images/posts/peak/peak-6.png 794w, /assets/images/posts/peak/peak-6@2x.png 1588w, /assets/images/posts/peak/peak-6@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Peak/peak-6@2x.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-6.png 794w, {{ site.url }}/assets/images/posts/Peak/peak-6@2x.png 1588w, {{ site.url }}/assets/images/posts/Peak/peak-6@3x.png 2382w'></div>
 
 The application would show candidate matches for each position, organized by team.
 
@@ -181,7 +181,7 @@ The application would show candidate matches for each position, organized by tea
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/peak/peak-7@2x.png' srcset='/assets/images/posts/peak/peak-7.png 794w, /assets/images/posts/peak/peak-7@2x.png 1588w, /assets/images/posts/peak/peak-7@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Peak/peak-7@2x.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-7.png 794w, {{ site.url }}/assets/images/posts/Peak/peak-7@2x.png 1588w, {{ site.url }}/assets/images/posts/Peak/peak-7@3x.png 2382w'></div>
 
 Business owners could click on a candidate to see more information about them and why they were a match.
 
@@ -191,6 +191,6 @@ Business owners could click on a candidate to see more information about them an
 
 {{slide['startdesktop']}}
 
-<div><img src='/assets/images/posts/peak/peak-8@2x.png' srcset='/assets/images/posts/peak/peak-8.png 794w, /assets/images/posts/peak/peak-8@2x.png 1588w, /assets/images/posts/peak/peak-8@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Peak/peak-8@2x.png' srcset='{{ site.url }}/assets/images/posts/Peak/peak-8.png 794w, {{ site.url }}/assets/images/posts/Peak/peak-8@2x.png 1588w, {{ site.url }}/assets/images/posts/Peak/peak-8@3x.png 2382w'></div>
 
 {{slide['end']}}
