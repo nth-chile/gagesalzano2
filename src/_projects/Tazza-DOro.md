@@ -11,7 +11,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-1-mobile@2x.jpg' /></div>
 
 {{slide['end']}}
 
@@ -37,7 +37,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile@2x.jpg' /></div>
 
 
 {{slide['end']}}
@@ -53,7 +53,7 @@ We looked at a range of ideas from hand-lettering to an option inspired by Itali
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
 
@@ -105,7 +105,7 @@ Thanks to <a href='https://www.fullstopinteractive.com/'>Jay & Nate</a> for the 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-4-mobile@2x.jpg' /></div>
 
 {{slide['end']}}
 
@@ -120,7 +120,7 @@ We refined the hand lettering approach until we created a distinctive and bold s
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
 
@@ -129,7 +129,7 @@ We refined the hand lettering approach until we created a distinctive and bold s
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
 
@@ -138,7 +138,7 @@ We refined the hand lettering approach until we created a distinctive and bold s
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7-mobile.jpg 375w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-7-mobile@2x.jpg' /></div>
 
 {{slide['end']}}
 

@@ -10,7 +10,7 @@ stack_color: white
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-1-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-1-mobile@2x.jpg' /></div>
 
 {{slide['end']}}
 
@@ -28,7 +28,7 @@ Glass Ceiling is resource for women determined to succeed in business.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-2-mobile@2x.jpg' /></div>
 
 <p class='bg'>The monogram symbolized taking the next step in your career.</p>
 
@@ -44,13 +44,13 @@ The monogram was created to symbolize taking the next step in your career.
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-3-mobile.png 375w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-3-mobile@3x.png 1125w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-3-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-4-mobile.png 375w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-4-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/GlassCeiling/glassceiling-4-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 

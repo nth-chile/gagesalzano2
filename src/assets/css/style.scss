@@ -293,6 +293,9 @@ h4 {
 
   @include min900 {
     width: auto;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
   }
   
   &:hover,
@@ -498,7 +501,7 @@ figure {
 }
 
 .post-nav {
-	background-color: $real-post-nav-color;
+	background-color: $post-nav-color;
 	display: flex;
 	height: 50px;
 	padding: 3px 0;

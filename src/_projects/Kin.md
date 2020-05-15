@@ -12,7 +12,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Kin/kin-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Kin/kin-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-1-mobile@2x.png' /></div>
 
 <p class='bg'>Kin is an HR software company whose mission is all about building happier healthier workplaces. They hired us to capture that feeling on their homepage.</p>
 
@@ -22,7 +22,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Kin/kin-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Kin/kin-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-2-mobile@2x.png' /></div>
 
 <p class='bg-dark'>Illustration, color spectrum patterns and staff vacation photos uplifted the mood.</p>
 
@@ -32,7 +32,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Kin/kin-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Kin/kin-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-3-mobile@2x.png' /></div>
 
 <p class='bg-dark'>We wanted things to be straight-forward. Show the reasons why you should use it, how it could make you more money and how it works.</p>
 
@@ -50,7 +50,7 @@ While the homepage provided a birds-eye view, each core feature had a landing pa
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-4-mobile.png 375w, {{ site.url }}/assets/images/posts/Kin/kin-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Kin/kin-4-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-4-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
@@ -65,7 +65,7 @@ Vacation photos from team members were used as backdrops behind call to actions 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-5-mobile.png 375w, {{ site.url }}/assets/images/posts/Kin/kin-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Kin/kin-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-5-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
@@ -74,7 +74,7 @@ Vacation photos from team members were used as backdrops behind call to actions 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-6-mobile.png 375w, {{ site.url }}/assets/images/posts/Kin/kin-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Kin/kin-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-6-mobile@2x.png' /></div>
 
 
 {{slide['end']}}
@@ -83,7 +83,7 @@ Vacation photos from team members were used as backdrops behind call to actions 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-7-mobile.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-7-mobile.png 375w, {{ site.url }}/assets/images/posts/Kin/kin-7-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Kin/kin-7-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-7-mobile@2x.png' /></div>
 
 <p class='bg-dark'>Each screen was designed and built to be responsive to mobile screens.</p>
 
@@ -93,7 +93,7 @@ Vacation photos from team members were used as backdrops behind call to actions 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-8-mobile.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-8-mobile.png 375w, {{ site.url }}/assets/images/posts/Kin/kin-8-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Kin/kin-8-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-8-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
@@ -103,7 +103,7 @@ Vacation photos from team members were used as backdrops behind call to actions 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-9-mobile.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-9-mobile.png 375w, {{ site.url }}/assets/images/posts/Kin/kin-9-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Kin/kin-9-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-9-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
@@ -113,7 +113,7 @@ Vacation photos from team members were used as backdrops behind call to actions 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-10-mobile.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-10-mobile.png 375w, {{ site.url }}/assets/images/posts/Kin/kin-10-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Kin/kin-10-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Kin/kin-10-mobile@2x.png' /></div>
 
 
 {{slide['end']}}
@@ -124,7 +124,7 @@ Vacation photos from team members were used as backdrops behind call to actions 
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Kin/kin-1@2x.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-1.png 1024w, {{ site.url }}/assets/images/posts/Kin/kin-1@2x.png 2048w, {{ site.url }}/assets/images/posts/Kin/kin-1@3x.png 3072w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Kin/kin-1@2x.png' /></div>
 
 Kin is an HR software company whose mission is all about building happier healthier workplaces. They hired us to capture that feeling on their homepage.
 
@@ -135,7 +135,7 @@ Kin is an HR software company whose mission is all about building happier health
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-2.png 794w, {{ site.url }}/assets/images/posts/Kin/kin-2@2x.png 1588w, {{ site.url }}/assets/images/posts/Kin/kin-2@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-2@2x.png' /></div>
 
 <figcaption>Illustration, color spectrum patterns and staff vacation photos uplifted the mood.</figcaption>
 
@@ -147,7 +147,7 @@ We wanted things to be straight-forward. Show the reasons why you should use it,
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-3.png 794w, {{ site.url }}/assets/images/posts/Kin/kin-3@2x.png 1588w, {{ site.url }}/assets/images/posts/Kin/kin-3@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-3@2x.png' /></div>
 
 While the homepage provided a birds-eye view, each core feature had a landing page where we dive into how exactly that feature works and why we think it's great.
 
@@ -159,9 +159,9 @@ While the homepage provided a birds-eye view, each core feature had a landing pa
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-4@2x.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-4.png 314w, {{ site.url }}/assets/images/posts/Kin/kin-4@2x.png 628w, {{ site.url }}/assets/images/posts/Kin/kin-4@3x.png 942w'></div><!--
+<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-4@2x.png' /></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Kin/kin-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-5.png 474w, {{ site.url }}/assets/images/posts/Kin/kin-5@2x.png 948w, {{ site.url }}/assets/images/posts/Kin/kin-5@3x.png 1422w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/Kin/kin-5@2x.png' /></div>
 
 </div>
 
@@ -176,9 +176,9 @@ Vacation photos from team members were used as backdrops behind call to actions 
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-6@2x.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-6.png 314w, {{ site.url }}/assets/images/posts/Kin/kin-6@2x.png 628w, {{ site.url }}/assets/images/posts/Kin/kin-6@3x.png 942w'></div><!--
+<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-6@2x.png' /></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Kin/kin-7@2x.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-7.png 474w, {{ site.url }}/assets/images/posts/Kin/kin-7@2x.png 948w, {{ site.url }}/assets/images/posts/Kin/kin-7@3x.png 1422w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/Kin/kin-7@2x.png' /></div>
 
 </div>
 
@@ -186,9 +186,9 @@ Vacation photos from team members were used as backdrops behind call to actions 
 
 <div class='row'>
 
-<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-8@2x.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-8.png 314w, {{ site.url }}/assets/images/posts/Kin/kin-8@2x.png 628w, {{ site.url }}/assets/images/posts/Kin/kin-8@3x.png 942w'></div><!--
+<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-8@2x.png' /></div><!--
 
---><div><img src='{{ site.url }}/assets/images/posts/Kin/kin-9@2x.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-9.png 474w, {{ site.url }}/assets/images/posts/Kin/kin-9@2x.png 948w, {{ site.url }}/assets/images/posts/Kin/kin-9@3x.png 1422w'></div>
+--><div><img src='{{ site.url }}/assets/images/posts/Kin/kin-9@2x.png' /></div>
 
 </div>
 
@@ -200,7 +200,7 @@ Vacation photos from team members were used as backdrops behind call to actions 
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-10@2x.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-10.png 794w, {{ site.url }}/assets/images/posts/Kin/kin-10@2x.png 1588w, {{ site.url }}/assets/images/posts/Kin/kin-10@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-10@2x.png' /></div>
 
 Each screen was designed and built to be responsive to mobile screens.
 
@@ -210,7 +210,7 @@ Each screen was designed and built to be responsive to mobile screens.
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-11@2x.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-11.png 794w, {{ site.url }}/assets/images/posts/Kin/kin-11@2x.png 1588w, {{ site.url }}/assets/images/posts/Kin/kin-11@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-11@2x.png' /></div>
 
 <br />
 
@@ -222,6 +222,6 @@ Each screen was designed and built to be responsive to mobile screens.
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-12@2x.png' srcset='{{ site.url }}/assets/images/posts/Kin/kin-12.png 794w, {{ site.url }}/assets/images/posts/Kin/kin-12@2x.png 1588w, {{ site.url }}/assets/images/posts/Kin/kin-12@3x.png 2382w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Kin/kin-12@2x.png' /></div>
 
 {{slide['end']}}

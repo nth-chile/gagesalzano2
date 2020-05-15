@@ -24,7 +24,7 @@ stack_color: white
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2-mobile.png 375w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2016/whowantslove-2015-2-mobile@2x.png' /></div>
 
 <p class='bg'>The concept of a pony with a green mustache wearing a wizard costume was inspiration enough&hellip;I just drew the thing.</p>
 

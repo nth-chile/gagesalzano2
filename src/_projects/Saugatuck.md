@@ -10,7 +10,7 @@ categories:
 {% assign slide = site.data.slide %}
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1-mobile@2x.jpg' /></div>
 
 <p class="bg">Sometimes, you get super lucky and get to work on branding for a town.</p>
 
@@ -32,7 +32,7 @@ The <a href='https://en.wikipedia.org/wiki/Kalamazoo_River'>Kalamazoo River</a> 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-2-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
 
@@ -41,7 +41,7 @@ The <a href='https://en.wikipedia.org/wiki/Kalamazoo_River'>Kalamazoo River</a> 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-6-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-6-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-6-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-6-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-6-mobile@2x.jpg' /></div>
 
 
 {{slide['end']}}
@@ -69,7 +69,7 @@ The type interacts with the river and can be used in many ways.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-3-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
@@ -86,7 +86,7 @@ The river motif winds throughout collateral.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4-mobile.png 375w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
@@ -95,7 +95,7 @@ The river motif winds throughout collateral.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-5-mobile.png 375w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Saugatuck/saugatuck-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-5-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 

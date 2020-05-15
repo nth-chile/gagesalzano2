@@ -12,7 +12,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-1-mobile@2x.jpg' /></div>
 
 <p class='bg'><a href='https://power2switch.com/'>Power2Switch</a> helps people to find more affordable energy prices.</p>
 
@@ -29,7 +29,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-2-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
@@ -47,7 +47,7 @@ The concept was focused on playing with the relationship between light and dark.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-3-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-3-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-3-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-3-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-3-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'> </p>
 
@@ -62,7 +62,7 @@ The concept was focused on playing with the relationship between light and dark.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-4-mobile.png 375w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-4-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-4-mobile@2x.png' /></div>
 
 {{slide['end']}}
 

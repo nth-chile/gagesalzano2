@@ -12,7 +12,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-1-mobile.png 375w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-1-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
@@ -31,7 +31,7 @@ For 826 Chicago’s Annual Report, we wanted to create something that celebrated
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-2-mobile.png 375w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-2-mobile@2x.png' /></div>
 
 <p class='bg-dark'>Most design elements were made with pencil and paper.</p>
 
@@ -41,7 +41,7 @@ For 826 Chicago’s Annual Report, we wanted to create something that celebrated
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-3-mobile.png 375w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-3-mobile@2x.png' /></div>
 
 <p class='bg-dark'>The navigation was made up of different book cover types that represent the ways that writing affects our lives.</p>
 
@@ -52,7 +52,7 @@ For 826 Chicago’s Annual Report, we wanted to create something that celebrated
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-4-mobile.png 375w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-4-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-4-mobile@2x.png' /></div>
 
 <p class='bg-dark'>The content was designed to feel like reading a chapter from a book: a title, a single column of text and a few supporting images.</p>
 
@@ -69,7 +69,7 @@ It was fun recreating some of the stickers you would find on your writing homewo
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-5-mobile.png 375w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-5-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
@@ -80,7 +80,7 @@ It was fun recreating some of the stickers you would find on your writing homewo
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-6-mobile.png 375w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-6-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
@@ -90,7 +90,7 @@ It was fun recreating some of the stickers you would find on your writing homewo
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-7-mobile.png' srcset='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-7-mobile.png 375w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-7-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-7-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/826CHI_2017_Report/826-2017-7-mobile@2x.png' /></div>
 
 <p class='bg'>Each donor received a postcard that looked like the Chicago library card, with a custom message and link to the annual report.</p>
 

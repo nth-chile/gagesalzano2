@@ -11,7 +11,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-1-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
@@ -29,7 +29,7 @@ We worked on a small team that helped Glassdoor rethink their visual brand.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-2-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'>We added more symmetry to solve layout issues and made the symbolism to a doorframe more obvious.</p>
 
@@ -45,7 +45,7 @@ We added more symmetry to solve layout issues and made the symbolism to a doorfr
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-3-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-3-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-3-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-3-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-3-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
 
@@ -53,7 +53,7 @@ We added more symmetry to solve layout issues and made the symbolism to a doorfr
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-4-mobile@2x.jpg' /></div>
 
 <p class='bg'>The doorframe expands to brackets that frame elements.</p>
 
@@ -69,13 +69,13 @@ The doorframe symbol expands as two brackets to become a visual tool used to fra
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile@3x.jpg 1125w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile@2x.jpg' /></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-6-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-6-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-6-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-6-mobile@3x.jpg 1125w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-6-mobile@2x.jpg' /></div>
 
 
 {{slide['end']}}
@@ -96,7 +96,7 @@ The doorframe symbol expands as two brackets to become a visual tool used to fra
 
 <figure>
 
-<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-7-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-7-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Glassdoor/gd-7-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Glassdoor/gd-7-mobile@3x.jpg 1125w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-7-mobile@2x.jpg' /></div>
 
 <figcaption>Everybody loves T-shirts.</figcaption>
 

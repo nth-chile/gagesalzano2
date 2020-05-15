@@ -8,18 +8,16 @@ categories:
   - branding
   - print
 ---
-{% assign slide = site.data.slide %}
 
+{% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-1-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -31,17 +29,13 @@ Early explorations focused on aspects of the energy industry, the initials and a
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-2-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -49,16 +43,11 @@ We realized the address numeral was an iconic way to represent the building, and
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-3-mobile@2x.png' /></div>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -66,90 +55,67 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Ec1/ec1-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-4-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-4-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Ec1/ec1-4-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-5-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-5-mobile@2x.png' /></div>
 
 <p class='bg-dark'>A system of marks were built from the original symbol to provide variety for the team.</p>
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-6-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-6-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-6-mobile@2x.jpg' /></div>
 
 <p class='bg'>An extended color palette and custom numeral set enabled us to create signage templates for different parts of the building.</p>
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-7-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-7-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-7-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-7-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-7-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
-
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Ec1/ec1-8-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-8-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-8-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-8-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Ec1/ec1-8-mobile@2x.png' /></div>
 
 <p>A booklet was designed for potential tenants to showcase the new space and the building’s amenities.</p>
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-10-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-10-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-10-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-10-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-10-mobile@2x.png' /></div>
 
 <p class='bg'>Once the rules were established, a lot of collateral could be created pretty quickly.</p>
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-9-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-9-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-9-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-9-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-9-mobile@2x.png' /></div>
 
 <p class='bg-dark'>(We never thought we'd be able to design a hard hat, but dreams do come true sometimes.)</p>
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-11-mobile.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-11-mobile.png 375w, {{ site.url }}/assets/images/posts/Ec1/ec1-11-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Ec1/ec1-11-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-11-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
 {{slide['end']}}
-
-
-
-
-
 
 {{slide['startdesktop']}}
 
@@ -161,8 +127,6 @@ They were in need of a visual identity to help create signage, marketing materia
 
 {{slide['end']}}
 
-
-
 {{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-2.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-2@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-2@3x.png 2382w'></div>
@@ -173,8 +137,6 @@ We realized the address numeral was an iconic way to represent the building, and
 
 {{slide['end']}}
 
-
-
 {{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-3.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-3@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-3@3x.png 2382w'></div>
@@ -182,8 +144,6 @@ We realized the address numeral was an iconic way to represent the building, and
 It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['end']}}
-
-
 
 {{slide['startdesktop']}}
 
@@ -193,9 +153,6 @@ A system of marks were built from the original symbol to provide variety for the
 
 {{slide['end']}}
 
-
-
-
 {{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-5.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-5@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-5@3x.png 2382w'></div>
@@ -203,8 +160,6 @@ A system of marks were built from the original symbol to provide variety for the
 An extended color palette and custom numeral set enabled us to create signage templates for different parts of the building.
 
 {{slide['end']}}
-
-
 
 {{slide['startdesktop']}}
 
@@ -222,8 +177,6 @@ A booklet was designed for potential tenants to showcase the new space and the b
 
 {{slide['end']}}
 
-
-
 {{slide['startdesktop']}}
 
 <div class='row'>
@@ -238,8 +191,6 @@ Once the rules were established, a lot of collateral could be created pretty qui
 
 {{slide['end']}}
 
-
-
 {{slide['startdesktop']}}
 
 <div class='row'>
@@ -253,9 +204,6 @@ Once the rules were established, a lot of collateral could be created pretty qui
 (We never thought we'd be able to design a hard hat, but dreams do come true sometimes.)
 
 {{slide['end']}}
-
-
-
 
 {{slide['startdesktop']}}
 

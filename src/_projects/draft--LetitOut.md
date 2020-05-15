@@ -11,7 +11,7 @@ stack_color: white
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Let_it_Out/tentpole-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Let_it_Out/tentpole-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Let_it_Out/tentpole-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Let_it_Out/tentpole-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Let_it_Out/tentpole-1-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
@@ -29,19 +29,19 @@ As part of a pitch to YouTube to help advertise their advertising platforms, vis
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Let_it_Out/tentpole-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Let_it_Out/tentpole-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Let_it_Out/tentpole-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Let_it_Out/tentpole-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Let_it_Out/tentpole-2-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Let_it_Out/tentpole-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Let_it_Out/tentpole-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Let_it_Out/tentpole-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Let_it_Out/tentpole-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Let_it_Out/tentpole-3-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Let_it_Out/tentpole-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/Let_it_Out/tentpole-4-mobile.png 375w, {{ site.url }}/assets/images/posts/Let_it_Out/tentpole-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Let_it_Out/tentpole-4-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Let_it_Out/tentpole-4-mobile@2x.png' /></div>
 
 {{slide['end']}}
 

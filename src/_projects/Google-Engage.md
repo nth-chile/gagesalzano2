@@ -55,7 +55,7 @@ That's why the color was such an important part.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-4-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-4-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Google_Engage/engage-4-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Google_Engage/engage-4-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-4-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
 
@@ -63,7 +63,7 @@ That's why the color was such an important part.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-5-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'>The parts of the logo could be used to construct icons and inspire page compositions.</p>
 
@@ -96,7 +96,7 @@ That's why the color was such an important part.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile.png 375w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 

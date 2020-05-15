@@ -10,7 +10,7 @@ stack_color: white
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Gusto/gusto-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-1-mobile@3x.png 1125w'></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Gusto/gusto-1-mobile@2x.png' /></div>
 
 Gusto needed some ideas to help push an internal rebranding effort.
 
@@ -26,7 +26,7 @@ Gusto needed some ideas to help push an internal rebranding effort.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-2-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
@@ -38,7 +38,7 @@ Gusto needed some ideas to help push an internal rebranding effort.
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-3-mobile@3x.png 1125w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-3-mobile@2x.png' /></div>
 
 We only had a couple days, so we tried to come up with as many concepts as we could.
 
@@ -54,7 +54,7 @@ We only had a couple days, so we tried to come up with as many concepts as we co
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-4-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-4-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-4-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-4-mobile@3x.png 1125w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-4-mobile@2x.png' /></div>
 
 
 
@@ -82,13 +82,13 @@ Keyword is MY favorite idea, not always the client's.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-5-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-5-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-5-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-5-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-6-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-6-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
@@ -119,7 +119,7 @@ We used a lot of hand-made elements to feel energetic and stand out in an indust
 
 <figure>
 
-<div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-7-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-7-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-7-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-7-mobile@3x.png 1125w'></div>
+<div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-7-mobile@2x.png' /></div>
 
 <figcaption>Sorry to anyone who really knows how to read sign language, this was just a mock-up and I have no idea what it says.</figcaption>
 
@@ -129,7 +129,7 @@ We used a lot of hand-made elements to feel energetic and stand out in an indust
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-8-mobile.png' srcset='{{ site.url }}/assets/images/posts/Gusto/gusto-8-mobile.png 375w, {{ site.url }}/assets/images/posts/Gusto/gusto-8-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Gusto/gusto-8-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-8-mobile@2x.png' /></div>
 
 {{slide['end']}}
 

@@ -16,13 +16,13 @@ Here's a collection of brand identities we've worked on through the years.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-1-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-1-mobile@2x.jpg' /></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/arin-2-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/arin-2-mobile@2x.jpg' /></div>
 
 <p class='bg'>The rotation in the "a" was meant to symbolize the constant syncing of data required to power the service.</p>
 
@@ -46,7 +46,7 @@ The rotation in the "a" was meant to symbolize the constant syncing of data requ
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-1-mobile@2x.jpg' /></div>
 
 <p class='bg'>Sometimes the logo designs itself. The "O" and "C" in the name are overlaid to symbolize a donut chart for this data analysis company.</p>
 
@@ -54,7 +54,7 @@ The rotation in the "a" was meant to symbolize the constant syncing of data requ
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-2-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/oncorps-2-mobile@2x.jpg' /></div>
 
 {{slide['end']}}
 
@@ -74,7 +74,7 @@ Sometimes the logo designs itself. The "O" and "C" in the name are overlaid to s
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/acre-1-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'>We drew probably 1,000 trees before landing on this guy. Made for a real estate app to symbolize the network.</p>
 
@@ -90,7 +90,7 @@ We drew probably 1,000 trees before landing on this guy. Made for a real estate 
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/fundwell-2-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'>For a money-management app, this mark combines two visual metaphors. One is a coin being dropped into a piggy bank, and the other is a sunrise to symbolize a new financial start.</p>
 
@@ -120,13 +120,13 @@ For a money-management app, this mark combines two visual metaphors. One is a co
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-2-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/pinspot-3-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
 
@@ -151,7 +151,7 @@ This was for a parking app &hellip; Get it?
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-1-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
@@ -160,13 +160,13 @@ This was for a parking app &hellip; Get it?
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-2-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-2-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile.png 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile@2x.png' /></div>
 
 <p class='bg'>A waveform symbolizes a radio frequency associated with the type of electronic testing offered by Keystone Compliance.</p>
 
@@ -192,7 +192,7 @@ A waveform symbolizes a radio frequency associated with the type of electronic t
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile@2x.jpg' /></div>
 
 <p class='bg'>A logo for an online education platform.</p>
 
@@ -213,7 +213,7 @@ A logo for an online educational platform.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1-mobile@2x.jpg' /></div>
 
 <p class='bg'>Campaign concept for <a href='http://gcc.edu'>Grove City</a>.</p>
 
@@ -236,7 +236,7 @@ Campaign concept for <a href='http://gcc.edu'>Grove City University</a>.
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/surgicorps-1-mobile@2x.jpg' /></div>
 
 <p class='bg'> </p>
 

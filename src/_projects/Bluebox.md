@@ -11,7 +11,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-1-mobile.png 375w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-1-mobile@2x.png' /></div>
 
 <p class='bg'>Bluebox is an internet security firm.
 <br>
@@ -21,7 +21,7 @@ Think of the movie <cite>Hackers</cite>&hellip;but like with Macbooks and New Ba
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-2-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-2-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-2-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-2-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-2-mobile@2x.jpg' /></div>
 
 <p class='bg'>We became obsessed with ciphers, and created one of our own.</p>
 
@@ -29,7 +29,7 @@ Think of the movie <cite>Hackers</cite>&hellip;but like with Macbooks and New Ba
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-3-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-3-mobile.jpg 375w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-3-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-3-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-3-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
 
@@ -60,7 +60,7 @@ We became obsessed with ciphers, and created one to be used throughout the brand
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-5-mobile.png' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-5-mobile.png 374w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-5-mobile@2x.png 748w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-5-mobile@3x.png 1122w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-5-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
@@ -81,7 +81,7 @@ The type for the logo was altered to feel more geometric to feel at home with th
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-6-mobile.png' srcset='{{ site.url }}/assets/images/posts/Bluebox/bluebox-6-mobile.png 375w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-6-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/Bluebox/bluebox-6-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-6-mobile@2x.png' /></div>
 
 {{slide['end']}}
 

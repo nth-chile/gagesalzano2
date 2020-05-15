@@ -18,7 +18,7 @@ OrderUp is a food delivery start-up from Baltimore that was launched on a colleg
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/OrderUp/localup-1-mobile.png' srcset='{{ site.url }}/assets/images/posts/OrderUp/localup-1-mobile.png 375w, {{ site.url }}/assets/images/posts/OrderUp/localup-1-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/OrderUp/localup-1-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/OrderUp/localup-1-mobile@2x.png' /></div>
 
 <p class='bg'>The logo was inspired by college pendants and was made to feel loud, energetic and bold.</p>
 
@@ -34,7 +34,7 @@ OrderUp is a food delivery start-up from Baltimore that launched on a college ca
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/OrderUp/localup-2-mobile.png' srcset='{{ site.url }}/assets/images/posts/OrderUp/localup-2-mobile.png 375w, {{ site.url }}/assets/images/posts/OrderUp/localup-2-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/OrderUp/localup-2-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/OrderUp/localup-2-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
@@ -51,7 +51,7 @@ The logo was inspired by college pendants and was made to feel loud, energetic a
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/OrderUp/localup-3-mobile.png' srcset='{{ site.url }}/assets/images/posts/OrderUp/localup-3-mobile.png 375w, {{ site.url }}/assets/images/posts/OrderUp/localup-3-mobile@2x.png 750w, {{ site.url }}/assets/images/posts/OrderUp/localup-3-mobile@3x.png 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/OrderUp/localup-3-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
@@ -60,7 +60,7 @@ The logo was inspired by college pendants and was made to feel loud, energetic a
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/OrderUp/localup-4-mobile.jpg' srcset='{{ site.url }}/assets/images/posts/OrderUp/localup-4-mobile.jpg 375w, {{ site.url }}/assets/images/posts/OrderUp/localup-4-mobile@2x.jpg 750w, {{ site.url }}/assets/images/posts/OrderUp/localup-4-mobile@3x.jpg 1125w'></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/OrderUp/localup-4-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
 
