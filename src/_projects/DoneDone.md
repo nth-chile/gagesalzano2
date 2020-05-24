@@ -8,8 +8,8 @@ stack_color: white
 categories:
   - digital
 ---
-{% assign slide = site.data.slide %}
 
+{% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
 
@@ -17,18 +17,13 @@ categories:
 
 <p class='bg-dark'></p>
 
-
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
 DoneDone is a nifty issue tracker app that needed a new visual brand system and website to launch a completely new version.
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -38,18 +33,13 @@ DoneDone is a nifty issue tracker app that needed a new visual brand system and 
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/DoneDone/donedone-3-mobile@2x.png' /></div>
 
 <p class='bg-dark'>Each feature is called out by a different color "bubble" to relate to the main logo.</p>
 
-
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -59,17 +49,11 @@ DoneDone is a nifty issue tracker app that needed a new visual brand system and 
 
 {{slide['end']}}
 
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/DoneDone/donedone-5-mobile@2x.png' /></div>
 
-
-
 {{slide['end']}}
-
-
-
 
 {{slide['startmobile']}}
 
@@ -79,9 +63,6 @@ DoneDone is a nifty issue tracker app that needed a new visual brand system and 
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/DoneDone/donedone-7-mobile@2x.png' /></div>
@@ -90,14 +71,11 @@ DoneDone is a nifty issue tracker app that needed a new visual brand system and 
 
 {{slide['end']}}
 
-
 {{slide['startmobile']}}
 
 The "About" page told DoneDone’s story with profiles of the team in order to show that there’s real people behind this thing, and it’s not another faceless corporation petting cats trying to harvest your data.
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -105,17 +83,13 @@ The "About" page told DoneDone’s story with profiles of the team in order to s
 
 {{slide['end']}}
 
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/DoneDone/donedone-9-mobile@2x.png' /></div>
 
 <p class='bg-dark'>Each layout was streamlined and refocused for the celly.</p>
 
-
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -125,23 +99,19 @@ The "About" page told DoneDone’s story with profiles of the team in order to s
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/DoneDone/donedone-11-mobile@2x.png' /></div>
 
 <p class="bg-dark">We're still proud of that bubble menu.</p>
 
-
-
 {{slide['end']}}
 
+{{slide['startmobile']}}
 
+<p><a href="https://www.donedone.com/" target="_blank">Check out DoneDone</a> to help get your next project did.</p>
 
-
-
-
+{{slide['end']}}
 
 {{slide['startdesktop']}}
 
@@ -149,21 +119,9 @@ The "About" page told DoneDone’s story with profiles of the team in order to s
 
 DoneDone is a nifty issue tracker app that needed a new visual brand system and website to launch a completely new version.
 
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/DoneDone/donedone-2@2x.png' srcset='{{ site.url }}/assets/images/posts/DoneDone/donedone-2.png 794w, {{ site.url }}/assets/images/posts/DoneDone/donedone-2@2x.png 1588w, {{ site.url }}/assets/images/posts/DoneDone/donedone-2@3x.png 2382w'></div>
 
 Some foundational brand decisions like the typography, an icon set, and extended color palette were ironed out to provide a framework for communicating DoneDone's new features.
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/DoneDone/donedone-3@2x.png' srcset='{{ site.url }}/assets/images/posts/DoneDone/donedone-3.png 794w, {{ site.url }}/assets/images/posts/DoneDone/donedone-3@2x.png 1588w, {{ site.url }}/assets/images/posts/DoneDone/donedone-3@3x.png 2382w'></div>
 
@@ -171,50 +129,19 @@ Some foundational brand decisions like the typography, an icon set, and extended
 
 Icons were drawn for all sorts of UI elements, sometimes paired with one of the status "bubbles."
 
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/DoneDone/donedone-4@2x.png' srcset='{{ site.url }}/assets/images/posts/DoneDone/donedone-4.png 794w, {{ site.url }}/assets/images/posts/DoneDone/donedone-4@2x.png 1588w, {{ site.url }}/assets/images/posts/DoneDone/donedone-4@3x.png 2382w'></div>
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/DoneDone/donedone-5@2x.png' srcset='{{ site.url }}/assets/images/posts/DoneDone/donedone-5.png 794w, {{ site.url }}/assets/images/posts/DoneDone/donedone-5@2x.png 1588w, {{ site.url }}/assets/images/posts/DoneDone/donedone-5@3x.png 2382w'></div>
 
 The "How it Works" page was organized by example scenarios with screenshots to explain each feature and how it relates to your workflow.
 
-{{slide['end']}}
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/DoneDone/donedone-6@2x.png' srcset='{{ site.url }}/assets/images/posts/DoneDone/donedone-6.png 794w, {{ site.url }}/assets/images/posts/DoneDone/donedone-6@2x.png 1588w, {{ site.url }}/assets/images/posts/DoneDone/donedone-6@3x.png 2382w'></div>
 
 The footer illustration had alternates depending on which page you are on. Each was inspired by a different historic event where a group of people had to work together and communicate in order to get something amazing done.
 
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/DoneDone/donedone-7@2x.png' srcset='{{ site.url }}/assets/images/posts/DoneDone/donedone-7.png 794w, {{ site.url }}/assets/images/posts/DoneDone/donedone-7@2x.png 1588w, {{ site.url }}/assets/images/posts/DoneDone/donedone-7@3x.png 2382w'></div>
 
 The "About" page told DoneDone’s story with profiles of the team in order to show that there's real people behind this thing, and it's not another faceless corporation petting cats trying to harvest your data.
-
-
-{{slide['end']}}
-
-
-
-
-{{slide['startdesktop']}}
 
 <div class='row'>
 
@@ -226,17 +153,10 @@ The "About" page told DoneDone’s story with profiles of the team in order to s
 
 Each layout was streamlined and re-focused for the celly.
 
-
-{{slide['end']}}
-
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/DoneDone/donedone-10@2x.png' srcset='{{ site.url }}/assets/images/posts/DoneDone/donedone-10.png 794w, {{ site.url }}/assets/images/posts/DoneDone/donedone-10@2x.png 1588w, {{ site.url }}/assets/images/posts/DoneDone/donedone-10@3x.png 2382w'></div>
 
 <figcaption>We're still proud of that bubble menu.</figcaption>
 
+<p><a href="https://www.donedone.com/" target="_blank">Check out DoneDone</a> to help get your next project did.</p>
 
 {{slide['end']}}

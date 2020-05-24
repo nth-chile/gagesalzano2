@@ -8,6 +8,7 @@ stack_color: white
 categories:
   - branding
 ---
+
 {% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
@@ -17,7 +18,6 @@ categories:
 <p class='bg'><a href='https://power2switch.com/'>Power2Switch</a> helps people to find more affordable energy prices.</p>
 
 {{slide['end']}}
-
 
 {{slide['startdesktop']}}
 
@@ -32,8 +32,6 @@ categories:
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-2-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
-
-
 
 {{slide['end']}}
 
@@ -56,7 +54,6 @@ The concept was focused on playing with the relationship between light and dark.
 {{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-3.png 637w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-3@2x.png 1274w, {{ site.url }}/assets/images/posts/Power2Switch/power-2-switch-3@3x.png 1911w'></div>
-
 
 {{slide['end']}}
 

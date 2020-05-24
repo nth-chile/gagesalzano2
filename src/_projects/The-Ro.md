@@ -8,8 +8,8 @@ categories:
   - branding
   - digital
 ---
-{% assign slide = site.data.slide %}
 
+{% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
 
@@ -19,26 +19,17 @@ categories:
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
 Early options included a custom engraving style typeface and other symbols inspired by the building layout and location.
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-2-mobile@2x.png' /></div>
 
 {{slide['end']}}
-
-
-
 
 {{slide['startmobile']}}
 
@@ -48,18 +39,13 @@ Early options included a custom engraving style typeface and other symbols inspi
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-4-mobile@2x.png' /></div>
 
 <p class='bg'>We probably drew 100 azaleas until landing on this one.</p>
 
-
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -69,16 +55,11 @@ Early options included a custom engraving style typeface and other symbols inspi
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-6-mobile@2x.png' /></div>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -88,9 +69,6 @@ Early options included a custom engraving style typeface and other symbols inspi
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-8-mobile@2x.png' /></div>
@@ -99,15 +77,11 @@ Early options included a custom engraving style typeface and other symbols inspi
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 Azalea-inspired guilloche patterns were created to provide more dimension and minutiae to compositions.
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -117,8 +91,6 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-10-mobile@2x.png' /></div>
@@ -127,20 +99,13 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-11-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
 
-
 {{slide['end']}}
-
-
-
 
 {{slide['startmobile']}}
 
@@ -150,9 +115,6 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-13-mobile@2x.png' /></div>
@@ -160,8 +122,6 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 <p class='bg'>Collateral was designed with judiciousness, providing a lot of opportunity for materials and photography to shine.</p>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -171,8 +131,6 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-15-mobile@2x.png' /></div>
@@ -181,23 +139,13 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/The_Ro/thero-16-mobile@2x.png' /></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/The_Ro/thero-16-mobile@2x.png' /></div>
 
 <p class='bg'>Sometimes the symbol is the forefront and others the name, depending on the use and it’s purpose.</p>
 
 {{slide['end']}}
-
-
-
-
-
-
-
-
 
 {{slide['startdesktop']}}
 
@@ -205,23 +153,11 @@ Azalea-inspired guilloche patterns were created to provide more dimension and mi
 
 The Ro is a new multi-use building complex in Houston that needed visual identity and system for all signage and marketing communications.
 
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-2@2x.png' /></div>
 
 <figcaption>Early options included a custom engraving style typeface and other symbols inspired by the building layout and location.</figcaption>
 
 When researching the history of the area, we found that azaleas were native to the region. There was a lot of embedded meaning in the flower and we thought it had a lot of potential.
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div class='row'>
 
@@ -235,13 +171,6 @@ When researching the history of the area, we found that azaleas were native to t
 
 The typography was inspired by stone engraving, to establish a classical feeling for the branding.
 
-{{slide['end']}}
-
-
-
-
-{{slide['startdesktop']}}
-
 <div class='row'>
 
 <div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-5@2x.png' /></div><!--
@@ -252,23 +181,9 @@ The typography was inspired by stone engraving, to establish a classical feeling
 
 The type and symbol naturally provided for a lot of extensions.
 
-{{slide['end']}}
-
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-7@2x.png' /></div>
 
 Maroon, navy and bronze provide a feeling of timeliness elegance when used over earth tone backdrops.
-
-{{slide['end']}}
-
-
-
-
-{{slide['startdesktop']}}
 
 <div class='row'>
 
@@ -284,23 +199,9 @@ Maroon, navy and bronze provide a feeling of timeliness elegance when used over 
 
 Azalea-inspired guilloche patterns were created to provide more dimension and minutiae to compositons.
 
-{{slide['end']}}
-
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-11@2x.png' /></div>
 
 Print materials rely on uncoated stock, off-white recycled papers and organic finishes like ink stamping.
-
-{{slide['end']}}
-
-
-
-
-{{slide['startdesktop']}}
 
 <div class='row'>
 
@@ -315,13 +216,6 @@ Print materials rely on uncoated stock, off-white recycled papers and organic fi
 
 Collateral was designed with judiciousness, providing a lot of opportunity for materials and photography to shine.
 
-{{slide['end']}}
-
-
-
-
-{{slide['startdesktop']}}
-
 <div class='row'>
 
 <div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-15@2x.png' /></div><div class='column'>
@@ -335,14 +229,6 @@ Collateral was designed with judiciousness, providing a lot of opportunity for m
 
 These example show how the form of the object can help define which logo or symbol to use.
 
-{{slide['end']}}
-
-
-
-
-
-{{slide['startdesktop']}}
-
 <div class='row'>
 
 <div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-18@2x.png' /></div><!--
@@ -351,17 +237,7 @@ These example show how the form of the object can help define which logo or symb
 
 </div>
 
-
 Sometimes the symbol is the forefront and others the name, depending on the use and it’s purpose.
-
-{{slide['end']}}
-
-
-
-
-
-
-{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/The_Ro/thero-20@2x.png' /></div>
 

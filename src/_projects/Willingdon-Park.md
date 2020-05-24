@@ -7,18 +7,16 @@ stack_color: white
 categories:
   - branding
 ---
-{% assign slide = site.data.slide %}
 
+{% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Wil/wil-1-mobile@2x.png' /></div>
+<div><img class="full-height" src='{{ site.url }}/assets/images/posts/Wil/wil-1-mobile@2x.png' /></div>
 
 <p class='bg'>Willingdon Park is a campus of business offices and high-tech industry buildings near Vancouver. They were in need of a visual identity system to unify all buildings and provide a framework for visual communication.</p>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -26,15 +24,11 @@ Early concepts were inspired by the building/road layout and the Vancouver skyli
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Wil/wil-2-mobile@2x.png' /></div>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -44,15 +38,11 @@ Early concepts were inspired by the building/road layout and the Vancouver skyli
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Wil/wil-4-mobile@2x.png' /></div>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -62,8 +52,6 @@ Early concepts were inspired by the building/road layout and the Vancouver skyli
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Wil/wil-6-mobile@2x.png' /></div>
@@ -72,63 +60,41 @@ Early concepts were inspired by the building/road layout and the Vancouver skyli
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Wil/wil-7-mobile@2x.png' /></div>
 
-
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Wil/wil-8-mobile@2x.png' /></div>
-
-<p class='bg'>Patterns, or “flocks”, were created to bring more energy and texture to materials.</p>
+<p>Patterns, or “flocks”, were created to bring more energy and texture to materials.</p>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Wil/wil-9-mobile@2x.png' /></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Wil/wil-8-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
+{{slide['startmobile']}}
 
+<div><img class="full-height" src='{{ site.url }}/assets/images/posts/Wil/wil-9-mobile@2x.png' /></div>
 
-
-
-
+{{slide['end']}}
 
 {{slide['startdesktop']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Wil/wil-1@2x.png' /></div>
+<div><img src='{{ site.url }}/assets/images/posts/Wil/wil-1@2x.png' /></div>
 
 Willingdon Park is a campus of business offices and high-tech industry buildings near Vancouver. They were in need of a visual identity system to unify all buildings and provide a framework for visual communication.
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Wil/wil-2@2x.png' /></div>
 
 <figcaption>Early concepts were inspired by the building/road layout and the Vancouver skyline.</figcaption>
 
 There’s a local phenomenon called the “Burnaby roost” where 3,000 to 6,000 crows fly from nearby Still Creek towards the city and back. Initially the team wanted to avoid referencing it, but we convinced them to celebrate it as something that makes them unique.
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div class='row'>
 
@@ -140,41 +106,15 @@ There’s a local phenomenon called the “Burnaby roost” where 3,000 to 6,000
 
 A set of logos were created for varied use cases, with the "crows" are <em>flying around</em> the compositions.
 
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/Wil/wil-5@2x.png' /></div>
 
 The color palette was inspired by colors seen during the Vancouver sunset, and the typography was picked to feel smart and friendly.
 
-{{slide['end']}}
-
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/Wil/wil-6@2x.png' /></div>
-
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Wil/wil-7@2x.png' /></div>
 
 Patterns, or “flocks”, were created to bring more energy and texture to materials.
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div class='row'>
 

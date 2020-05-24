@@ -57,7 +57,7 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Ec1/ec1-4-mobile@2x.png' /></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-4-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
@@ -87,7 +87,7 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Ec1/ec1-8-mobile@2x.png' /></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-8-mobile@2x.png' /></div>
 
 <p>A booklet was designed for potential tenants to showcase the new space and the building’s amenities.</p>
 
@@ -97,7 +97,7 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-10-mobile@2x.png' /></div>
 
-<p class='bg'>Once the rules were established, a lot of collateral could be created pretty quickly.</p>
+<p class='bg-dark'>Once the rules were established, a lot of collateral could be created pretty quickly.</p>
 
 {{slide['end']}}
 
@@ -125,43 +125,23 @@ Energy Center 1 is an office building located in the “Energy Corridor” of Ho
 
 They were in need of a visual identity to help create signage, marketing materials and website design decisions.
 
-{{slide['end']}}
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-2@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-2.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-2@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-2@3x.png 2382w'></div>
 
 <figcaption>Early explorations focused on aspects of the energy industry, the initials and address number.</figcaption>
 
 We realized the address numeral was an iconic way to represent the building, and we underwent a process of finding one that had both a modern feel and symmetrical geometry.
 
-{{slide['end']}}
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-3@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-3.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-3@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-3@3x.png 2382w'></div>
 
 It’s simplicity calls for bright, engaging imagery and bold colors.
-
-{{slide['end']}}
-
-{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-4@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-4.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-4@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-4@3x.png 2382w'></div>
 
 A system of marks were built from the original symbol to provide variety for the team.
 
-{{slide['end']}}
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-5@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-5.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-5@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-5@3x.png 2382w'></div>
 
 An extended color palette and custom numeral set enabled us to create signage templates for different parts of the building.
-
-{{slide['end']}}
-
-{{slide['startdesktop']}}
 
 <div class='row'>
 
@@ -175,10 +155,6 @@ An extended color palette and custom numeral set enabled us to create signage te
 
 A booklet was designed for potential tenants to showcase the new space and the building’s amenities.
 
-{{slide['end']}}
-
-{{slide['startdesktop']}}
-
 <div class='row'>
 
 <div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-9@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-9.png 314w, {{ site.url }}/assets/images/posts/Ec1/ec1-9@2x.png 628w, {{ site.url }}/assets/images/posts/Ec1/ec1-9@3x.png 942w'></div><!--
@@ -189,10 +165,6 @@ A booklet was designed for potential tenants to showcase the new space and the b
 
 Once the rules were established, a lot of collateral could be created pretty quickly.
 
-{{slide['end']}}
-
-{{slide['startdesktop']}}
-
 <div class='row'>
 
 <div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-11@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-11.png 314w, {{ site.url }}/assets/images/posts/Ec1/ec1-11@2x.png 628w, {{ site.url }}/assets/images/posts/Ec1/ec1-11@3x.png 942w'></div><!--
@@ -202,10 +174,6 @@ Once the rules were established, a lot of collateral could be created pretty qui
 </div>
 
 (We never thought we'd be able to design a hard hat, but dreams do come true sometimes.)
-
-{{slide['end']}}
-
-{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Ec1/ec1-13@2x.png' srcset='{{ site.url }}/assets/images/posts/Ec1/ec1-13.png 794w, {{ site.url }}/assets/images/posts/Ec1/ec1-13@2x.png 1588w, {{ site.url }}/assets/images/posts/Ec1/ec1-13@3x.png 2382w'></div>
 

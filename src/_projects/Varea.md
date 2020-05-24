@@ -7,9 +7,11 @@ stack_color: white
 categories:
   - digital
 ---
+
 {% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
+
   <div>
     <img
       class="full-height"
@@ -17,10 +19,15 @@ categories:
     />
   </div>
 
-  <p class="bg">Varea Media is an independent media company in Houston that uses their knowledge of the digital landscape to find eco-friendly solutions to meet various business objectives. The team was seeking to build an online network to share news on clean energy, sustainability, and environmental well-being, both in your local community and worldwide.</p>
 {{slide['end']}}
 
 {{slide['startmobile']}}
+
+  <p>Varea Media is an independent media company in Houston that uses their knowledge of the digital landscape to find eco-friendly solutions to meet various business objectives. The team was seeking to build an online network to share news on clean energy, sustainability, and environmental well-being, both in your local community and worldwide.</p>
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
   <div>
     <img
       class="full-height"
@@ -28,10 +35,11 @@ categories:
     />
   </div>
 
-  <p class="bg">The first step was building a proof of concept by creating a clickable mobile protoype for the team to test and get a full understanding of the feature specifications. We got a feel for the balance between curated content and interaction.</p>
+  <p class="bg-dark">The first step was building a proof of concept by creating a clickable mobile protoype for the team to test and get a full understanding of the feature specifications. We got a feel for the balance between curated content and interaction.</p>
 {{slide['end']}}
 
 {{slide['startmobile']}}
+
   <div>
     <img
       class="full-height"
@@ -39,14 +47,17 @@ categories:
     />
   </div>
 
-  <p class="bg">Early design concepts explored the relationship between content and filter/map interactions.</p>
 {{slide['end']}}
 
 {{slide['startmobile']}}
+
+<p>Early design concepts explored the relationship between content and filter/map interactions.</p>
+
   <p>The design solution we developed towed the line between utilitarian and editorial, making orienting yourself with the map easy while establishing an immersive article reading experience.</p>
 {{slide['end']}}
 
 {{slide['startmobile']}}
+
   <div>
     <img
       class="full-height"
@@ -54,10 +65,11 @@ categories:
     />
   </div>
 
-  <p class="bg">The grid structure was designed to be flexible enough to build an engaging layout with varied types of content: whether it be user-generated or editiorial.</p>
+  <p class="bg-dark">The grid structure was designed to be flexible enough to build an engaging layout with varied types of content: whether it be user-generated or editiorial.</p>
 {{slide['end']}}
 
 {{slide['startmobile']}}
+
   <div>
     <img
       class="full-height"
@@ -67,6 +79,7 @@ categories:
 {{slide['end']}}
 
 {{slide['startmobile']}}
+
   <div>
     <img
       class="full-height"
@@ -76,6 +89,7 @@ categories:
 {{slide['end']}}
 
 {{slide['startmobile']}}
+
   <div>
     <img
       class="full-height"
@@ -85,6 +99,7 @@ categories:
 {{slide['end']}}
 
 {{slide['startdesktop']}}
+
   <div>
     <img class="full-width" src="{{ site.url }}/assets/images/posts/Varea/varea-1@2x.png" />
   </div>
@@ -137,4 +152,3 @@ categories:
   </div>
 
 {{slide['end']}}
-

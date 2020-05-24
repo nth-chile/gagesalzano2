@@ -8,16 +8,14 @@ categories:
   - branding
   - digital
 ---
-{% assign slide = site.data.slide %}
 
+{% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-1-mobile@2x.png' /></div>
 
-
 {{slide['end']}}
-
 
 {{slide['startmobile']}}
 
@@ -29,8 +27,6 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-2-mobile@2x.png' /></div>
@@ -39,15 +35,11 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-3-mobile@2x.png' /></div>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -57,19 +49,13 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-4-mobile@2x.png' /></div>
 
 <p class='bg-dark'>Candidates would receive quick-and-easy questions in their inbox to build an understanding of what type of companies and positions they would thrive in overtime.</p>
 
-
 {{slide['end']}}
-
-
-
 
 {{slide['startmobile']}}
 
@@ -79,8 +65,6 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-6-mobile@2x.png' /></div>
@@ -88,8 +72,6 @@ We took that thinking and designed the branding, visual design style, and built 
 <p class='bg-dark'></p>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -99,8 +81,6 @@ We took that thinking and designed the branding, visual design style, and built 
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Peak/peak-9-mobile@2x.png' /></div>
@@ -108,12 +88,6 @@ We took that thinking and designed the branding, visual design style, and built 
 <p class='bg-dark'>Business owners could click on a candidate to see more information about them and why they were a match.</p>
 
 {{slide['end']}}
-
-
-
-
-
-
 
 {{slide['startdesktop']}}
 
@@ -125,12 +99,6 @@ Working with a small team, we reviewed research, industry statistics, listened t
 
 We took that thinking and designed the branding, visual design style, and built a clickable prototype for a couple key user flows for the team to test.
 
-
-{{slide['end']}}
-
-
-{{slide['startdesktop']}}
-
 <div class='row'>
 
 <div><img src='{{ site.url }}/assets/images/posts/Peak/peak-2@2x.png' /></div><!--
@@ -141,55 +109,23 @@ We took that thinking and designed the branding, visual design style, and built 
 
 <figcaption>The concentric outlines are meant to evoke radar, as if the logo is scanning the the market for the perfect candidate.</figcaption>
 
-
 The visual style was designed to feel smart, uplifting and helpful.
-
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Peak/peak-4@2x.png' /></div>
 
 To start using Peak, business owners would add basic company information, authenticate external services, and add their team.
 
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/Peak/peak-5@2x.png' /></div>
 
 Candidates would receive quick-and-easy questions in their inbox to build an understanding of what type of companies and positions they would thrive in overtime.
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Peak/peak-6@2x.png' /></div>
 
 The application would show candidate matches for each position, organized by team.
 
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/Peak/peak-7@2x.png' /></div>
 
 Business owners could click on a candidate to see more information about them and why they were a match.
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Peak/peak-8@2x.png' /></div>
 

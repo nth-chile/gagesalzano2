@@ -7,6 +7,7 @@ stack_color: white
 categories:
   - branding
 ---
+
 {% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
@@ -32,7 +33,6 @@ Think of the movie <cite>Hackers</cite>&hellip;but like with Macbooks and New Ba
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-3-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
-
 
 {{slide['end']}}
 
@@ -63,7 +63,6 @@ We became obsessed with ciphers, and created one to be used throughout the brand
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Bluebox/bluebox-5-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
-
 
 {{slide['end']}}
 

@@ -6,6 +6,7 @@ featured_image: /assets/images/posts/826CHI_2016/whowantslove-thumb.jpg
 style: width:100%
 stack_color: white
 ---
+
 {% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}

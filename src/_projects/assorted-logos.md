@@ -7,6 +7,7 @@ stack_color: white
 categories:
   - branding
 ---
+
 {% assign slide = site.data.slide %}
 {{slide['start']}}
 
@@ -130,7 +131,6 @@ For a money-management app, this mark combines two visual metaphors. One is a co
 
 <p class='bg-dark'></p>
 
-
 {{slide['end']}}
 
 {{slide['startdesktop']}}
@@ -155,7 +155,6 @@ This was for a parking app &hellip; Get it?
 
 <p class='bg-dark'></p>
 
-
 {{slide['end']}}
 
 {{slide['startmobile']}}
@@ -169,7 +168,6 @@ This was for a parking app &hellip; Get it?
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/keystone-3-mobile@2x.png' /></div>
 
 <p class='bg'>A waveform symbolizes a radio frequency associated with the type of electronic testing offered by Keystone Compliance.</p>
-
 
 {{slide['end']}}
 
@@ -189,27 +187,21 @@ A waveform symbolizes a radio frequency associated with the type of electronic t
 
 {{slide['end']}}
 
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1-mobile@2x.jpg' /></div>
 
 <p class='bg'>A logo for an online education platform.</p>
 
-
 {{slide['end']}}
 
-
 {{slide['startdesktop']}}
-
 
 <div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1.jpg 794w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1@2x.jpg 1588w, {{ site.url }}/assets/images/posts/Assorted_Logos/studentsuccess-1@3x.jpg 2382w'></div>
 
 A logo for an online educational platform.
 
-
 {{slide['end']}}
-
 
 {{slide['startmobile']}}
 
@@ -217,22 +209,15 @@ A logo for an online educational platform.
 
 <p class='bg'>Campaign concept for <a href='http://gcc.edu'>Grove City</a>.</p>
 
-
 {{slide['end']}}
-
 
 {{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@2x.jpg' srcset='{{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1.jpg 794w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@2x.jpg 1588w, {{ site.url }}/assets/images/posts/Assorted_Logos/grovecitymatters-1@3x.jpg 2382w'></div>
 
-
 Campaign concept for <a href='http://gcc.edu'>Grove City University</a>.
 
-
-
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -240,14 +225,9 @@ Campaign concept for <a href='http://gcc.edu'>Grove City University</a>.
 
 <p class='bg'> </p>
 
-
 {{slide['end']}}
 
-
-
 {{slide['startdesktop']}}
-
-
 
 <div class='row'>
 
@@ -257,8 +237,6 @@ Campaign concept for <a href='http://gcc.edu'>Grove City University</a>.
 
 </div>
 
-
 <a href='https://www.surgicorps.org'>Surgicorps International</a> provides free surgical and medical care to people in need in developing countries. They bring smiles to tons of people everyday, so why not the logo too?
-
 
 {{slide['end']}}

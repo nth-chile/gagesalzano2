@@ -7,8 +7,8 @@ stack_color: white
 categories:
   - branding
 ---
-{% assign slide = site.data.slide %}
 
+{% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
 
@@ -16,15 +16,11 @@ categories:
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 Lakeside Square is a towering office building in Dallas with a distinctive arched reflective face. A push to update the building included a new visual identity to help in the creation of new communication materials, merchandise and wayfinding.
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -34,17 +30,13 @@ Lakeside Square is a towering office building in Dallas with a distinctive arche
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-3-mobile@2x.png' /></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-3-mobile@2x.png' /></div>
 
 <p class='bg'>We focused on different ways of symbolizing the building’s more iconic features. The solution we landed on was simple, only requiring a few lines to draw.</p>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -54,35 +46,29 @@ Lakeside Square is a towering office building in Dallas with a distinctive arche
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-5-mobile@2x.png' /></div>
-
-<p class='bg'>Typography and color were used to capture a feeling of “modern elegance,” something that the team was trying to do across all of the building updates.</p>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-5-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
+{{slide['startmobile']}}
 
+<p>Typography and color were used to capture a feeling of “modern elegance,” something that the team was trying to do across all of the building updates.</p>
+
+{{slide['end']}}
 
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-6-mobile@2x.png' /></div>
 
-
 {{slide['end']}}
-
-
-
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-7-mobile@2x.png' /></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-7-mobile@2x.png' /></div>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -92,15 +78,11 @@ Lakeside Square is a towering office building in Dallas with a distinctive arche
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-9-mobile@2x.png' /></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-9-mobile@2x.png' /></div>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -108,19 +90,13 @@ Lakeside Square is a towering office building in Dallas with a distinctive arche
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-width' src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-11-mobile@2x.png' /></div>
 
-<p class='bg'>Example signage templates demonstrated how even the most functional things can feel elegant when taking typography and spacing into consideration.</p>
-
+<p class='bg-dark'>Example signage templates demonstrated how even the most functional things can feel elegant when taking typography and spacing into consideration.</p>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -128,32 +104,15 @@ Lakeside Square is a towering office building in Dallas with a distinctive arche
 
 {{slide['end']}}
 
-
-
-
-
-
 {{slide['startdesktop']}}
 
 <div><img class='full-width' src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-1@2x.png' /></div>
 
 Lakeside Square is a towering office building in Dallas with a distinctive arched reflective face. A push to update the building included a new visual identity to help in the creation of new communication materials, merchandise and wayfinding.
 
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-2@2x.png' /></div>
 
 We focused on different ways of symbolizing the building’s more iconic features. The solution we landed on was simple, only requiring a few lines to draw.
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div class='row'>
 
@@ -165,22 +124,9 @@ We focused on different ways of symbolizing the building’s more iconic feature
 
 A series of lockups were built out around the symbol.
 
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-5@2x.png' /></div>
 
 Typography and color were used to capture a feeling of “modern elegance,” something that the team was trying to do across all of the building updates.
-
-{{slide['end']}}
-
-
-
-
-{{slide['startdesktop']}}
 
 <div class='row'>
 
@@ -189,13 +135,6 @@ Typography and color were used to capture a feeling of “modern elegance,” so
 --><div><img src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-7@2x.png' /></div>
 
 </div>
-
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div class='row'>
 
@@ -207,19 +146,7 @@ Typography and color were used to capture a feeling of “modern elegance,” so
 
 The brand system was designed to provide variety across mediums, but maintain unity by shared visual characteristics like typography, color and line width.
 
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/Lakeside/lakeside-10@2x.png' /></div>
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div class='row' style="
   box-sizing: border-box;
@@ -252,13 +179,6 @@ The brand system was designed to provide variety across mediums, but maintain un
 
 Example signage templates demonstrated how even the most functional things can feel elegant when taking typography and spacing into consideration.
 
-{{slide['end']}}
-
-
-
-
-{{slide['startdesktop']}}
-
 <div class='row' style="
   box-sizing: border-box;
   padding:6px;
@@ -274,6 +194,5 @@ Example signage templates demonstrated how even the most functional things can f
 <div style="grid-column: 2/3; grid-row: 2/3; background-image:url({{ site.url }}/assets/images/posts/Lakeside/lakeside-16@2x.png); background-size: cover;"></div>
 
 </div>
-
 
 {{slide['end']}}

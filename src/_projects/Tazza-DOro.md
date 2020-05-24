@@ -7,6 +7,7 @@ stack_color: white
 categories:
   - branding
 ---
+
 {% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
@@ -23,15 +24,13 @@ categories:
 
 {{slide['startmobile']}}
 
-
-<a href='https://www.tazzadoro.net/'>Tazza D'oro</a> is located in  the Highland Park neighborhood in Pittsburgh. Our friends <a href='https://www.fullstopinteractive.com/'>Jay & Nate</a> were approached to redesign their website and asked us to come up with a few ideas for their branding.
+<a href='https://www.tazzadoro.net/'>Tazza D'oro</a> is located in the Highland Park neighborhood in Pittsburgh. Our friends <a href='https://www.fullstopinteractive.com/'>Jay & Nate</a> were approached to redesign their website and asked us to come up with a few ideas for their branding.
 
 {{slide['end']}}
 
 {{slide['startdesktop']}}
 
-<a href='https://www.tazzadoro.net/'>Tazza D'oro</a> is located in  the Highland Park neighborhood in Pittsburgh. Our friends <a href='https://www.fullstopinteractive.com/'>Jay & Nate</a> were approached to redesign their website and asked us to come up with a few ideas for their branding.
-
+<a href='https://www.tazzadoro.net/'>Tazza D'oro</a> is located in the Highland Park neighborhood in Pittsburgh. Our friends <a href='https://www.fullstopinteractive.com/'>Jay & Nate</a> were approached to redesign their website and asked us to come up with a few ideas for their branding.
 
 {{slide['end']}}
 
@@ -39,13 +38,11 @@ categories:
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2-mobile@2x.jpg' /></div>
 
-
 {{slide['end']}}
 
 {{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2.jpg 794w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2@2x.jpg 1558w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-2@3x.jpg 2382w'></div>
-
 
 We looked at a range of ideas from hand-lettering to an option inspired by Italian cafe signage that led to a creation of a custom typeface.
 
@@ -56,7 +53,6 @@ We looked at a range of ideas from hand-lettering to an option inspired by Itali
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-3-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
-
 
 {{slide['end']}}
 
@@ -70,7 +66,6 @@ We looked at a range of ideas from hand-lettering to an option inspired by Itali
 
 </div>
 
-
 We refined the hand lettering approach until we created a distinctive and bold signature mark.
 
 {{slide['end']}}
@@ -81,13 +76,11 @@ We looked at a range of ideas from hand-lettering to an option inspired by Itali
 
 {{slide['end']}}
 
-
 {{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5.jpg 794w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5@2x.jpg 1558w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5@3x.jpg 2382w'></div>
 
 <div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6.jpg' srcset='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6.jpg 794w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6@2x.jpg 1558w, {{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6@3x.jpg 2382w'></div>
-
 
 <div class='row'>
 
@@ -109,21 +102,17 @@ Thanks to <a href='https://www.fullstopinteractive.com/'>Jay & Nate</a> for the 
 
 {{slide['end']}}
 
-
 {{slide['startmobile']}}
 
 We refined the hand lettering approach until we created a distinctive and bold signature mark.
 
-
 {{slide['end']}}
-
 
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-5-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
-
 
 {{slide['end']}}
 
@@ -132,7 +121,6 @@ We refined the hand lettering approach until we created a distinctive and bold s
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-6-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
-
 
 {{slide['end']}}
 

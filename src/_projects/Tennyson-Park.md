@@ -8,8 +8,8 @@ categories:
   - branding
   - print
 ---
-{% assign slide = site.data.slide %}
 
+{% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
 
@@ -19,15 +19,11 @@ categories:
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 Early explorations played into the buildings’ architecture, dimensions and location.
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -37,9 +33,6 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-3-mobile@2x.png' /></div>
@@ -48,15 +41,11 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-4-mobile@2x.png' /></div>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -66,18 +55,17 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-6-mobile@2x.png' /></div>
 
-<p class='bg-dark'>The typography and colors were chosen to feel bold and assertive, but not over-powering.</p>
-
 {{slide['end']}}
 
+{{slide['startmobile']}}
 
+<p>The typography and colors were chosen to feel bold and assertive, but not over-powering.</p>
+
+{{slide['end']}}
 
 {{slide['startmobile']}}
 
@@ -87,9 +75,6 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-8-mobile@2x.png' /></div>
@@ -98,33 +83,23 @@ Early explorations played into the buildings’ architecture, dimensions and loc
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-9-mobile@2x.png' /></div>
 
 {{slide['end']}}
 
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-10-mobile@2x.png' /></div>
 
-
 {{slide['end']}}
-
-
-
 
 {{slide['startmobile']}}
 
-<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-11-mobile@2x.png' /></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-11-mobile@2x.png' /></div>
 
 {{slide['end']}}
-
-
 
 {{slide['startmobile']}}
 
@@ -132,21 +107,11 @@ Example signage shows how physical hardware should feel as sturdy and sleek as t
 
 {{slide['end']}}
 
-
-
-
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-12-mobile@2x.png' /></div>
 
 {{slide['end']}}
-
-
-
-
-
-
-
 
 {{slide['startdesktop']}}
 
@@ -156,8 +121,6 @@ The Tennyson is a pair of office buildings in Dallas. The owners were in need of
 
 {{slide['end']}}
 
-
-
 {{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-2@2x.png' /></div>
@@ -165,12 +128,6 @@ The Tennyson is a pair of office buildings in Dallas. The owners were in need of
 <figcaption>Early explorations played into the buildings’ architecture, dimensions and location.</figcaption>
 
 A concept referencing a distinctive staircase in the lobby really jumped out to everyone on the team.
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div class='row'>
 
@@ -182,40 +139,15 @@ A concept referencing a distinctive staircase in the lobby really jumped out to 
 
 A set of logos were built to accompany a range of layout needs.
 
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-5@2x.png' /></div>
 
 The typography and colors were chosen to feel bold and assertive, but not over-powering.
-
-{{slide['end']}}
-
-
-
-
-{{slide['startdesktop']}}
 
 <div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-6@2x.png' /></div>
 
 Templates were provided to show how the “staircase” motif could be used to create layouts for signage, advertisements and other materials.
 
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
 <div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-7@2x.png' /></div>
-
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
 
 <div class='row'>
 
@@ -227,12 +159,6 @@ Templates were provided to show how the “staircase” motif could be used to c
 
 <br />
 
-{{slide['end']}}
-
-
-
-{{slide['startdesktop']}}
-
 <div class='row'>
 
 <div><img src='{{ site.url }}/assets/images/posts/Tennyson/tennyson-10@2x.png' /></div><!--
@@ -242,14 +168,6 @@ Templates were provided to show how the “staircase” motif could be used to c
 </div>
 
 Example signage shows how physical hardware should feel as sturdy and sleek as the graphic elements.
-
-{{slide['end']}}
-
-
-
-
-
-{{slide['startdesktop']}}
 
 <div class='row'>
 

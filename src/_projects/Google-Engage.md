@@ -86,8 +86,6 @@ The gif below replaces above .png
   </div>
 </figure>
 
-
-
 It's tough sometimes working with an already well-established brand to come up with something that feels distinct, but still belongs.
 
 That's why the color was such an important part.
@@ -99,7 +97,6 @@ That's why the color was such an important part.
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Google_Engage/engage-6-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
-
 
 {{slide['end']}}
 

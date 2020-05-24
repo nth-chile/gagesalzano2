@@ -5,20 +5,24 @@
   .hero-img-wrap {
     margin: 0 auto;
 
-    video {
+    img {
       margin-bottom: 33px;
       width: 100%;
-      
+
       @include min900 {
         width: 62%;
       }
     }
   }
 
-  p, .p, h2, ul, .footnote {
+  p,
+  .p,
+  h2,
+  ul,
+  .footnote {
     text-align: left;
   }
-  
+
   .list-dash-style {
     margin-top: 6.5px;
   }
@@ -101,15 +105,15 @@
 
     @media (min-width: 490px) {
       grid-template-columns: repeat(3, 1fr);
-    }    
-    
+    }
+
     @include min900 {
       grid-template-columns: repeat(5, 1fr);
     }
 
     & > div {
       padding: 0 0 28px;
-      
+
       @media (min-width: 550px) {
         padding: 0 19px 28px;
       }
@@ -125,21 +129,51 @@
     }
   }
 
-  .logo-Google { width: 88px; }
-  .logo-826CHI { width: 54px; }
-  .logo-Gusto { width: 79px; }
-  .logo-Nestle { width: 55px; }
-  .logo-Uptake { width: 94px; }
-  .logo-JLL { width: 67px; }
-  .logo-CBRE { width: 87px; }
-  .logo-Glassdoor { width: 119px; }
-  .logo-Trunk { width: 125px; }
-  .logo-Heinz { width: 88px; }
-  .logo-Girl { width: 130px; }
-  .logo-Youtube { width: 52px; }
-  .logo-Spear { width: 125px; }
-  .logo-Grove { width: 95px; }
-  .logo-Thought { width: 66px; }
+  .logo-Google {
+    width: 88px;
+  }
+  .logo-826CHI {
+    width: 54px;
+  }
+  .logo-Gusto {
+    width: 79px;
+  }
+  .logo-Nestle {
+    width: 55px;
+  }
+  .logo-Uptake {
+    width: 94px;
+  }
+  .logo-JLL {
+    width: 67px;
+  }
+  .logo-CBRE {
+    width: 87px;
+  }
+  .logo-Glassdoor {
+    width: 119px;
+  }
+  .logo-Trunk {
+    width: 125px;
+  }
+  .logo-Heinz {
+    width: 88px;
+  }
+  .logo-Girl {
+    width: 130px;
+  }
+  .logo-Youtube {
+    width: 52px;
+  }
+  .logo-Spear {
+    width: 125px;
+  }
+  .logo-Grove {
+    width: 95px;
+  }
+  .logo-Thought {
+    width: 66px;
+  }
 
   .section-approach {
     margin-bottom: 160px;
@@ -149,7 +183,7 @@
     display: inline-grid;
     margin-top: 48px;
     grid-template-columns: repeat(1, 1fr);
-    
+
     @media (min-width: 530px) {
       grid-template-columns: repeat(2, 1fr);
     }
@@ -161,7 +195,7 @@
     h2 {
       font-family: "GT-America-Mono-Regular", sans-serif;
       font-size: 13px;
-      letter-spacing: .5px;
+      letter-spacing: 0.5px;
       line-height: 22px;
       font-weight: normal;
     }

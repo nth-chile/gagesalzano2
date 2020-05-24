@@ -7,12 +7,18 @@ stack_color: white
 categories:
   - branding
 ---
+
 {% assign slide = site.data.slide %}
+
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-1-mobile@2x.jpg' /></div>
 
-<p class="bg">Sometimes, you get super lucky and get to work on branding for a town.</p>
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<p>Sometimes, you get super lucky and get to work on branding for a town.</p>
 
 {{slide['end']}}
 
@@ -36,13 +42,11 @@ The <a href='https://en.wikipedia.org/wiki/Kalamazoo_River'>Kalamazoo River</a> 
 
 <p class='bg-dark'></p>
 
-
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-6-mobile@2x.jpg' /></div>
-
 
 {{slide['end']}}
 
@@ -51,7 +55,6 @@ The <a href='https://en.wikipedia.org/wiki/Kalamazoo_River'>Kalamazoo River</a> 
 The type interacts with the river and can be used in many ways.
 
 The river motif winds throughout collateral.
-
 
 {{slide['end']}}
 
@@ -73,7 +76,6 @@ The type interacts with the river and can be used in many ways.
 
 <p class='bg-dark'></p>
 
-
 {{slide['end']}}
 
 {{slide['startdesktop']}}
@@ -89,7 +91,6 @@ The river motif winds throughout collateral.
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Saugatuck/saugatuck-4-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
-
 
 {{slide['end']}}
 

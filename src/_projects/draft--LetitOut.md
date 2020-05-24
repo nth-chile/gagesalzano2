@@ -7,6 +7,7 @@ featured_image: /assets/images/posts/Let_it_Out/youtube-thumb.png
 style: height:100%
 stack_color: white
 ---
+
 {% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}

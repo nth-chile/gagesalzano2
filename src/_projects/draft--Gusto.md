@@ -6,6 +6,7 @@ featured_image: /assets/images/posts/Gusto/gusto-thumb.png
 style: width:100%
 stack_color: white
 ---
+
 {% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
@@ -56,8 +57,6 @@ We only had a couple days, so we tried to come up with as many concepts as we co
 
 <div><img src='{{ site.url }}/assets/images/posts/Gusto/gusto-4-mobile@2x.png' /></div>
 
-
-
 <p class='bg'>
   One of my favorite ideas of the bunch was based on the "moments of Gusto" in the workplace.
 </p>
@@ -91,7 +90,6 @@ Keyword is MY favorite idea, not always the client's.
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Gusto/gusto-6-mobile@2x.png' /></div>
 
 <p class='bg-dark'></p>
-
 
 {{slide['end']}}
 

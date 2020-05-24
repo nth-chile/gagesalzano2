@@ -7,9 +7,11 @@ stack_color: white
 categories:
   - print
 ---
+
 {% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
+
   <div>
     <img
       class='full-height' 
@@ -21,6 +23,7 @@ categories:
 {{slide['end']}}
 
 {{slide['startmobile']}}
+
   <div>
     <img
       class='full-height' 
@@ -30,22 +33,27 @@ categories:
 {{slide['end']}}
 
 {{slide['startmobile']}}
+
   <div>
     <img
       class='full-height' 
       src='{{ site.url }}/assets/images/posts/Johnny_Karate/johnny-3-mobile@2x.png'
     />
   </div>
-
-  <p class="bg">Research for this project involved looking at some of the most iconic scripts in baseball for common traits.</p>
-
 {{slide['end']}}
 
 {{slide['startmobile']}}
+
+  <p>Research for this project involved looking at some of the most iconic scripts in baseball for common traits.</p>
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
   <p>After sharing some sketches after Muay Thai class, we landed on a script we liked and Johnny had the idea of working a black belt into the underline. With that addition, and a little help from the computer, we had ourselves a T-Shirt design.</p>
 {{slide['end']}}
 
 {{slide['startmobile']}}
+
   <div>
     <img
       class='full-height' 
@@ -55,6 +63,7 @@ categories:
 {{slide['end']}}
 
 {{slide['startdesktop']}}
+
   <div>
     <img
       class='full-width' 

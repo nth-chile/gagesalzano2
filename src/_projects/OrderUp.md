@@ -8,6 +8,7 @@ categories:
   - branding
   - digital
 ---
+
 {% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
@@ -38,7 +39,6 @@ OrderUp is a food delivery start-up from Baltimore that launched on a college ca
 
 <p class='bg-dark'></p>
 
-
 {{slide['end']}}
 
 {{slide['startdesktop']}}
@@ -55,7 +55,6 @@ The logo was inspired by college pendants and was made to feel loud, energetic a
 
 <p class='bg-dark'></p>
 
-
 {{slide['end']}}
 
 {{slide['startmobile']}}
@@ -63,7 +62,6 @@ The logo was inspired by college pendants and was made to feel loud, energetic a
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/OrderUp/localup-4-mobile@2x.jpg' /></div>
 
 <p class='bg-dark'></p>
-
 
 {{slide['end']}}
 

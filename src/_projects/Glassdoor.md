@@ -7,6 +7,7 @@ stack_color: white
 categories:
   - branding
 ---
+
 {% assign slide = site.data.slide %}
 
 {{slide['startmobile']}}
@@ -69,14 +70,13 @@ The doorframe symbol expands as two brackets to become a visual tool used to fra
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile@2x.jpg' /></div>
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-5-mobile@2x.jpg' /></div>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-6-mobile@2x.jpg' /></div>
-
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Glassdoor/gd-6-mobile@2x.jpg' /></div>
 
 {{slide['end']}}
 
@@ -96,9 +96,21 @@ The doorframe symbol expands as two brackets to become a visual tool used to fra
 
 <figure>
 
-<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-7-mobile@2x.jpg' /></div>
+<div><img style="width:100vw;" src='{{ site.url }}/assets/images/posts/Glassdoor/gd-7-mobile@2x.jpg' /></div>
 
 <figcaption>Everybody loves T-shirts.</figcaption>
+
+</figure>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<figure>
+
+<div><img src='{{ site.url }}/assets/images/posts/Glassdoor/gd-6@2x.png' srcset='{{ site.url }}/assets/images/posts/Glassdoor/gd-6.png 634w, {{ site.url }}/assets/images/posts/Glassdoor/gd-6@2x.png 1268w, {{ site.url }}/assets/images/posts/Glassdoor/gd-6@3x.png 1902w'></div>
+
+<figcaption>Photo by <a href='https://sarahgless.com/'>Sarah</a></figcaption>
 
 </figure>
 
@@ -114,10 +126,6 @@ The doorframe symbol expands as two brackets to become a visual tool used to fra
 
 </figure>
 
-{{slide['end']}}
-
-{{slide['start']}}
-
 <br />
 
 <figure>
@@ -131,7 +139,6 @@ The doorframe symbol expands as two brackets to become a visual tool used to fra
 {{slide['end']}}
 
 {{slide['start']}}
-
 
 Designed with <a href='https://sarahgless.com/'>Sarah Gless</a>.
 
