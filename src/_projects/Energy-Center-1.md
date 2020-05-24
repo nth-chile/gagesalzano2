@@ -65,7 +65,11 @@ It’s simplicity calls for bright, engaging imagery and bold colors.
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/Ec1/ec1-5-mobile@2x.png' /></div>
 
-<p class='bg-dark'>A system of marks were built from the original symbol to provide variety for the team.</p>
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<p>A system of marks were built from the original symbol to provide variety for the team.</p>
 
 {{slide['end']}}
 

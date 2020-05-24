@@ -29,7 +29,11 @@ DoneDone is a nifty issue tracker app that needed a new visual brand system and 
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/DoneDone/donedone-2-mobile@2x.png' /></div>
 
-<p class='bg'>Some foundational brand decisions like the typography, an icon set, and extended color palette were ironed out to provide a framework for communicating DoneDone's new features.</p>
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<p>Some foundational brand decisions like the typography, an icon set, and extended color palette were ironed out to provide a framework for communicating DoneDone's new features.</p>
 
 {{slide['end']}}
 

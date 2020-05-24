@@ -20,7 +20,11 @@ categories:
     />
   </div>
 
-  <p class='bg'>Edukate is a financial wellness platform that helps employees understand and take advantage of their financial benefits. They were looking to establish a cohesive brand design system that they could use to execute across a web platform and various documentation and marketing material.</p>
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+  <p>Edukate is a financial wellness platform that helps employees understand and take advantage of their financial benefits. They were looking to establish a cohesive brand design system that they could use to execute across a web platform and various documentation and marketing material.</p>
 {{slide['end']}}
 
 {{slide['startmobile']}}
