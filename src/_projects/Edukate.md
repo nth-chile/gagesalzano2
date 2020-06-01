@@ -216,7 +216,7 @@ categories:
     />
   </div>
 
-  <p>Check out the platform at <a target="_blank" href="www.edukate.com">www.edukate.com</a>.</p>
+  <p class="bg-dark">Check out the platform at <a target="_blank" href="https://edukate.com">www.edukate.com</a>.</p>
 {{slide['end']}}
 
 {{slide['startdesktop']}}
@@ -343,6 +343,6 @@ categories:
     <figcaption>Real-life settings with product elements overlaid helped show how the product helps our day-to-day.</figcaption>
   </figure>
 
-  <p>Check out the platform at <a target="_blank" href="www.edukate.com">www.edukate.com</a>.</p>
+  <p>Check out the platform at <a target="_blank" href="https://edukate.com">www.edukate.com</a>.</p>
 
 {{slide['end']}}

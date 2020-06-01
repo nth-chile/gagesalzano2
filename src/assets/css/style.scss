@@ -215,8 +215,8 @@ h4 {
   }
 
   @include min900 {
-    margin: 0 40px;
-    padding-top: 38px;
+    margin: 38px 40px 0;
+    height: 0;
   }
 
   & > * {
@@ -257,6 +257,7 @@ h4 {
   line-height: 22px;
   letter-spacing: -0.5px;
   margin-left: 3px;
+  position: absolute;
 
   @include min900 {
     display: block;

@@ -86,7 +86,7 @@ Early concepts were inspired by the building/road layout and the Vancouver skyli
 
 {{slide['startdesktop']}}
 
-<div><img src='{{ site.url }}/assets/images/posts/Wil/wil-1@2x.png' /></div>
+<div><img class="full-width" src='{{ site.url }}/assets/images/posts/Wil/wil-1@2x.png' /></div>
 
 Willingdon Park is a campus of business offices and high-tech industry buildings near Vancouver. They were in need of a visual identity system to unify all buildings and provide a framework for visual communication.
 

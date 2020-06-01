@@ -123,7 +123,7 @@ From that insight Homeroom was born. We spent the next couple days ironing out t
 
 {{slide['startdesktop']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-1@2x.png' /></div>
+<div><img class='full-width' src='{{ site.url }}/assets/images/posts/Homeroom/homeroom-1@2x.png' /></div>
 
 Homeroom was the result of a 5-day workshop focused on online higher education and a growing perception that it’s not effective.
 
