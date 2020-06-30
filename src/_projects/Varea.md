@@ -98,6 +98,11 @@ categories:
   </div>
 {{slide['end']}}
 
+{{slide['startmobile']}}
+
+  <p>Designed with <a href="http://nicholasfiran.com/" target="_blank">Nicholas Firan</a></p>
+{{slide['end']}}
+
 {{slide['startdesktop']}}
 
   <div>
@@ -150,5 +155,7 @@ categories:
       <img src="{{ site.url }}/assets/images/posts/Varea/varea-9@2x.png" />
     </div>
   </div>
+
+  <p>Designed with <a href="http://nicholasfiran.com/" target="_blank">Nicholas Firan</a></p>
 
 {{slide['end']}}
