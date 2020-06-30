@@ -10,17 +10,17 @@ const handler = async (req, res) => {
 
     const msg = {
       to: "office@studioapt.co",
-      from: req.body.from || "anonymous@anonymous.com",
+      from: "office@studioapt.co",
       subject:
-        req.body.subject || "New email via studioapartment.co contact form",
-      text: req.body.text || "Email sent via studioapartment.co contact form.",
+        req.body.subject || `New email via studioapartment.co contact form`,
+      text: req.body.from,
     };
 
     const sgResponse = await sgMail.send(msg);
 
     return res.send(sgResponse);
   } catch (e) {
-    console.log(e);
+    console.log(JSON.stringify(e));
   }
 };
 
