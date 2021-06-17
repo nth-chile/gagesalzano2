@@ -7,3 +7,8 @@ RewriteRule ^(.*)$ https://studioapt.co%{REQUEST_URI} [L,R=301]
 # if host includes 'studioapartment.co'
 RewriteCond %{HTTP_HOST} ^(.*)studioapartment.co$
 RewriteRule ^(.*)$ https://studioapt.co%{REQUEST_URI} [L,R=301]
+
+# if host includes 'studioapt.co'
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^(.*)studioapt.co$
+RewriteRule ^(.*)$ https://studioapt.co%{REQUEST_URI} [L,R=301]
