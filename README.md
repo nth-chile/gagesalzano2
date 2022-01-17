@@ -4,8 +4,6 @@ Rather than installing pacakges globally on your computer, use this command to i
 
 `$ bundle install --path vendor/bundle`
 
-Before git committing, make sure `vendor` is a line in the .gitignore file and in the excludes list in \_config.yml
-
 # How to edit projects
 
 Projects are Markdown files in the _projects directory. Filename doesn't matter.
