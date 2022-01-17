@@ -1,8 +1,7 @@
 # Installation / updates
 
-Rather than installing pacakges globally on your computer, use this command to install the packages inside the project directory:
-
-`$ bundle install --path vendor/bundle`
+1. `yarn` to install Node modules
+2. `yarn install-gems` to install Ruby gems
 
 # How to edit projects
 
@@ -10,7 +9,7 @@ Projects are Markdown files in the _projects directory. Filename doesn't matter.
 
 ## Front Matter
 
-Options defined at the top of each post. 
+_Options defined at the top of each post_
 
 - **title** (required)
 - **featured_image** (required)
@@ -41,7 +40,3 @@ Options defined at the top of each post.
 - **div.row:** For big view, if you want to put multiple images in a row (side-by-side), wrap images (which themselves are wrapped in `<div>` tags as usual) in a `<div class='row'>`.
 - **div.column:** For stacking images on top of each other if they are in a `.row`
 - Putting `<!-- -->` between images that are in a row eliminates white-space between the elements
-
-## The "\_config.yml" file
-
-[YAML](https://learnxinyminutes.com/docs/yaml/) is a data format based on indentation, where an indent is two spaces.
