@@ -11,7 +11,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    execjs (2.8.1)
+    execjs (2.7.0)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
@@ -64,14 +64,15 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-19
 
 DEPENDENCIES
-  jekyll (~> 4.0)
+  execjs (= 2.7.0)
+  jekyll
   jekyll-autoprefixer
-  tzinfo-data
 
 RUBY VERSION
-   ruby 2.7.0p0
+   ruby 2.6.8p205
 
 BUNDLED WITH
    2.2.27

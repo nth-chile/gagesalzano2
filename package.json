@@ -11,7 +11,8 @@
   },
   "scripts": {
     "install-gems": "bundle config set --local path 'vendor/bundle' && bundle install",
-    "webpack-watch": "npx webpack --mode=development -w --config webpack.config.js",
+    "dev:webpack": "npx webpack --mode=development -w --config webpack.config.js",
+    "dev:jekyll": "bundle exec jekyll serve --livereload",
     "build": "npx webpack --mode=production --config webpack.config.js"
   }
 }
