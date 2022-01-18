@@ -41,29 +41,23 @@ name: home
     <!-- Use a template tag and data-* attributes and add projects to the grid with JS -->
     <template id="template-grid">
       {% if site.projects %}
-      {% for project in site.projects %}
-      {% if project.stack_color %}
-      {% assign bg_color = project.stack_color %}
-      {% else %}
-      {% assign bg_color = 'rgb(209, 209, 209)' %}
-      {% endif %}
-
-      {% if project.title != 'about' %}
-      <div class="grid__item" data-categories="{{ project.categories | join: " " }}">
-        <a href='{{ project.url | prepend: site.url }}' style="background-color: {{bg_color}}">
-          <div>
-            <h4 class="mono-header" {% if project.dark_title %} style="color: rgb(77, 69, 69)" {% endif %}>{{ project.title | escape }}</h4>
-            {% if project.featured_image %}
-            <img src='{{ project.featured_image | prepend: site.url }}' {% if project.style %}
-              style='{{ project.style }}' {% endif %} />
-            {% else %}
-            <img src='{{ site.url }}/assets/images/posts/default.png' />
-            {% endif %}
-          </div>
-        </a>
-      </div>
-      {% endif %}
-      {% endfor %}
+        {% for project in site.projects %}
+          {% if project.title != 'about' %}
+            <div class="grid__item" data-categories="{{ project.categories | join: " " }}">
+              <a href='{{ project.url | prepend: site.url }}'>
+                <div>
+                  <h4 class="mono-header" {% if project.dark_title %} style="color: rgb(77, 69, 69)" {% endif %}>{{ project.title | escape }}</h4>
+                  {% if project.featured_image %}
+                  <img src='{{ project.featured_image | prepend: site.url }}' {% if project.style %}
+                    style='{{ project.style }}' {% endif %} />
+                  {% else %}
+                  <img src='{{ site.url }}/assets/images/posts/default.png' />
+                  {% endif %}
+                </div>
+              </a>
+            </div>
+          {% endif %}
+        {% endfor %}
       {% endif %}
     </template>
 

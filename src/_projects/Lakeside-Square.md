@@ -3,7 +3,6 @@ title: Lakeside Square — Branding
 date: 2019-05-25 05:00:30
 featured_image: /assets/images/posts/Lakeside/lakeside-thumb.jpg
 style: width:100%
-stack_color: white
 categories:
   - branding
 ---

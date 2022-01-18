@@ -3,7 +3,6 @@ title: The Ro — Branding
 date: 2019-05-25 05:01:20
 featured_image: /assets/images/posts/The_Ro/thero-thumb.jpg
 style: width:100%
-stack_color: white
 categories:
   - branding
   - digital

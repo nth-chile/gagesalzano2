@@ -3,7 +3,6 @@ title: Johnny Karate — T-Shirt
 featured_image: /assets/images/posts/Johnny_Karate/thumb.png
 date: 2019-05-25 04:00:40
 style: width:100%
-stack_color: white
 categories:
   - print
 ---

@@ -3,7 +3,6 @@ title: 826 2017 Annual Report — Website
 date: 2019-05-25 05:02:40
 featured_image: /assets/images/posts/826CHI_2017_Report/826-2017-thumb.jpg
 style: width:100%
-stack_color: white
 categories:
   - digital
 ---

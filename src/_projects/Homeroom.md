@@ -3,7 +3,6 @@ title: Homeroom — Branding & App UI
 date: 2019-05-25 05:01:30
 featured_image: /assets/images/posts/Homeroom/homeroom-thumb.jpg
 style: width:100%
-stack_color: white
 categories:
   - branding
   - digital

@@ -16,7 +16,6 @@ _Options defined at the top of each post_
 - **categories:** Options: `digital`, `branding`, `print`. This is how the homepage filter decides what to display. Can add more than one category -- see how it is done in other posts
 - **date:** you can rearrange the order of posts on the homepage by changing the date.
 - **style:** inline style for the featured image
-- **stack_color:** color of the 'cards' behind the grid tile, seen on hover
 - **dark_title:** if you want the post title to be dark on the homepage, add `dark_title: true`
 - **published:** add `published: false` for drafts
 

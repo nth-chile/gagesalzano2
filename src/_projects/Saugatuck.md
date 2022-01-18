@@ -3,7 +3,6 @@ title: Saugatuck — Branding
 date: 2019-05-25 05:02:50
 featured_image: /assets/images/posts/Saugatuck/saugatuck-thumb.png
 style: height:100%
-stack_color: white
 categories:
   - branding
 ---

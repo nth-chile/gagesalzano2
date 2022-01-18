@@ -3,7 +3,6 @@ title: Edukate — Branding & Website
 featured_image: /assets/images/posts/Edukate/thumb.png
 date: 2019-05-25 04:00:50
 style: width:100%
-stack_color: white
 categories:
   - branding
   - digital

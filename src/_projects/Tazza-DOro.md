@@ -3,7 +3,6 @@ title: Tazza D'Oro — Branding
 date: 2019-05-25 05:03:10
 featured_image: /assets/images/posts/TazzaDOro/tazzadoro-thumb.jpg
 style: height:100%
-stack_color: white
 categories:
   - branding
 ---

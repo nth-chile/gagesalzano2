@@ -3,7 +3,6 @@ title: Tennyson Park — Branding
 date: 2019-05-25 05:01:40
 featured_image: /assets/images/posts/Tennyson/tennyson-thumb.jpg
 style: width:100%
-stack_color: white
 categories:
   - branding
   - print

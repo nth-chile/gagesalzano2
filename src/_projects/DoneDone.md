@@ -4,7 +4,6 @@ title: DoneDone — Website
 date: 2019-05-25 05:00:40
 featured_image: /assets/images/posts/DoneDone/donedone-thumb.jpg
 style: width:100%
-stack_color: white
 categories:
   - digital
 ---
