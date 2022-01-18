@@ -88,6 +88,54 @@ categories:
 
 {{slide['startdesktop']}}
 
-hi
+<div>
+  <img
+    class='full-width' 
+    src='{{ site.url }}/assets/images/posts/keeper/keeper-1.jpg'
+  />
+</div>
+
+<p class="bg">Keeper Security is a password manager that needed a distinctive brand as they grew. With the team at ColorJar, we were able to provide a comprehensive brand identiy.</p>
+
+<div>
+  <img
+    src='{{ site.url }}/assets/images/posts/keeper/keeper-grid-1.png'
+  />
+</div>
+
+<p class="bg">Initial sketches referenced traditional lock mechanisms, fingerprints and abstract references to security.</p>
+
+<div>
+  <img
+    src='{{ site.url }}/assets/images/posts/keeper/keeper-grid-2.png'
+  />
+</div>
+
+<p class="bg">Some of the early concepts that resonated were similar in their boldness and strong typography.</p>
+
+<div>
+  <img
+    src='{{ site.url }}/assets/images/posts/keeper/keeper-grid-3.png'
+  />
+</div>
+
+<p class="bg">The final mark referenced both fingerprints, traditional pad locks and the flow of data in networks.</p>
+
+<div>
+  <img
+    src='{{ site.url }}/assets/images/posts/keeper/keeper-grid-4.png'
+  />
+</div>
+
+<p class="bg">The brand was designed to feel bold, confident and secure. The goldenrod color both alerts and makes the viewer feel in secure hands.</p>
+
+<div>
+  <img
+    src='{{ site.url }}/assets/images/posts/keeper/keeper-grid-5.png'
+  />
+</div>
+
+<p class="bg">The website used a minimal color palette and design to allow the product interface to shine and feel structured and secure.</p>
+
 
 {{slide['end']}}
