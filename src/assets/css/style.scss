@@ -653,6 +653,34 @@ figure {
   }
 }
 
+.image-grid {
+  display: grid;
+  gap: 6px;
+
+  & > div {
+    overflow: hidden;
+  }
+
+  img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+  }
+
+  @media (min-width: 800px) {
+    margin: 0 auto;
+    width: calc(100% - 230px);
+  }
+}
+
+.image-grid--mobile {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
 @media all and (max-width: 479.9px) {
   .home-wrap,
   .error-404-wrap {
@@ -1005,6 +1033,10 @@ figure {
 
 .d-inline-block {
   display: inline-block;
+}
+
+.d-grid {
+  display: grid;
 }
 
 .d-none {

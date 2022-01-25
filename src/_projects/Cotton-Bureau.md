@@ -73,7 +73,7 @@ categories:
 
 <div>
   <img
-    src='{{ site.url }}/assets/images/posts/cotton-bureau/cottonbureau-grid-1.png'
+    src='{{ site.url }}/assets/images/posts/cotton-bureau/cb1.png'
   />
 </div>
 
@@ -81,7 +81,7 @@ categories:
 
 <div>
   <img
-    src='{{ site.url }}/assets/images/posts/cotton-bureau/cottonbureau-grid-2.png'
+    src='{{ site.url }}/assets/images/posts/cotton-bureau/cb2.png'
   />
 </div>
 
@@ -89,7 +89,7 @@ categories:
 
 <div>
   <img
-    src='{{ site.url }}/assets/images/posts/cotton-bureau/cottonbureau-grid-3.png'
+    src='{{ site.url }}/assets/images/posts/cotton-bureau/cb3.png'
   />
 </div>
 

@@ -80,7 +80,7 @@ categories:
 <div>
   <img
     class='full-height' 
-    src='{{ site.url }}/assets/images/posts/chips-clubhouse/chips-mobile-5.png'
+    src='{{ site.url }}/assets/images/posts/chips-clubhouse/chips-mobile-6.png'
   />
 </div>
 
@@ -93,7 +93,7 @@ categories:
 <div>
   <img
     class='full-height' 
-    src='{{ site.url }}/assets/images/posts/chips-clubhouse/chips-mobile-5.png'
+    src='{{ site.url }}/assets/images/posts/chips-clubhouse/chips-animation.gif'
   />
 </div>
 
@@ -155,7 +155,7 @@ categories:
 
 <div>
   <img
-    src='{{ site.url }}/assets/images/posts/chips-clubhouse/chips-5.png'
+    src='{{ site.url }}/assets/images/posts/chips-clubhouse/chips-animation.gif'
   />
 </div>
 

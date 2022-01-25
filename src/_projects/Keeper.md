@@ -17,7 +17,7 @@ categories:
   />
 </div>
 
-<p class="bg">Keeper Security is a password manager that needed a distinctive brand as they grew. With the team at ColorJar, we were able to provide a comprehensive brand identiy.</p>
+<p class="bg">Keeper Security is a password manager that needed a distinctive brand as they grew.</p>
 
 {{slide['end']}}
 
@@ -86,6 +86,12 @@ categories:
 
 {{slide['end']}}
 
+{{slide['startmobile']}}
+
+<p>Designed for the team at ColorJar.</p>
+
+{{slide['end']}}
+
 {{slide['startdesktop']}}
 
 <div>
@@ -95,7 +101,7 @@ categories:
   />
 </div>
 
-<p class="bg">Keeper Security is a password manager that needed a distinctive brand as they grew. With the team at ColorJar, we were able to provide a comprehensive brand identiy.</p>
+<p class="bg">Keeper Security is a password manager that needed a distinctive brand as they grew.</p>
 
 <div>
   <img
@@ -135,7 +141,6 @@ categories:
   />
 </div>
 
-<p class="bg">The website used a minimal color palette and design to allow the product interface to shine and feel structured and secure.</p>
-
+<p>The website used a minimal color palette and design to allow the product interface to shine and feel structured and secure.<br><br>Designed for the team at ColorJar.</p>
 
 {{slide['end']}}

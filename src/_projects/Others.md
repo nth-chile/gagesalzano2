@@ -95,7 +95,7 @@ categories:
 <div>
   <img
     class='full-height' 
-    src='{{ site.url }}/assets/images/posts/others/others-mobile-7.png'
+    src='{{ site.url }}/assets/images/posts/others/others-animation.gif'
   />
 </div>
 
@@ -108,7 +108,7 @@ categories:
 
 <div>
   <img
-    class='full-height' 
+    class='full-width' 
     src='{{ site.url }}/assets/images/posts/others/others-1.jpg'
   />
 </div>
@@ -157,7 +157,7 @@ categories:
 
 <div>
   <img
-    src='{{ site.url }}/assets/images/posts/others/others-grid-7.png'
+    src='{{ site.url }}/assets/images/posts/others/others-animation.gif'
   />
 </div>
 
