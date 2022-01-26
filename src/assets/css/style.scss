@@ -384,32 +384,24 @@ h4 {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-size: 0;
+    font-size: 13px;
+    line-height: 22px;
+    letter-spacing: -0.5px;
+    font-family: "GT-America-Mono-Regular";
 
     @include min900 {
       display: block;
     }
-  }
-
-  a,
-  svg {
-    vertical-align: middle;
   }
 
   a {
-    color: rgba(77, 69, 69, 0.5);
+    color: rgba(35, 31, 32, .5);
     text-decoration: none;
-    line-height: 43px;
     display: block;
-
-    @include min900 {
-      line-height: 30px;
-      display: block;
-    }
 
     &:hover,
     &:focus {
-      color: rgba(77, 69, 69, 0.5);
+      color: rgba(35, 31, 32, 1);
     }
   }
 
@@ -438,27 +430,18 @@ h4 {
 
 // Current page link color
 .about-wrap .header-nav-wrap a.about-link {
-  color: #231f20;
-  &:hover,
-  &:focus {
-    color: rgb(77, 69, 69);
-  }
+  color: rgba(35, 31, 32, 1);
+  border-bottom: 1px solid rgba(35, 31, 32, 1);;
 }
 
 .home-wrap .header-nav-wrap a.home-link {
-  color: #231f20;
-  &:hover,
-  &:focus {
-    color: rgb(77, 69, 69);
-  }
+  color: rgba(35, 31, 32, 1);
+  border-bottom: 1px solid rgba(35, 31, 32, 1);;
 }
 
 .contact-wrap .header-nav-wrap a.contact-link {
-  color: #231f20;
-  &:hover,
-  &:focus {
-    color: rgb(77, 69, 69);
-  }
+  color: rgba(35, 31, 32, 1);
+  border-bottom: 1px solid rgba(35, 31, 32, 1);;
 }
 
 .quote-wrap {

@@ -132,17 +132,14 @@
   .logo-Google {
     width: 88px;
   }
-  .logo-826CHI {
-    width: 54px;
+  .logo-Square {
+    width: 56px;
   }
   .logo-Gusto {
     width: 79px;
   }
   .logo-Nestle {
     width: 55px;
-  }
-  .logo-Uptake {
-    width: 94px;
   }
   .logo-JLL {
     width: 67px;
@@ -165,18 +162,8 @@
   .logo-Youtube {
     width: 52px;
   }
-  .logo-Spear {
-    width: 125px;
-  }
-  .logo-Grove {
-    width: 95px;
-  }
-  .logo-Thought {
-    width: 66px;
-  }
-
-  .section-approach {
-    margin-bottom: 160px;
+  .logo-NavyPier {
+    width: 88px;
   }
 
   .section-approach__grid {
@@ -192,13 +179,13 @@
       grid-template-columns: repeat(3, 1fr);
     }
 
-    h2 {
-      font-family: "GT-America-Mono-Regular", sans-serif;
-      font-size: 13px;
-      letter-spacing: 0.5px;
-      line-height: 22px;
-      font-weight: normal;
-    }
+    // h2 {
+    //   font-family: "GT-America-Mono-Regular", sans-serif;
+    //   font-size: 13px;
+    //   letter-spacing: 0.5px;
+    //   line-height: 22px;
+    //   font-weight: normal;
+    // }
 
     & > div {
       display: inline-block;
@@ -211,13 +198,6 @@
         height: 127px;
         width: 100%;
       }
-    }
-  }
-
-  .section-team {
-    img {
-      margin-bottom: 52px;
-      width: 322px;
     }
   }
 }
