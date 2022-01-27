@@ -17,7 +17,7 @@ categories:
   />
 </div>
 
-<p class="bg">Thought Catalog is a digital youth culture magazine that needed help designing new offerings to both feel distinctive, and a recognizable part of the brand.</p>
+<p class="bg"><a href="https://thoughtcatalog.com/">Thought Catalog</a> is a digital youth culture magazine that needed help designing new offerings to both feel distinctive, and a recognizable part of the brand.</p>
 
 {{slide['end']}}
 
@@ -84,7 +84,7 @@ categories:
   "><img src='{{ site.url }}/assets/images/posts/thought-catalog/tc-grid-2-5.jpg'></div>
 </div>
 
-<p class="bg">Shop Catalog is an apparel, books and home goods company. The website was designed to add a charming editorial feel to e-commerce.</p>
+<p class="bg"><a href="https://shopcatalog.com/">Shop Catalog</a> is an apparel, books and home goods company. The website was designed to add a charming editorial feel to e-commerce.</p>
 
 {{slide['end']}}
 
@@ -108,7 +108,7 @@ categories:
   "><img src='{{ site.url }}/assets/images/posts/thought-catalog/tc-grid-3-3.jpg'></div>
 </div>
 
-<p class="bg">Thought Catalog is a digital youth culture magazine that needed help designing new offerings to both feel distinctive, and a recognizable part of the brand.</p>
+<p class="bg"><a href="https://creepycatalog.com/">Creepy Catalog</a>, a horror streaming blog, was designed to feel more open and sparse. This allowed the content to shine, but also made things feel…sort of creepy. </p>
 
 {{slide['end']}}
 
@@ -121,7 +121,7 @@ categories:
   />
 </div>
 
-<p>Thought Catalog is a digital youth culture magazine that needed help designing new offerings to both feel distinctive, and a recognizable part of the brand.</p>
+<p><a href="https://thoughtcatalog.com/">Thought Catalog</a> is a digital youth culture magazine that needed help designing new offerings to both feel distinctive, and a recognizable part of the brand.</p>
 
 <div class="image-grid" style="
   grid-template-columns: 3fr 1fr 1fr;
@@ -177,7 +177,7 @@ categories:
   "><img src='{{ site.url }}/assets/images/posts/thought-catalog/tc-grid-2-5.jpg'></div>
 </div>
 
-<p>Shop Catalog is an apparel, books and home goods company. The website was designed to add a charming editorial feel to e-commerce.</p>
+<p><a href="https://shopcatalog.com/">Shop Catalog</a> is an apparel, books and home goods company. The website was designed to add a charming editorial feel to e-commerce.</p>
 
 <div class="image-grid" style="
   grid-template-columns: 3fr 2fr;
@@ -197,6 +197,6 @@ categories:
   "><img src='{{ site.url }}/assets/images/posts/thought-catalog/thoughtcatalog-14.jpg'></div>
 </div>
 
-<p>Creepy Catalog, a horror streaming blog, was designed to feel more open and sparse. This allowed the content to shine, but also made things feel…sort of creepy.</p>
+<p><a href="https://creepycatalog.com/">Creepy Catalog</a>, a horror streaming blog, was designed to feel more open and sparse. This allowed the content to shine, but also made things feel…sort of creepy.</p>
 
 {{slide['end']}}

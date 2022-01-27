@@ -17,7 +17,7 @@ categories:
   />
 </div>
 
-<p class="bg">Cotton Bureau is a t-shirt and merchandise company that works with some of the most interesting companies out there and fosters a community of talented artists to create one-of-a-kind shirts. We worked with them on concepts for a few of their clients.</p>
+<p class="bg"><a href="https://cottonbureau.com/">Cotton Bureau</a> is a t-shirt and merchandise company that works with some of the most interesting companies out there and fosters a community of talented artists to create one-of-a-kind shirts. We worked with them on concepts for a few of their clients.</p>
 
 {{slide['end']}}
 
@@ -30,7 +30,7 @@ categories:
   />
 </div>
 
-<p class="bg">We came up with this flip phone concept that referenced the logo for popular tech review YouTuber MKBHD 🙌</p>
+<p class="bg">We came up with this flip phone concept that referenced the logo for popular tech review YouTuber <a href="https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ">MKBHD</a> 🙌</p>
 
 {{slide['end']}}
 
@@ -56,7 +56,7 @@ categories:
   />
 </div>
 
-<p class="bg">We were honored to develop this one-of-a-kind T-shirt concept for Adam Savage’s company Savage Industries.</p>
+<p class="bg">We were honored to develop this one-of-a-kind T-shirt concept for Adam Savage’s company <a href="https://adamsavage.com/">Savage Industries</a>.</p>
 
 {{slide['end']}}
 
@@ -69,7 +69,7 @@ categories:
   />
 </div>
 
-<p class="bg">Cotton Bureau is a t-shirt and merchandise company that works with some of the most interesting companies out there and fosters a community of talented artists to create one-of-a-kind shirts. We worked with them on concepts for a few of their clients.</p>
+<p class="bg"><a href="https://cottonbureau.com/">Cotton Bureau</a> is a t-shirt and merchandise company that works with some of the most interesting companies out there and fosters a community of talented artists to create one-of-a-kind shirts. We worked with them on concepts for a few of their clients.</p>
 
 <div>
   <img
@@ -77,7 +77,7 @@ categories:
   />
 </div>
 
-<p class="bg">We came up with this flip phone concept that referenced the logo for popular tech review YouTuber MKBHD 🙌</p>
+<p class="bg">We came up with this flip phone concept that referenced the logo for popular tech review YouTuber <a href="https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ">MKBHD</a> 🙌</p>
 
 <div>
   <img
@@ -93,6 +93,6 @@ categories:
   />
 </div>
 
-<p class="bg">We were honored to develop this one-of-a-kind T-shirt concept for Adam Savage’s company Savage Industries.</p>
+<p class="bg">We were honored to develop this one-of-a-kind T-shirt concept for Adam Savage’s company <a href="https://adamsavage.com/">Savage Industries</a>.</p>
 
 {{slide['end']}}

@@ -388,6 +388,7 @@ h4 {
     line-height: 22px;
     letter-spacing: -0.5px;
     font-family: "GT-America-Mono-Regular";
+    height: 100%;
 
     @include min900 {
       display: block;
@@ -397,7 +398,7 @@ h4 {
   a {
     color: rgba(35, 31, 32, .5);
     text-decoration: none;
-    display: block;
+    display: inline-block;
 
     &:hover,
     &:focus {

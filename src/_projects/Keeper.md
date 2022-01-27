@@ -17,7 +17,7 @@ categories:
   />
 </div>
 
-<p class="bg">Keeper Security is a password manager that needed a distinctive brand as they grew.</p>
+<p class="bg"><a href="https://www.keepersecurity.com/">Keeper Security</a> is a password manager that needed a distinctive brand as they grew.</p>
 
 {{slide['end']}}
 
@@ -101,7 +101,7 @@ categories:
   />
 </div>
 
-<p class="bg">Keeper Security is a password manager that needed a distinctive brand as they grew.</p>
+<p class="bg"><a href="https://www.keepersecurity.com/">Keeper Security</a> is a password manager that needed a distinctive brand as they grew.</p>
 
 <div>
   <img

@@ -17,7 +17,7 @@ categories:
   />
 </div>
 
-<p class="bg">Pink Door Cookies is a one-of-a-kind, hand-made cookie store in Nashville combining unique flavor combinations. One thing is certain, you have never had cookies like these.</p>
+<p class="bg"><a href="https://www.pinkdoorcookies.com/">Pink Door Cookies</a> is a one-of-a-kind, hand-made cookie store in Nashville combining unique flavor combinations. One thing is certain, you have never had cookies like these.</p>
 
 {{slide['end']}}
 
@@ -56,7 +56,7 @@ categories:
   />
 </div>
 
-<p class="bg">A customized version of the typeface Frankfurter was created to allow for easily applying the “sprinkle” effect on labels, stickers and other elements around the shop.</p>
+<p class="bg">A customized version of the typeface <a href="https://www.myfonts.com/fonts/itc/frankfurter/">Frankfurter</a> was created to allow for easily applying the “sprinkle” effect on labels, stickers and other elements around the shop.</p>
 
 {{slide['end']}}
 
@@ -82,7 +82,7 @@ categories:
   />
 </div>
 
-<p class="bg-dark">Order your own dozen at Pink Door Cookies today.</p>
+<p class="bg-dark">Order your own dozen at <a href="https://www.pinkdoorcookies.com/">Pink Door Cookies</a> today.</p>
 
 {{slide['end']}}
 
@@ -96,7 +96,7 @@ categories:
   />
 </div>
 
-<p class="bg">Pink Door Cookies is a one-of-a-kind, hand-made cookie store in Nashville combining unique flavor combinations. One thing is certain, you have never had cookies like these.</p>
+<p class="bg"><a href="https://www.pinkdoorcookies.com/">Pink Door Cookies</a> is a one-of-a-kind, hand-made cookie store in Nashville combining unique flavor combinations. One thing is certain, you have never had cookies like these.</p>
 
 <div>
   <img
@@ -120,7 +120,7 @@ categories:
   />
 </div>
 
-<p class="bg">A customized version of the typeface Frankfurter was created to allow for easily applying the “sprinkle” effect on labels, stickers and other elements around the shop.</p>
+<p class="bg">A customized version of the typeface <a href="https://www.myfonts.com/fonts/itc/frankfurter/">Frankfurter</a> was created to allow for easily applying the “sprinkle” effect on labels, stickers and other elements around the shop.</p>
 
 <div>
   <img
@@ -136,6 +136,6 @@ categories:
   />
 </div>
 
-<p class="bg-dark">Order your own dozen at Pink Door Cookies today.</p>
+<p class="bg-dark">Order your own dozen at <a href="https://www.pinkdoorcookies.com/">Pink Door Cookies</a> today.</p>
 
 {{slide['end']}}

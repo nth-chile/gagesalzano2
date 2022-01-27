@@ -17,7 +17,7 @@ categories:
   />
 </div>
 
-<p class="bg">Chip’s Clubhouse is a restaurant & bar in Saint Paul, MN serving British pub nostalgia in an entirely new, tasty way.</p>
+<p class="bg"><a href="https://visitchips.com/">Chip’s Clubhouse</a> is a restaurant & bar in Saint Paul, MN serving British pub nostalgia in an entirely new, tasty way.</p>
 
 {{slide['end']}}
 
@@ -97,7 +97,7 @@ categories:
   />
 </div>
 
-<p class="bg">Check out their menu online and stop by if your in the Saint Paul area!</p>
+<p class="bg"><a href="https://visitchips.com/">Check out their menu</a> online and stop by if you're in the Saint Paul area!</p>
 
 {{slide['end']}}
 
@@ -110,7 +110,7 @@ categories:
   />
 </div>
 
-<p class="bg">Chip’s Clubhouse is a restaurant & bar in Saint Paul, MN serving British pub nostalgia in an entirely new, tasty way.</p>
+<p class="bg"><a href="https://visitchips.com/">Chip’s Clubhouse</a> is a restaurant & bar in Saint Paul, MN serving British pub nostalgia in an entirely new, tasty way.</p>
 
 <div>
   <img
@@ -159,6 +159,6 @@ categories:
   />
 </div>
 
-<p class="bg">Check out their menu online and stop by if your in the Saint Paul area!</p>
+<p class="bg"><a href="https://visitchips.com/">Check out their menu</a> online and stop by if you're in the Saint Paul area!</p>
 
 {{slide['end']}}

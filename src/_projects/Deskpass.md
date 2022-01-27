@@ -19,7 +19,7 @@ categories:
   />
 </div>
 
-<p class="bg">Deskpass is a shared office space membership plan that provides access to co-working spaces all over the world.</p>
+<p class="bg"><a href="https://www.deskpass.com/">Deskpass</a> is a shared office space membership plan that provides access to co-working spaces all over the world.</p>
 
 {{slide['end']}}
 
@@ -136,7 +136,7 @@ categories:
   />
 </div>
 
-<p class="bg">Deskpass is a shared office space membership plan that provides access to co-working spaces all over the world.</p>
+<p class="bg"><a href="https://www.deskpass.com/">Deskpass</a> is a shared office space membership plan that provides access to co-working spaces all over the world.</p>
 
 <div class="image-grid" style="
   grid-template-columns: 1fr 1fr;

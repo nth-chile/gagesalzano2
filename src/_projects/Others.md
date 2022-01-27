@@ -17,7 +17,7 @@ categories:
   />
 </div>
 
-<p class="bg">Others Unlimited is an empathy training curriculum that helps companies learn how to operate in a more understanding and productive way.</p>
+<p class="bg"><a href="https://www.othersunlimited.com/">Others Unlimited</a> is an empathy training curriculum that helps companies learn how to operate in a more understanding and productive way.</p>
 
 {{slide['end']}}
 
@@ -99,7 +99,7 @@ categories:
   />
 </div>
 
-<p class="bg">Check out Others Unlimited to see how you could improve your relationship with your team.</p>
+<p class="bg">Check out <a href="https://www.othersunlimited.com/">Others Unlimited</a> to see how you could improve your relationship with your team.</p>
 
 {{slide['end']}}
 
@@ -113,7 +113,7 @@ categories:
   />
 </div>
 
-<p class="bg">Others Unlimited is an empathy training curriculum that helps companies learn how to operate in a more understanding and productive way.</p>
+<p class="bg"><a href="https://www.othersunlimited.com/">Others Unlimited</a> is an empathy training curriculum that helps companies learn how to operate in a more understanding and productive way.</p>
 
 <div>
   <img
@@ -161,6 +161,6 @@ categories:
   />
 </div>
 
-<p class="bg">Check out Others Unlimited to see how you could improve your relationship with your team.</p>
+<p class="bg">Check out <a href="https://www.othersunlimited.com/">Others Unlimited</a> to see how you could improve your relationship with your team.</p>
 
 {{slide['end']}}

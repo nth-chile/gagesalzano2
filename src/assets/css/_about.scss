@@ -94,25 +94,18 @@
     }
   }
 
-  .logo-grid {
-    grid-template-columns: repeat(1, 1fr);
+  .logos {
+    max-width: 650px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     margin-left: auto;
     margin-top: 45px;
     margin-right: auto;
-    margin-bottom: 180px;
-    display: inline-grid;
-    position: relative;
-
-    @media (min-width: 490px) {
-      grid-template-columns: repeat(3, 1fr);
-    }
-
-    @include min900 {
-      grid-template-columns: repeat(5, 1fr);
-    }
+    margin-bottom: 100px;
 
     & > div {
-      padding: 0 0 28px;
+      padding: 0 10px 28px;
 
       @media (min-width: 550px) {
         padding: 0 19px 28px;
