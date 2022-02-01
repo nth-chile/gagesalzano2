@@ -9,6 +9,5 @@ ruby RUBY_VERSION
 
 gem "jekyll"
 gem "execjs", "2.7.0"
-gem 'eventmachine', '1.3.0.dev.1', git: 'git@github.com:eventmachine/eventmachine', branch: 'master'
 gem 'jekyll-autoprefixer'
 gem "webrick", "~> 1.7"

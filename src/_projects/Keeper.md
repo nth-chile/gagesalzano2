@@ -1,5 +1,5 @@
 ---
-title: Keeper
+title: Keeper — Branding
 featured_image: /assets/images/posts/Keeper/thumb.jpg
 date: 2021-01-17 01:00:00
 categories:
@@ -17,7 +17,7 @@ categories:
   />
 </div>
 
-<p class="bg"><a href="https://www.keepersecurity.com/">Keeper Security</a> is a password manager that needed a distinctive brand as they grew.</p>
+<p class="bg"><a href="https://www.keepersecurity.com/">Keeper Security</a> is a password manager with a strong set of products that sought a distinctive vision to unite all of their services under one brand.</p>
 
 {{slide['end']}}
 
@@ -82,13 +82,13 @@ categories:
   />
 </div>
 
-<p class="bg">The website used a minimal color palette and design to allow the product interface to shine and feel structured and secure.</p>
+<p class="bg">The website used a minimal color palette and few design elements to feel structured and secure.</p>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<p>Designed for the team at ColorJar.</p>
+<p>Designed with the team at <a href="https://colorjar.com/">ColorJar</a>.</p>
 
 {{slide['end']}}
 
@@ -101,7 +101,7 @@ categories:
   />
 </div>
 
-<p class="bg"><a href="https://www.keepersecurity.com/">Keeper Security</a> is a password manager that needed a distinctive brand as they grew.</p>
+<p class="bg"><a href="https://www.keepersecurity.com/">Keeper Security</a> is a password manager with a strong set of products that sought a distinctive vision to unite all of their services under one brand.</p>
 
 <div>
   <img
@@ -141,6 +141,6 @@ categories:
   />
 </div>
 
-<p>The website used a minimal color palette and design to allow the product interface to shine and feel structured and secure.<br><br>Designed for the team at ColorJar.</p>
+<p>The website used a minimal color palette and few design elements to feel structured and secure.<br><br>Designed with the team at <a href="https://colorjar.com/">ColorJar</a>.</p>
 
 {{slide['end']}}

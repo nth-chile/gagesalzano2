@@ -1,5 +1,5 @@
 ---
-title: Deskpass
+title: Deskpass — Branding, Print, Website
 featured_image: /assets/images/posts/deskpass/dp-thumb.gif
 date: 2021-01-17 03:00:00
 categories:
@@ -43,7 +43,7 @@ categories:
   "><img src='{{ site.url }}/assets/images/posts/deskpass/dp-locations.gif'></div>
 </div>
 
-<p class="bg">To support network expansion, we created a city name lock-up style that references the intial logotype. This allowed us to make each new market feel unique and show-off the expansion.</p>
+<p class="bg">To support the expansion of the Deskpass network, a expandable version of the logo was created to brand each new market.</p>
 
 {{slide['end']}}
 
@@ -56,7 +56,7 @@ categories:
   />
 </div>
 
-<p class="bg">The connecting line referenced the desk symbol and stretched for various needs. It was used across all collateral from videos to documentation.</p>
+<p class="bg">The “connecting line” motif was inspired by the symbol and references how the service connects people to workspace. It was a theme used across video, print and web.</p>
 
 {{slide['end']}}
 
@@ -84,7 +84,7 @@ categories:
   "><img src='{{ site.url }}/assets/images/posts/deskpass/deskpass-12.jpg'></div>
 </div>
 
-<p class="bg">New life was brought to the social media and app store with color and animation.</p>
+<p class="bg">Color and animation brought new life to the social media feeds and app storefronts.</p>
 
 {{slide['end']}}
 
@@ -97,7 +97,7 @@ categories:
   />
 </div>
 
-<p class="bg">Whitepapers and marketing materials employed a bit of humor and whimsy to make content more relatable to the audience.</p>
+<p class="bg">For support documentation, whitepapers and marketing materials, a bit of light-hearted humor and playfulness were used to make content more relatable.</p>
 
 {{slide['end']}}
 
@@ -110,8 +110,6 @@ categories:
   />
 </div>
 
-<p class="bg">Data was brought to life in the product interface and landing pages to help us imagine the product in our workdays.</p>
-
 {{slide['end']}}
 
 {{slide['startmobile']}}
@@ -123,7 +121,7 @@ categories:
   />
 </div>
 
-<p class="bg">Imaginary concepts were created to help the company envision where they could head next.</p>
+<p class="bg">Website, product interface and proof-of-concept application ideas were brought to life to help imagine the product in new ways.</p>
 
 {{slide['end']}}
 
@@ -157,7 +155,7 @@ categories:
 </div>
 
 
-<p class="bg">To support network expansion, we created a city name lock-up style that references the intial logotype. This allowed us to make each new market feel unique and show-off the expansion.</p>
+<p class="bg">To support the expansion of the Deskpass network, a expandable version of the logo was created to brand each new market.</p>
 
 <div>
   <img
@@ -165,7 +163,7 @@ categories:
   />
 </div>
 
-<p class="bg">The connecting line referenced the desk symbol and stretched for various needs. It was used across all collateral from videos to documentation.</p>
+<p class="bg">The “connecting line” motif was inspired by the symbol and references how the service connects people to workspace. It was a theme used across video, print and web.</p>
 
 <div class="image-grid" style="
   grid-template-columns: 3fr 1fr 1fr;
@@ -189,7 +187,7 @@ categories:
   "><img src='{{ site.url }}/assets/images/posts/deskpass/deskpass-12.jpg'></div>
 </div>
 
-<p class="bg">New life was brought to the social media and app store with color and animation.</p>
+<p class="bg">Color and animation brought new life to the social media feeds and app storefronts.</p>
 
 <div>
   <img
@@ -197,15 +195,13 @@ categories:
   />
 </div>
 
-<p class="bg">Whitepapers and marketing materials employed a bit of humor and whimsy to make content more relatable to the audience.</p>
+<p class="bg">For support documentation, whitepapers and marketing materials, a bit of light-hearted humor and playfulness were used to make content more relatable.</p>
 
-<div>
+<div style="margin-bottom: 3px">
   <img
     src='{{ site.url }}/assets/images/posts/deskpass/deskpass-grid-5.png'
   />
 </div>
-
-<p class="bg">Data was brought to life in the product interface and landing pages to help us imagine the product in our workdays.</p>
 
 <div>
   <img
@@ -213,6 +209,6 @@ categories:
   />
 </div>
 
-<p class="bg">Imaginary concepts were created to help the company envision where they could head next.</p>
+<p class="bg">Website, product interface and proof-of-concept application ideas were brought to life to help imagine the product in new ways.</p>
 
 {{slide['end']}}

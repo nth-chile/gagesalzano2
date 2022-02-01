@@ -91,7 +91,17 @@ We looked at a range of ideas from hand-lettering to an option inspired by Itali
 
 </div>
 
-Thanks to <a href='https://www.fullstopinteractive.com/'>Jay & Nate</a> for the awesome project.
+The lettering came to life when applied on the cafe signage.
+
+<figure>
+  <div class='row'>
+    <div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-10.jpg'></div><div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-11.jpg'></div>
+  </div>
+  <figcaption>Photo by Joseph Wyman Brown</figcaption>
+</figure>
+
+
+Designed in collaboration with Jay Fanelli and Nathan Peretic at <a href='https://www.fullstopinteractive.com/'>Full Stop Interactive</a>.
 
 {{slide['end']}}
 
@@ -131,6 +141,14 @@ We refined the hand lettering approach until we created a distinctive and bold s
 
 {{slide['startmobile']}}
 
-Thanks to <a href='https://www.fullstopinteractive.com/'>Jay & Nate</a> for the awesome project.
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8-mobile.png' /></div>
+
+<p class='bg'>The lettering came to life when applied on the cafe signage.</p>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+Designed in collaboration with Jay Fanelli and Nathan Peretic at <a href='https://www.fullstopinteractive.com/'>Full Stop Interactive</a>.
 
 {{slide['end']}}

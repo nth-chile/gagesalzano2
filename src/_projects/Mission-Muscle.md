@@ -64,6 +64,20 @@ He was looking for a logo, and yes we immediately went 1980’s/90’s superhero
 
 {{slide['end']}}
 
+{{slide['startmobile']}}
+
+<div><img class='full-height' src='{{ site.url }}/assets/images/posts/MM/mm-8-mobile.png' /></div>
+
+<p class='bg-dark'>The logo was even embroidered on aprons that some Chicago culinary legends wore at the launch party.</p>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<p>Read more about the foundation on the <a href="https://www.missionmuscle.org/">Mission Muscle website</a>.</p>
+
+{{slide['end']}}
+
 {{slide['startdesktop']}}
 
 <div><img class='full-width' src='{{ site.url }}/assets/images/posts/MM/mm-1@2x.png' /></div>
@@ -93,5 +107,11 @@ The color and typography were chosen to be energetic and pair with the bold bulk
 --><div><img src='{{ site.url }}/assets/images/posts/MM/mm-7@2x.png' /></div>
 
 </div>
+
+The logo was even embroidered on aprons that some Chicago culinary legends wore at the launch party.
+
+<div><img src='{{ site.url }}/assets/images/posts/MM/mm-6.jpg' /></div>
+
+<p>Read more about the foundation on the <a href="https://www.missionmuscle.org/">Mission Muscle website</a>.</p>
 
 {{slide['end']}}

@@ -1,5 +1,5 @@
 ---
-title: Others — Website
+title: Others Unlimited — Website
 featured_image: /assets/images/posts/others/thumb.jpg
 date: 2021-01-17 05:00:00
 categories:
@@ -44,7 +44,7 @@ categories:
   />
 </div>
 
-<p class="bg">The logo was reversed to symbolize viewing things from another person’s perspective, and was combined with the founder Karen’s beautiful handwriting to reference the collaborative human element of the process.</p>
+<p class="bg">The reversed-text logo was created out of the idea of seeing things from the other’s perspective. The founder Karen Faith’s handwriting was paired with formal typography to build a brand system that communicates that the workshops are both calculated and deeply rooted in human collaboration.</p>
 
 {{slide['end']}}
 
@@ -72,7 +72,7 @@ categories:
   />
 </div>
 
-<p class="bg-dark">Karen sketched various elements and patterns that were used in combination with silhouettes to create a customizable illustration style that feels organic.</p>
+<p class="bg-dark">Karen sketched various elements and patterns that were used in combination with silhouettes to created a customizable illustration style that could quickly be reproduced but still feels organic and hand-made.</p>
 
 {{slide['end']}}
 
@@ -129,7 +129,7 @@ categories:
   />
 </div>
 
-<p class="bg">The logo was reversed to symbolize viewing things from another person’s perspective, and was combined with the founder Karen’s beautiful handwriting to reference the collaborative human element of the process.</p>
+<p class="bg">The reversed-text logo was created out of the idea of seeing things from the other’s perspective. The founder Karen Faith’s handwriting was paired with formal typography to build a brand system that communicates that the workshops are both calculated and deeply rooted in human collaboration.</p>
 
 <div>
   <img
@@ -145,7 +145,7 @@ categories:
   />
 </div>
 
-<p class="bg-dark">Karen sketched various elements and patterns that were used in combination with silhouettes to create a customizable illustration style that feels organic.</p>
+<p class="bg-dark">Karen sketched various elements and patterns that were used in combination with silhouettes to created a customizable illustration style that could quickly be reproduced but still feels organic and hand-made.</p>
 
 <div>
   <img
@@ -161,6 +161,6 @@ categories:
   />
 </div>
 
-<p class="bg">Check out <a href="https://www.othersunlimited.com/">Others Unlimited</a> to see how you could improve your relationship with your team.</p>
+<p class="bg">Check out <a href="https://www.othersunlimited.com/">Others Unlimited</a> to see how you could improve your relationship with your team. Designed with <a href="https://karenfaith.com/">Karen Faith</a></p>
 
 {{slide['end']}}

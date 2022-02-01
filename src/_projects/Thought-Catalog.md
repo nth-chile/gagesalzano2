@@ -17,7 +17,7 @@ categories:
   />
 </div>
 
-<p class="bg"><a href="https://thoughtcatalog.com/">Thought Catalog</a> is a digital youth culture magazine that needed help designing new offerings to both feel distinctive, and a recognizable part of the brand.</p>
+<p class="bg"><a href="https://thoughtcatalog.com/">Thought Catalog</a> is a digital youth culture magazine that needed help designing and evolving new sub-brands to feel distinctive yet in harmony with each other.</p>
 
 {{slide['end']}}
 
@@ -45,7 +45,7 @@ categories:
   "><img src='{{ site.url }}/assets/images/posts/thought-catalog/tc-anim-1.gif'></div>
 </div>
 
-<p class="bg">A new website was created to showcase the team’s consultancy services with animated infrographics and editorialized storytelling to showcase the need in the market for their unique offering.</p>
+<p class="bg">For the Thought Catalog Agency website, a storytelling tone and animated infographics were used to reference the company’s editorial foundation and capture the “live” nature of the contemporary web.</p>
 
 {{slide['end']}}
 
@@ -121,7 +121,7 @@ categories:
   />
 </div>
 
-<p><a href="https://thoughtcatalog.com/">Thought Catalog</a> is a digital youth culture magazine that needed help designing new offerings to both feel distinctive, and a recognizable part of the brand.</p>
+<p><a href="https://thoughtcatalog.com/">Thought Catalog</a> is a digital youth culture magazine that needed help designing and evolving new sub-brands to feel distinctive yet in harmony with each other.</p>
 
 <div class="image-grid" style="
   grid-template-columns: 3fr 1fr 1fr;
@@ -145,7 +145,7 @@ categories:
   "><img src='{{ site.url }}/assets/images/posts/thought-catalog/tc-anim-1.gif'></div>
 </div>
 
-<p>A new website was created to showcase the team’s consultancy services with animated infrographics and editorialized storytelling to showcase the need in the market for their unique offering.</p>
+<p>For the Thought Catalog Agency website, a storytelling tone and animated infographics were used to reference the company’s editorial foundation and capture the “live” nature of the contemporary web.</p>
 
 <div class="image-grid" style="
   grid-template-columns: 1fr 1fr 1fr 2fr;

@@ -17,7 +17,7 @@ categories:
   />
 </div>
 
-<p class="bg"><a href="https://www.pinkdoorcookies.com/">Pink Door Cookies</a> is a one-of-a-kind, hand-made cookie store in Nashville combining unique flavor combinations. One thing is certain, you have never had cookies like these.</p>
+<p class="bg"><a href="https://www.pinkdoorcookies.com/">Pink Door Cookies</a> is a hand-made cookie store in Nashville that combines unexpected flavors with striking designs to create something completely unique and unforgettable.</p>
 
 {{slide['end']}}
 
@@ -96,7 +96,7 @@ categories:
   />
 </div>
 
-<p class="bg"><a href="https://www.pinkdoorcookies.com/">Pink Door Cookies</a> is a one-of-a-kind, hand-made cookie store in Nashville combining unique flavor combinations. One thing is certain, you have never had cookies like these.</p>
+<p class="bg"><a href="https://www.pinkdoorcookies.com/">Pink Door Cookies</a> is a hand-made cookie store in Nashville that combines unexpected flavors with striking designs to create something completely unique and unforgettable.</p>
 
 <div>
   <img

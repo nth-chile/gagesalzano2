@@ -1,5 +1,5 @@
 ---
-title: Cotton Bureau
+title: Cotton Bureau — Illustration
 featured_image: /assets/images/posts/cotton-bureau/thumb.jpg
 date: 2021-01-17 02:00:00
 categories:
@@ -17,7 +17,7 @@ categories:
   />
 </div>
 
-<p class="bg"><a href="https://cottonbureau.com/">Cotton Bureau</a> is a t-shirt and merchandise company that works with some of the most interesting companies out there and fosters a community of talented artists to create one-of-a-kind shirts. We worked with them on concepts for a few of their clients.</p>
+<p class="bg"><a href="https://cottonbureau.com/">Cotton Bureau</a> is an artist-driven t-shirt company that fosters a community to create one-of-a-kind shirts. We worked with them on concepts for a few of their regular clients.</p>
 
 {{slide['end']}}
 
@@ -56,7 +56,7 @@ categories:
   />
 </div>
 
-<p class="bg">We were honored to develop this one-of-a-kind T-shirt concept for Adam Savage’s company <a href="https://adamsavage.com/">Savage Industries</a>.</p>
+<p class="bg">We designed this factory standard issue inspired t-shirt for Adam Savage (of Mythbuster’s fame)’s company <a href="https://adamsavage.com/">Savage Industries</a>.</p>
 
 {{slide['end']}}
 
@@ -69,7 +69,7 @@ categories:
   />
 </div>
 
-<p class="bg"><a href="https://cottonbureau.com/">Cotton Bureau</a> is a t-shirt and merchandise company that works with some of the most interesting companies out there and fosters a community of talented artists to create one-of-a-kind shirts. We worked with them on concepts for a few of their clients.</p>
+<p class="bg"><a href="https://cottonbureau.com/">Cotton Bureau</a> is an artist-driven t-shirt company that fosters a community to create one-of-a-kind shirts. We worked with them on concepts for a few of their regular clients.</p>
 
 <div>
   <img
@@ -93,6 +93,6 @@ categories:
   />
 </div>
 
-<p class="bg">We were honored to develop this one-of-a-kind T-shirt concept for Adam Savage’s company <a href="https://adamsavage.com/">Savage Industries</a>.</p>
+<p class="bg">We designed this factory standard issue inspired t-shirt for Adam Savage (of Mythbuster’s fame)’s company <a href="https://adamsavage.com/">Savage Industries</a>.</p>
 
 {{slide['end']}}

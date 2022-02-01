@@ -988,6 +988,7 @@ figure {
 @media all and (min-width: 800px) {
   article {
     img,
+    video,
     .row {
       width: calc(100% - 230px);
     }
