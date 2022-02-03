@@ -25,6 +25,12 @@ categories:
 
 {{slide['startmobile']}}
 
+<p>To support the expansion of the Deskpass network, a expandable version of the logo was created to brand each new market.</p>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
 <div class="image-grid image-grid--mobile" style="
   grid-template-columns: 1fr;
   grid-template-rows: 1fr 1fr 1fr;
@@ -43,8 +49,6 @@ categories:
   "><img src='{{ site.url }}/assets/images/posts/deskpass/dp-locations.gif'></div>
 </div>
 
-<p class="bg">To support the expansion of the Deskpass network, a expandable version of the logo was created to brand each new market.</p>
-
 {{slide['end']}}
 
 {{slide['startmobile']}}
@@ -56,13 +60,20 @@ categories:
   />
 </div>
 
-<p class="bg">The “connecting line” motif was inspired by the symbol and references how the service connects people to workspace. It was a theme used across video, print and web.</p>
+<p class="bg-dark">The “connecting line” motif was inspired by the symbol and references how the service connects people to workspace. It was a theme used across video, print and web.</p>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<p>Color and animation brought new life to the social media feeds and app storefronts.</p>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
 <div class="image-grid image-grid--mobile" style="
+  background: white;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 2fr 1fr 1fr;
 ">
@@ -84,31 +95,39 @@ categories:
   "><img src='{{ site.url }}/assets/images/posts/deskpass/deskpass-12.jpg'></div>
 </div>
 
-<p class="bg">Color and animation brought new life to the social media feeds and app storefronts.</p>
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<p>For support documentation, whitepapers and marketing materials, a bit of light-hearted humor and playfulness were used to make content more relatable.</p>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div>
+<div style="background:white">
   <img
     class='full-height' 
     src='{{ site.url }}/assets/images/posts/deskpass/deskpass-mobile-5.png'
   />
 </div>
 
-<p class="bg">For support documentation, whitepapers and marketing materials, a bit of light-hearted humor and playfulness were used to make content more relatable.</p>
-
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div>
+<div style="background:white">
   <img
     class='full-height' 
     src='{{ site.url }}/assets/images/posts/deskpass/deskpass-mobile-6.png'
   />
 </div>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<p>Website, product interface and proof-of-concept application ideas were brought to life to help imagine the product in new ways.</p>
 
 {{slide['end']}}
 
@@ -120,8 +139,6 @@ categories:
     src='{{ site.url }}/assets/images/posts/deskpass/deskpass-mobile-7.png'
   />
 </div>
-
-<p class="bg">Website, product interface and proof-of-concept application ideas were brought to life to help imagine the product in new ways.</p>
 
 {{slide['end']}}
 

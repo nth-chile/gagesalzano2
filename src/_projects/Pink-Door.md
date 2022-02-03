@@ -75,14 +75,18 @@ categories:
 
 {{slide['startmobile']}}
 
-<div>
+<p>Order your own dozen at <a href="https://www.pinkdoorcookies.com/">Pink Door Cookies</a> today.</p>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<div style="background: white">
   <img
     class='full-height' 
     src='{{ site.url }}/assets/images/posts/pink-door/pinkdoor-mobile-6.png'
   />
 </div>
-
-<p class="bg-dark">Order your own dozen at <a href="https://www.pinkdoorcookies.com/">Pink Door Cookies</a> today.</p>
 
 {{slide['end']}}
 

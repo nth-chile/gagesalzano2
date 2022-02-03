@@ -30,7 +30,7 @@ categories:
   />
 </div>
 
-<p class="bg">Initial sketches referenced traditional lock mechanisms, fingerprints and abstract references to security.</p>
+<p class="bg-dark">Initial sketches referenced traditional lock mechanisms, fingerprints and abstract references to security.</p>
 
 {{slide['end']}}
 
@@ -43,7 +43,7 @@ categories:
   />
 </div>
 
-<p class="bg">Some of the early concepts that resonated were similar in their boldness and strong typography.</p>
+<p class="bg-dark">Some of the early concepts that resonated were similar in their boldness and strong typography.</p>
 
 {{slide['end']}}
 
@@ -75,14 +75,18 @@ categories:
 
 {{slide['startmobile']}}
 
+<p>The website used a minimal color palette and few design elements to feel structured and secure.</p>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
 <div>
   <img
     class='full-height' 
     src='{{ site.url }}/assets/images/posts/keeper/keeper-mobile-6.png'
   />
 </div>
-
-<p class="bg">The website used a minimal color palette and few design elements to feel structured and secure.</p>
 
 {{slide['end']}}
 

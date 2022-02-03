@@ -76,17 +76,20 @@ categories:
 
 {{slide['end']}}
 
+{{slide['startmobile']}}
+
+<p>A website was designed to outline the curriculum, share additional information and answer common questions.</p>
+
+{{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div>
+<div style="background: white">
   <img
     class='full-height' 
     src='{{ site.url }}/assets/images/posts/others/others-mobile-6.png'
   />
 </div>
-
-<p class="bg-dark">A website was designed to outline the curriculum, share additional information and answer common questions.</p>
 
 {{slide['end']}}
 
@@ -95,7 +98,7 @@ categories:
 <div>
   <img
     class='full-height' 
-    src='{{ site.url }}/assets/images/posts/others/others-animation.gif'
+    src='{{ site.url }}/assets/images/posts/others/others-mobile-7.png'
   />
 </div>
 

@@ -44,34 +44,41 @@ categories:
   />
 </div>
 
-<p class="bg">Initially “Chip” was a nickname for the chef’s friend, but the idea of making it a fish came after a few conversations. Many fish were drawn, only one was snarky-looking enough.</p>
+<p class="bg-dark">Initially “Chip” was a nickname for the chef’s friend, but the idea of making it a fish came after a few conversations. Many fish were drawn, only one was snarky-looking enough.</p>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div>
+<p>A symbol, logotype, color and patterns were designed to create a system that can work across all collateral, social platforms and packaging.</p>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<div style="background: white;">
   <img
     class='full-height' 
     src='{{ site.url }}/assets/images/posts/chips-clubhouse/chips-mobile-4.png'
   />
 </div>
 
-<p class="bg">A symbol, logotype, color and patterns were designed to create a system that can work across all collateral, social platforms and packaging.</p>
-
 {{slide['end']}}
-
 
 {{slide['startmobile']}}
 
-<div>
+<p>The menus were designed using a balance of humor and nostalgia to make each a little fun in their own way.</p>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<div style="background: white">
   <img
     class='full-height' 
     src='{{ site.url }}/assets/images/posts/chips-clubhouse/chips-mobile-5.png'
   />
 </div>
-
-<p class="bg">The menus were designed using a balance of humor and nostalgia to make each a little fun in their own way.</p>
 
 {{slide['end']}}
 
@@ -84,7 +91,7 @@ categories:
   />
 </div>
 
-<p class="bg">The website includes more food photography and some photos of the artwork thats hung in the interior of the restaurant that inspired the brand design.</p>
+<p class="bg-dark">The website includes more food photography and some photos of the artwork thats hung in the interior of the restaurant that inspired the brand design.</p>
 
 {{slide['end']}}
 
@@ -93,7 +100,7 @@ categories:
 <div>
   <img
     class='full-height' 
-    src='{{ site.url }}/assets/images/posts/chips-clubhouse/chips-animation.gif'
+    src='{{ site.url }}/assets/images/posts/chips-clubhouse/chips-mobile-7.png'
   />
 </div>
 

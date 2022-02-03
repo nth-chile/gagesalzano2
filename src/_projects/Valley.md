@@ -14,7 +14,7 @@ categories:
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/valley/valley-mobile-1.png' /></div>
 
-<p class="bg-dark">Valley is a workplace wellbeing app that helps fight burnout through making eachother aware how they’re doing.</p>
+<p class="bg-dark"><a href="https://www.valley.app/">Valley</a> is a workplace wellbeing app that helps fight burnout through making eachother aware how they’re doing.</p>
 
 {{slide['end']}}
 
@@ -46,7 +46,7 @@ categories:
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/valley/valley-mobile-5.png' /></div>
 
-<p class="bg-dark">As a reference to the times while the team was building Valley, the website featured a faux-Zoom huddle where each employee got a little creative.</p>
+<p class="bg">As a reference to the times while the team was building Valley, the website featured a faux-Zoom huddle where each employee got a little creative.</p>
 
 {{slide['end']}}
 
@@ -54,7 +54,7 @@ categories:
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/valley/valley-mobile-6.png' /></div>
 
-<p class="bg-dark">Try Valley to see how your team could find more alignment.</p>
+<p class="bg-dark"><a href="https://www.valley.app/">Try Valley</a> to see how your team could find more alignment.</p>
 
 {{slide['end']}}
 
@@ -62,7 +62,7 @@ categories:
 
 <div><img class='full-width' src='{{ site.url }}/assets/images/posts/valley/valley-1.jpg'></div>
 
-Valley is a workplace wellbeing app that helps fight burnout through making eachother aware how they’re doing.
+<a href="https://www.valley.app/">Valley</a> is a workplace wellbeing app that helps fight burnout through making eachother aware how they’re doing.
 
 <div class="row">
   <div><img src="{{ site.url }}/assets/images/posts/valley/valley-2.jpg"></div>
@@ -103,5 +103,7 @@ As a reference to the times while the team was building Valley, the website feat
     <source type="video/mp4" src="{{ site.url }}/assets/images/posts/valley/valley-zoom.mp4">
   </video>
 </div>
+
+[Try Valley](https://www.valley.app/) to see how your team could find more alignment.
 
 {{slide['end']}}

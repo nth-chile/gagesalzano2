@@ -23,7 +23,14 @@ categories:
 
 {{slide['startmobile']}}
 
+<p>For the Thought Catalog Agency website, a storytelling tone and animated infographics were used to reference the company’s editorial foundation and capture the “live” nature of the contemporary web.</p>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
 <div class="image-grid image-grid--mobile" style="
+  background: white;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 2fr 1fr 1fr;
 ">
@@ -45,18 +52,22 @@ categories:
   "><img src='{{ site.url }}/assets/images/posts/thought-catalog/tc-anim-1.gif'></div>
 </div>
 
-<p class="bg">For the Thought Catalog Agency website, a storytelling tone and animated infographics were used to reference the company’s editorial foundation and capture the “live” nature of the contemporary web.</p>
-
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
-<div>
+<div style="background:white">
   <img
     class='full-height' 
     src='{{ site.url }}/assets/images/posts/thought-catalog/thoughtcatalog-mobile-3.png'
   />
 </div>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<p><a href="https://shopcatalog.com/">Shop Catalog</a> is an apparel, books and home goods company. The website was designed to add a charming editorial feel to e-commerce.</p>
 
 {{slide['end']}}
 
@@ -84,13 +95,18 @@ categories:
   "><img src='{{ site.url }}/assets/images/posts/thought-catalog/tc-grid-2-5.jpg'></div>
 </div>
 
-<p class="bg"><a href="https://shopcatalog.com/">Shop Catalog</a> is an apparel, books and home goods company. The website was designed to add a charming editorial feel to e-commerce.</p>
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<p><a href="https://creepycatalog.com/">Creepy Catalog</a>, a horror streaming blog, was designed to feel more open and sparse. This allowed the content to shine, but also made things feel…sort of creepy. </p>
 
 {{slide['end']}}
 
 {{slide['startmobile']}}
 
 <div class="image-grid image-grid--mobile" style="
+  background: white;
   grid-template-columns: 1fr;
   grid-template-rows: 2fr 1fr 1fr;
 ">
@@ -107,8 +123,6 @@ categories:
     grid-row: 3 / 4;
   "><img src='{{ site.url }}/assets/images/posts/thought-catalog/tc-grid-3-3.jpg'></div>
 </div>
-
-<p class="bg"><a href="https://creepycatalog.com/">Creepy Catalog</a>, a horror streaming blog, was designed to feel more open and sparse. This allowed the content to shine, but also made things feel…sort of creepy. </p>
 
 {{slide['end']}}
 

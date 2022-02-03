@@ -97,7 +97,7 @@ The lettering came to life when applied on the cafe signage.
   <div class='row'>
     <div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-10.jpg'></div><div><img src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-11.jpg'></div>
   </div>
-  <figcaption>Photo by Joseph Wyman Brown</figcaption>
+  <figcaption>Left photo by Jay Fanelli, right by Joseph Wyman Brown</figcaption>
 </figure>
 
 
@@ -141,9 +141,15 @@ We refined the hand lettering approach until we created a distinctive and bold s
 
 {{slide['startmobile']}}
 
+<p>The lettering came to life when applied on the cafe signage.</p>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/TazzaDOro/tazzadoro-8-mobile.png' /></div>
 
-<p class='bg'>The lettering came to life when applied on the cafe signage.</p>
+<p class="bg">Top photo by Jay Fanelli, bottom by Joseph Wyman Brown</p>
 
 {{slide['end']}}
 
