@@ -2,7 +2,7 @@
 title: Valley — Branding & Website
 date: 2018-01-17 07:00:00
 featured_image: /assets/images/posts/valley/valley-thumbnail.jpg
-style: height:100%
+style: height:100%;width:100%;object-fit:cover;object-position:center
 categories:
   - branding
   - digital

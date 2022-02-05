@@ -2,6 +2,7 @@
 title: Chip’s Clubhouse — Branding
 featured_image: /assets/images/posts/chips-clubhouse/thumb.jpg
 date: 2018-02-01 05:00:00
+style: height:100%;width:100%;object-fit:cover;object-position:center
 categories:
   - branding
 ---

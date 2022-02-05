@@ -2,6 +2,7 @@
 title: Thought Catalog — Website
 featured_image: /assets/images/posts/thought-catalog/thumb.jpg
 date: 2018-01-17 04:00:00
+style: height:100%;width:100%;object-fit:cover;object-position:center
 categories:
   - digital
   - branding

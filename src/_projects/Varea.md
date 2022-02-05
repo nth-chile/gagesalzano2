@@ -2,6 +2,7 @@
 title: Varea — UX/UI
 featured_image: /assets/images/posts/Varea/thumb.png
 date: 2019-05-25 05:00:20
+style: height:100%;width:100%;object-fit:cover;object-position:center
 categories:
   - digital
 ---

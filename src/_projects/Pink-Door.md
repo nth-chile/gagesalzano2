@@ -2,6 +2,7 @@
 title: Pink Door Cookies — Branding
 featured_image: /assets/images/posts/pink-door/thumb.jpg
 date: 2018-01-17 01:00:00
+style: height:100%;width:100%;object-fit:cover;object-position:center
 categories:
   - branding
   - print

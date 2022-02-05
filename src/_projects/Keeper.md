@@ -2,6 +2,7 @@
 title: Keeper — Branding
 featured_image: /assets/images/posts/Keeper/thumb.jpg
 date: 2018-01-17 05:00:00
+style: height:100%;width:100%;object-fit:cover;object-position:center
 categories:
   - digital
   - branding

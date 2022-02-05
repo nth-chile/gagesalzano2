@@ -2,6 +2,7 @@
 title: Cotton Bureau — Illustration
 featured_image: /assets/images/posts/cotton-bureau/thumb.jpg
 date: 2018-01-17 03:00:00
+style: height:100%;width:100%;object-fit:cover;object-position:center
 categories:
   - print
 ---

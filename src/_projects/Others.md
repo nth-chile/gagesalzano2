@@ -2,6 +2,7 @@
 title: Others Unlimited — Website
 featured_image: /assets/images/posts/others/thumb.jpg
 date: 2018-01-17 02:00:00
+style: height:100%;width:100%;object-fit:cover;object-position:center
 categories:
   - branding
 ---
