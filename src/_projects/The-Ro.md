@@ -5,7 +5,6 @@ featured_image: /assets/images/posts/The_Ro/thero-thumb.jpg
 style: width:100%
 categories:
   - branding
-  - digital
 ---
 
 {% assign slide = site.data.slide %}

@@ -5,7 +5,6 @@ date: 2019-01-17 05:00:00
 categories:
   - digital
   - branding
-  - print
 ---
 
 {% assign slide = site.data.slide %}

@@ -4,6 +4,7 @@ featured_image: /assets/images/posts/pink-door/thumb.jpg
 date: 2018-01-17 01:00:00
 categories:
   - branding
+  - print
 ---
 
 {% assign slide = site.data.slide %}

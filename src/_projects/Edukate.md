@@ -6,6 +6,7 @@ style: width:100%
 categories:
   - branding
   - digital
+  - print
 ---
 
 {% assign slide = site.data.slide %}

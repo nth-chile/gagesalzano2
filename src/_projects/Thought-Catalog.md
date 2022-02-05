@@ -4,6 +4,7 @@ featured_image: /assets/images/posts/thought-catalog/thumb.jpg
 date: 2018-01-17 04:00:00
 categories:
   - digital
+  - branding
 ---
 
 {% assign slide = site.data.slide %}

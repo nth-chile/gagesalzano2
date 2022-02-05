@@ -6,6 +6,7 @@ featured_image: /assets/images/posts/DoneDone/donedone-thumb.jpg
 style: width:100%
 categories:
   - digital
+  - branding
 ---
 
 {% assign slide = site.data.slide %}
