@@ -1,6 +1,6 @@
 ---
 title: We Are Mammoth — Website
-date: 2019-05-25 05:01:00
+date: 2019-05-25 05:00:50
 featured_image: /assets/images/posts/Wam/wam-thumb.jpg
 dark_title: true
 style: width:100%

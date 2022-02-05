@@ -1,7 +1,7 @@
 ---
 title: Thought Catalog — Website
 featured_image: /assets/images/posts/thought-catalog/thumb.jpg
-date: 2021-01-17 04:00:00
+date: 2018-01-17 04:00:00
 categories:
   - digital
 ---

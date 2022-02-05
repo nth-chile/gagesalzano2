@@ -1,6 +1,6 @@
 ---
 title: Assorted Logos
-date: 2019-05-25 05:03:30
+date: 2019-05-25 05:03:20
 featured_image: /assets/images/posts/Assorted_Logos/assortedlogos-thumb.jpg
 style: height:100%
 categories:

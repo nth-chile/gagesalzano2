@@ -1,7 +1,7 @@
 ---
 title: Cotton Bureau — Illustration
 featured_image: /assets/images/posts/cotton-bureau/thumb.jpg
-date: 2021-01-17 02:00:00
+date: 2018-01-17 03:00:00
 categories:
   - print
 ---

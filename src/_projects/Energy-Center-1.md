@@ -1,6 +1,6 @@
 ---
 title: Energy Center 1 — Branding
-date: 2019-05-25 05:00:50
+date: 2019-05-25 05:00:40
 featured_image: /assets/images/posts/Ec1/ec1-thumb.jpg
 style: width:100%
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Deskpass — Branding, Print, Website
 featured_image: /assets/images/posts/deskpass/dp-thumb.gif
-date: 2021-01-17 03:00:00
+date: 2019-01-17 05:00:00
 categories:
   - digital
   - branding

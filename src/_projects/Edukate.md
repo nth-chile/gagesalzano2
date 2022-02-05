@@ -1,7 +1,7 @@
 ---
 title: Edukate — Branding & Website
 featured_image: /assets/images/posts/Edukate/thumb.png
-date: 2019-05-25 04:00:50
+date: 2019-05-25 04:00:40
 style: width:100%
 categories:
   - branding

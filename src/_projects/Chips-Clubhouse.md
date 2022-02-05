@@ -1,7 +1,7 @@
 ---
 title: Chip’s Clubhouse — Branding
 featured_image: /assets/images/posts/chips-clubhouse/thumb.jpg
-date: 2021-01-17 07:00:00
+date: 2018-02-01 05:00:00
 categories:
   - branding
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mission Muscle — Branding
-date: 2019-05-25 05:00:20
+date: 2019-05-25 05:00:00
 featured_image: /assets/images/posts/MM/mm-thumb.jpg
 style: width:100%
 categories:
