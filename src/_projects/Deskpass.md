@@ -73,7 +73,6 @@ categories:
 {{slide['startmobile']}}
 
 <div class="image-grid image-grid--mobile" style="
-  background: white;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 2fr 1fr 1fr;
 ">

@@ -54,19 +54,11 @@
       @include min900 {
         margin-right: 60px;
       }
-
-      .section-services__img-wrap {
-        width: 246px;
-      }
     }
 
     article:nth-child(2) {
       @include min900 {
         margin-right: 30px;
-      }
-
-      .section-services__img-wrap {
-        width: 215px;
       }
     }
 
@@ -74,23 +66,18 @@
       @include min900 {
         margin-right: 30px;
       }
-
-      .section-services__img-wrap {
-        width: 265px;
-      }
     }
   }
 
   .section-services__img-wrap {
-    height: 203px;
+    text-align: left;
+    height: 138px;
     position: relative;
     margin-bottom: 19px;
 
     img {
-      position: relative;
-      top: 50%;
-      transform: translateY(-50%);
-      width: 100%;
+      height: 100%;
+      width: auto;
     }
   }
 

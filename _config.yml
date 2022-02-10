@@ -24,7 +24,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://studioapt.co"
 url: "https://studioapt.jaredsalzano.com"
 
-headerText: "Brooklyn, NY 11217"
+headerText: "Brooklyn, NY 11231"
 
 social_media_links:
   - class: icon dribbble

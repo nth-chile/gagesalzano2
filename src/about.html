@@ -6,7 +6,7 @@ js_bundle: about
 <div class="about-wrap">
   {% include header.html %}
 
-  <div class="page-content" style="padding-top: 1px">
+  <div class="page-content container" style="padding-top: 1px">
     <section style="margin-bottom: 74px; margin-top: 49px">
       <h2 style="margin-bottom: 4px">
         Studio Apartment is a design studio that helps people build brands, sell products, get sign-ups and generally say what they’re trying to say better.
@@ -28,6 +28,7 @@ js_bundle: about
           <img
             alt="Handwritten notes"
             src="{{ site.url }}/assets/images/handwritten-notes.png"
+            style="width: 100%"
           />
         </div>
         <h2 class="p">Company Strategy</h2>
@@ -192,13 +193,14 @@ js_bundle: about
         </div>
       </div>
     </section>
+    <p style="text-align: center; margin-top: 20px"><a href="/contact">Get in touch with us</a> to talk about your project.</p>
   </div>
-  <p style="text-align: center; margin-top: 20px"><a href="/contact">Get in touch with us</a> to talk about your project.</p>
 </div>
-
-<img src="{{ site.url }}/assets/images/anybrowser.gif" />
-<img src="{{ site.url }}/assets/images/harley.gif" />
-<img src="{{ site.url }}/assets/images/underconstruction.gif" />
-<img src="{{ site.url }}/assets/images/winamp.gif" />
+<div class="container">
+  <img src="{{ site.url }}/assets/images/anybrowser.gif" />
+  <img src="{{ site.url }}/assets/images/harley.gif" />
+  <img src="{{ site.url }}/assets/images/underconstruction.gif" />
+  <img src="{{ site.url }}/assets/images/winamp.gif" />
+</div>
 
 {% include footer.html %}

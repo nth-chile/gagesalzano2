@@ -30,12 +30,18 @@ button {
 // Start layout
 .page-content {
   margin-top: calc(38px + 56px); // adding mobile header height
-  padding: 0 20px;
   position: relative;
 
   @include min900 {
-    padding: 0 35px;
     margin-top: 38px;
+  }
+}
+
+.container {
+  padding: 0 20px;
+
+  @include min900 {
+    padding: 0 35px;
   }
 }
 
@@ -45,15 +51,6 @@ button {
 
     @include min900 {
       background: rgba(0, 0, 0, 0);
-    }
-  }
-
-  .page-content {
-    margin-top: calc(38px + 101px); // adding mobile header height
-    position: relative;
-
-    @include min900 {
-      margin-top: 38px;
     }
   }
 }

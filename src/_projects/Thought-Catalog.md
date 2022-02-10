@@ -47,7 +47,14 @@ categories:
   <div style="
     grid-row: 2 / 3;
     grid-column: 2 / 3;
-  "><img src='{{ site.url }}/assets/images/posts/thought-catalog/tc-grid-1-3.jpg'></div>
+  "><video style="
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+    "
+    muted autoplay loop>
+    <source type="video/mp4" src="{{ site.url }}/assets/images/posts/thought-catalog/tc-grid-1-3.mp4">
+  </video></div>
   <div style="
     grid-row: 3 / 4;
     grid-column: 1 / 3;
@@ -154,7 +161,15 @@ categories:
   <div style="
     grid-column: 3 / 4;
     grid-row: 1 / 2;
-  "><img src='{{ site.url }}/assets/images/posts/thought-catalog/tc-grid-1-3.jpg'></div>
+  "><video
+    style="
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+    " 
+    muted autoplay loop>
+    <source type="video/mp4" src="{{ site.url }}/assets/images/posts/thought-catalog/tc-grid-1-3.mp4">
+  </video></div>
   <div style="
     grid-column: 2 / 4;
     grid-row: 2 / 3;
