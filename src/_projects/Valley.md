@@ -38,7 +38,6 @@ categories:
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/valley/valley-mobile-4.png' /></div>
 
-<p class="bg-dark">The launch website was an opportunity to have fun with the symbol and bring it to life with color and illustration.</p>
 
 {{slide['end']}}
 
@@ -46,7 +45,7 @@ categories:
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/valley/valley-mobile-5.png' /></div>
 
-<p class="bg">As a reference to the times while the team was building Valley, the website featured a faux-Zoom huddle where each employee got a little creative.</p>
+<p class="bg">The launch website was an opportunity to have fun with the symbol and bring it to life with color and illustration.</p>
 
 {{slide['end']}}
 
@@ -54,7 +53,13 @@ categories:
 
 <div><img class='full-height' src='{{ site.url }}/assets/images/posts/valley/valley-mobile-6.png' /></div>
 
-<p class="bg-dark"><a href="https://www.valley.app/">Try Valley</a> to see how your team could find more alignment.</p>
+<p class="bg-dark">As a reference to the times while the team was building Valley, the website featured a faux-Zoom huddle where each employee got a little creative.</p>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<p><a href="https://www.valley.app/">Try Valley</a> to see how your team could find more alignment.</p>
 
 {{slide['end']}}
 

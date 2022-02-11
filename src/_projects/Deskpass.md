@@ -60,7 +60,7 @@ categories:
   />
 </div>
 
-<p class="bg-dark">The “connecting line” motif was inspired by the symbol and references how the service connects people to workspace. It was a theme used across video, print and web.</p>
+<p class="bg-dark">The “connecting line” motif was inspired by the symbol and references how the service connects people to workspaces. It was a theme used across video, print and web.</p>
 
 {{slide['end']}}
 
@@ -141,6 +141,12 @@ categories:
 
 {{slide['end']}}
 
+{{slide['startmobile']}}
+
+Check out some of the co-working spaces in your area on [Deskpass](https://deskpass.com)
+
+{{slide['end']}}
+
 {{slide['startdesktop']}}
 
 <div>
@@ -179,7 +185,7 @@ categories:
   />
 </div>
 
-<p class="bg">The “connecting line” motif was inspired by the symbol and references how the service connects people to workspace. It was a theme used across video, print and web.</p>
+<p class="bg">The “connecting line” motif was inspired by the symbol and references how the service connects people to workspaces. It was a theme used across video, print and web.</p>
 
 <div class="image-grid" style="
   grid-template-columns: 3fr 1fr 1fr;
@@ -225,6 +231,6 @@ categories:
   />
 </div>
 
-<p class="bg">Website, product interface and proof-of-concept application ideas were brought to life to help imagine the product in new ways.</p>
+<p class="bg">Website, product interface and proof-of-concept application ideas were brought to life to help imagine the product in new ways.<br><br>Check out some of the co-working spaces in your area on <a href="https://deskpass.com">Deskpass</a></p>
 
 {{slide['end']}}

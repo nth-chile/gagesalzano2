@@ -28,7 +28,7 @@ categories:
 <div>
   <img
     class='full-height' 
-    src='{{ site.url }}/assets/images/posts/keeper/keeper-mobile-2.png'
+    src='{{ site.url }}/assets/images/posts/keeper/keeper-mobile-2.jpg'
   />
 </div>
 
@@ -77,7 +77,7 @@ categories:
 
 {{slide['startmobile']}}
 
-<p>The website used a minimal color palette and few design elements to feel structured and secure.</p>
+<p>The website was designed to make users feel like their data is in good hands by the use of a minimal color palette and clear page structure.</p>
 
 {{slide['end']}}
 
@@ -147,6 +147,6 @@ categories:
   />
 </div>
 
-<p>The website used a minimal color palette and few design elements to feel structured and secure.<br><br>Designed with the team at <a href="https://colorjar.com/">ColorJar</a>.</p>
+<p>The website was designed to make users feel like their data is in good hands by the use of a minimal color palette and clear page structure.<br><br>Designed with the team at <a href="https://colorjar.com/">ColorJar</a>.</p>
 
 {{slide['end']}}

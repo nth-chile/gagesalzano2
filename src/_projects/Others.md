@@ -45,7 +45,7 @@ categories:
   />
 </div>
 
-<p class="bg">The reversed-text logo was created out of the idea of seeing things from the other’s perspective. The founder Karen Faith’s handwriting was paired with formal typography to build a brand system that communicates that the workshops are both calculated and deeply rooted in human collaboration.</p>
+<p class="bg">The logo was created out of the idea of seeing things from the other’s perspective. We used the founder Karen Faith’s handwriting with formal typography to communicate visually that the workshops are both calculated and deeply rooted in human collaboration.</p>
 
 {{slide['end']}}
 
@@ -79,12 +79,6 @@ categories:
 
 {{slide['startmobile']}}
 
-<p>A website was designed to outline the curriculum, share additional information and answer common questions.</p>
-
-{{slide['end']}}
-
-{{slide['startmobile']}}
-
 <div style="background: white">
   <img
     class='full-height' 
@@ -103,7 +97,13 @@ categories:
   />
 </div>
 
-<p class="bg">Check out <a href="https://www.othersunlimited.com/">Others Unlimited</a> to see how you could improve your relationship with your team.</p>
+<p class="bg">A website was designed to outline the curriculum, share additional information and answer common questions.</p>
+
+{{slide['end']}}
+
+{{slide['startmobile']}}
+
+<p>Check out <a href="https://www.othersunlimited.com/">Others Unlimited</a> to see how you could improve your relationship with your team.<br><br>Designed with <a href="https://karenfaith.com/">Karen Faith</a></p>
 
 {{slide['end']}}
 
@@ -133,7 +133,7 @@ categories:
   />
 </div>
 
-<p class="bg">The reversed-text logo was created out of the idea of seeing things from the other’s perspective. The founder Karen Faith’s handwriting was paired with formal typography to build a brand system that communicates that the workshops are both calculated and deeply rooted in human collaboration.</p>
+<p class="bg">The logo was created out of the idea of seeing things from the other’s perspective. We used the founder Karen Faith’s handwriting with formal typography to communicate visually that the workshops are both calculated and deeply rooted in human collaboration.</p>
 
 <div>
   <img
@@ -165,6 +165,6 @@ categories:
   />
 </div>
 
-<p class="bg">Check out <a href="https://www.othersunlimited.com/">Others Unlimited</a> to see how you could improve your relationship with your team. Designed with <a href="https://karenfaith.com/">Karen Faith</a></p>
+<p class="bg">Check out <a href="https://www.othersunlimited.com/">Others Unlimited</a> to see how you could improve your relationship with your team.<br><br>Designed with <a href="https://karenfaith.com/">Karen Faith</a></p>
 
 {{slide['end']}}

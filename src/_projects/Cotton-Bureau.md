@@ -44,7 +44,7 @@ categories:
   />
 </div>
 
-<p class="bg">And also came up with this concept, which references one of his signature phrases: “crispy tech videos.”</p>
+<p class="bg">Another concept riffing on the MKBHD logo, this one references one of his signature phrases: “crispy tech videos.”</p>
 
 {{slide['end']}}
 
@@ -86,7 +86,7 @@ categories:
   />
 </div>
 
-<p class="bg">And also came up with this concept, which references one of his signature phrases: “crispy tech videos.”</p>
+<p class="bg">Another concept riffing on the MKBHD logo, this one references one of his signature phrases: “crispy tech videos.”</p>
 
 <div>
   <img
