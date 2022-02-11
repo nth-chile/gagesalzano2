@@ -91,13 +91,10 @@ categories:
 {{slide['startmobile']}}
 
 <div>
-  <img
-    class='full-height' 
-    src='{{ site.url }}/assets/images/posts/others/others-mobile-7.png'
-  />
+  <img style="width: 100%" src='{{ site.url }}/assets/images/posts/others/others-animation.gif' >
 </div>
 
-<p class="bg">A website was designed to outline the curriculum, share additional information and answer common questions.</p>
+<p>A website was designed to outline the curriculum, share additional information and answer common questions.</p>
 
 {{slide['end']}}
 

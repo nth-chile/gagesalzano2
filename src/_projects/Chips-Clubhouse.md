@@ -100,12 +100,11 @@ categories:
 
 <div>
   <img
-    class='full-height' 
-    src='{{ site.url }}/assets/images/posts/chips-clubhouse/chips-mobile-7.png'
+    style="width: 100%" src='{{ site.url }}/assets/images/posts/chips-clubhouse/chips-animation.gif'
   />
 </div>
 
-<p class="bg"><a href="https://visitchips.com/">Check out their menu</a> online and stop by if you're in the Saint Paul area!</p>
+<p><a href="https://visitchips.com/">Check out their menu</a> online and stop by if you're in the Saint Paul area!</p>
 
 {{slide['end']}}
 

@@ -43,9 +43,9 @@ categories:
 
 {{slide['startmobile']}}
 
-<div><img class='full-height' src='{{ site.url }}/assets/images/posts/valley/valley-mobile-5.png' /></div>
+<div><img style="width: 100%" src='{{ site.url }}/assets/images/posts/valley/valley-site.gif' /></div>
 
-<p class="bg">The launch website was an opportunity to have fun with the symbol and bring it to life with color and illustration.</p>
+<p>The launch website was an opportunity to have fun with the symbol and bring it to life with color and illustration.</p>
 
 {{slide['end']}}
 

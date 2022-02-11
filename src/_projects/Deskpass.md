@@ -79,19 +79,19 @@ categories:
   <div style="
     grid-column: 1/3;
     grid-row: 1/2;
-  "><img src='{{ site.url }}/assets/images/posts/deskpass/dp-social.gif'></div>
+  "><img style="object-position: top" src='{{ site.url }}/assets/images/posts/deskpass/dp-social.gif'></div>
   <div style="
     grid-column: 1/2;
     grid-row: 2/3;
-  "><img src='{{ site.url }}/assets/images/posts/deskpass/deskpass-10.jpg'></div>
+  "><img style="object-position: top" src='{{ site.url }}/assets/images/posts/deskpass/deskpass-10.jpg'></div>
   <div style="
     grid-column: 2/3;
     grid-row: 2/3;
-  "><img src='{{ site.url }}/assets/images/posts/deskpass/deskpass-11.jpg'></div>
+  "><img style="object-position: top" src='{{ site.url }}/assets/images/posts/deskpass/deskpass-11.jpg'></div>
   <div style="
     grid-column: 1/3;
     grid-row: 3/4;
-  "><img src='{{ site.url }}/assets/images/posts/deskpass/deskpass-12.jpg'></div>
+  "><img style="object-position: top" src='{{ site.url }}/assets/images/posts/deskpass/deskpass-12.jpg'></div>
 </div>
 
 {{slide['end']}}
