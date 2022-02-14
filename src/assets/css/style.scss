@@ -29,7 +29,7 @@ button {
 
 // Start layout
 .page-content {
-  margin-top: calc(38px + 56px); // adding mobile header height
+  margin-top: 128px;
   position: relative;
 
   @include min900 {
