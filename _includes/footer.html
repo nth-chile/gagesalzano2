@@ -1,0 +1,8 @@
+<footer class="site-footer">
+  <div class="container">
+    <p class="copyright">&copy; {{ site.time | date: '%Y' }} {{ site.title | default: "Your Site" }}</p>
+    {% if site.github.repository_url %}
+      <p><a href="{{ site.github.repository_url }}">Repository</a></p>
+    {% endif %}
+  </div>
+</footer>
